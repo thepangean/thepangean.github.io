@@ -1,22 +1,22 @@
 ghost:
   username: ghost
   name: Ghost
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
-  bio: The professional publishing platform
+  url_full: http://google.com
+  url: google.com
+  bio: The strange publisher
   picture: assets/images/ghost.png
-  facebook: ghost
-  twitter: tryghost
+  facebook: False
+  twitter: False
   cover: False
 kheeran:
   username: kheeran
   name: Kheeran Naidu
   location: Bristol, UK
-  url_full: http://google.com/
-  url: google.com
+  url_full: http://github.com/kn16063/
+  url: github.com/kn16063/
   bio: A technology innovator who is currently pursuing an MEng in Mathematics and Computer Science at the University of Bristol.
   picture: assets/images/kheeran.jpg
-  facebook: False
+  facebook: kheeran.naidu
   twitter: False
   cover: assets/images/kheeran-cover.jpg
 john:
