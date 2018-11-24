@@ -8,17 +8,17 @@ ghost:
   facebook: ghost
   twitter: tryghost
   cover: False
-hannah:
-  username: hannah
-  name: Hannah Wolfe
-  location: London, UK
-  url_full: http://hannah.wf/
-  url: hannah.wf
-  bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
-  picture: assets/images/hannah.jpg
+kheeran:
+  username: kheeran
+  name: Kheeran Naidu
+  location: Bristol, UK
+  url_full: http://google.com/
+  url: google.com
+  bio: A technology innovator who is currently pursuing an MEng in Mathematics and Computer Science at the University of Bristol.
+  picture: assets/images/kheeran.jpg
   facebook: False
-  twitter: erisds
-  cover: assets/images/hannah-cover.jpg
+  twitter: False
+  cover: assets/images/kheeran-cover.jpg
 john:
   username: john
   name: John O'Nolan
