@@ -8,4 +8,4 @@ class: page-template
 subclass: 'post page'
 ---
 
-The Pangean: 
+The Pangean: Knowledge of the world is knowledge of all. 
