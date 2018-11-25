@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: https://thepangean.github.io/ #changing this from / to https://thepangean.github.io/ makes it work
 
 # Website info
 title: The Pangean
@@ -43,7 +43,7 @@ permalink: /:title
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate] #removed ", jekyll-feed"
+plugins: [jekyll-paginate, jekyll-feed] #removed ", jekyll-feed"
 feed:
   path: feed.xml
 
