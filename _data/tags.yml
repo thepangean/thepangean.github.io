@@ -10,7 +10,7 @@ policy:
   name: policy
   description: False
   cover: False
-economice:
+economics:
   name: economics
   description: False
   cover: False
@@ -30,4 +30,3 @@ conscience:
   name: conscience
   description: False
   cover: False
-
