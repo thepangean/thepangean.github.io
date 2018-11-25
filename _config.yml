@@ -76,7 +76,7 @@ production_url:  https://thepangean.github.io/
 source_url:  https://github.com/thepangean/thepangean.github.io/
 
 exclude:
-  - assets/css
+  #- assets/css
   - node_modules
   - vendor
   - .travis.yml
