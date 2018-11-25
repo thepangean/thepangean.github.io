@@ -20,7 +20,7 @@ CNAME: #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: thepangean # replace by your username
@@ -43,8 +43,7 @@ permalink: /:title
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed]
-
+plugins: [jekyll-paginate] #removed ", jekyll-feed"
 feed:
   path: feed.xml
 
@@ -70,9 +69,9 @@ safe: False
 lsi: False
 username: thepangean
 repo: thepangean.github.io
-branch: master
-relative_source: ../thepangean.github.io/
-destination: ../gh-pages/
+branch: source
+relative_source: /thepangean.github.io/
+destination: /gh-pages/
 production_url:  https://thepangean.github.io/
 source_url:  https://github.com/thepangean/thepangean.github.io/
 
