@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/logo.png
 favicon: assets/images/logo.png
-production_url: https://thepangean.com/
+production_url: https://thepangean.github.io/
 source_url: https://github.com/thepangean/thepangean.github.io/
 CNAME: #add cname for website to be created
 
@@ -72,7 +72,7 @@ repo: thepangean.github.io
 branch: master
 relative_source: /thepangean.github.io/
 destination: ../gh-pages/
-production_url:  https://thepangean.com/
+production_url:  https://thepangean.github.io/
 source_url:  https://github.com/thepangean/thepangean.github.io/
 
 exclude:
