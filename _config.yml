@@ -68,7 +68,7 @@ feed:
 safe: False
 lsi: False
 username: thepangean
-repo: thepangean.github.io/
+repo: thepangean.github.io
 branch: master
 relative_source: /thepangean.github.io/
 destination: ../master/
