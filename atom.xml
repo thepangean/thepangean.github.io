@@ -1,28 +1,38 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.name | xml_escape }} - Articles</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <title> - Articles</title>
+    <description>Taking a step back</description>
     <link>
-    {{ site.url }}</link>
-    {% for post in site.posts %}
-      {% unless post.link %}
+    </link>
+    
+      
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <title>First Post</title>
+        
+          <description>&lt;p&gt;The first post, and the first step to developing The Pangean.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 24 Nov 2018 18:37:00 +0000</pubDate>
         <link>
-        {{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        /first-post</link>
+        <guid isPermaLink="true">/first-post</guid>
       </item>
-      {% endunless %}
-    {% endfor %}
+      
+    
+      
+      <item>
+        <title>Ghost Post</title>
+        
+          <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 24 Nov 1918 18:37:00 +0000</pubDate>
+        <link>
+        /ghost-post</link>
+        <guid isPermaLink="true">/ghost-post</guid>
+      </item>
+      
+    
   </channel>
 </rss>
