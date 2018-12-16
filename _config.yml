@@ -68,9 +68,9 @@ safe: False
 lsi: False
 username: thepangean
 repo: thepangean.github.io
-branch: master
-relative_source: /thepangean.github.io/
-destination: ../
+branch: dev
+relative_source: ./
+destination: ./_site/
 production_url:  https://thepangean.github.io/
 source_url:  https://github.com/thepangean/thepangean.github.io/
 
