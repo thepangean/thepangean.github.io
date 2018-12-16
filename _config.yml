@@ -42,7 +42,6 @@ permalink: /:title
 # Tags' info in `_data/tags_info.yml`
 
 # gems and other configs
-plugins_dir: [_plugins]
 plugins: [jekyll-paginate, jekyll-feed] #removed ", jekyll-feed"
 feed:
   path: feed.xml
@@ -71,7 +70,7 @@ username: thepangean
 repo: thepangean.github.io
 branch: master
 relative_source: /thepangean.github.io/
-destination: ../master/
+destination: ../
 production_url:  https://thepangean.github.io/
 source_url:  https://github.com/thepangean/thepangean.github.io/
 
