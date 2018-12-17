@@ -22,6 +22,34 @@
     
       
       <item>
+        <title>Third Post</title>
+        
+          <description>&lt;p&gt;Limiting to 2 per page&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 16 Nov 2018 18:37:00 +0000</pubDate>
+        <link>
+        /third-post</link>
+        <guid isPermaLink="true">/third-post</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Second Post</title>
+        
+          <description>&lt;p&gt;Limiting to 2 per page&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 16 Nov 2018 18:37:00 +0000</pubDate>
+        <link>
+        /second-post</link>
+        <guid isPermaLink="true">/second-post</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Ghost Post</title>
         
           <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
