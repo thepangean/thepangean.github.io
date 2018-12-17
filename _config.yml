@@ -14,9 +14,9 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/logo.png
 favicon: assets/images/logo.png
-production_url: https://thepangean.github.io/
-source_url: https://github.com/thepangean/thepangean.github.io/
-CNAME: #add cname for website to be created
+production_url: https://thepangean.com
+source_url: https://github.com/thepangean/thepangean.com/
+CNAME: www.thepangean.com #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
@@ -31,7 +31,7 @@ disqus: False
 disqus_shortname:  # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-129414659-1 # replace with your GA tracking identifier
+google_analytics: UA-131102513-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
@@ -67,12 +67,12 @@ feed:
 safe: False
 lsi: False
 username: thepangean
-repo: thepangean.github.io
+repo: thepangean.com
 branch: dev
 relative_source: ./
 destination: ./_site/
-production_url:  https://thepangean.github.io/
-source_url:  https://github.com/thepangean/thepangean.github.io/
+production_url:  https://thepangean.com/
+source_url:  https://github.com/thepangean/thepangean.com/
 
 exclude:
   #- assets/css
