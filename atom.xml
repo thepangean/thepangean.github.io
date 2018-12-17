@@ -8,6 +8,118 @@
     
       
       <item>
+        <title>Third Post</title>
+        
+          <description>&lt;p&gt;Limiting to 2 per page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 16 Dec 2018 18:37:00 +0000</pubDate>
+        <link>
+        /third-post</link>
+        <guid isPermaLink="true">/third-post</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Third Post</title>
+        
+          <description>&lt;p&gt;Limiting to 2 per page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 16 Dec 2018 18:37:00 +0000</pubDate>
+        <link>
+        /third-post-(copy)</link>
+        <guid isPermaLink="true">/third-post-(copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Third Post</title>
+        
+          <description>&lt;p&gt;Limiting to 2 per page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 16 Dec 2018 18:37:00 +0000</pubDate>
+        <link>
+        /third-post-(another-copy)</link>
+        <guid isPermaLink="true">/third-post-(another-copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Third Post</title>
+        
+          <description>&lt;p&gt;Limiting to 2 per page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 16 Dec 2018 18:37:00 +0000</pubDate>
+        <link>
+        /third-post-(3rd-copy)</link>
+        <guid isPermaLink="true">/third-post-(3rd-copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Second Post</title>
+        
+          <description>&lt;p&gt;Limiting to 2 per page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 15 Dec 2018 14:37:00 +0000</pubDate>
+        <link>
+        /second-post</link>
+        <guid isPermaLink="true">/second-post</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Second Post</title>
+        
+          <description>&lt;p&gt;Limiting to 2 per page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 15 Dec 2018 14:37:00 +0000</pubDate>
+        <link>
+        /second-post-(copy)</link>
+        <guid isPermaLink="true">/second-post-(copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Second Post</title>
+        
+          <description>&lt;p&gt;Limiting to 2 per page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 15 Dec 2018 14:37:00 +0000</pubDate>
+        <link>
+        /second-post-(another-copy)</link>
+        <guid isPermaLink="true">/second-post-(another-copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Second Post</title>
+        
+          <description>&lt;p&gt;Limiting to 2 per page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 15 Dec 2018 14:37:00 +0000</pubDate>
+        <link>
+        /second-post-(3rd-copy)</link>
+        <guid isPermaLink="true">/second-post-(3rd-copy)</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>First Post</title>
         
           <description>&lt;p&gt;The first post, and the first step to developing The Pangean.&lt;/p&gt;
@@ -22,29 +134,155 @@
     
       
       <item>
-        <title>Third Post</title>
+        <title>First Post</title>
         
-          <description>&lt;p&gt;Limiting to 2 per page&lt;/p&gt;
+          <description>&lt;p&gt;The first post, and the first step to developing The Pangean.&lt;/p&gt;
 </description>
         
-        <pubDate>Fri, 16 Nov 2018 18:37:00 +0000</pubDate>
+        <pubDate>Sat, 24 Nov 2018 18:37:00 +0000</pubDate>
         <link>
-        /third-post</link>
-        <guid isPermaLink="true">/third-post</guid>
+        /first-post-(copy)</link>
+        <guid isPermaLink="true">/first-post-(copy)</guid>
       </item>
       
     
       
       <item>
-        <title>Second Post</title>
+        <title>First Post</title>
         
-          <description>&lt;p&gt;Limiting to 2 per page&lt;/p&gt;
+          <description>&lt;p&gt;The first post, and the first step to developing The Pangean.&lt;/p&gt;
 </description>
         
-        <pubDate>Fri, 16 Nov 2018 18:37:00 +0000</pubDate>
+        <pubDate>Sat, 24 Nov 2018 18:37:00 +0000</pubDate>
         <link>
-        /second-post</link>
-        <guid isPermaLink="true">/second-post</guid>
+        /first-post-(another-copy)</link>
+        <guid isPermaLink="true">/first-post-(another-copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>First Post</title>
+        
+          <description>&lt;p&gt;The first post, and the first step to developing The Pangean.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 24 Nov 2018 18:37:00 +0000</pubDate>
+        <link>
+        /first-post-(3rd-copy)</link>
+        <guid isPermaLink="true">/first-post-(3rd-copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ghost Third Post</title>
+        
+          <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 29 Dec 1918 18:37:00 +0000</pubDate>
+        <link>
+        /ghost-third-post</link>
+        <guid isPermaLink="true">/ghost-third-post</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ghost Third Post</title>
+        
+          <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 29 Dec 1918 18:37:00 +0000</pubDate>
+        <link>
+        /ghost-third-post-(copy)</link>
+        <guid isPermaLink="true">/ghost-third-post-(copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ghost Third Post</title>
+        
+          <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 29 Dec 1918 18:37:00 +0000</pubDate>
+        <link>
+        /ghost-third-post-(another-copy)</link>
+        <guid isPermaLink="true">/ghost-third-post-(another-copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ghost Third Post</title>
+        
+          <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 29 Dec 1918 18:37:00 +0000</pubDate>
+        <link>
+        /ghost-third-post-(3rd-copy)</link>
+        <guid isPermaLink="true">/ghost-third-post-(3rd-copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ghost Second Post</title>
+        
+          <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 29 Nov 1918 18:37:00 +0000</pubDate>
+        <link>
+        /ghost-second-post</link>
+        <guid isPermaLink="true">/ghost-second-post</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ghost Second Post</title>
+        
+          <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 29 Nov 1918 18:37:00 +0000</pubDate>
+        <link>
+        /ghost-second-post-(copy)</link>
+        <guid isPermaLink="true">/ghost-second-post-(copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ghost Second Post</title>
+        
+          <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 29 Nov 1918 18:37:00 +0000</pubDate>
+        <link>
+        /ghost-second-post-(another-copy)</link>
+        <guid isPermaLink="true">/ghost-second-post-(another-copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ghost Second Post</title>
+        
+          <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 29 Nov 1918 18:37:00 +0000</pubDate>
+        <link>
+        /ghost-second-post-(3rd-copy)</link>
+        <guid isPermaLink="true">/ghost-second-post-(3rd-copy)</guid>
       </item>
       
     
@@ -59,6 +297,48 @@
         <link>
         /ghost-post</link>
         <guid isPermaLink="true">/ghost-post</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ghost Post</title>
+        
+          <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 24 Nov 1918 18:37:00 +0000</pubDate>
+        <link>
+        /ghost-post-(copy)</link>
+        <guid isPermaLink="true">/ghost-post-(copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ghost Post</title>
+        
+          <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 24 Nov 1918 18:37:00 +0000</pubDate>
+        <link>
+        /ghost-post-(another-copy)</link>
+        <guid isPermaLink="true">/ghost-post-(another-copy)</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ghost Post</title>
+        
+          <description>&lt;p&gt;This is a strange post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 24 Nov 1918 18:37:00 +0000</pubDate>
+        <link>
+        /ghost-post-(3rd-copy)</link>
+        <guid isPermaLink="true">/ghost-post-(3rd-copy)</guid>
       </item>
       
     

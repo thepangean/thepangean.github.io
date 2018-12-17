@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/kheeran/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-12-17T00:24:52+00:00</updated>
+  <updated>2018-12-17T02:41:43+00:00</updated>
   <id>/author/kheeran/feed.xml</id>
 
   
@@ -44,12 +44,284 @@
 
   
     <entry>
+      <title type="html">Third Post</title>
+      <link href="/third-post-(3rd-copy)" rel="alternate" type="text/html" title="Third Post" />
+      <published>2018-12-16T18:37:00+00:00</published>
+      <updated>2018-12-16T18:37:00+00:00</updated>
+      <id>/third-post%20(3rd%20copy)</id>
+      <content type="html" xml:base="/third-post-(3rd-copy)">&lt;p&gt;Limiting to 2 per page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="sports" />
+      
+
+      
+        <summary type="html">Limiting to 2 per page</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Third Post</title>
+      <link href="/third-post-(another-copy)" rel="alternate" type="text/html" title="Third Post" />
+      <published>2018-12-16T18:37:00+00:00</published>
+      <updated>2018-12-16T18:37:00+00:00</updated>
+      <id>/third-post%20(another%20copy)</id>
+      <content type="html" xml:base="/third-post-(another-copy)">&lt;p&gt;Limiting to 2 per page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="sports" />
+      
+
+      
+        <summary type="html">Limiting to 2 per page</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Third Post</title>
+      <link href="/third-post-(copy)" rel="alternate" type="text/html" title="Third Post" />
+      <published>2018-12-16T18:37:00+00:00</published>
+      <updated>2018-12-16T18:37:00+00:00</updated>
+      <id>/third-post%20(copy)</id>
+      <content type="html" xml:base="/third-post-(copy)">&lt;p&gt;Limiting to 2 per page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="sports" />
+      
+
+      
+        <summary type="html">Limiting to 2 per page</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Third Post</title>
+      <link href="/third-post" rel="alternate" type="text/html" title="Third Post" />
+      <published>2018-12-16T18:37:00+00:00</published>
+      <updated>2018-12-16T18:37:00+00:00</updated>
+      <id>/third-post</id>
+      <content type="html" xml:base="/third-post">&lt;p&gt;Limiting to 2 per page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="sports" />
+      
+
+      
+        <summary type="html">Limiting to 2 per page</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Second Post</title>
+      <link href="/second-post-(3rd-copy)" rel="alternate" type="text/html" title="Second Post" />
+      <published>2018-12-15T14:37:00+00:00</published>
+      <updated>2018-12-15T14:37:00+00:00</updated>
+      <id>/second-post%20(3rd%20copy)</id>
+      <content type="html" xml:base="/second-post-(3rd-copy)">&lt;p&gt;Limiting to 2 per page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="economics" />
+      
+
+      
+        <summary type="html">Limiting to 2 per page</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Second Post</title>
+      <link href="/second-post-(another-copy)" rel="alternate" type="text/html" title="Second Post" />
+      <published>2018-12-15T14:37:00+00:00</published>
+      <updated>2018-12-15T14:37:00+00:00</updated>
+      <id>/second-post%20(another%20copy)</id>
+      <content type="html" xml:base="/second-post-(another-copy)">&lt;p&gt;Limiting to 2 per page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="economics" />
+      
+
+      
+        <summary type="html">Limiting to 2 per page</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Second Post</title>
+      <link href="/second-post-(copy)" rel="alternate" type="text/html" title="Second Post" />
+      <published>2018-12-15T14:37:00+00:00</published>
+      <updated>2018-12-15T14:37:00+00:00</updated>
+      <id>/second-post%20(copy)</id>
+      <content type="html" xml:base="/second-post-(copy)">&lt;p&gt;Limiting to 2 per page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="economics" />
+      
+
+      
+        <summary type="html">Limiting to 2 per page</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Second Post</title>
+      <link href="/second-post" rel="alternate" type="text/html" title="Second Post" />
+      <published>2018-12-15T14:37:00+00:00</published>
+      <updated>2018-12-15T14:37:00+00:00</updated>
+      <id>/second-post</id>
+      <content type="html" xml:base="/second-post">&lt;p&gt;Limiting to 2 per page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="economics" />
+      
+
+      
+        <summary type="html">Limiting to 2 per page</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">First Post</title>
-      <link href="/first-post" rel="alternate" type="text/html" title="First Post" />
+      <link href="/first-post-(3rd-copy)" rel="alternate" type="text/html" title="First Post" />
       <published>2018-11-24T18:37:00+00:00</published>
       <updated>2018-11-24T18:37:00+00:00</updated>
-      <id>/first-post</id>
-      <content type="html" xml:base="/first-post">&lt;p&gt;The first post, and the first step to developing The Pangean.&lt;/p&gt;</content>
+      <id>/first-post%20(3rd%20copy)</id>
+      <content type="html" xml:base="/first-post-(3rd-copy)">&lt;p&gt;The first post, and the first step to developing The Pangean.&lt;/p&gt;</content>
 
       
       
@@ -78,12 +350,12 @@
     </entry>
   
     <entry>
-      <title type="html">Second Post</title>
-      <link href="/second-post" rel="alternate" type="text/html" title="Second Post" />
-      <published>2018-11-16T18:37:00+00:00</published>
-      <updated>2018-11-16T18:37:00+00:00</updated>
-      <id>/second-post</id>
-      <content type="html" xml:base="/second-post">&lt;p&gt;Limiting to 2 per page&lt;/p&gt;</content>
+      <title type="html">First Post</title>
+      <link href="/first-post-(another-copy)" rel="alternate" type="text/html" title="First Post" />
+      <published>2018-11-24T18:37:00+00:00</published>
+      <updated>2018-11-24T18:37:00+00:00</updated>
+      <id>/first-post%20(another%20copy)</id>
+      <content type="html" xml:base="/first-post-(another-copy)">&lt;p&gt;The first post, and the first step to developing The Pangean.&lt;/p&gt;</content>
 
       
       
@@ -104,41 +376,7 @@
       
 
       
-        <summary type="html">Limiting to 2 per page</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Third Post</title>
-      <link href="/third-post" rel="alternate" type="text/html" title="Third Post" />
-      <published>2018-11-16T18:37:00+00:00</published>
-      <updated>2018-11-16T18:37:00+00:00</updated>
-      <id>/third-post</id>
-      <content type="html" xml:base="/third-post">&lt;p&gt;Limiting to 2 per page&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Kheeran Naidu</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="conscience" />
-      
-
-      
-        <summary type="html">Limiting to 2 per page</summary>
+        <summary type="html">The first post, and the first step to developing The Pangean.</summary>
       
 
       
