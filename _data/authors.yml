@@ -12,10 +12,11 @@ kheeran:
   username: kheeran
   name: Kheeran Naidu
   location: Bristol, UK
+  positions: Partner, Tech Developer
   url_full: http://github.com/kheeran/
   url: github.com/kheeran/
   bio: A technology innovator who is currently pursuing an MEng in Mathematics and Computer Science at the University of Bristol.
-  picture: assets/images/kheeran.jpg
+  picture: False #assets/images/kheeran.jpg
   facebook: kheeran.naidu
   twitter: False
   cover: assets/images/kheeran-cover.jpg

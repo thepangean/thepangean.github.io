@@ -142,7 +142,7 @@ into the {body} of the default.hbs template -->
                                 <h3 class="read-next-card-header-title"><a href="{{ site.baseurl }}tag/{{ primary | downcase | replace: ' ', '-' }}/">{{ primary | capitalize }}</a></h3>
                             {% endif %}
                         </header>
-                        <div class="read-next-divider">{% include infinity.html %}</div>
+                        <!-- <div class="read-next-divider">{% include infinity.html %}</div> -->
                         <div class="read-next-card-content">
                             <ul>
                                 {% assign count = 0 %}
@@ -150,7 +150,7 @@ into the {body} of the default.hbs template -->
                                   {% if post.tags contains primary %}
                                     {% if post.title != page.title %}
                                         {% assign count = count | plus: 1 %}
-                                        {% if count <= 3 %}
+                                        {% if count <= 4 %}
                                             <li><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }}</a></li>
                                         {% endif %}
                                     {% endif %}
@@ -174,6 +174,7 @@ into the {body} of the default.hbs template -->
             {% endif %}
 
             <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
+
             {% if page.next %}
                 {% include post-card-next.html %}
             {% endif %}
