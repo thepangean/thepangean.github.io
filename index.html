@@ -30,15 +30,27 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
-        <div class="post-feed">
+        <div class="post-feed" style="width:30%; float:left">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             {%  include post-card-policy.html %}
-            {%  include post-card-economics.html %}
-            {%  include post-card-sports.html %}
-            {%  include post-card-culture.html %}
-            {%  include post-card-society.html %}
-            {%  include post-card-conscience.html %}
         </div>
+        <div class="post-feed" style="width:30%; float:left">
+            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+            {%  include post-card-economics.html %}
+        </div>
+        <div class="post-feed" style="width:30%; float:left">
+            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+            {%  include post-card-sports.html %}
+        </div>
+        <div class="post-feed" style="width:30%; float:left">
+            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+            {%  include post-card-culture.html %}
+        </div>
+        <div class="post-feed" style="width:30%; float:left">
+            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+            {%  include post-card-society.html %}
+        </div>
+
 
     </div>
 </main>
