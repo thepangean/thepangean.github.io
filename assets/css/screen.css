@@ -29,7 +29,7 @@ production stylesheet in assets/built/screen.css
 @import "global.css";
 
 body {
-    background: #000000;
+    background: #ffffff;
 }
 
 .img {
@@ -110,7 +110,7 @@ body {
     padding-top: 12px;
     padding-bottom: 12px;
     color: #000;
-    background: color(var(--darkgrey) l(-5%)) no-repeat center center;
+    background: color(var(--white)) no-repeat center center;
     background-size: cover;
 }
 
