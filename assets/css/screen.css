@@ -92,7 +92,7 @@ body {
     .home-template .post-feed,
     .tag-template .post-feed,
     .author-template .post-feed {
-        margin-top: -70px;
+        margin-top: 0;
         padding-top: 0;
     }
     .home-template .site-nav {
@@ -376,7 +376,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     position: relative;
     display: flex;
     flex-wrap: wrap;
-    margin: 0 -20px;
+    margin: 0 0;
     padding: 40px 0 0 0;
 }
 
@@ -477,7 +477,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
  */
 
-@media (min-width: 795px) {
+/* @media (min-width: 795px) {
     .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) {
         flex: 1 1 100%;
         flex-direction: row;
@@ -519,13 +519,13 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 .home-template .site-header:after {
     display: none;
-}
+} */
 
 
 /* Adjust some margins for smaller screens */
 @media (max-width: 650px) {
     .post-feed {
-        padding-top: 5vw;
+        padding-top: 0;
     }
     .post-card {
         margin: 0 20px 5vw;
