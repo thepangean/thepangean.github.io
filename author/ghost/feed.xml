@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/ghost/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-12-30T02:56:07+00:00</updated>
+  <updated>2018-12-31T03:04:43+00:00</updated>
   <id>/author/ghost/feed.xml</id>
 
   
@@ -42,40 +42,6 @@
   
   
 
-  
-    <entry>
-      <title type="html">First Post</title>
-      <link href="/first-post" rel="alternate" type="text/html" title="First Post" />
-      <published>2018-11-24T18:37:00+00:00</published>
-      <updated>2018-11-24T18:37:00+00:00</updated>
-      <id>/first-post</id>
-      <content type="html" xml:base="/first-post">&lt;p&gt;The first post, and the first step to developing The Pangean.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Ghost</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="conscience" />
-      
-
-      
-        <summary type="html">The first post, and the first step to developing The Pangean.</summary>
-      
-
-      
-      
-    </entry>
   
     <entry>
       <title type="html">Ghost Third Post</title>
@@ -356,6 +322,40 @@
       <updated>1918-11-24T18:37:00+00:00</updated>
       <id>/ghost-post%20(3rd%20copy)</id>
       <content type="html" xml:base="/ghost-post-(3rd-copy)">&lt;p&gt;This is a strange post.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Ghost</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="policy" />
+      
+
+      
+        <summary type="html">This is a strange post.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Ghost Post</title>
+      <link href="/ghost-post-(another-copy)" rel="alternate" type="text/html" title="Ghost Post" />
+      <published>1918-11-24T18:37:00+00:00</published>
+      <updated>1918-11-24T18:37:00+00:00</updated>
+      <id>/ghost-post%20(another%20copy)</id>
+      <content type="html" xml:base="/ghost-post-(another-copy)">&lt;p&gt;This is a strange post.&lt;/p&gt;</content>
 
       
       
