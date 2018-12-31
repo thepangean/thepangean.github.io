@@ -391,7 +391,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     margin: 0 0;
     padding: 0 0 0 0;
     float: left;
-    width: 33%;
+    width: 100%;
 }
 
 /* raise1 raise2 secondary and tertiary are hacky ways to get the main page in the right format for browsers */

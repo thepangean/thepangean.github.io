@@ -207,6 +207,22 @@ into the {body} of the default.hbs template -->
     </div>
     <button id="submit-form" class="" type="submit" disabled><span>Subscribe</span></button>
     <!-- <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script> -->
+    <script type="text/javascript">
+      var $form = $('form#subscribe'),
+      url = 'https://script.google.com/macros/s/AKfycbyN__MQ7Ck2ZkvHS4QQEbIpZvPm-1P2gi5MnCYcauDAsw0u0WI/exec'
+
+      $('#submit-form').on('click', function(e) {
+        // e.preventDefault();
+        var jqxhr = $.ajax({
+          url: url,
+          method: "GET",
+          dataType: "json",
+          data: $form.serializeObject()
+        }).success(
+        window.location.href = "http://stackoverflow.com";
+        );
+      })
+    </script>
 </form>
 
                 </section>
@@ -559,6 +575,22 @@ into the {body} of the default.hbs template -->
     </div>
     <button id="submit-form" class="" type="submit" disabled><span>Subscribe</span></button>
     <!-- <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script> -->
+    <script type="text/javascript">
+      var $form = $('form#subscribe'),
+      url = 'https://script.google.com/macros/s/AKfycbyN__MQ7Ck2ZkvHS4QQEbIpZvPm-1P2gi5MnCYcauDAsw0u0WI/exec'
+
+      $('#submit-form').on('click', function(e) {
+        // e.preventDefault();
+        var jqxhr = $.ajax({
+          url: url,
+          method: "GET",
+          dataType: "json",
+          data: $form.serializeObject()
+        }).success(
+        window.location.href = "http://stackoverflow.com";
+        );
+      })
+    </script>
 </form>
 
             </div>
