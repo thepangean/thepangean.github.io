@@ -96,7 +96,7 @@ body {
     }
     .home-template .site-nav {
         position: relative;
-        top: -70px;
+        top: 0;
     }
 }
 
@@ -353,7 +353,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     fill: #000;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 400px) {
     .site-header {
         padding-right: 0;
         padding-left: 0;
@@ -365,6 +365,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     .site-nav-right {
         display: none;
     }
+
+
 }
 
 
@@ -576,6 +578,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 @media (max-width: 650px) {
     .post-feed {
         padding-top: 0;
+        padding-bottom: 40px;
         width: 100%;
     }
     .post-card {
@@ -752,10 +755,10 @@ The first (most recent) post in the list is styled to be bigger than the others 
     margin: 0;
 }
 
-.post-template .kg-card-markdown > p:first-child {
+/* .post-template .kg-card-markdown > p:first-child {
     font-size: 1.25em;
     line-height: 1.5em;
-}
+} */
 
 .post-full-content a {
     color: #000;
@@ -1681,6 +1684,9 @@ Usage (In Ghost editor):
         line-height: 1.15em;
         letter-spacing: 0;
     }
+}
+
+@media (max-width: 350px) {
     .author-location,
     .author-stats {
         display: none;
