@@ -384,7 +384,6 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 /* raise1 raise2 secondary and tertiary are hacky ways to get the main page in the right format for browsers */
 
 .title {
-  position:relative;
   text-decoration: underline;
   padding-left: 30px;
 }
@@ -398,11 +397,13 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     top: -104px;
   }
   .secondary {
+    position: relative;
     padding-left: 33vw;
     top: -52px;
   }
 
   .tertiary {
+    position: relative;
     padding-left: 63vw;
     top: -104px;
   }
