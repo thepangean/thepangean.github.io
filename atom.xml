@@ -8,6 +8,31 @@
     
       
       <item>
+        <title>Test</title>
+        
+          <description>&lt;hr /&gt;
+
+&lt;h2 id=&quot;layout-postcurrent-postcover-assetsimagessky.jpgnavigation-truetitle-i-have-a-dreamdate-1963-08-28-101800tags-societyclass-post-templatesubclass-post-tag-speechesauthor-martin&quot;&gt;layout: post&lt;br /&gt;
+current: post&lt;br /&gt;
+cover: assets/images/sky.jpg&lt;br /&gt;
+navigation: True&lt;br /&gt;
+title: I Have a Dream&lt;br /&gt;
+date: 1963-08-28 10:18:00&lt;br /&gt;
+tags: society&lt;br /&gt;
+class: post-template&lt;br /&gt;
+subclass: ‘post tag-speeches’&lt;br /&gt;
+author: martin&lt;/h2&gt;
+</description>
+        
+        <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+        <link>
+        /test</link>
+        <guid isPermaLink="true">/test</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>A Full and Comprehensive Style Test</title>
         
           <description>&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
