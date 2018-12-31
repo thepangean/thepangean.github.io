@@ -23,7 +23,7 @@ logo: 'assets/images/logo.png'
                 {% if tag_description %}
                     {{ tag_description }}
                 {% elsif page.tag %}
-    			    A collection of {{ paginator.total_posts }} articles
+    			    <!-- A collection of {{ paginator.total_posts }} articles -->
                 {% endif %}
             </h2>
         </div>
@@ -34,7 +34,7 @@ logo: 'assets/images/logo.png'
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
-        <div class="post-feed">
+        <div class="post-feed" style="width:100%">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             {%  include post-card.html %}
         </div>

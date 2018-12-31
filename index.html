@@ -22,36 +22,56 @@ into the {body} of the default.hbs template -->
             </h1>
             <!-- <h2 class="site-description">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2> -->
         </div>
+        {% include site-nav.html %}
     </div>
 </header>
 
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
-      <nav class="site-nav">
-          <div class="site-nav-right">
-              <div class="social-links">
-                  {% if site.facebook %}
-                      <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>
-                  {% endif %}
-                  {% if site.twitter %}
-                      <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
-                  {% endif %}
-              </div>
-              {% if site.subscribers %}
-                  <a class="subscribe-button" href="#subscribe">Subscribe</a>
-              {% endif %}
-          </div>
-      </nav>
-      <section class="post-full-header">
-          <h1> COMING SOON </h1>
-      </section>
 
+      <div class="title" >
+        <h2>Policy</h2>
+      </div>
+
+      <div class="post-feed" >
+          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+          {%  include post-card-policy.html %}
+      </div>
+
+      <div class="title secondary">
+        <h2>Economics</h2>
+      </div>
+
+      <div class="post-feed raise1" >
+          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+          {%  include post-card-economics.html %}
+      </div>
+
+      <div class="title tertiary" >
+        <h2>Sports</h2>
+      </div>
+
+      <div class="post-feed raise2" >
+          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+          {%  include post-card-sports.html %}
+      </div>
+      <div class="title" >
+        <h2>Culture</h2>
+      </div>
+      <div class="post-feed" >
+          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+          {%  include post-card-culture.html %}
+      </div>
+
+      <div class="title secondary" >
+        <h2>Society</h2>
+      </div>
+
+      <div class="post-feed raise1" >
+          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+          {%  include post-card-society.html %}
+      </div>
 
     </div>
-    <script>
-      jQuery(function(){
-        jQuery('#subscribe').click();
-      });
-</script>
 </main>

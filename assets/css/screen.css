@@ -93,7 +93,6 @@ body {
     .tag-template .post-feed,
     .author-template .post-feed {
         margin-top: 0;
-        padding-top: 0;
     }
     .home-template .site-nav {
         position: relative;
@@ -136,7 +135,7 @@ body {
     z-index: 10;
     display: block;
     height: 80px;
-    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0));
+    background: var(--white)/* linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0)); */
 }
 
 .site-header.no-cover:before,
@@ -377,7 +376,57 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     display: flex;
     flex-wrap: wrap;
     margin: 0 0;
-    padding: 40px 0 0 0;
+    padding: 0 0 0 0;
+    float: left;
+    width: 33%;
+}
+
+/* raise1 raise2 secondary and tertiary are hacky ways to get the main page in the right format for browsers */
+
+.title {
+  position:relative;
+  text-decoration: underline;
+  padding-left: 30px;
+}
+
+@media (min-width: 650px) {
+  .raise1 {
+    top: -52px;
+  }
+
+  .raise2 {
+    top: -104px;
+  }
+  .secondary {
+    padding-left: 33vw;
+    top: -52px;
+  }
+
+  .tertiary {
+    padding-left: 63vw;
+    top: -104px;
+  }
+
+}
+
+@media (min-width: 1140px) {
+  .raise1 {
+    top: -52px;
+  }
+
+  .raise2 {
+    top: -104px;
+  }
+  .secondary {
+    padding-left: 375px;
+    top: -52px;
+  }
+
+  .tertiary {
+    padding-left: 715px;
+    top: -104px;
+  }
+
 }
 
 .post-card {
@@ -526,9 +575,13 @@ The first (most recent) post in the list is styled to be bigger than the others 
 @media (max-width: 650px) {
     .post-feed {
         padding-top: 0;
+        width: 100%;
     }
     .post-card {
         margin: 0 20px 5vw;
+    }
+    .title {
+      padding-left: 30px;
     }
 }
 
@@ -540,7 +593,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .post-template .site-main,
 .page-template .site-main {
     padding-bottom: 4vw;
-    background: #fff;
+    background: var(--white);
 }
 
 .post-full {
