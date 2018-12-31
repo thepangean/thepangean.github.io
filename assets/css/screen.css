@@ -353,7 +353,19 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     fill: #000;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
+  .home-template .site-nav-right {
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      height: 40px;
+  }
+  .home-template .subscribe-button {
+    display:none;
+  }
+}
+
+@media (max-width: 500px) {
     .site-header {
         padding-right: 0;
         padding-left: 0;
@@ -365,7 +377,6 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     .site-nav-right {
         display: none;
     }
-
 
 }
 
