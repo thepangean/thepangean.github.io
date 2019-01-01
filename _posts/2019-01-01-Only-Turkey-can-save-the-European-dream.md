@@ -13,9 +13,10 @@ class: post-template
 
 title: Only Turkey can save the European dream, but not in the way you think.
 author: reuben
-cover: assets/images/
+cover: assets/images/34243609056_d04c5b1742_k.jpg
 tags: policy
 date: 2019-01-01
+link: https://www.flickr.com/photos/pedrosz/34243609056
 
 # Note: The name of the file must be the date and (preferably) the title in the following format YYYY-MM-DD-title.md (don't worry if you can't set the file extension)
 
