@@ -4,12 +4,6 @@
 The Pangean is a newspaper that seeks to herald a revolution in media. It has no ideological persuasion in the articles it puts forth, welcoming diverse opinions on all kinds of subjects. The aim of The Pangean is to take a step back from all of the noise of the current social, cultural and political discourse and to examine real issues in a calm, balanced and nuanced way. The Pangean is a life affirming organisation that always seeks to infuse in the lives of our readers’ a sense of wisdom and happiness.
 
 ------
-## Issues and Contributing
-
-This install builds well with Ruby v2.5.1 and Jekyll v3.7.4. If you run into any problems
-please log them on the [issue tracker](https://github.com/jekyller/jasper2/issues).
-
-Feel free pull-request your patches and fixes.
 
 ## Thanks
 
