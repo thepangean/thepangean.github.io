@@ -1,27 +1,15 @@
-<<<<<<< HEAD
 ---
-=======
->>>>>>> 233c3e1e0deedd9c5304f88f74166572e7837b56
 layout: post
 current: post
 cover: assets/images/Malik_amber_ahmadnager_hi.jpg
 navigation: True
-<<<<<<< HEAD
-
 title: "Siddis: The Black Rulers of India"
-=======
-title: Siddis: The Black Rulers of India
->>>>>>> 233c3e1e0deedd9c5304f88f74166572e7837b56
 date: 2019-01-01
 tags: culture
 class: post-template
 subclass: 'post tag-speeches'
-<<<<<<< HEAD
 author: namya
 link: https://upload.wikimedia.org/wikipedia/commons/a/a9/Malik_amber_ahmadnager_hi.jpg
-=======
-author: namya tewari
->>>>>>> 233c3e1e0deedd9c5304f88f74166572e7837b56
 ---
 Deep in the annals of Indian history, there lies a long-forgotten tale of daring heroes, who, although foreign to the land, quickly got assimilated into her blood and added to her magnificence. This is the story of the first African rulers of India, the Siddis. India has long been acting as a magnet, drawing to her shores communities from lands afar which have flourished and prospered in her. Amongst these communities were the Africans who although arrived as slaves, still emerged as the mightiest of rulers.
 
@@ -36,10 +24,3 @@ It was around 1571 that Ambar arrived at the Deccan where he served under a new 
 Donning Indian clothes and speaking the language of the land, the Siddis over time have coalesced into the culture and tradition of the subcontinent. However, contrary to the honour and fame attained as a part of history, the Siddis of present-day India remain a secluded community. Maintaining their distance from the mainstream culture and society, they live in tiny clusters scattered around the states of Karnataka, Maharashtra, and Gujarat. Having been reduced to mere outsiders in a country of their own, the Siddis have to continuously battle against the evils of racism and poverty. The only positive step taken by the government towards their upliftment was the establishment of the Special Area Games Project, in the hope of nurturing the raw talent for athletics which runs in their blood. This initiative, however, could not sustain for long and the dream of having Indo-African athletes run for the country in the Olympics was lost. Sports being the only way out of their deplorable condition, the Siddi community now dwells in the hope of the revival of SAG project and creation of many such opportunities
 
 With xenophobia and racial attacks on the rise all over the country, there is a dire need to spread greater awareness about this community. The government, especially, needs to shoulder some responsibility and formulate comprehensive policies to harness the enormous potential lying in the Siddi community. This can come in the form of better employment, education, and opportunities in sports, and most importantly, acceptance from the rest of the countrymen. The time has come for us to uproot this deep-seated feeling of prejudice against the Indo-African community and truly embrace them to the core in an attempt to learn from the glorious past and shape a bright future based on mutual recognition and brotherhood.
-<<<<<<< HEAD
-=======
-
--Namya Tewari
-
-*The Pangean does not condemn or condone any of the views of its contributors. It only gives them the space to think and write without hindrance*
->>>>>>> 233c3e1e0deedd9c5304f88f74166572e7837b56
