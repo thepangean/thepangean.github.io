@@ -31,9 +31,9 @@ into the {body} of the default.hbs template -->
                         <span class="date-divider">/</span>
                         {% for tag in page.tags %}
                             {% if forloop.index == page.tags.size %}
-                               <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>
+                               &nbsp <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>
                             {% else %}
-                               <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>,
+                               &nbsp <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }} </a>,
                             {% endif %}
                         {% endfor %}
                     {% endif %}
@@ -85,8 +85,13 @@ into the {body} of the default.hbs template -->
                     {% endif %}
                 {% endfor %}
                 <!-- /author  -->
-            </footer>
 
+            </footer>
+            <footer class="post-full-footer">
+              <div class="post-footnote">
+                The Pangean does not condemn or condone any of the views of its contributors. It only gives them the space to think and write without hindrance.
+              </div>
+            </footer>
             <!-- If you use Disqus comments, just uncomment this block.
             The only thing you need to change is "test-apkdzgmqhj" - which
             should be replaced with your own Disqus site-id. -->

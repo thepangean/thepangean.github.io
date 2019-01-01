@@ -20,14 +20,14 @@ kheeran:
   facebook: kheeran.naidu
   twitter: False
   cover: assets/images/kheeran-cover.jpg
-john:
-  username: john
-  name: John O'Nolan
-  location: On a plane
-  url_full: http://john.onolan.org/
-  url: john.onolan.org
-  bio: Founder at Ghost.org. Writes about open source, startup life, non-profits, and publishing platforms. Travels the world with a bag of kites.
-  picture: assets/images/john.jpg
+soham:
+  username: soham
+  name: Soham Gupta
+  location:
+  url_full:
+  url:
+  bio:
+  picture:
   facebook: False
   twitter: False
   cover: False

@@ -11,11 +11,11 @@ class: post-template
 # - tags (the tags are: policy, economics, sports, culture, society & conscience (NO CAPS))
 # - date (YYYY-MM-DD).
 
-title: A House Divided: The Secret Civil War of the Catholic Church
+title: "A House Divided: The Secret Civil War of the Catholic Church"
 author: soham
-cover: assets/images/Interior_of_St_Andrew's_Catholic_Church_in_Roanoke_Virginia.jpg
-tags: culture, society
-date: 2019-01-01 
+cover: assets/images/Interior-of-St-Andrews-Catholic-Church-in-Roanoke-Virginia.jpg
+tags: culture society policy
+date: 2019-01-01
 
 # Note: The name of the file must be the date and (preferably) the title in the following format YYYY-MM-DD-title.md (don't worry if you can't set the file extension)
 
@@ -48,10 +48,10 @@ This is not just a regional crisis. This is a battle for the very heart of the C
 As a conservative Christian with deep sympathy for the Catholic Church’s mission and an appreciation of the richness of her theological heritage, I propose a three-point programme to deal with this crisis once and for all.
 
 -   Initiate a Church-wide search-and-destroy operation – better still, if this is handled by outside non-ecclesiastical bodies. Defrock priests found guilty of sexual abuse and hand them over to the secular authorities.
-    
+
 -   Allow, for the time being, married men to become priests, in accordance with the historical precedents of the Byzantine and other Oriental traditions.
-    
+
 -   Renovate the formation process in theological seminaries – restore traditional practices abandoned since Vatican II and work to foster ascetic rigour among candidates for the priesthood.
-    
+
 
 If these three points are successfully implemented, we may find ourselves with a smaller Catholic Church. But this will not be a loss. It will be a victory, and the Church will finally have a chance to reclaim her former glory in the modern world.
