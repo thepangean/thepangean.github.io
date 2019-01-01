@@ -31,14 +31,14 @@ soham:
   facebook: False
   twitter: False
   cover: False
-lewis:
-  username: lewis
-  name: Lewis Carroll
-  location: Cheshire, England
+reuben:
+  username: reuben
+  name: Reuben Pritchard
+  location:
   url_full: False
   url: False
-  bio: My real name is Charles Lutwidge Dodgson, but people call me Lewis. I'm an English writer, mathematician, logician, Anglican deacon and photographer. People know me best for writing about Alice.
-  picture: assets/images/lewis.jpeg
+  bio:
+  picture:
   facebook: False
   twitter: False
   cover: False
