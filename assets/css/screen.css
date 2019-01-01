@@ -661,12 +661,12 @@ The first (most recent) post in the list is styled to be bigger than the others 
     border-radius: 5px;
 }
 
-/* .post-footnote {
+.post-footnote {
   font-style: italic;
   font-size: 1.6rem;
   line-height: 1.8rem;
 
-} */
+}
 
 @media (max-width: 1170px) {
     .post-full-image {
