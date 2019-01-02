@@ -4,16 +4,16 @@ current: post
 navigation: True
 class: post-template
 
-title: "Market and Politics : The New Separation"
+title: "Market and Politics: The New Separation"
 author: reema
 cover: assets/images/Mall_culture_jakarta36.jpg
 tags: economics
-date: 2019-01-01 
+date: 2019-01-01
 link: https://upload.wikimedia.org/wikipedia/commons/9/9b/Mall_culture_jakarta36.jpg
 ---
 The system of production established in the 1920’s, Fordism, entailed mass standardization of goods for societies that were increasingly headed towards urbanization. The demand was for consumer durables that were cheap and reliable, such as televisions and refrigerators. The market, therefore, was run by a few oligopolistic firms and consumers were used to waiting for a long time before getting the goods they had ordered. This period involved the initiation of assembly lines in production. Factories employed unskilled workers who were regarded as a cog in the machine within the capitalist mode of production.
 
-  
+
 
 By the time the 70’s rolled around, many workers in industrialized economies refused to subject themselves to alienation under the Taylorist factory regime, demanding shorter working hours and a higher pay. Another setback to capitalist accumulation was posed by the changing products market. In the West, basic needs had largely been covered by this time and the market for standardized consumer durables was undergoing a secular saturation. What resulted was a restructuring of the production process, and the product lines. Capital responded by re-engineering its products and making them less standardized.
 
