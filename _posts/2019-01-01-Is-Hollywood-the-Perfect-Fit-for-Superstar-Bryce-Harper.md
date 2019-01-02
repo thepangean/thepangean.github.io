@@ -15,7 +15,7 @@ The end of baseball season is the time when all diehard fans settle on watching 
 
 The offseason is when general managers, scouts, and other team personnel come together to talk about the future of their organization. Trades and new contracts are the most important part of the offseason for a general manager. And with every MLB team having one or more superstars, it has been a wild offseason for trading.
 
-The biggest buzz that has been circling around MLB is where Bryce Harper is going to be gearing up to start the 2019 season. As one of the star names in professional baseball, and arguably the biggest free agent this offseason, everyone is hoping that their general manager is keeping an eye out for the 26-year-old phenom.
+The biggest buzz that has been circling around MLB is where Bryce Harper is going to be cleating up to start the 2019 season. As one of the star names in professional baseball, and arguably the biggest free agent this offseason, everyone is hoping that their general manager is keeping an eye out for the 26-year-old phenom.
 
 <b>Can the Dodgers make the best case for Harper?</b>
 

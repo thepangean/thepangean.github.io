@@ -42,7 +42,7 @@ into the {body} of the default.hbs template -->
             </header>
 
             {% if page.cover %}
-            <a href="{{page.link}}"><figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
+            <a href="{{page.link}}" rel="noopener noreferrer" target="_blank"><figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
             </figure></a>
             {% endif %}
 

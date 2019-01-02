@@ -1,77 +1,188 @@
-ghost:
-  username: ghost
-  name: Ghost
-  url_full: http://google.com
-  url: google.com
-  bio: The strange publisher
-  picture: assets/images/ghost.png
+euan.decourt:
+  username: euan.decourt
+  name: Euan Decourt
+  location: Paris, France
+  positions: Partner, Communications
+  bio: A Modern Languages (3LP) student at the University of Bristol currently wandering the European continent in search of a calling. A proud Welshman despite being born in England and having a French father.
+  picture: assets/images/euan.jpg
   facebook: False
-  twitter: False
-  cover: False
-kheeran:
-  username: kheeran
+  twitter: EuanDecourt
+  cover: assets/images/euan-cover.jpg
+
+kheeran.naidu:
+  username: kheeran.naidu
   name: Kheeran Naidu
   location: Bristol, UK
   positions: Partner, Tech Developer
   url_full: http://github.com/kheeran/
   url: github.com/kheeran/
   bio: A technology innovator who is currently pursuing an MEng in Mathematics and Computer Science at the University of Bristol.
-  picture: False #assets/images/kheeran.jpg
+  picture: assets/images/kheeran.jpg
   facebook: kheeran.naidu
   twitter: False
   cover: assets/images/kheeran-cover.jpg
-soham:
-  username: soham
-  name: Soham Gupta
-  location:
-  url_full:
-  url:
+
+tushar.singh:
+  username: tushar.singh
+  name: Tushar Singh
+  location: Delhi, India
+  positions: Partner, Editor
   bio:
-  picture:
+  picture: assets/images/male.png
+  facebook: False
+  twitter: dtusharsingh
+  cover: assets/images/tushar-cover.jpg
+
+harsh.tiwari:
+  username: harsh.tiwari
+  name: Harsh Tiwari
+  location: Kolkata, India
+  positions: Partner, Chief Editor
+  bio: I am not just humble, I am humility.
+  picture: assets/images/male.png
   facebook: False
   twitter: False
-  cover: False
-reuben:
-  username: reuben
-  name: Reuben Pritchard
-  location:
-  url_full: False
-  url: False
-  bio:
-  picture:
+  cover: assets/images/harsh-cover.jpg
+
+aric.kirsten:
+  username: aric.kirsten
+  name: Aric Kirsten
+  location: Tucson, Arizona
+  positions: Editor
+  bio: Currently a senior at The University of Arizona, studying sports management with a minor in computer science. Sports are my pride and joy, especially basketball and football!
+  picture: assets/images/aric.jpg
+  facebook: aric.kirsten
+  twitter: Arickrw3
+  cover: assets/images/aric-cover.jpg
+
+aryaman.tewari:
+  username: aryaman.tewari
+  name: Aryaman Tewari
+  location: New Delhi, India
+  positions: Editor
+  bio: You'll usually find me either over at the local ground, or at the chess club. Currently, I'm trying to make the most of life in Delhi University. Coming to other interests, it'd be gothic music, Ruskin Bond and reading about the African Lion.
+  picture: assets/images/aryaman.jpg
   facebook: False
   twitter: False
-  cover: False
-abraham:
-  username: abraham
-  name: Abraham Lincoln
-  location: Kentucky, USA
-  url_full: False
-  url: False
-  bio: I was the 16th president of the USA until I was assassinated in April of 1865. I led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
-  picture: assets/images/abraham.jpg
+  cover: assets/images/aryaman-cover.jpg
+
+atreyi.bhaumik:
+  username: atreyi.bhaumik
+  name: Atreyi Bhaumik
+  location: Delhi, India
+  positions: Contributor
+  bio: I am a student in Delhi University, pursuing bachelors in Economics. I also have a keen interest in Policy and probably will explore that field in the future.
+  picture: assets/images/atreyi.jpg
+  facebook: atreyi.bhaumik
+  twitter: False
+  cover: assets/images/atreyi-cover.jpg
+
+morgan.black:
+  username: morgan.black
+  name: Morgan Black
+  location: Bristol, UK
+  positions: Contributor
+  bio: Singer, musician and comparative mythologist essentially interested in modernising European Pagan religions and cultures to provide a sense of true identity for future generations.
+  picture: assets/images/morgan.jpg
   facebook: False
   twitter: False
-  cover: False
-edgar:
-  username: edgar
-  name: Edgar Rice Burroughs
-  location: Chicago, Illinois
-  url_full: False
-  url: False
-  bio: I'm an American novelist, best known for my work writing about a brave jungle hero called Tarzan and his muse, Jane.
-  picture: assets/images/edgar.gif
+  cover: assets/images/morgan-cover.jpg
+
+harshita.jain:
+  username: harshita.jain
+  name: Harshita Jain
+  location: Delhi, India
+  positions: Contributor
+  bio: Second year Psychology student from Delhi University, with a keen interest in reading anything from Archer to Rumi. Speaks in analogies, more often than not. Writes poetry and paints, when not testing people's attributes. Believes in Occam's Razor.
+  picture: assets/images/harshita.jpg
+  facebook: harshita.jain.9803
+  twitter: False
+  cover: assets/images/harshita-cover.jpg
+
+jacob.jones:
+  username: jacob.jones
+  name: Jacob Jones
+  location: Tucson, Arizona
+  positions: Contributor
+  bio: I’m from Sacramento, California. I currently attend the University of Arizona as a History major. I’m a diehard fan of the Philadelphia Eagles, New York Yankees, and Sacramento Kings.
+  picture: assets/images/jacob.jpg
   facebook: False
   twitter: False
-  cover: False
-martin:
-  username: martin
-  name: Martin Luther King
-  location: Memphis, Tennessee
-  url_full: False
-  url: False
-  bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
-  picture: assets/images/martin.jpg
+  cover: assets/images/jacob-cover.jpg
+
+manya.manushi:
+  username: manya.manushi
+  name: Manya Manushi
+  location: Delhi, India
+  positions: Contributor
+  bio: Possessing unbridled enthusiasm to work tirelessly, Manya Manushi knows how to do the task assigned to her with an ever-smiling face. Always ecstatic, she believes that life is a continuous process of learning, exploring and growing.
+  picture: assets/images/manya.jpg
+  facebook: manya.manushi
+  twitter: ManushiManya
+  cover: assets/images/manya-cover.jpg
+
+tyler.pesavento:
+  username: tyler.pesavento
+  name: Tyler Pesavento
+  location: San Jose, California
+  positions: Contributor
+  bio: Currently studying broadcast journalism at the University of Arizona. Coming from the Bay Area, I have had an interest in all major American sports.
+  picture: assets/images/tyler.jpg
+  facebook: tylerpesavento
+  twitter: False
+  cover: assets/images/tyler-cover.jpg
+
+abhishek.sancheti:
+  username: abhishek.sancheti
+  name: Abhishek Sancheti
+  location: New Delhi, India
+  positions: Contributor
+  bio: Young, Dumb and Curious. Currently pursuing B.A. (Hons) Economics from SRCC, Delhi University, he is fascinated by the subject matter of Economics. He wishes to be married to his first love, Economics by being an economist for the government.
+  picture: assets/images/abhishek.jpg
+  facebook: False
+  twitter: AbhishekSanche7
+  cover: assets/images/abhishek-cover.jpg
+
+sagnik.sarkar:
+  username: sagnik.sarkar
+  name: Sagnik Sarkar
+  location: Kolkata, India
+  positions: Contributor
+  bio: A law student who believes that every problem can be solved. Will and skill are necessary preconditions.
+  picture: assets/images/sagnik.jpg
   facebook: False
   twitter: False
-  cover: False
+  cover: assets/images/sagnik-cover.jpg
+
+reema.singh:
+  username: reema.singh
+  name: Reema Singh
+  location: New Delhi, India
+  positions: Contributor
+  bio: A student of Economics at the University of Delhi, Reema finds her interest scattered between data science, microfinance, world history and politics. She finds her inspiration from the writings of Oscar Wilde and V. S. Naipaul.
+  picture: assets/images/reema.jpg
+  facebook: reemasingh13
+  twitter: False
+  cover: assets/images/reema-cover.jpg
+
+sam.tanberg:
+  username: sam.tanberg
+  name: Sam Tanberg
+  location: Tuscon, Arizona
+  positions: Contributor
+  bio: University of Arizona student from Northern California. Big baseball fan (Go Red Sox), love basketball and football as well.
+  picture: assets/images/sam.png
+  facebook: samtanberg16
+  twitter: False
+  cover: assets/images/sam-cover.jpg
+
+namya.tewari:
+  username: sam.tanberg
+  name: Namya Tewari
+  location: Greater Noida, India
+  positions: Contributor
+  bio: Hi! I'm a student of philosophy who loves reading nerdy stuff and hoarding books. I'm greatly inspired by the works of Kahlil Gibran and aspire to write like him one day. And did I forget to mention, I daydream about the impossible. Yes that's it!
+  picture: assets/images/namya.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/namya-cover.jpg

@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/TheGreatestShowman.jpg
 navigation: True
-title: A CYNICAL CIRCUS
+title: A Cynical Circus
 date: 2019-01-01
 tags: culture
 class: post-template
@@ -11,33 +11,18 @@ subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/3/30/The_Greatest_Showman_Japan_Premiere_Red_Carpet-_Hugh_Jackman_%2838435517950%29.jpg
 author: olly
 ---
-Greatest Showman Betrays Barnum’s Legacy
-
-
-![](https://docs.google.com/drawings/d/shqcqhZ-9DEDmNJZFGvkciw/image?w=16&h=16&rev=1&ac=1&parent=17sbB2F5uscQZo-orD3DSrJRXT44iTAwQHbAGW20kPaQ)![](https://docs.google.com/drawings/d/snY0-kFBwcnBuAAId8v2sWw/image?w=16&h=16&rev=1&ac=1&parent=17sbB2F5uscQZo-orD3DSrJRXT44iTAwQHbAGW20kPaQ)![](https://docs.google.com/drawings/d/s27x1cl1m8D_Li6OEhfd8JQ/image?w=16&h=16&rev=1&ac=1&parent=17sbB2F5uscQZo-orD3DSrJRXT44iTAwQHbAGW20kPaQ)![](https://docs.google.com/drawings/d/sO2vh5nBmvqujR2aO7Fq96Q/image?w=16&h=16&rev=1&ac=1&parent=17sbB2F5uscQZo-orD3DSrJRXT44iTAwQHbAGW20kPaQ)![](https://docs.google.com/drawings/d/s0ZzbAKPDLkxFUJIegxX10A/image?w=16&h=16&rev=1&ac=1&parent=17sbB2F5uscQZo-orD3DSrJRXT44iTAwQHbAGW20kPaQ)  
+<em>Greatest Showman Betrays Barnum’s Legacy</em>
 
 *The Greatest Showman* has swept across the cinematic landscape, garnering praise from almost every audience-member (young and old), whilst being generally panned by any critic going. Most were swift to point blame at the score, whose music, I agree, is largely an unchanging series of generic music-theatre-lite pop songs punctuated by a couple of ballads to swell the emotions, all backed by RnB-style beats to make it seem accessible for all.
 
-
-
 Yet, while I don’t actually have too many issues with the score outside of its genericness (there are even a few that really caught my attention!), the idea of being ‘accessible for all’ pervades this show in an extremely insidious manner. It’s almost as if the composers Benj Pasek and Justin Paul (*James and the Giant Peach, Dear Evan Hansen*) embraced the idea of making this score so generic to better reel in their paying audience—and there’s the rub with the entire film.
-
-
 
 Right from the end of the opening song (“The Greatest Show” – one of the few that stands out as being genuinely individual as it introduces Barnum’s Circus in an eye- and ear-catching festival of light and sound), we are introduced to characters whose every purpose is to force the audience to either pity or love them – usually both. The boy, Barnum’s younger self, suffers abuse from all sides – his father shoves him about; his father’s rich client, unfortunately the father of the girl, Charity, slaps the lad out of hand. Charity and Barnum are ultimately left to explore their young love in secret in the most frustratingly clichéd and tedious songs of the film (“A Million Dreams”), wherein the pair grow up apart, writing letters as she (as per) goes off to finishing-school and he grows up on the streets, an American Oliver, eventually becoming respectable… somehow? The teenaged Barnum over-hears someone calling for people to work on the railway, and then suddenly we see middle-aged Hugh Jackman asking for Charity’s hand – and, shock-horror, the father is not pleased. But off they go anyway, declaring that “however big, however small / let me be a part of it all.” Adorable.
 
-
-
 And so are their children, who are just too perfect: one ballet-dances and the other plays with her dollhouse – both agonisingly cute, setting off a quiet, childlike reprise of “A Million Dreams”. So, in a sequence that ought to be about family struggling against poverty, we miss every chance offered to have some angst over their inability to live the life Barnum wants to give them – which ought to be the driving factor for him to found the Circus in the first place! Instead, the writers, Jenny Bicks and Bill Condon (*Men in Trees, Chicago*), allow the family to get by on being cute and seemingly glitter their way through poverty. Compared to *Oliver!*, or *Fiddler* or *In The Heights*, the struggle against poverty that ought to be central to the film is entirely lacking.
-
-
 
 What is worse, though, than the manipulation of the audience with cute children and a sob-story past, is the exploitation of the characters in Barnum’s Circus; not by Barnum himself, but by the writers. Barnum himself was fairly charitable towards his ‘freaks’, practicing ‘profitable philanthropy’ – making both himself and their-selves richer by dint of the public’s fascination with them. But every character we see in his Circus is not real. They are all, without fault, amalgams of several historical persons, simplified and made to seem less exploited by Barnum and more empowered. Charles, the dwarf, one of the few allowed to keep his own name, was not in his twenties when he joined Barnum. He was four – and within a year he was drinking and smoking to entertain the audience. Insidiously, the producers are making money by exploiting not just the ‘freaks’, but the age of #MeToo and of #blacklivesmatter, following the current trend of films that provide empowerment, without truly empowering the audience itself. They are mining the feel-good factor itself in a very obvious and distasteful manner through the generic score and through the freedom and empowerment that Barnum appears to offer his ‘freaks’ (even that term is taken and made empowering) And that is to say nothing of the ‘White Man’s Burden’ that goes unaddressed in this film; Hugh Jackman empowering all these people by showing them how they can make money off of other people’s macabre fascination with them? It struck me as a great white elephant in the room.
 
-
-
 Now we come to my pet-hate from this film? Oh, Ms Bicks, what did you do to Jenny Lind? You’ve destroyed her defining feature: her voice. In terms of singing, the Swedish Nightingale is reduced to a pop-music mezzo rather than a sparkling operatic soprano. Accent-wise, she is bizarrely British. And narratively? They construct an affair between Lind and Barnum to try and provoke some familial angst at a point in the story where there is already enough circus-based angst, and where we could have had some real familial angst as Barnum historically fell into debt again after Lind’s tour.
-
-
 
 That all being said, there are positives: the performances are stellar. Hugh Jackman is masterful as Barnum. Zac Efron rises above a poorly-constructed amalgam role designed to give some class-tension, and is an excellent foil to Jackman. Paul Sparks as Bennett, the nasty newspaper critic, oddly provides a final moral to the piece that doesn’t feel false. Similarly, the choreography is amazing: “The Other Side” duet is mesmeric in its staging. The dancing in general is fantastic, especially during the Circus performances and in “A Million Dreams”. And the cinematography is broadly very good – a misstep with a CGI elephant notwithstanding. The use of colour I find particularly notable to separate the circus from the outside world, reminding one of Baz Luhrmann’s *Moulin Rouge* in its carnival pomp. Ultimately, however, *The Greatest Showman* is simply a well-made spectacle that looks good but feels terribly, terribly wrong.
