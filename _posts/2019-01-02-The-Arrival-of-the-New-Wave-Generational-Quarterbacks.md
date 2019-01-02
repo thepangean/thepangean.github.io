@@ -7,8 +7,7 @@ title: "The Arrival of the New Wave Generational Quarterbacks: What Will They Po
 date: 2019-01-02
 tags: sports
 class: post-template
-subclass: 'post tag-speeches'
-link: https://upload.wikimedia.org/wikipedia/commons/f/f1/Baker_Mayfield_training_camp_2018_%282%29_%28cropped%29.jpg
+link: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Baker_Mayfield_training_camp_2018_%282%29_%28cropped%29.jpg"
 author: tyler.pesavento
 ---
 The centerpiece of any NFL team is the quarterback and a new wave of quarterbacks is on the verge of taking over. Over the next few years or so, the NFL is going to undergo a transition phase that, some purists say, has been long-awaited.
@@ -33,18 +32,10 @@ Will the league be out of Hall of Fame Quarterbacks’ soon?
 
 Once the greats in the league today retire in a few short years, Mahomes, Mayfield, and even Jared Goff will most likely be referred to as the best in the game. In their young careers, these three quarterbacks have broken records that nobody in their sane mind saw coming. Mahomes is the youngest quarterback to throw for 50 touchdowns and 5,000 passing yards in a single season. Baker Mayfield has resurrected the dysfunctional Browns franchise by breaking the record for most passing touchdowns as a rookie. And if they stick to what has provided them with initial success, they can only get better along the way.
 
-
-
 Will the newcomers surpass the veterans?
-
-
 
 Cam Newton and Matt Ryan have solidified starting jobs with their respected teams, and they both have had similar success. Both quarterbacks won an MVP award and each made a trip to a Super Bowl, and they both came up short. Now, a couple years removed from their prime, injury and other internal issues have crippled the success of both quarterbacks.
 
-
-
 Other notable quarterbacks who have a lot of experience in the league but do not qualify as championship-caliber players include Matt Stafford, Ryan Tannehill and Andy Dalton. They have combined for seven playoff appearances and still have yet to win one. With young quarterbacks embracing leadership and implementing new fast paced offenses, veteran quarterbacks like these three are becoming irrelevant faster than expected.
-
-
 
 With all said and happening, it’s a very, very exciting time for the National Football League and the fans only hope they get to witness some high-quality skills out there. Onward and upward.
