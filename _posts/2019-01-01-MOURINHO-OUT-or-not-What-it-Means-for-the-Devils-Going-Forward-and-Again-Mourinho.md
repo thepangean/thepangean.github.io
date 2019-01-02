@@ -9,7 +9,7 @@ tags: sports
 class: post-template
 subclass: 'post tag-speeches'
 link: "https://upload.wikimedia.org/wikipedia/commons/9/93/José_Mourinho_-_Жозе_Моуринью_%2822164519268%29.jpg"
-author: andrew
+author: andrew.mark
 ---
 It was their worst start to any championship season in as many as 28 years. For a team considered to be a giant in world club football, only 10 wins out of 20 games is, to say the least, terrible. Anti-positional, even. It had the potential to be a major surprise initially. But nevertheless, it was always on the cards. Jose Mourinho, much-celebrated manager, was fired. The management had finally taken the leap.
 

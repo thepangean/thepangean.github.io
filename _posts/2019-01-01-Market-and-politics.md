@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "Market and Politics: The New Separation"
-author: reema
+author: reema.singh
 cover: assets/images/Mall_culture_jakarta36.jpg
 tags: economics
 date: 2019-01-01

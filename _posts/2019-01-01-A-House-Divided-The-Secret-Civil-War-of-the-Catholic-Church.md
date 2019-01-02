@@ -10,7 +10,7 @@ class: post-template
 subclass: 'post tag-speeches'
 link: "https://upload.wikimedia.org/wikipedia/commons/7/75/Interior_of_St_Andrew%27s_Catholic_Church_in_Roanoke%2C_Virginia.jpg"
 
-author: soham
+author: soham.gupta
 ---
 The Catholic Church is perhaps the most troubled religious organization in modern times. No other sect or group is going through the same crisis Catholics are undergoing today, although this is not immediately apparent to those on the outside. This century – the 21st century – will truly determine the shape of the faith for generations to come. But before we move on, a bit of background information is welcome.
 

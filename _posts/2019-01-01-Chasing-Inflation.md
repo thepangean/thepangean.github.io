@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: Chasing Inflation
-author: vidyarthi
+author: tushar.singh
 cover: assets/images/Help_Your_OPA_Fight_Inflation_NARA.jpg
 tags: economics
 date: 2019-01-01

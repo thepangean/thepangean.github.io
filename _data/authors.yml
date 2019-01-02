@@ -17,18 +17,18 @@ kheeran.naidu:
   url_full: http://github.com/kheeran/
   url: github.com/kheeran/
   bio: A technology innovator who is currently pursuing an MEng in Mathematics and Computer Science at the University of Bristol.
-  picture: assets/images/male.png
+  picture: assets/images/kheeran.jpg
   facebook: kheeran.naidu
   twitter: False
   cover: assets/images/kheeran-cover.jpg
 
 tushar.singh:
   username: tushar.singh
-  name: Tushar Singh
+  name: Vidyarthi
   location: Delhi, India
   positions: Partner, Editor
-  bio:
-  picture: assets/images/male.png
+  bio: Actually Tushar Singh. He is studying Economics at Delhi Universiity
+  picture: assets/images/tushar.jpg
   facebook: False
   twitter: dtusharsingh
   cover: assets/images/tushar-cover.jpg
@@ -39,7 +39,7 @@ harsh.tiwari:
   location: Kolkata, India
   positions: Partner, Chief Editor
   bio: I am not just humble, I am humility.
-  picture: assets/images/male.png
+  picture: assets/images/harsh.jpg
   facebook: False
   twitter: False
   cover: assets/images/harsh-cover.jpg
@@ -177,7 +177,7 @@ sam.tanberg:
   cover: assets/images/sam-cover.jpg
 
 namya.tewari:
-  username: sam.tanberg
+  username: namya.tewari
   name: Namya Tewari
   location: Greater Noida, India
   positions: Contributor
@@ -186,3 +186,69 @@ namya.tewari:
   facebook: False
   twitter: False
   cover: assets/images/namya-cover.jpg
+
+olly.bowes:
+  username: olly.bowes
+  name: Olly Bowes
+  location:
+  positions: Contributor
+  bio:
+  picture: #assets/images/olly.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/olly-cover.jpg
+
+stuti.gupta:
+  username: stuti.gupta
+  name: Stuti Gupta
+  location:
+  positions: Contributor
+  bio:
+  picture: #assets/images/stuti.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/stuti-cover.jpg
+
+soham.gupta:
+  username: soham.gupta
+  name: Soham Gupta
+  location:
+  positions: Contributor
+  bio:
+  picture: #assets/images/soham.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/soham-cover.jpg
+
+andrew.mark:
+  username: andrew.mark
+  name: Andrew Mark
+  location:
+  positions: Contributor
+  bio:
+  picture: #assets/images/andrew.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/andrew-cover.jpg
+
+reuben.scholtz:
+  username: reuben.scholtz
+  name: Reuben Scholtz
+  location:
+  positions: Contributor
+  bio:
+  picture: #assets/images/reuben.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/reuben-cover.jpg
+
+ashima.makhija:
+  username: ashima.makhija
+  name: Ashima Makhija
+  location:
+  positions: Contributor
+  bio:
+  picture: #assets/images/ashima.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/ashima-cover.jpg

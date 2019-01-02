@@ -12,7 +12,7 @@ class: post-template
 # - date (YYYY-MM-DD).
 
 title: "Trump’s ‘New African Policy’: Can US weave diplomatic tapestries using Chinese threads?"
-author: ashima
+author: ashima.makhija
 cover: assets/images/5440390625_feab8a9520_b.jpg
 tags: policy
 date: 2019-01-01

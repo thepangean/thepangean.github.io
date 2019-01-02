@@ -8,7 +8,7 @@ date: 2019-01-01
 tags: culture
 class: post-template
 subclass: 'post tag-speeches'
-author: namya
+author: namya.tewari
 link: https://upload.wikimedia.org/wikipedia/commons/a/a9/Malik_amber_ahmadnager_hi.jpg
 ---
 Deep in the annals of Indian history, there lies a long-forgotten tale of daring heroes, who, although foreign to the land, quickly got assimilated into her blood and added to her magnificence. This is the story of the first African rulers of India, the Siddis. India has long been acting as a magnet, drawing to her shores communities from lands afar which have flourished and prospered in her. Amongst these communities were the Africans who although arrived as slaves, still emerged as the mightiest of rulers.

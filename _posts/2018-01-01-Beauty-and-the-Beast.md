@@ -10,7 +10,7 @@ class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/3/38/Indian_Woman_with_bindi.jpg
 
-author: stuti
+author: stuti.gupta
 ---
 *“Beauty is an enormous, unmerited gift given randomly, stupidly.”* – K. Hosseini
 
@@ -41,6 +41,3 @@ These imposed standards are so deeply entrenched in us that even when one is awa
 But even when faced with these inner hypocrisies, one must remember that these dilemmas too are imposed and injected into the people by a media that rests upon the commoditization of beauty and reinforces the same toxic ideas. But ah! To hell with norms! It is the era for shaking up normativity and outraging beauty ideals!
 
 Beauty, in all its failing and its glory, is subjective. “Beauty is subjective” is not a lie meant to console people who do not fall within conventional archetypes of beauty. On the contrary, *‘subjective beauty’* is the only truth, for beauty cannot and should not be standardised. Beauty does not conform, why then should its ideals do the same?
-
-
-
