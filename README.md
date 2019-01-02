@@ -12,7 +12,7 @@ This is a modified version of Jekyller's jasper2 theme https://github.com/jekyll
 
 
 Many thanks to the Ghost team for all the design work. Also many thanks to all contributors,
-that help keeping the project alive and updated :smile:
+that help keeping the project alive and updated.
 
 
 ## Copyright & License
