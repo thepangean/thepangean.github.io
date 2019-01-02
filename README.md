@@ -4,6 +4,9 @@
 The Pangean is a newspaper that seeks to herald a revolution in media. It has no ideological persuasion in the articles it puts forth, welcoming diverse opinions on all kinds of subjects. The aim of The Pangean is to take a step back from all of the noise of the current social, cultural and political discourse and to examine real issues in a calm, balanced and nuanced way. The Pangean is a life affirming organisation that always seeks to infuse in the lives of our readers’ a sense of wisdom and happiness.
 
 ------
+## Credits
+
+This is a modified version of Jekyller's jasper2 theme https://github.com/jekyller/jasper2 which is a full-featured port of Ghost's default theme Casper v2.1.9 for Jekyll / GitHub Pages.
 
 ## Thanks
 
