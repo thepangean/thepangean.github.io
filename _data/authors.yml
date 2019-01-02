@@ -236,7 +236,7 @@ reuben.scholtz:
   name: Reuben Scholtz
   location:
   positions: Contributor
-  bio:
+  bio: Over-privileged English fuckwit.You'll love me when I'm dead.
   picture: #assets/images/reuben.jpg
   facebook: False
   twitter: False
@@ -252,3 +252,15 @@ ashima.makhija:
   facebook: False
   twitter: False
   cover: assets/images/ashima-cover.jpg
+
+# udayon.sen:
+#   username: udayon.sen
+#   name: Udayon Sen
+#   location:
+#   positions: Contributor
+#   bio: Udayon Sen is an aspiring polymath who adores Michael Stevens but certainly has better hair than him (hopefully).
+# He studies Computer Engineering, along with every other course he can study, just to accumulate enough for himself to spread the word.
+#   picture: #assets/images/udayon.jpg
+#   facebook: False
+#   twitter: False
+#   cover: assets/images/udayon-cover.jpg
