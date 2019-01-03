@@ -9,7 +9,7 @@ author: tushar.singh
 cover: assets/images/indian-econs-student.jpg
 tags: economics
 date: 2019-01-02
-link: https://pixabay.com/en/rupees-money-indian-currency-note-435450/
+link: https://upload.wikimedia.org/wikipedia/commons/0/03/Letter_signed_Robert_Wharton%2C_Nelsonville%2C_to_his_son_%28John_Wharton%3F%29%2C_April_8%2C_1864.jpg
 ---
 <i>Dear Diary,</i>
 
