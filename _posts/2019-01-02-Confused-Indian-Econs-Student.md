@@ -37,7 +37,7 @@ The world knows that we have a highly indebted banking sector. Rising NPAs (non-
 
 Oh Diary, spare a thought for all the poor foreign investors who were fooled into investing into this apparently ‘high growth’ economy which wasn’t! A decade of optimism, all for nothing. It was a lie. A scam. In case I haven’t made it clear enough, an economy is in a ‘high growth’ phase when it crosses 9% growth, which India didn’t (I know I have made it pretty clear. I just needed another reason to repeat it).
 
-What’s interesting is that the new GDP data has been released by NITI Aayog, a government think-tank, and not by the Central Statistics Office, as is the norm. I feel sad for poor Adarsh, my close friend. He is working so hard to join the Indian Statistical Institute in Kolkata, only to find his dream job has being taken over by a bureaucrat run organization!
+What’s interesting is that the new GDP data has been released by NITI Aayog, a government think-tank, and not by the Central Statistics Office, as is the norm. I feel sad for poor Adarsh, my close friend. He is working so hard to join the Indian Statistical Institute in Kolkata, only to find his dream job is being taken over by a bureaucrat run organization!
 
 There are two beneficiaries from the new data, though, and this (somewhat) gives me a reason to smile: Unemployed youth and distressed farmers. These poor fellows had been wondering how did a high-growth phase not create enough jobs/ increase the standard of living for them. They now have an answer: there was no high growth economy to produce jobs/ increase standard of living in the first place!
 
