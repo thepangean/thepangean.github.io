@@ -10,6 +10,14 @@ disqus: false
 <!-- The tag above means: insert everything in this file
 into the {body} of the default.hbs template -->
 
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@thepangean" />
+<meta name="twitter:title" content="{{page.title}}" />
+<meta name="twitter:description" content="{{ post.content | strip_html | truncatewords: 33, "" }}" />
+<meta name="twitter:image" content="{{ site.baseurl }}{{ post.cover }}" />
+
+
+
 <header class="site-header outer">
     <div class="inner">
         {% include site-nav.html %}
