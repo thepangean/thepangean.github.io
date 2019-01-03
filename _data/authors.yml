@@ -263,3 +263,14 @@ udayon.sen:
   facebook: False
   twitter: False
   cover: assets/images/udayon-cover.jpg
+
+shohan.mukherjee:
+  username: shohan.mukherjee
+  name: Shohan Mukherjee
+  location:
+  positions: Contributor
+  bio:
+  picture: #assets/images/shohan.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/shohan-cover.jpg
