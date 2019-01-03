@@ -443,6 +443,13 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 }
 
+.truncate {
+  width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .post-card {
     flex: 1 1 300px;
     display: flex;
