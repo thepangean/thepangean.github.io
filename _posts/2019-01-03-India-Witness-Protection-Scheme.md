@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/SupremeCourt.jpg
 navigation: True
-title: India’s Witness Protection Scheme: Opportunities & Challenges
+title: "India’s Witness Protection Scheme: Opportunities & Challenges"
 date: 2019-01-03
 tags: policy
 class: post-template
@@ -20,11 +20,11 @@ The Court promptly accepted it. The Scheme is reproduced in full in [the judgmen
 Based on the level of threat during investigation, trial, or post-trial, witnesses have been categorised into 3 categories:
 
 **-   Category A:** Where the threat extends to life of witness or his family members.
-    
+
 **-   Category B:** Where the threat extends to the safety, reputation, or property of the witness or his family members.
-    
+
 **-   Category C:** Where the threat is moderate and extends to harassment or intimidation of the witness or his family members, reputation or property.
-    
+
 
 The Indian States have been directed to set up a State Witness Protection Fund, which shall be the mother goddess feeding the expenditure on the Witness Protection Scheme. Every witness himself, his family members (clearly defined to include only specific relations), his lawyer, and multiple police officers involved in the investigation and imprisonment stage (also clearly defined) have been empowered to file an application for witness protection, preferably to be forwarded through the Prosecutor handling the case. A standard format has been laid down for the application.
 
@@ -41,5 +41,3 @@ Every successful witness protection scheme is built on the crux of confidentiali
 Manpower and training is another challenge to be overcome. India’s police-people ratio is abysmally low. It will be an uphill task to ensure enough boots on the ground to administer a witness protection programme. This problem is further compounded by the fact that witness protection is often no easy task. It requires specially-trained police officers. Stakeholders may often unwittingly compromise the process if not trained properly. Hence, training of police officers will be a major challenge. Again, the silver lining is that witness protection will be administered by a special Witness Protection Cell of the respective police force. This is a wonderful opportunity to specially train a subset of police officers to be islands of excellence in a sea of mediocrity, who can uphold the ethos of confidentiality and administer witness protection with aplomb.
 
 The Witness Protection Scheme, 2018 marks a watershed moment in the history of India. It is fraught with opportunities. The time is ripe to make this Scheme into a turning point for the justice system in India. It is now up to us to overcome the hurdles and challenges which lie in the way of its implementation, and make this Scheme the grand success Lady Justice deserves.
-
-
