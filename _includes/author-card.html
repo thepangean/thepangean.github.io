@@ -21,7 +21,7 @@
                     <h3 class="post-card-title">{{ author[1].name }}</h3>
                 </header>
                 <section class="post-card-excerpt">
-                    <p>{{ author[1].bio | strip_html | truncatewords: 33, "" }}</p>
+                    <p class="truncate" style="-webkit-line-clamp: 8;">{{ author[1].bio}}</p>
                 </section>
             </a>
         </div>
