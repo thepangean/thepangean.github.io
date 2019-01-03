@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/DictatorialDemoc.jpg
 navigation: True
-title: Morality, the Clash of Civilizations and the Democratic Dilemma
+title: "Morality, the Clash of Civilizations and the Democratic Dilemma"
 date: 2019-01-03
 tags: culture
 class: post-template
@@ -34,5 +34,3 @@ If morality is purely a human construct, then there is no universal moral code e
 Democracy must be better delineated. The fact is that there exist in the world irreconcilable worldviews. People of different ethnicities, races, communities and genders might coexist, but can a pro-lifer eat at the same table as an abortionist, when the fact is – according to the pro-lifer – the latter is nothing other than a murderer?
 
 One cannot live in two worlds. Liberal Democracy cannot not take a stand, but if it does take a stand, it ceases to be liberal. And when it ceases to be liberal, can it be called democracy? In a world of exclusive ideologies, absolute inclusivism is an impossibility. And in a world of conflicting moral systems, the state and the law cannot act as impartial umpires. Either abortion is legal, or it isn’t. The question then remains, that if the state is ready to impose its own moral values on the rest of the populace, then it must ask itself a question: does it have any objective basis for those values or not? If it does not, it undermines its own authority. And if it is non-religious, it is hard to see how it’s ethical code can have any objective basis at all.
-
-

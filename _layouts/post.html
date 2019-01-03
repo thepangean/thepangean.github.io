@@ -85,8 +85,34 @@ into the {body} of the default.hbs template -->
                     {% endif %}
                 {% endfor %}
                 <!-- /author  -->
-
             </footer>
+
+            <footer class="post-full-footer">
+                <!-- Everything inside the #author tags pulls data from the author -->
+                <!-- #author-->
+                {% for author in site.data.authors %}
+                    {% if author[1].username == page.authors %}
+                        <section class="author-card">
+                            {% if author[1].picture %}
+                                <img class="author-profile-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ page.authors }}" />
+                            {% endif %}
+                            <section class="author-card-content">
+                                <h4 class="author-card-name"><a href="{{ site.baseurl }}author/{{ page.authors }}">{{ author[1].name }}</a></h4>
+                                {% if author[1].bio %}
+                                    <p class="truncate">{{ author[1].bio}}</p>
+                                {% else %}
+                                    <p>Read <a href="{{ site.baseurl }}author/{{ page.authors }}">more posts</a> by this author.</p>
+                                {% endif %}
+                            </section>
+                        </section>
+                        <div class="post-full-footer-right">
+                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.authors }}">Read More</a>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+                <!-- /author  -->
+            </footer>
+
             <footer class="post-full-footer">
               <div class="post-footnote">
                 The Pangean does not condemn or condone any of the views of its contributors. It only gives them the space to think and write without hindrance.
