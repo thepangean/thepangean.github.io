@@ -9,7 +9,7 @@ author: atreyi.bhaumik
 cover: assets/images/no-helping-hand.jpg
 tags: policy
 date: 2019-01-03
-link: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2013/01/16180/image300x180cropped.jpg
+link: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Child_Maid_Servant.JPG/1024px-Child_Maid_Servant.JPG
 ---
 In February 2018, an Emirati mother and daughter were sentenced to one and a half years of jail for torturing their migrant maid to death. The husband, who was the sponsor of the maid, was penalised for three thousand dinars. Numerous cases like this have surfaced in the media reports in the last few years. Though these reports are just skin-deep when it comes to the extent to which millions of domestic workers all around the world are exploited on a daily basis. The incident brings forth a lot of queries regarding the laws for labour protection present in the host country. In retrospect, it also makes us question the value of a life. Does the status of the person really determine the value of his or her life and mental or physical trauma that he or she endures? Also, does the position of an individual’s work signify how that person should be treated?
 
