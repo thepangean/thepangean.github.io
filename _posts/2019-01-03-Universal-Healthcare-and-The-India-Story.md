@@ -8,7 +8,7 @@ title: Universal Healthcare and The India Story
 author: manya.manushi
 cover: assets/images/PM_Modi_2015.jpg
 tags: policy
-date: 2019-01-03
+date: 2019-01-03 20:40:00
 link: https://upload.wikimedia.org/wikipedia/commons/9/90/PM_Modi_2015.jpg
 ---
 A joint study by the World Bank and the World Health Organisation (WHO): Tracking Universal Health Coverage: 2017 Global Monitoring Report, points out the abysmal state of health services across the globe. According to it, at least half of the world’s population does not have access to essential health services and for about 100 million people out-of-pocket health expenses are high enough to push them into extreme poverty each year.

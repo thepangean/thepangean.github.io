@@ -8,7 +8,7 @@ title: "Jan Lokpal: The half-waged war for anti-corruption"
 author: ashima.makhija
 cover: assets/images/Anna_Hazare_on_2nd_day.jpg
 tags: policy
-date: 2019-01-03
+date: 2019-01-03 21:01:00
 link: https://upload.wikimedia.org/wikipedia/commons/2/26/Anna_Hazare_on_2nd_day.jpg
 ---
 India's “war on corruption”, which erupted in 2011 with the hunger strikes of the activist Anna Hazare in New Delhi, seems to have lost itself underneath a mountain of bureaucratic jargon and political propaganda. Over seven years ago, Anna Hazare, with his unflinching voice and grit, demanded the formulation and approval of the Jan Lokpal Bill, a citizen’s ombudsman bill, that requires the appointment of a Jan Lokpal, an independent body that would investigate corruption cases, complete the investigation within a year and ensure that the trial in the case gets over in the next one year. The Jan Lokpal Bill was passed after the protests started by Hazare spread across the country in 2013. However, the vision of an India rid of corrupt officials and leaders is still quite distant simply because the Lokpal bill was never implemented. Over the years, along with political activists and India's Central and State governments, the judiciary has also become involved in the process of the appointment of the Jan Lokpal. Yet, national policy has come to a standstill on the issue, and no remarkable progress has been made in over five years.

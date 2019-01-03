@@ -8,7 +8,7 @@ title: "Chile – A Bright Spot or a Lost Case?"
 author: atreyi.bhaumik
 cover: assets/images/Palacio_de_la_Moneda_desde_Plaza_de_la_Constitucion.jpg
 tags: policy
-date: 2019-01-03
+date: 2019-01-03 21:41:00
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Palacio_de_la_Moneda_desde_Plaza_de_la_Constituci%C3%B3n.jpg/1280px-Palacio_de_la_Moneda_desde_Plaza_de_la_Constituci%C3%B3n.jpg
 ---
 Just like every individual, every country has its own journey. The journey is, without a doubt, the most important aspect because there is no destination or end goal for a country. It has to keep going. Here, we talk about Chile, a country that has seen its fair share of ups and downs, with a journey to remember. Here, we try to point out specifically, those few moments in its history which have actually shaped the course for the future.
