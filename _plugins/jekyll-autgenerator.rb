@@ -40,8 +40,9 @@ module Jekyll
     private
 
     def posts_by_author(site, author)
-      site.posts.docs.select { |post| post.data['author'] == author }
+      site.posts.docs.select { |post| post.data['author'] == author || post.data['author1'] == author }
     end
+
   end
 
   class GroupSubPageAuthor < Page
