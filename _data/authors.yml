@@ -110,6 +110,17 @@ jacob.jones:
   twitter: False
   cover: assets/images/jacob-cover.jpg
 
+ashima.makhija:
+  username: ashima.makhija
+  name: Ashima Makhija
+  location: Delhi, India
+  positions: Contributor
+  bio: "I am pursuing Economics (Honours) from Shri Ram College of Commerce, University of Delhi. I spend my time solving fictional murder mysteries and avoiding real-life mysteries (seriously, when did I last open my course book?)."
+  picture: assets/images/ashima.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/ashima-cover.jpg
+
 manya.manushi:
   username: manya.manushi
   name: Manya Manushi
@@ -120,6 +131,17 @@ manya.manushi:
   facebook: manya.manushi
   twitter: ManushiManya
   cover: assets/images/manya-cover.jpg
+
+shohan.mukherjee:
+  username: shohan.mukherjee
+  name: Shohan Mukherjee
+  location: Kolkata, India
+  positions: Contributor
+  bio: All the powers in the universe are already ours. It is we who have put our hands before our eyes and cry that it is dark. -Sw.
+  picture: assets/images/shohan.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/shohan-cover.jpg
 
 tyler.pesavento:
   username: tyler.pesavento
@@ -242,17 +264,6 @@ reuben.scholtz:
   twitter: False
   cover: assets/images/reuben-cover.jpg
 
-ashima.makhija:
-  username: ashima.makhija
-  name: Ashima Makhija
-  location:
-  positions: Contributor
-  bio:
-  picture: #assets/images/ashima.jpg
-  facebook: False
-  twitter: False
-  cover: assets/images/ashima-cover.jpg
-
 udayon.sen:
   username: udayon.sen
   name: Udayon Sen
@@ -263,14 +274,3 @@ udayon.sen:
   facebook: False
   twitter: False
   cover: assets/images/udayon-cover.jpg
-
-shohan.mukherjee:
-  username: shohan.mukherjee
-  name: Shohan Mukherjee
-  location:
-  positions: Contributor
-  bio:
-  picture: #assets/images/shohan.jpg
-  facebook: False
-  twitter: False
-  cover: assets/images/shohan-cover.jpg

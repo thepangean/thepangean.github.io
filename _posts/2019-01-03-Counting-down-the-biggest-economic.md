@@ -64,7 +64,7 @@ The Japanese then went out and did this:
 
 <img src="{{ site.baseurl }}{{ page.pic2 }}">
 
-(Here’s a graph from 2015, showing the BoJ’s asset purchases, source: Haver Analytics)
+(Here’s a graph, showing the BoJ’s asset purchases, source: Haver Analytics)
 
 Just as the Federal Reserve was winding down, the Bank of Japan (BoJ) voted by 5:4 in a hotly-contested decision to boost its asset purchases by a quarter to roughly $700bn a year, covering the fiscal deficit and the lion’s share of Japan’s annual budget. Governor Haruhiko Kuroda said the fresh stimulus was intended to “pre-empt” mounting deflation risks in the world and vowed to do whatever it takes to see through Japan’s <i>"Abenomics"</i> revolution. “We are at a critical moment in our efforts to break free from the deflationary mindset,” he said.
 
