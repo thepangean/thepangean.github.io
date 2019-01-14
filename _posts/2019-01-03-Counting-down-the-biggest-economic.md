@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: Counting down the biggest economic policy announcements since the Financial Crash
+title: Counting Down the Biggest Economic Policy Announcements since the 2008 Financial Crash
 author: shohan.mukherjee
 cover: assets/images/chart6034.png
 pic1: assets/images/irelandbust2010.png
@@ -17,7 +17,7 @@ In economics, recessions and depressions are supposed to have taught us many val
 
 1 - American Recovery and Reinvestment Act of 2009
 
-It is early 2009, the United States, reeling from the Financial Crisis, has the New Year as the only positive yet (besides the new President). Obama outlined throughout his 2008 campaign plans for an economic stimulus package and this was delivery time. On February 17, 2009, President Obama signed the fiscal stimulus passed by Congress, which would raise overall demand in the economy by an initial $780-billion worth of federal spending and tax cuts.
+It is early 2009, the United States, reeling from the 2008 Financial Crisis, has the New Year as the only positive yet (besides the new President). Obama outlined throughout his 2008 campaign plans for an economic stimulus package and this was delivery time. On February 17, 2009, President Obama signed the fiscal stimulus passed by Congress, which would raise overall demand in the economy by an initial $780-billion worth of federal spending and tax cuts.
 
 This indeed was a necessary follow-up to President Bush’s Troubled Asset Recovery Program, which bailed out the big banks of Wall Street still at the point of revival (sorry, Lehman Brothers). It was only later in 2012 that Congress added to the ARRA making it stand at <i>eight-hundred-and-forty-billion-dollars</i>.
 
