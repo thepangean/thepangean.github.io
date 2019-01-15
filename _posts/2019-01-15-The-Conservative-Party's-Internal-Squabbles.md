@@ -9,7 +9,7 @@ tags: policy
 class: post-template
 subclass: 'post tag-speeches'
 link: https://www.flickr.com/photos/donkeyhotey/41140445145
-author: reuben.scholtz
+author: reuben.pritchard
 ---
 Brexit is a bit of a mess. It threatens to have dire effects on the British and European economies, permanently undermine the continent's security institutions, and leave behind a culture war which could divide Britain for decades to come. The old are pitted against the young, the elites against the working class and the ‘Brexiteers’ against the ‘Remainiacs’. A marginal Brexit victory of only 4% two years ago has fatally undermined any attempt to form a consensus about which Brexit (hard or soft) should be attempted, resulting in Prime Minister May’s kerfuffle negotiations. This has left Britain with a choice of: (1) no-deal Brexit (which Remainers dread); (2) remaining in the EU (which outrages Brexiteers); or (3) May’s deal (which is happily despised by all). This wasn’t what David Cameron expected. Brexit began as a bit of internal housekeeping within Cameron’s Conservative Party and as an attempt to finally settle the decades-old rift which had kept the Tories out of government for 13 years. But this intellectual dispute within the Conservative Party led to a most serious outcome that may now change Britain beyond recognition.
 

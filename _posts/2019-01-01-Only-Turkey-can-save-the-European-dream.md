@@ -12,7 +12,7 @@ class: post-template
 # - date (YYYY-MM-DD).
 
 title: Only Turkey can save the European dream, but not in the way you think.
-author: reuben.scholtz
+author: reuben.pritchard
 cover: assets/images/34243609056_d04c5b1742_k.jpg
 tags: policy
 date: 2019-01-01

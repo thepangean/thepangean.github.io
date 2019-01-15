@@ -253,12 +253,12 @@ andrew.mark:
   twitter: False
   cover: assets/images/andrew-cover.jpg
 
-reuben.scholtz:
-  username: reuben.scholtz
-  name: Reuben Scholtz
+reuben.pritchard:
+  username: reuben.pritchard
+  name: Rueben Pritchard
   location:
   positions: Contributor
-  bio: Over-privileged English fuckwit.You'll love me when I'm dead.
+  bio: Over-privileged English fuckwit. You'll love me when I'm dead.
   picture: #assets/images/reuben.jpg
   facebook: False
   twitter: False
