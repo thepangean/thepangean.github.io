@@ -3,34 +3,34 @@ layout: post
 current: post
 cover: assets/images/Ice.jpg
 navigation: True
-title: Climate Pacts: Can They Alone Deliver Climate Justice?
+title: "Climate Pacts: Can They Alone Deliver Climate Justice?"
 date: 2019-01-16
 tags: policy
 class: post-template
 subclass: 'post tag-speeches'
-link: [https://www.flickr.com/photos/eriwst/3194546777/in/photolist-5ShTsH-bq4JLC-S4Hxg5-4nw9VV-27e3qcU-dkeuto-23BDthe-2cQfZ2c-2d86teb-bVKJRg-dNwK8K-W9SDwo-jNwNq-2d86aRf-PTLTnN-fgRjo6-5vWHf5-7ufpER-eGKYh6-28vGrpd-6FNE9J-qxu454-Kf1P4C-6QtpAN-914qdE-s5tAYu-8DmgER-brpTgB-aKWrM2-d2cwGf-7kXBvy-okGei-fgRkXv-fh6zz5-4dia18-NgDbu2-fh6wVJ-fh6wuL-fgRdCT-fh6JQ1-BCNfEC-fgReFv-4chm9Y-aHtxoa-eL6XPe-UXo88S-6fEVNj-aKWr9e-gQXra-617zMK]
+link: https://www.flickr.com/photos/eriwst/3194546777/in/photolist-5ShTsH-bq4JLC-S4Hxg5-4nw9VV-27e3qcU-dkeuto-23BDthe-2cQfZ2c-2d86teb-bVKJRg-dNwK8K-W9SDwo-jNwNq-2d86aRf-PTLTnN-fgRjo6-5vWHf5-7ufpER-eGKYh6-28vGrpd-6FNE9J-qxu454-Kf1P4C-6QtpAN-914qdE-s5tAYu-8DmgER-brpTgB-aKWrM2-d2cwGf-7kXBvy-okGei-fgRkXv-fh6zz5-4dia18-NgDbu2-fh6wVJ-fh6wuL-fgRdCT-fh6JQ1-BCNfEC-fgReFv-4chm9Y-aHtxoa-eL6XPe-UXo88S-6fEVNj-aKWr9e-gQXra-617zMK
 author: manya.manushi
 ---
 The concern for rising global temperatures due to climate change is seemingly pervasive across the world. While combating climate change is important, ensuring climate justice in the process of doing so is equally important. Climate justice involves upholding the rights of those affected by climate change and factoring in the concerns of developing countries in the fight against climate change. Some major policy initiatives taken at the global level to combat climate change and deliver climate justice include the Kyoto Protocol (1992) and the Paris Agreement (2015). The latest development in this sphere has been the 24th edition of the UN Climate Change Conference (called COP24) held in the coal town of Katowice, Poland.
 
 In this round of climate talks, the participating members agreed upon the adoption of rules framed for the implementation of the Paris Agreement. While the Agreement has specified that nations will work towards reducing global temperatures by 2°C, the rulebook provides the action plan that needs to be undertaken to ensure that reduction. Two weeks of negotiations among nations culminated in the drafting of this rulebook. It is certainly dynamic in nature: new guidelines can be added and existing ones can be amended. The basic aim of these guidelines, which will come into force in the year 2020, is to provide countries with a standard framework. It will help them to record and report the emission of greenhouse gases in their own country, to monitor financial flows for climate mitigation and adaptation, and to transfer technologies amongst countries. These initiatives are necessary to aid populations of developing countries to cope with natural disasters that have a strong link to climate change. They are also needed to allow for the development of climate-resilient varieties of crops, improved weather forecasts, reduction in pollution and for dealing with public health issues arising due to climate change.
 
-  
+
 
 The rulebook has devised an accounting framework to measure and verify the financial inflows―loans, grants or concessions. It is likely to bring in transparency in the sphere of climate finance. Many global leaders have termed this as a victory for multilateralism, particularly at a time when the 13th summit of the Group of Twenty (G20) members (held in Argentina) gave a clear signal that this concept is under threat.
 
-  
+
 
 On the flip side, however, there are a plethora of issues which have been left unaddressed in this rulebook. Firstly, the rulebook does not adequately address the issue of carbon trading systems envisaged by the Kyoto Protocol. A country or an industry, in a carbon market, can earn carbon credits if it mitigates emissions beyond the limit set under Art. 6 of the Paris Agreement, and later it can trade them too. When this topic was taken up in Katowice, the issue of double-counting of emission reductions was brought to the fore. In the context of carbon trading, double-counting is a situation when a country, let us say X, transfers its carbon credits to another country, Y, to enable Y to meet its emission targets whilst X also counts its own carbon credits towards meeting its own targets. Another issue of contention related to carbon credits was the adjustment of unused accumulated carbon credits by countries like China and Brazil. The current talks have failed to settle these issues; rather the discussion has been postponed to the next year. One fails to understand how postponement of a contentious issue would help the cause of climate justice.
 
-  
+
 
 Secondly, the rulebook fails to recognise that developed and developing countries must have different responsibilities towards climate change mitigation and adaptation. The argument for a climate clean-up has been built, until now, upon a fundamental tenet of equity. Art. 14 of the Paris Agreement captures it emphatically and states “...equity demands that the vulnerabilities, problems, and challenges of the poor and marginalised be prioritised to ensure climate justice..”. The Agreement envisaged climate mitigation funds as an important means to ensure equity. However, in the rulebook, there is no clarity on how funds would be mobilised for the fight against climate change. This lacuna is all the more conspicuous because even after promising $100 billion every year as mitigation funds in 2009, rich countries have actually paid out only 12% of this figure. If climate justice is to be delivered, arranging climate finance with regard to the economic status of different countries should be the top-most priority of global leaders.
 
-  
+
 
 Though the lack of ambition of global leaders, as captured during climate negotiations, is a major impediment in the way of delivering climate justice. The rising parochialism of citizens across the world is also a matter of great concern. The elevation of some leaders to the position of Head of State clearly reflects this. Scott Morrison, who openly exhibited his support for the world’s dirtiest fossil fuel-coal-by bringing a lump of it to the Australian Parliament, became Prime Minister of Australia in August 2018, replacing Malcolm Turnbull, who was working towards a transition to cleaner forms of energy. Donald Trump, who wants to “Make America Great Again”, has announced his country’s withdrawal from the Paris Agreement. And in November 2018, the Brazilians elected Jair Bolsonaro as President who proposes to promote agribusiness in the Amazon forest and construct roads there. This can have a seriously negative impact on the climate as the Amazon Basin is the world’s largest carbon sink.
 
-  
+
 
 The bottom line seems to be that climate justice cannot be ensured through climate pacts alone. The first thing we need to ensure is that these climate pacts are actually implemented and that developing countries stand up for their poor and vulnerable citizens. India and China put together have about 36% of the world's population living in them. They are important consumer markets for various multinational companies from the developed world, which is historically responsible for carbon emissions. These two countries should use this advantage and pitch for climate justice by ensuring proper implementation frameworks and equitable distribution of funds at the global level. In addition, citizens of the world should stand against the indifference of leaders to climate change concerns, and speak out on the issue to ensure a sustainable future for themselves. The aim of preventing climate change and ensuring climate justice requires the combined effort of both the world's peoples and its governments. And a reliance on climate pacts alone will only provide solutions on <i>paper </i> to a potentially grave problem.

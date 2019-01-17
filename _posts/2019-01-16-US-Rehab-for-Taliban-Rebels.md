@@ -3,12 +3,12 @@ layout: post
 current: post
 cover: assets/images/Tal.jpg
 navigation: True
-title: US Rehab for Taliban Rebels – Finally, a Carrot in the Carrot & Stick?
+title: "US Rehab for Taliban Rebels – Finally, a Carrot in the Carrot & Stick?"
 date: 2019-01-16
 tags: policy
 class: post-template
 subclass: 'post tag-speeches'
-link: [https://www.flickr.com/photos/37773726@N08/4880514747/in/photolist-8rgUZZ-7MKG2t-6sNPij-9YjgJb-8X9ruN-c6iJEL-g5k1zS-6seTVU-HNy8d-7ibX3n-g5kmoM-g5mjTR-AgbEd-95RYZ2-g5kH32-g5mq52-6seTVG-auGBiv-5NA3fm-21Wp8K-5F3siB-pmN9L4-q1ZXem-g5jfGv-g5jyz4-g5m1q8-g5jyeL-7Jo36C-9v4dBj-g5kMYh-g5jseE-g5jXLW-7ifviD-9J176P-5cVoWg-g5kirq-g5m5bV-6fTVzA-7W9FZy-9iDosz-7rBLqu-op8zz-aMYXrP-9J3Hhq-g5jtMs-g5kjz9-3g1Rcv-9CZLzA-g5jB29-c77WrN]
+link: https://www.flickr.com/photos/37773726@N08/4880514747/in/photolist-8rgUZZ-7MKG2t-6sNPij-9YjgJb-8X9ruN-c6iJEL-g5k1zS-6seTVU-HNy8d-7ibX3n-g5kmoM-g5mjTR-AgbEd-95RYZ2-g5kH32-g5mq52-6seTVG-auGBiv-5NA3fm-21Wp8K-5F3siB-pmN9L4-q1ZXem-g5jfGv-g5jyz4-g5m1q8-g5jyeL-7Jo36C-9v4dBj-g5kMYh-g5jseE-g5jXLW-7ifviD-9J176P-5cVoWg-g5kirq-g5m5bV-6fTVzA-7W9FZy-9iDosz-7rBLqu-op8zz-aMYXrP-9J3Hhq-g5jtMs-g5kjz9-3g1Rcv-9CZLzA-g5jB29-c77WrN
 author: sagnik.sarkar
 ---
 The United States Department of Defense has announced plans to rehabilitate Taliban rebels in Afghanistan willing to lay down arms. While this may seem like the carrot in the “carrot and stick approach” we desperately need, it is still too early to say much about it. The question this move begs is simple: what is more effective? the carrot or the stick? More often than not, the carrot and  the stick combined is, without a doubt, effective. There's a reason why economists and management gurus swear it works wonders. Although, it may appear that the problem we're dealing with has some peculiar issues that would indicate otherwise.
@@ -20,5 +20,3 @@ Across the world, many descend into a life of delinquency because that is their 
 But then, are Taliban rebels more than mere delinquents? While it may be tempting to categorise Taliban rebels as mere delinquents like any other, it may also be argued – with good reason – that they are far more than just that. The distinction between terrorists and insurgents vis-à-vis the garden-variety of delinquents exists for a very good reason. The former is usually distinguished from the latter by a far higher degree of unbridled motivation and enthusiasm – much like how a Special Forces soldier is distinguished from the ordinary soldier. Therefore, Taliban rebels should, theoretically, be much less receptive to positive incentives such as these intended to draw them out of a life of insurgency and into civilian life. Their reasons for choosing a life of insurgency and belligerence are not driven solely by impoverishment and unemployment, for there is no denying that the Taliban has been a ruthless terrorist organisation with a sinister agenda.
 
 With both these factors in mind, will this US DoD policy work? Certainly, it may be helpful drawing out the “weakest” of the Taliban rebels. However, ultimately, whether the number of rebels it does bring out of a life of insurgency will be substantial is anyone’s guess. It’s not time to count our chickens yet, they are nowhere close to hatching. But it suffices to say that this US DoD policy is a long needed “carrot” in a largely “stick” approach. It is definitely better, though the jury is still out on how much  better. Meanwhile, Afghan security forces and US troops must continue the unhappy task of continuing their military offensive against the Taliban, even after Trump's withdrawal decision, for this policy can only ever complement the use of force, not substitute it.
-
-
