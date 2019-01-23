@@ -3,12 +3,12 @@ layout: post
 current: post
 cover: assets/images/Nba.jpg
 navigation: True
-title: “The Golden Era Continues with The Warriors”
+title: The Golden Era Continues with The Warriors
 date: 2019-01-23
 tags: sports
 class: post-template
 subclass: 'post tag-speeches'
-link: https://upload.wikimedia.org/wikipedia/commons/e/eb/NBA_Game.jpg
+link: https://www.flickr.com/photos/dmac55/8587472570/in/photolist-e5R3pU-e3eUkb-aBxYMr-5FURpS-e7s6x1-e7mrAr-uKSqnG-r4UoZy-AiB5tZ-uHsDw7-eedDRY-us5n6D-ijyUY3-f1HRLU-DBJpgm-Jb5UV7-9b9RvB-etN9xa-tRmSdi-e3m63N-e39vXx-e3eHk5-9bcZ6U-4TjmJH-eoEnRy-eoEjh3-e3eTZL-9b9RtT-uKTqtw-fMT9eZ-qHUK2k-4V74L3-JgQiv-9b9R8r-9bcZbA-9b9RzB-9b9R9n-rmokYq-9b9R7t-bASdzP-9b9Rfx-uvLWLM-eoEcwC-eo5H1i-5FURq1-dZYZKh-eoEwDo-en7G4n-4Taf5q-9b9Rka
 author: tyler.pesavento
 ---
 Year in, year out, winning is the goal at the beginning of the season. And every season the reigning champion is celebrated for conquering the beast that is a playoff run. Unless that team is the Golden State Warriors. For them it’s just another day (or season rather) at the office.
