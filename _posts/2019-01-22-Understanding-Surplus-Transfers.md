@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/Fed.jpg
 navigation: True
-title: “Understanding Surplus Transfers between Central Banks and Governments”
+title: "Understanding Surplus Transfers between Central Banks and Governments"
 date: 2019-01-22
 tags: economics
 class: post-template
@@ -30,28 +30,28 @@ In contrast to all these issues plaguing banks with negative capital, Central ba
 Mr Peter Stella in a paper written in 2005 identified four different ways that central banks have determined their level of capital:
 
 1.  An absolute nominal value of capital. (e.g. Bank of Canada)
-    
 
-  
+
+
 
 2.  A target ratio of capital to another central bank balance sheet item. (e.g. Bank of Japan)
-    
 
-  
+
+
 
 3.  A target ratio of capital to a macroeconomic variable. (e.g. US Federal Reserve)
-    
 
-  
+
+
 
 4.  Based on the perceived risks to the solvency of the bank.
-    
+
 
 Here, the optimal level of capital depends on a large number of factors, such as the macroeconomic environment, how vulnerable the CB is to large financial shocks, its historical legacy, policy obligations (like a fixed or pegged exchange rate) and the volatility of profits.
 
 (e.g. Reserve Bank of India, Reserve Bank of New Zealand)
 
-  
+
 
 It also follows that in developing countries and countries with narrow capital markets, the CB should have larger capital. Countries where governments have frequent or constant budget deficits and those with fixed or pegged exchange rates should pursue the same path. It is only after taking into consideration policy objectives, such as price or exchange rate stability, can an ideal level of capital be determined. The determination of the minimum financial strength should also take into account the exposure to risk. Finally, a mechanism and sufficient resources must to be available to absorb the risk.
 
