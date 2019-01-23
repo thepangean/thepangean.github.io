@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Imp.jpg
+cover: assets/images/Imp_new.jpg
 navigation: True
 title: "New Heroes for a New Age?"
 date: 2019-01-20
@@ -26,4 +26,3 @@ But Tyrion cannot in any way be described as, ultimately, a bad person. Tyrion�
 The question is what is it about our age that makes us fall in love with these Tyrions? Historically, we have to take into consideration the various wars, whether it be the World Wars, the controversial Vietnam War, the Cold War, and most recently, the Middle Eastern conflict. Not only have people seen some of the worst acts in human history committed during this time, but many of us have experienced it first-hand. Further, endless cultural progress has become Modernism’s empty promise, and it has resulted in a Post-modernist deep-seated mistrust of the establishment, including its boundaries between right and wrong. The world now has far more shades of gray, and the characters on the silver screen reflect a broader view of morally acceptable behaviour.
 
 If we consider the 21st century so far—9/11 terrorist attacks, the Iraq War, Enron, Hurricane Katrina, the economic recession, Hurricane Sandy, the Newtown shootings, the Boston Marathon attacks—there’s been a steady stream of terrible events to shake our faith in humanity. Characters who shine as morally pure and upright don’t ring true to us anymore, because it’s not who we see around us in the world. Neither is it what we see when we look in the mirror. After all, a believable and relatable character is one of the single-most important elements of an enjoyable story. In truth, we owe a great debt to fictional villains and antiheroes. They create the problems the heroes have to solve and that creates the need for a story that reveals the inner workings of the dark side of ourselves. Without the actions of the negative forces, there would be very few stories to tell, and the forces that motivated Hitler and Jack the Ripper would remain forever a mystery to us. "Everyone carries a shadow," Jung wrote, "and the less it is embodied in the individual's conscious life, the blacker and denser it is." In this new age, in this new world, the modern hero dares to heed the call of his shadow. He casts off his slough of pride, fear, rationalized avarice, and sanctified misunderstanding to reach atonement and true growth.
-

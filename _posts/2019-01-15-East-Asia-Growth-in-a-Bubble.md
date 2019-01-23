@@ -6,7 +6,7 @@ class: post-template
 
 title: "East Asia - Growth in a Bubble"
 author: abhishek.sancheti
-cover: assets/images/eastasia.jpg
+cover: assets/images/eastasia_new.jpg
 tags: economics
 date: 2019-01-15 00:35
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vista_del_Puerto_de_Victoria_desde_Sky100%2C_Hong_Kong%2C_2013-08-09%2C_DD_10.JPG/1024px-Vista_del_Puerto_de_Victoria_desde_Sky100%2C_Hong_Kong%2C_2013-08-09%2C_DD_10.JPG
