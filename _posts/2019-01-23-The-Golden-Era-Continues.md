@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Nba.jpg
+cover: assets/images/nba1.jpg
 navigation: True
 title: The Golden Era Continues with The Warriors
 date: 2019-01-23
