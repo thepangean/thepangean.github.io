@@ -11,7 +11,7 @@ class: post-template
 # - tags (the tags are: policy, economics, sports, culture, society & conscience (NO CAPS))
 # - date (YYYY-MM-DD).
 
-title: Only Turkey can save the European dream, but not in the way you think.
+title: Only Turkey can Save the European Dream, but Not in the Way you Think.
 author: reuben.pritchard
 cover: assets/images/34243609056_d04c5b1742_k.jpg
 tags: policy
