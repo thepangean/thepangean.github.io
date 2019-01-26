@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/May.jpg
 navigation: True
-title: "The Conservative Party's Internal Squabbles created Brexit and Divided a Nation"
+title: "The Conservative Party's Internal Squabbles Created Brexit and Divided a Nation"
 date: 2019-01-15
 tags: policy
 class: post-template
