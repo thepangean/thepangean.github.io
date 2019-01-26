@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "Jan Lokpal: The half-waged war for anti-corruption"
+title: "Jan Lokpal: The Half-Waged War for Anti-Corruption"
 author: ashima.makhija
 cover: assets/images/Anna_Hazare_on_2nd_day.jpg
 tags: policy
