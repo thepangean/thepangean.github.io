@@ -11,7 +11,7 @@ class: post-template
 # - tags (the tags are: policy, economics, sports, culture, society & conscience (NO CAPS))
 # - date (YYYY-MM-DD).
 
-title: "Trump’s ‘New African Policy’: Can US weave diplomatic tapestries using Chinese threads?"
+title: "Trump’s ‘New African Policy’: Can US Weave Diplomatic Tapestries Using Chinese Threads?"
 author: ashima.makhija
 cover: assets/images/5440390625_feab8a9520_b.jpg
 tags: policy
