@@ -163,7 +163,7 @@ body {
 }
 
 .site-logo {
-    max-height: 45px;
+    max-height: 100px;
 }
 
 .site-description {
@@ -183,6 +183,12 @@ body {
     .site-description {
         font-size: 1.8rem;
     }
+}
+
+@media (max-width: 700px){
+  .site-logo {
+      max-height: 60px;
+  }
 }
 
 
