@@ -403,7 +403,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 /* raise1 raise2 secondary and tertiary are hacky ways to get the main page in the right format for browsers */
 
 .title {
-  text-decoration: underline;
+  /* text-decoration: underline; */
   padding-left: 30px;
 }
 
