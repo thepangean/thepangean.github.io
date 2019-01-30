@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: How Oil trickled through the Decade
+title: How Oil Trickled Through the Decade
 author: shohan.mukherjee
 cover: assets/images/oilrig.jpg
 pic1: assets/images/oilrig1.png
