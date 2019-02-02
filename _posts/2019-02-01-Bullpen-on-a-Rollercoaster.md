@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: Bullpen on a Rollercoaster
-author: Adarsh Agarwal
+author: adarsh.agarwal
 cover: assets/images/MapSouthEastAsia.png
 tags: economics
 date: 2019-02-01

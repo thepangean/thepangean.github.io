@@ -274,3 +274,14 @@ stuti.gupta:
   facebook: False
   twitter: False
   cover: assets/images/stuti-cover.jpg
+
+adarsh.agarwal:
+  username: adarsh.agarwal
+  name: Adarsh Agarwal
+  location:
+  positions: Guest Contributor
+  bio: Adarsh Agarwal is an undergraduate Economics student at the University of Delhi, and aspires to become a recognisable name in the world of academia.
+  picture: #assets/images/stuti.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/adarsh-cover.jpg

@@ -69,6 +69,7 @@ into the {body} of the default.hbs template -->
             <footer class="post-full-footer">
                 <!-- Everything inside the #author tags pulls data from the author -->
                 <!-- #author-->
+
                 {% for author in site.data.authors %}
                     {% if author[1].username == page.author %}
                         <section class="author-card">
@@ -115,16 +116,9 @@ into the {body} of the default.hbs template -->
                         </div>
                     {% endif %}
                 {% endfor %}
-                <section class="author-card">
-                  <section class="author-card-content">
-                    <h4 class="author-card-name">{{ page.author }}</h4>
-                    <p class="truncate">A guest contributor</p>
-                  </section>
-                </section>
-                <div class="post-full-footer-right">
-                  <a class="author-card-button" href="{{ site.baseurl }}tag/{{ page.tags }}">Read More</a>
-                </div>
-              
+
+          
+
                 <!-- /author  -->
             </footer>
 
