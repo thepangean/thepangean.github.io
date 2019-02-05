@@ -47,8 +47,8 @@ into the {body} of the default.hbs template -->
             </header>
 
             {% if page.cover %}
-            <a href="{{page.link}}" rel="noopener noreferrer" target="_blank"><figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
-            </figure></a>
+            <div style="width:100%;"><a href="{{page.link}}" rel="noopener noreferrer" target="_blank"><figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
+            </figure></a></div>
             {% endif %}
 
             <section class="post-full-content">
@@ -117,7 +117,7 @@ into the {body} of the default.hbs template -->
                     {% endif %}
                 {% endfor %}
 
-          
+
 
                 <!-- /author  -->
             </footer>

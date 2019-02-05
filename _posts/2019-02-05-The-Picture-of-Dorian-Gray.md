@@ -14,7 +14,7 @@ pic4: assets/images/Dorian4.png
 pic5: assets/images/Dorian5.png
 tags: culture
 date: 2019-02-05
-link:
+link: https://upload.wikimedia.org/wikipedia/commons/6/64/Opium_smoking_1874.jpg
 ---
 Several years ago, in quite another place, I began work upon the largest
 compositional process I have ever undergone. I seemed to get it into my head as

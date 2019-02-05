@@ -677,8 +677,8 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 
 .post-full-image {
-    margin: 0 -10vw -165px;
-    height: 800px;
+    margin: 0 -3vw -165px;
+    height: 500px;
     background: var(--lightgrey) center center;
     background-size: cover;
     border-radius: 5px;
@@ -711,7 +711,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     padding: 70px 100px 0;
     min-height: 230px;
     font-family: Georgia, serif;
-    font-size: 2.2rem;
+    font-size: 2.0rem;
     line-height: 1.6em;
     background: #fff;
 }
