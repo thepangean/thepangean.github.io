@@ -458,6 +458,14 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
   text-overflow: ellipsis;
 }
 
+.caption {
+  width: 80%%;
+  font-size:80%;
+  text-align:center;
+  padding-bottom:3em;
+  align: left;
+}
+
 .post-card {
     flex: 1 1 300px;
     display: flex;
