@@ -66,6 +66,17 @@ aryaman.tewari:
   twitter: False
   cover: assets/images/aryaman-cover.jpg
 
+reuben.pritchard:
+  username: reuben.pritchard
+  name: Rueben Pritchard
+  location:
+  positions: Associate Editor
+  bio: Over-privileged English fuckwit. You'll love me when I'm dead.
+  picture: assets/images/reuben.png
+  facebook: False
+  twitter: False
+  cover: assets/images/reuben-cover.jpg
+
 atreyi.bhaumik:
   username: atreyi.bhaumik
   name: Atreyi Bhaumik
@@ -87,6 +98,17 @@ morgan.black:
   facebook: False
   twitter: False
   cover: assets/images/morgan-cover.jpg
+
+aritra.dutta.gupta:
+  username: aritra.dutta.gupta
+  name: Aritra Dutta Gupta
+  location: Kolkata, India.
+  positions: Contributor
+  bio: A nincompoop with an absurdly designed life.
+  picture: assets/images/aritra.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/aritra-cover.jpg
 
 harshita.jain:
   username: harshita.jain
@@ -187,6 +209,19 @@ reema.singh:
   twitter: False
   cover: assets/images/reema-cover.jpg
 
+swarnima.swastika.tewary:
+  username: swarnima.swastika.tewary
+  name: Swarnima Swastika Tewary
+  location: Kolkata, India.
+  positions: Contributor
+  bio: Independent researcher associated with IPSA. I am a passionate reader of ancient Indian scriptures & everything that falls in between & beyond. I live by & for Nature so when I'm not reading I'm out there in the garden living that magical life!
+  picture: assets/images/swarnima.jpg
+  facebook: Flowerstruckswasti
+  twitter: False
+  cover: assets/images/swarnima-cover.jpg
+  url: thepinkflora.com
+  url_full: http://thepinkflora.com
+
 sam.tanberg:
   username: sam.tanberg
   name: Sam Tanberg
@@ -209,27 +244,27 @@ namya.tewari:
   twitter: False
   cover: assets/images/namya-cover.jpg
 
+adarsh.agarwal:
+  username: adarsh.agarwal
+  name: Adarsh Agarwal
+  location:
+  positions: Guest Contributor
+  bio: Adarsh Agarwal is an undergraduate Economics student at the University of Delhi, and aspires to become a recognisable name in the world of academia.
+  picture: assets/images/adarsh.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/adarsh-cover.jpg
+
 soham.gupta:
   username: soham.gupta
   name: Soham Gupta
   location:
   positions: Contributor
   bio: I believe that the relentless pursuit of truth is the most exalted goal a person could possibly strive for. And the truth, as far as I have experienced it, has only made me zealous for the greater glory of God.
-  picture: #assets/images/soham.jpg
+  # picture: assets/images/soham.jpg
   facebook: False
   twitter: False
   cover: assets/images/soham-cover.jpg
-
-reuben.pritchard:
-  username: reuben.pritchard
-  name: Rueben Pritchard
-  location:
-  positions: Contributor
-  bio: Over-privileged English fuckwit. You'll love me when I'm dead.
-  picture: #assets/images/reuben.jpg
-  facebook: False
-  twitter: False
-  cover: assets/images/reuben-cover.jpg
 
 udayon.sen:
   username: udayon.sen
@@ -274,14 +309,3 @@ stuti.gupta:
   facebook: False
   twitter: False
   cover: assets/images/stuti-cover.jpg
-
-adarsh.agarwal:
-  username: adarsh.agarwal
-  name: Adarsh Agarwal
-  location:
-  positions: Guest Contributor
-  bio: Adarsh Agarwal is an undergraduate Economics student at the University of Delhi, and aspires to become a recognisable name in the world of academia.
-  picture: #assets/images/stuti.jpg
-  facebook: False
-  twitter: False
-  cover: assets/images/adarsh-cover.jpg
