@@ -209,6 +209,17 @@ reema.singh:
   twitter: False
   cover: assets/images/reema-cover.jpg
 
+shivang.singh:
+  username: shivang.singh
+  name: Shivang Singh
+  location: Hong Kong
+  positions: Contributor
+  bio: An ambitious, perseverant, and all-rounded parliamentarian in the making...
+  picture: assets/images/shivang.jpg
+  facebook: shivang.singh.1213
+  twitter: shivangsingh98
+  cover: assets/images/shivang-cover.jpg
+
 swarnima.swastika.tewary:
   username: swarnima.swastika.tewary
   name: Swarnima Swastika Tewary
