@@ -8,7 +8,7 @@ title: Behind the Veil of Economic Growth
 author: reema.singh
 cover: assets/images/economy1-o.jpg
 tags: economics
-date: 2019-02-07 03:57:00
+date: 2019-02-07 04:15:00
 link: https://im.rediff.com/news/2017/feb/economy1-o.jpg
 ---
 India’s short period of fast economic growth has been considerably eulogized. We are now the fastest growing economy in the world—an achievement that we pat ourselves on the back for. Yet, this shred of data is difficult to embrace after being a witness to ground realities. The rapid growth has manifested itself in a plethora of opportunities for many while leaving many others in conditions that seem to be helpless. One can’t help but feel something’s amiss in the “Indian Growth Story” narrative.

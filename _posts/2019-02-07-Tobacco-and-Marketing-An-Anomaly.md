@@ -8,7 +8,7 @@ title: "Tobacco and Marketing: An Anomaly?"
 author: shivang.singh
 cover: assets/images/tobacco.jpg
 tags: economics
-date: 2019-02-07 04:06:00
+date: 2019-02-07 03:57:00
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Zoe_Lyons_Cigar_Wink_High_Res.jpg/680px-Zoe_Lyons_Cigar_Wink_High_Res.jpg
 ---
 In September 1995, Pierre Omidyar, a 28-year old computer programmer finished the code for what would soon become eBay. Searching around for a test item, he put up a broken laser pointer for sale with the base price as $1. The laser pointer sold for $14.83. Shocked, Omidyar contacted the winning bidder to make sure he understood the laser pointer was broken. “Oh yes”, the bidder replied, “I am a collector of broken laser pointers.” Trade creates value by moving goods from people who value them less to people who value them more. Tobacco happens to be a product valued greatly by a variety of stakeholders. It is for this reason that we continue to trade and rampantly consume it in spite of its tribulations.
