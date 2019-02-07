@@ -27,6 +27,7 @@ logo: 'assets/images/ghost.png'
                     <h2 class="author-bio">{{ author[1].bio }}</h2>
                 {% endif %}
                 <div class="author-meta">
+                    <div class="author-location">{{ author[1].positions }} <span class="bull">&bull;</span></div>
                     {% if author[1].location %}
                         <div class="author-location">{{ author[1].location }} <span class="bull">&bull;</span></div>
                     {% endif %}
