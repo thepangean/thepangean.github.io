@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "An Anthropological Consideration of Ugandan Knuckles: Or, The Opiate for a Poisoned State"
+title: "An Anthropological Consideration of Ugandan Knuckles: The Opiate for a Poisoned State"
 author: morgan.black
 cover: assets/images/UKnuckles.jpg
 tags: society
