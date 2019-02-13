@@ -82,7 +82,7 @@ heart, somewhere deep down in there;
 
 Dorian himself, (mezzo-soprano) - I had this idea when watching Mozart’s
 *Marriage of Figaro* and realising Dorian and the teenage sex-pest Cherubino,
-also a trouser-role, are not so very much alike if you gave the latter money and
+also a trouser-role, are not so very different if you gave the latter money and
 immortality;
 
 Lady Victoria Wotton, (soprano) - aside from a few witty flashes in the novella,
