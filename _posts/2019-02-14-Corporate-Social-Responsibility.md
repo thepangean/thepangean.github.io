@@ -8,7 +8,7 @@ title: "What social responsibility, if any, do or should corporations have in so
 author: shivang.singh
 cover: assets/images/CSR.jpg
 tags: economics
-date: 2019-02-14
+date: 2019-02-14 21:30:00
 link: https://www.flickr.com/photos/financialreform/4586716979
 ---
 Consistent with McWilliams and Siegel's approach in <i>The Academy of Management Review</i>, we define Corporate Social Responsibility (CSR) as the spectrum of undertakings in which the firm goes beyond compliance and engages in “actions that appear to further some social good, beyond the interests of the firm”. It is said to be the company’s way of giving back to the community it is making so much out of, i.e. a sort of return gift.
