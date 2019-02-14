@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "What social responsibility, if any, do or should corporations have in society today?"
+title: "What Social Responsibility, if Any, Do or Should Corporations Have in Society Today?"
 author: shivang.singh
 cover: assets/images/CSR.jpg
 tags: economics
