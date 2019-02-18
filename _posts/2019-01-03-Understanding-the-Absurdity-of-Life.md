@@ -5,7 +5,7 @@ cover: assets/images/Pidgeon.jpg
 navigation: True
 title: Understanding the Absurdity of Life
 date: 2019-01-03
-tags: culture
+tags: society
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/c/cd/Sunset_Walk_%2873198759%29.jpeg

@@ -7,7 +7,7 @@ class: post-template
 title: "An Anthropological Consideration of Ugandan Knuckles: The Opiate for a Poisoned State"
 author: morgan.black
 cover: assets/images/UKnuckles.jpg
-tags: society
+tags: culture
 date: 2019-02-07 03:20:00
 link: https://vignette.wikia.nocookie.net/kym/images/d/d2/Ba0.jpg/revision/latest?cb=20180222212108&format=original
 ---
