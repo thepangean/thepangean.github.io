@@ -435,6 +435,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .title {
   /* text-decoration: underline; */
   padding-left: 30px;
+  font-family: 'post_title_font';
 }
 
 @media (min-width: 650px) {
