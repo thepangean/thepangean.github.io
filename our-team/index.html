@@ -14,9 +14,17 @@ subclass: 'post page'
     </div>
 </header>
 
-<header class="post-full-header">
-    <h1 class="post-full-title">{{ page.title }}</h1>
-</header>
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+
+        <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
+
+            <header class="post-full-header">
+                <h1 class="site-title" style="color: #000">{{ page.title }}</h1>
+            </header>
+        </article>
+    </div>
+</main>
 
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
@@ -27,7 +35,7 @@ subclass: 'post page'
         </div>
 
         <div class="post-footnote">
-          <a href="mailto:pangeanmailbox@gmail.com?Subject=Join%20the%20team" target="_top">Join our team</a> and be part of the revolution. We always welcome articles.  
+          <a href="mailto:pangeanmailbox@gmail.com?Subject=Join%20the%20team" target="_top">Join our team</a> and be part of the revolution. We always welcome articles.
         </div>
     </div>
 </main>

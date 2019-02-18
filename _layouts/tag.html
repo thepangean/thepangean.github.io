@@ -17,20 +17,24 @@ logo: 'assets/images/logo.png'
 <header class="site-header outer {% if cover or page.cover %}" style="background-image: url({{ site.baseurl }}{% if cover %}{{ cover }}{% else %}{{ page.cover }}{% endif%}) {% else %}no-cover{% endif %}">
     <div class="inner">
         {% include site-nav.html %}
-        <div class="site-header-content">
-            <h1 class="site-title">{{ page.tag | capitalizeall }}</h1>
-            <h2 class="site-description">
-                {% if tag_description %}
-                    {{ tag_description }}
-                {% elsif page.tag %}
-    			    <!-- A collection of {{ paginator.total_posts }} articles -->
-                {% endif %}
-            </h2>
-        </div>
     </div>
 </header>
 <!-- tag -->
 
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+
+        <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
+
+            <header class="post-full-header">
+              <h1 class="site-title" style="color: #000">{{ page.tag | capitalize }}</h1>
+            </header>
+        </article>
+    </div>
+</main>
+
+<br>
+<br>
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
