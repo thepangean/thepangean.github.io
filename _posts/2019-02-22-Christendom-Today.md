@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "Christendom Today: How Christianity is still Shaping the Modern World"
-author: shoham.gupta
+author: soham.gupta
 cover: assets/images/Vatican.jpg
 tags: society
 date: 2019-02-22
