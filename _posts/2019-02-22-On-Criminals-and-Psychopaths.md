@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "On Criminals and Psychopaths: Why is Ted Bundy, Ted Bundy."
+title: "On Criminals and Psychopaths: Why is Ted Bundy, Ted Bundy?"
 author: udayon.sen
 cover: assets/images/Ted_Bundy.jpg
 tags: society
