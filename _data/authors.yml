@@ -38,11 +38,22 @@ harsh.tiwari:
   name: Harsh Tiwari
   location: Kolkata, India
   positions: Partner, Chief Editor
-  bio: I am not just humble, I am humility.
+  bio: I am a law student with wide-ranging interests who founded this newspaper with his friends to grow and be a better twenty-something.
   picture: assets/images/harsh.jpg
   facebook: False
-  twitter: False
+  twitter: realHarshTiwari
   cover: assets/images/harsh-cover.jpg
+
+atreyi.bhaumik:
+  username: atreyi.bhaumik
+  name: Atreyi Bhaumik
+  location: Delhi, India
+  positions: Editor
+  bio: I am a student in Delhi University, pursuing bachelors in Economics. I also have a keen interest in Policy and probably will explore that field in the future.
+  picture: assets/images/atreyi.jpg
+  facebook: atreyi.bhaumik
+  twitter: False
+  cover: assets/images/atreyi-cover.jpg
 
 aric.kirsten:
   username: aric.kirsten
@@ -54,39 +65,6 @@ aric.kirsten:
   facebook: aric.kirsten
   twitter: Arickrw3
   cover: assets/images/aric-cover.jpg
-
-aryaman.tewari:
-  username: aryaman.tewari
-  name: Aryaman Tewari
-  location: New Delhi, India
-  positions: Editor
-  bio: You'll usually find me either over at the local ground, or at the chess club. Currently, I'm trying to make the most of life in Delhi University. Coming to other interests, it'd be gothic music, Ruskin Bond and reading about the African Lion.
-  picture: assets/images/aryaman.jpg
-  facebook: False
-  twitter: False
-  cover: assets/images/aryaman-cover.jpg
-
-reuben.pritchard:
-  username: reuben.pritchard
-  name: Rueben Pritchard
-  location:
-  positions: Associate Editor
-  bio: Over-privileged English fuckwit. You'll love me when I'm dead.
-  picture: assets/images/reuben.png
-  facebook: False
-  twitter: False
-  cover: assets/images/reuben-cover.jpg
-
-atreyi.bhaumik:
-  username: atreyi.bhaumik
-  name: Atreyi Bhaumik
-  location: Delhi, India
-  positions: Contributor
-  bio: I am a student in Delhi University, pursuing bachelors in Economics. I also have a keen interest in Policy and probably will explore that field in the future.
-  picture: assets/images/atreyi.jpg
-  facebook: atreyi.bhaumik
-  twitter: False
-  cover: assets/images/atreyi-cover.jpg
 
 morgan.black:
   username: morgan.black
@@ -175,6 +153,17 @@ tyler.pesavento:
   facebook: tylerpesavento
   twitter: False
   cover: assets/images/tyler-cover.jpg
+
+reuben.pritchard:
+  username: reuben.pritchard
+  name: Rueben Pritchard
+  location:
+  positions: Contributor
+  bio: Over-privileged English f***wit. You'll love me when I'm dead.
+  picture: assets/images/reuben.png
+  facebook: False
+  twitter: False
+  cover: assets/images/reuben-cover.jpg
 
 abhishek.sancheti:
   username: abhishek.sancheti
@@ -293,7 +282,7 @@ andrew.mark:
   name: Andrew Mark
   location:
   positions: Contributor
-  bio:
+  bio: A contributor at The Pangean
   picture: #assets/images/andrew.jpg
   facebook: False
   twitter: False
@@ -304,7 +293,7 @@ olly.bowes:
   name: Olly Bowes
   location:
   positions: Contributor
-  bio:
+  bio: A contributor at The Pangean
   picture: #assets/images/olly.jpg
   facebook: False
   twitter: False
@@ -315,8 +304,19 @@ stuti.gupta:
   name: Stuti Gupta
   location:
   positions: Contributor
-  bio:
+  bio: A contributor at The Pangean
   picture: #assets/images/stuti.jpg
   facebook: False
   twitter: False
   cover: assets/images/stuti-cover.jpg
+
+# aryaman.tewari:
+#   username: aryaman.tewari
+#   name: Aryaman Tewari
+#   location: New Delhi, India
+#   positions: Editor (Let go)
+#   bio: You'll usually find me either over at the local ground, or at the chess club. Currently, I'm trying to make the most of life in Delhi University. Coming to other interests, it'd be gothic music, Ruskin Bond and reading about the African Lion.
+#   picture: assets/images/aryaman.jpg
+#   facebook: False
+#   twitter: False
+#   cover: assets/images/aryaman-cover.jpg
