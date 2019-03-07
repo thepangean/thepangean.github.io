@@ -167,11 +167,10 @@ Self-evidently, hatred against Catholics must change due to the simple social
 rule that one ought not to be persecuted for one's beliefs. Here are three
 things which I think need to happen in order to help the situation change.
 
-Firstly, People need to better appreciate and understand the Catholic Church’s
-rich and vibrant intellectual history, especially the glories of the Middle Ages
-- figures like Aquinas, Anselm, Ockham, Peter Abelard, Duns Scotus and so on.
+Firstly, people need to better appreciate and understand the Catholic Church’s
+rich and vibrant intellectual history, especially the glories of the Middle Ages - figures like Aquinas, Anselm, Ockham, Peter Abelard, Duns Scotus and so on.
 
-Secondly, The anti-fideism of Catholic theology needs to be properly recognised
+Secondly, the anti-fideism of Catholic theology needs to be properly recognised
 as well (I’m looking at you, Christopher Hitchens). The doctrine of the
 interplay and complementary nature of faith and reason, popularised by Aquinas
 and officially adopted by the Catholic Church at the First Vatican Council, will
