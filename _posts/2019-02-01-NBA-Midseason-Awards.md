@@ -5,7 +5,7 @@ cover: assets/images/Mid.jpg
 navigation: True
 title: "NBA Midseason Awards: Will the Best be Recognized?"
 date: 2019-02-01
-tags: sports
+tags: sports basketball
 class: post-template
 subclass: 'post tag-speeches'
 link: https://www.flickr.com/photos/88586056@N02/13919153208/in/photolist-ncZij9-2d4tSvw
@@ -15,7 +15,7 @@ We’re more than half way through the NBA season and already it’s been full o
 
 **Most Valuable Player: James Harden**
 
-  
+
 
 There are many players putting up great numbers for the season so far, but nobody is even close to James Harden. He is putting up 36.7 points, 8.1 assists, 6.7 rebounds, and 2.1 steals per game. He is literally tearing up teams on a nightly basis.
 
@@ -45,6 +45,6 @@ The Milwaukee Bucks are in the top seed in the East and Budenholzer is a big rea
 
 With the second half of the season underway only time will tell if these players and teams can continue to play at the level they have been since the beginning of the season.
 
-  
+
 
 All stats from: [Basketball-reference.com](http://basketball-reference.com/)

@@ -8,16 +8,20 @@
             {% endif %}
         {% endif %}
         {% if page.navigation %}
-            {% include navigation.html %}
+            {% if site.data.tags[page.tag].sports or page.sports %}
+                {% include navigation-sports.html %}
+            {% else %}
+                {% include navigation.html %}
+            {% endif %}
         {% endif %}
     </div>
     <div class="site-nav-right">
         <div class="social-links">
             {% if site.facebook %}
-                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>
+                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% if page.sports or page.tag.sports %}{% include facebook-sports.html %}{% else %}{% include facebook.html %}{% endif %}</a>
             {% endif %}
             {% if site.twitter %}
-                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
+                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% if page.sports or page.tag.sports %}{% include twitter-sports.html %}{% else %}{% include twitter.html %}{% endif %}</a>
             {% endif %}
         </div>
         {% if site.subscribers %}

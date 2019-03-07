@@ -5,7 +5,7 @@ cover: assets/images/Bowl.jpg
 navigation: True
 title: "Super Bowl LIII: Old School vs. The New Age"
 date: 2019-01-26
-tags: sports
+tags: sports football-us
 class: post-template
 subclass: 'post tag-speeches'
 link: https://www.flickr.com/photos/brookward/28068122189/in/photolist-JLhsRc-2cAeu7k-QsoCh3-2cvMys1-K7kfFz-2afHW2k-28uzpe2-Eqw5kH-JyxPGc-Fqos5y-22oQgvV-28QANwb-NQ12PH-Eu7zX2-22kA7Yv-2bcsfLr-NPZmYg-246o4xb-2bcsQdg-QBTNUx-2cAeUhV-2bcsQ4Z-249hNzX-27S7f2f-FWGVuC-25cjssb-2egpQWf-2bCiorw-M9t5wS-F5qQcL-JadScZ-GKMPab-22FqQWP-22XJaiN-PmV2xK-2bXp488-2cbNC5x-NPZUvz-236XEjj-262noj2-2d8m6yY-RB7DwY-29MT6qy-PLW33M-2aSpMwj-2d7Uo5T-2dE3WT6-2cUQAjX-29FJ7PL-2dW9dxM
@@ -25,6 +25,6 @@ Defensively these teams aren’t as strong. The Rams have the nineteenth ranked 
 
 Like every Super Bowl that the Patriots have played in, we are bound to have a very competitive and entertaining game. Looking at the rosters the Rams have by far the best team. But the Patriots aren’t built on having a team full of stars, they never have been. They play brilliantly as a team rather than individuals. They have the richest history in the NFL and the system that Belichick has created makes it impossible not to succeed. They have more experience than anybody in NFL history. That’s why Tom Brady should get his sixth ring. The New England Patriots are the safer bet to repeat history and defeat the Rams in the Super Bowl again.
 
-  
+
 
 All stats via [Pro-football-reference.com](http://pro-football-reference.com/)

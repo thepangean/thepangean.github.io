@@ -1,24 +1,55 @@
 policy:
   name: policy
+  title: Policy
   description: False
   cover: False
 economics:
   name: economics
-  description: False
-  cover: False
-sports:
-  name: sports
+  title: Economics
   description: False
   cover: False
 culture:
   name: culture
+  title: Culture
   description: False
   cover: False
 society:
   name: society
+  title: Society
   description: False
   cover: False
 conscience:
   name: conscience
+  title: Conscience
   description: False
   cover: False
+sports:
+  name: sports
+  title: Sports
+  description: False
+  cover: False
+  sports: True
+football-eu:
+  name: football-eu
+  title: Football (EU)
+  description: False
+  cover: False
+  sports: True
+football-us:
+  name: football-us
+  title: Football (US)
+  description: False
+  cover: False
+  sports: True
+basketball:
+  name: basketball
+  title: Basketball
+  description: False
+  cover: False
+  sports: True
+baseball:
+  name: baseball
+  title: Baseball
+  description: False
+  cover: False
+  sports: True

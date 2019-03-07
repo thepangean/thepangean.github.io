@@ -1,7 +1,7 @@
 # Jekyll configuration
 markdown: kramdown
 highlighter: rouge
-paginate: 100 # it will paginate after this number
+paginate: 30 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -13,6 +13,7 @@ description: Taking a step back
 cover: False #assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/logo.png
+logo_sports: assets/images/blog-icon-sports.png
 favicon: assets/images/logo.png
 production_url: https://thepangean.com/
 source_url: https://github.com/thepangean/thepangean.github.io/

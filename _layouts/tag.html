@@ -7,7 +7,9 @@ class: 'tag-template'
 navigation: True
 logo: 'assets/images/logo.png'
 ---
-
+{% if site.data.tags[page.tag].sports or page.sports %}
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/sports.css" />
+{% endif %}
 <!-- default -->
 <!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
 
@@ -27,7 +29,7 @@ logo: 'assets/images/logo.png'
         <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
 
             <header class="post-full-header">
-              <h1 class="site-title" style="color: #000">{{ page.tag | capitalize }}</h1>
+              <h1 class="site-title" style="color: #000">{{ site.data.tags[page.tag].title }}</h1>
             </header>
         </article>
     </div>

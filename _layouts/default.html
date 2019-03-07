@@ -43,7 +43,7 @@
         <!-- Previous/next page links - displayed on every page -->
         {% if paginator.total_posts > site.paginate %}
             {% if page.class == 'home-template' %}
-                {% include post_pagination.html %}
+            {% elsif page.class == 'sports-template' %}
             {% elsif page.class == 'page-template' %}
                 {% include post_pagination.html %}
             {% elsif page.class == 'author-template' %}

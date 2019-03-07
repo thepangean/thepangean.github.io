@@ -5,7 +5,7 @@ cover: assets/images/nba1.jpg
 navigation: True
 title: The Golden Era Continues with The Warriors
 date: 2019-01-23
-tags: sports
+tags: sports basketball
 class: post-template
 subclass: 'post tag-speeches'
 link: https://www.flickr.com/photos/dmac55/8587472570/in/photolist-e5R3pU-e3eUkb-aBxYMr-5FURpS-e7s6x1-e7mrAr-uKSqnG-r4UoZy-AiB5tZ-uHsDw7-eedDRY-us5n6D-ijyUY3-f1HRLU-DBJpgm-Jb5UV7-9b9RvB-etN9xa-tRmSdi-e3m63N-e39vXx-e3eHk5-9bcZ6U-4TjmJH-eoEnRy-eoEjh3-e3eTZL-9b9RtT-uKTqtw-fMT9eZ-qHUK2k-4V74L3-JgQiv-9b9R8r-9bcZbA-9b9RzB-9b9R9n-rmokYq-9b9R7t-bASdzP-9b9Rfx-uvLWLM-eoEcwC-eo5H1i-5FURq1-dZYZKh-eoEwDo-en7G4n-4Taf5q-9b9Rka
@@ -19,7 +19,7 @@ Over the past four years in the NBA The Warriors have created a dynasty like no 
 
 The Warriors quickly jumped into the spotlight and became one of the best, if not the best team ever. They dominate opponents with their ability to heat up like no team in history. They are virtually unbeatable with their four All Stars Steph Curry, Kevin Durant, Klay Thompson and Draymond Green. Let it be known that the Warriors are the first team in 40 years to have four All Stars on a roster, and now they’ve added their fifth. What does this team have left to improve on?
 
-  
+
 
 In the off season after the 2018 NBA Finals, Warriors General Manager Bob Myers made the move to acquire six-time All Star DeMarcus Cousins to fill the role as the Center for the 2018-2019 season. Cousins signed a 1 year, 5.4 million-dollar deal with the Warriors after tearing his achilles with the New Orleans Pelicans last January.
 

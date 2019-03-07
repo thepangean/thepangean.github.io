@@ -5,7 +5,7 @@ cover: assets/images/Lawrence.jpg
 navigation: True
 title: "From Friday Night Lights to National Champion, What’s Next for Trevor Lawrence?"
 date: 2019-02-01
-tags: sports
+tags: sports football-us
 class: post-template
 subclass: 'post tag-speeches'
 link: https://www.flickr.com/photos/pdaphoto/6349507026/in/photolist-aF5Te5-6ooz3-6oo31-6ooym-6op4f-6oppX-4sr2Yy-6opEK-6oo4Z-6opAg-6optR-6opfG-6op5y-6opzQ-6ophB-aJovTc-6op1K-6ooFc-8moRPj-6opm6-5vcfuy-6opgA-6opj8-6opno-6op6q-5v7nhk-6opoj-6opku-pxDQAj-5v7imT-6opBm-aJovk6-6ooP4-5vbPXf-6opK1-5vbAFy-5v6xXr-6ooQp-6op74-6opJq-5v7P6p-6opBV-6oo5x-6ootc-6oo5Y-6opr6-8mkGFM-THnm9M-23rnrid-asYoMd
@@ -29,6 +29,6 @@ Looking back on what Trevor Lawrence has done so far, it’s difficult to see hi
 
 He proved that he was ready for a college defense, as he embarrassed the Syracuse defense in his first start with a 97.6 quarterback rating and a 194 passing yard game. And with at least two more years of growth, a coach and teammates with 100% confidence behind him (as well as a brand-new ring) Lawrence’s prime is yet to come.
 
-  
+
 
 All stats from: [https://www.sports-reference.com/cfb/](https://www.sports-reference.com/cfb/)
