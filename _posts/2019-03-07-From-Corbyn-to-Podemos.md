@@ -12,9 +12,7 @@ date: 2019-03-07 04:30
 link: https://www.flickr.com/photos/64461923@N00/12716453043
 ---
 Venezuela is on fire. Two decades of mismanagement by a corrupt regime has left
-its
-
-people starving, fleeing, and cowering from government death squads. Venezuela,
+its people starving, fleeing, and cowering from government death squads. Venezuela,
 the world’s most oil-rich state is in ruins. The extent of the spoil has been so
 thorough that it now imports more oil from the United States than it produces.
 Much of this is because of the severe deficiency of refinement infrastructure.
