@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/sam.tanberg/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-03-07T20:48:28+00:00</updated>
+  <updated>2019-03-07T21:29:55+00:00</updated>
   <id>/author/sam.tanberg/feed.xml</id>
 
   
@@ -128,6 +128,8 @@
       
         <category term="sports" />
       
+        <category term="football-us" />
+      
 
       
         <summary type="html">Just a little over a year ago, a quarterback in Cartersville, Georgia was the #2 overall ranked high school QB in the nation. A couple weeks later, that same quarterback broke the record for career touchdown passes in Georgia.</summary>
@@ -179,6 +181,8 @@
 
       
         <category term="sports" />
+      
+        <category term="baseball" />
       
 
       

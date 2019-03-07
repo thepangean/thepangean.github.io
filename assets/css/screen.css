@@ -120,10 +120,12 @@ body {
 @media (min-width: 900px) {
     .home-template .post-feed,
     .tag-template .post-feed,
+    .sports-template .post-feed,
     .author-template .post-feed {
         margin-top: 0;
     }
-    .home-template .site-nav {
+    .home-template .site-nav,
+    .sports-template .post-feed {
         position: relative;
         top: 0;
     }
@@ -390,13 +392,15 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 @media (max-width: 500px) {
-  .home-template .site-nav-right {
+  .sports-template .post-feed,
+  .home-template .post-feed, {
       flex-shrink: 0;
       display: flex;
       align-items: center;
       height: 40px;
   }
-  .home-template .subscribe-button {
+  .home-template .subscribe-button,
+  .sports-template .subscribe-button {
     display:none;
   }
 }
