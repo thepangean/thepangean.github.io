@@ -180,11 +180,11 @@ Kipling, from his *Verses on Games*:
 <blockquote>
 “Peace upon Earth, Goodwill to men” <br>
 
-           So greet we Christmas Day! <br>
+So greet we Christmas Day! <br>
 
-       Oh, Christian, load your gun and then <br>
+Oh, Christian, load your gun and then <br>
 
-           Oh, Christian, out and slay.”
+Oh, Christian, out and slay.”
 </blockquote>
 
 This joyful entrance is set to a reharmonisation of Sullivan’s tune Noel, known
