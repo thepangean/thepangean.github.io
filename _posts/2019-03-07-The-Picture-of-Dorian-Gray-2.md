@@ -93,13 +93,13 @@ Debussy-inspired. With a French poem, especially by a poet such as Théophile
 Gautier, one can’t not look to Debussy, I feel.
 
 <blockquote>
-*“Sur une gamme chromatique,*
+“Sur une gamme chromatique, <br>
 
-*Le sein de perles ruisselant,*
+Le sein de perles ruisselant, <br>
 
-*La Vénus de l’Adriatique*
+La Vénus de l’Adriatique, <br>
 
-*Sort de l’eau son corps rose et blanc.”*
+Sort de l’eau son corps rose et blanc.”
 </blockquote>
 
 The remainder of the first scene is dominated by the one appearance of Sybil’s
@@ -178,13 +178,13 @@ Dorian has been sitting in order to go shooting, singing words by Rudyard
 Kipling, from his *Verses on Games*:
 
 <blockquote>
-*“Peace upon Earth, Goodwill to men”*
+“Peace upon Earth, Goodwill to men” <br>
 
-*           So greet we Christmas Day!*
+           So greet we Christmas Day! <br>
 
-*       Oh, Christian, load your gun and then*
+       Oh, Christian, load your gun and then <br>
 
-*           Oh, Christian, out and slay.”*
+           Oh, Christian, out and slay.”
 </blockquote>
 
 This joyful entrance is set to a reharmonisation of Sullivan’s tune Noel, known
