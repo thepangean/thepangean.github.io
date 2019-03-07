@@ -1,24 +1,19 @@
 ---
 layout: default
-current: tag
-title: Tag Page
-cover: false
-class: 'tag-template'
-navigation: True
+current: our-team
+title: Sports Team
+navigation: true
 logo: 'assets/images/logo.png'
+class: page-template
+subclass: 'post page'
+sports: true
 ---
-<!-- default -->
-<!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
-
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<!-- #tag -->
-{% include dynamic_tag_info.html %}
-<header class="site-header outer {% if cover or page.cover %}" style="background-image: url({{ site.baseurl }}{% if cover %}{{ cover }}{% else %}{{ page.cover }}{% endif%}) {% else %}no-cover{% endif %}">
+<header class="site-header outer">
     <div class="inner">
         {% include site-nav.html %}
     </div>
 </header>
-<!-- tag -->
 
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
@@ -26,20 +21,22 @@ logo: 'assets/images/logo.png'
         <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
 
             <header class="post-full-header">
-              <h1 class="site-title" style="color: #000">{{ site.data.tags[page.tag].title }}</h1>
+                <h1 class="site-title" style="color: #000">{{ page.title }}</h1>
             </header>
         </article>
     </div>
 </main>
 
-<br>
-<br>
-<!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
+
         <div class="post-feed" style="width:100%">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-            {%  include post-card.html %}
+            {%  include author-card.html %}
+        </div>
+
+        <div class="post-footnote">
+          <a href="mailto:pangeanmailbox@gmail.com?Subject=Join%20the%20team" target="_top">Join our team</a> and be part of the revolution. We always welcome articles.
         </div>
     </div>
 </main>

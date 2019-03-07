@@ -1,29 +1,66 @@
-{% for author in site.data.authors %}
-    <article class="post-card {{ page.class }}{% unless author[1].picture %} no-image{% endunless %}">
-        {% if author[1].picture %}
-            <a class="post-card-image-link" href="{{ site.baseurl }}author/{{ author[1].username }}">
-                <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ author[1].picture }})"></div>
-            </a>
-        {% endif %}
-        <div class="post-card-content">
-            <a class="post-card-content-link" href="{{ site.baseurl }}author/{{ author[1].username}}">
-                <header class="post-card-header">
-                    {% if author[1].positions %}
-                        {% for position in author[1].positions %}
-                            {% if forloop.index == author[1].positions.size %}
-                                <span class="post-card-tags">{{ position | capitalize }}</span>
-                            {% else %}
-                               <span class="post-card-tags">{{ position | capitalize }}</span>
-                            {% endif %}
-                        {% endfor %}
+{% include issports.html %}
+{% if issports %}
+      {% for author in site.data.authors %}
+          {% if author[1].sports %}
+                <article class="post-card {{ page.class }}{% unless author[1].picture %} no-image{% endunless %}">
+                    {% if author[1].picture %}
+                        <a class="post-card-image-link" href="{{ site.baseurl }}author/{{ author[1].username }}">
+                            <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ author[1].picture }})"></div>
+                        </a>
                     {% endif %}
+                    <div class="post-card-content">
+                        <a class="post-card-content-link" href="{{ site.baseurl }}author/{{ author[1].username}}">
+                            <header class="post-card-header">
+                                {% if author[1].positions %}
+                                    {% for position in author[1].positions %}
+                                        {% if forloop.index == author[1].positions.size %}
+                                            <span class="post-card-tags">{{ position | capitalize }}</span>
+                                        {% else %}
+                                           <span class="post-card-tags">{{ position | capitalize }}</span>
+                                        {% endif %}
+                                    {% endfor %}
+                                {% endif %}
 
-                    <h3 class="post-card-title">{{ author[1].name }}</h3>
-                </header>
-                <section class="post-card-excerpt">
-                    <p class="truncate" style="-webkit-line-clamp: 3;">{{ author[1].bio}}</p>
-                </section>
-            </a>
-        </div>
-    </article>
-{% endfor %}
+                                <h3 class="post-card-title">{{ author[1].name }}</h3>
+                            </header>
+                            <section class="post-card-excerpt">
+                                <p class="truncate" style="-webkit-line-clamp: 3;">{{ author[1].bio}}</p>
+                            </section>
+                        </a>
+                    </div>
+                </article>
+          {% endif %}
+      {% endfor %}
+{% else %}
+      {% for author in site.data.authors %}
+          {% unless author[1].sports %}
+                <article class="post-card {{ page.class }}{% unless author[1].picture %} no-image{% endunless %}">
+                    {% if author[1].picture %}
+                        <a class="post-card-image-link" href="{{ site.baseurl }}author/{{ author[1].username }}">
+                            <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ author[1].picture }})"></div>
+                        </a>
+                    {% endif %}
+                    <div class="post-card-content">
+                        <a class="post-card-content-link" href="{{ site.baseurl }}author/{{ author[1].username}}">
+                            <header class="post-card-header">
+                                {% if author[1].positions %}
+                                    {% for position in author[1].positions %}
+                                        {% if forloop.index == author[1].positions.size %}
+                                            <span class="post-card-tags">{{ position | capitalize }}</span>
+                                        {% else %}
+                                           <span class="post-card-tags">{{ position | capitalize }}</span>
+                                        {% endif %}
+                                    {% endfor %}
+                                {% endif %}
+
+                                <h3 class="post-card-title">{{ author[1].name }}</h3>
+                            </header>
+                            <section class="post-card-excerpt">
+                                <p class="truncate" style="-webkit-line-clamp: 3;">{{ author[1].bio}}</p>
+                            </section>
+                        </a>
+                    </div>
+                </article>
+          {% endunless %}
+      {% endfor %}
+{% endif %}

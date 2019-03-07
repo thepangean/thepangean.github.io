@@ -1,14 +1,15 @@
+{% include issports.html %}
 <nav class="site-nav">
     <div class="site-nav-left">
         {% if page.current != 'home' %}
-            {% if site.logo %}
-                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}"><img src="{{ site.baseurl}}{{ site.logo }}" alt="{{ site.title }}" /></a>
+            {% if site.logo or site.logo_sports %}
+                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}"><img src="{{ site.baseurl}}{% if issports %}{{ site.logo_sports }}{% else %}{{ site.logo }}{% endif %}" alt="{{ site.title }}" /></a>
             {% else %}
                 <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             {% endif %}
         {% endif %}
         {% if page.navigation %}
-            {% if site.data.tags[page.tag].sports or page.sports %}
+            {% if issports %}
                 {% include navigation-sports.html %}
             {% else %}
                 {% include navigation.html %}
@@ -18,10 +19,10 @@
     <div class="site-nav-right">
         <div class="social-links">
             {% if site.facebook %}
-                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% if page.sports or page.tag.sports %}{% include facebook-sports.html %}{% else %}{% include facebook.html %}{% endif %}</a>
+                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% if issports %}{% include facebook-sports.html %}{% else %}{% include facebook.html %}{% endif %}</a>
             {% endif %}
             {% if site.twitter %}
-                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% if page.sports or page.tag.sports %}{% include twitter-sports.html %}{% else %}{% include twitter.html %}{% endif %}</a>
+                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% if issports %}{% include twitter-sports.html %}{% else %}{% include twitter.html %}{% endif %}</a>
             {% endif %}
         </div>
         {% if site.subscribers %}

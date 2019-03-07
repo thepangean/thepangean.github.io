@@ -1,7 +1,13 @@
 @import "global.css";
 
+/* MENU BAR  */
+
 .site-header {
     background: color(var(--black)) no-repeat center center;
+}
+
+.site-header:after {
+    background: var(--black)/* linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0)); */
 }
 
 .nav li a {

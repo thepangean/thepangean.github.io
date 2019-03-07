@@ -110,6 +110,7 @@ jacob.jones:
   facebook: False
   twitter: False
   cover: assets/images/jacob-cover.jpg
+  sports: True
 
 ashima.makhija:
   username: ashima.makhija
@@ -154,6 +155,7 @@ tyler.pesavento:
   facebook: tylerpesavento
   twitter: False
   cover: assets/images/tyler-cover.jpg
+  sports: True
 
 reuben.pritchard:
   username: reuben.pritchard
@@ -233,6 +235,7 @@ sam.tanberg:
   facebook: samtanberg16
   twitter: False
   cover: assets/images/sam-cover.jpg
+  sports: True
 
 namya.tewari:
   username: namya.tewari
@@ -288,6 +291,7 @@ andrew.mark:
   facebook: False
   twitter: False
   cover: assets/images/andrew-cover.jpg
+  sports: True
 
 olly.bowes:
   username: olly.bowes

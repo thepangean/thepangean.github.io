@@ -1,13 +1,14 @@
 <div class="floating-header">
     <div class="floating-header-logo">
         <a href="{{ site.url }}{{ site.baseurl }}">
-            {% if site.logo_dark %}
-                <img src="{{ site.baseurl }}{{ site.logo_dark }}" alt="{{ site.title }} icon" />
+            {% if site.logo %}
+                <img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }} icon" />
             {% endif %}
-            <span>{{ site.title }}</span>
+            <!-- <span>{{ site.title }}</span> -->
         </a>
     </div>
-    <span class="floating-header-divider">&mdash;</span>
+    <!-- <span class="floating-header-divider">&mdash;</span> -->
+    <span class="floating-header-divider">&nbsp;</span>
     <div class="floating-header-title">{{ page.title }}</div>
     <div class="floating-header-share">
         <div class="floating-header-share-label">Share this {% include point.html %}</div>

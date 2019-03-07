@@ -1,0 +1,14 @@
+{% assign issports = false %}
+{% if site.data.tags[page.tag].sports or page.sports or site.data.authors[page.author].sports %}
+{% assign issports = true %}
+{% else %}
+  {% for tag in page.tags %}
+      {% if tag == "sports" %}
+          {% assign issports = true %}
+      {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% if issports %}
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/sports.css" />
+{% endif %}
