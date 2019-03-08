@@ -131,8 +131,10 @@ exchange controls and no threat to the ‘confidentiality’ of deposits.
 
 As Alberto Alesina said in his book *Size of Nations*:
 
-*“Whether country size matters for economic prosperity depends on a country’s
-degree of economic integration with the rest of the world.”*
+<blockquote>
+“Whether country size matters for economic prosperity depends on a country’s
+degree of economic integration with the rest of the world.”
+</blockquote>
 
 Similarly, these economies too, have to integrate with the world economy if they
 wish to develop and prosper. They cannot depend on a single economy or a single
