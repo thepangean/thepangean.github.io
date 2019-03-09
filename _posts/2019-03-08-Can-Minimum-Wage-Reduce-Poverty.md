@@ -20,8 +20,7 @@ in Europe, Britain, at first sight, appears to illustrate an accurate balance
 between executing a minimum wage policy and preserving the uniform availability
 of job opportunities (even if Brexit could change that drastically). Apart from
 Britain, even Hong Kong has witnessed an upward trend in median monthly wages of
-unskilled workers by 43% in money terms and 20% in real terms between 2010 and
-2014. Synchronously, the 2014 Report on Annual Earnings and Hours Survey
+unskilled workers by 43% in money terms and 20% in real terms between 2010 and 2014. Synchronously, the 2014 Report on Annual Earnings and Hours Survey
 published by The Census and Statistics Department outlines inputs from the
 Minimum Wage Commission that indicate a fall in the unemployment rate for
 elementary occupations from 4.4% in 2010 to 3.3% in 2014. Advocates of minimum
