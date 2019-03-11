@@ -35,41 +35,44 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
+      {% assign section_select = "culture" %}
+      <div class="title" >
+        <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
+      </div>
+      <div class="post-feed" >
+          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+          {%  include post-card-section.html %}
+      </div>
+
+      {% assign section_select = "society" %}
+      <div class="title " >
+        <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
+      </div>
+
+      <div class="post-feed " >
+          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+          {%  include post-card-section.html %}
+      </div>
+
+      {% assign section_select = "policy" %}
       <div class="title">
-        <a href="{{site.baseurl}}tag/policy" style="color:#15171A"><h2>{{ site.data.tags.policy.title}}</h2></a>
+        <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
       </div>
 
       <div class="post-feed">
           <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card-policy.html %}
+          {%  include post-card-section.html %}
       </div>
 
+      {% assign section_select = "economics" %}
       <div class="title ">
-        <a href="{{site.baseurl}}tag/economics" style="color:#15171A"><h2>{{ site.data.tags.economics.title}}</h2></a>
+        <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
       </div>
 
       <div class="post-feed " >
           <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card-economics.html %}
+          {%  include post-card-section.html %}
       </div>
-
-      <div class="title" >
-        <a href="{{site.baseurl}}tag/culture" style="color:#15171A"><h2>{{ site.data.tags.culture.title}}</h2></a>
-      </div>
-      <div class="post-feed" >
-          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card-culture.html %}
-      </div>
-
-      <div class="title " >
-        <a href="{{site.baseurl}}tag/society" style="color:#15171A"><h2>{{ site.data.tags.society.title}}</h2></a>
-      </div>
-
-      <div class="post-feed " >
-          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card-society.html %}
-      </div>
-
 
     </div>
 </main>

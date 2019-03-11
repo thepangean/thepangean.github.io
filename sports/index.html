@@ -1,7 +1,7 @@
 ---
 layout: default
 current: home
-class: 'sports-template'
+class: 'home-template'
 sports: true
 navigation: true
 cover: false
@@ -39,39 +39,44 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
+      {% assign section_select = "football-eu" %}
       <div class="title">
-        <a href="{{site.baseurl}}tag/football-eu" style="color:#15171A"><h2>{{ site.data.tags.football-eu.title}}</h2></a>
+        <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
       </div>
 
       <div class="post-feed">
           <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card.html %}
+          {%  include post-card-section.html %}
       </div>
 
+      {% assign section_select = "football-us" %}
       <div class="title" >
-        <a href="{{site.baseurl}}tag/football-us" style="color:#15171A"><h2>{{ site.data.tags.football-us.title}}</h2></a>
+        <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
       </div>
       <div class="post-feed" >
           <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card-football-us.html %}
+
+          {%  include post-card-section.html %}
       </div>
 
+      {% assign section_select = "basketball" %}
       <div class="title " >
-        <a href="{{site.baseurl}}tag/basketball" style="color:#15171A"><h2>{{ site.data.tags.basketball.title}}</h2></a>
+        <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
       </div>
 
       <div class="post-feed " >
           <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card-basketball.html %}
+          {%  include post-card-section.html %}
       </div>
 
+      {% assign section_select = "baseball" %}
       <div class="title " >
-        <a href="{{site.baseurl}}tag/baseball" style="color:#15171A"><h2>{{ site.data.tags.baseball.title}}</h2></a>
+        <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
       </div>
 
       <div class="post-feed " >
           <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card-baseball.html %}
+          {%  include post-card-section.html %}
       </div>
 
 

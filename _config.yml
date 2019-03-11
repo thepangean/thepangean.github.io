@@ -1,7 +1,7 @@
 # Jekyll configuration
 markdown: kramdown
 highlighter: rouge
-paginate: 30 # it will paginate after this number
+paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -27,6 +27,10 @@ subscribers: False
 # by editing `_includes/subscribe-form.html`
 twitter: thepangean # replace by your username
 facebook: thepangean # replace by your username
+
+# creating collections (sections)
+collections:
+  - sports
 
 # Disqus
 disqus: False

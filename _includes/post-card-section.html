@@ -1,6 +1,6 @@
 {% assign counter = 0 %}
-{% for post in paginator.posts %}
-    {% if post.tags[0] == site.data.tags.economics.name and counter < 2 %}
+{% for post in site.posts %}
+    {% if post.tags contains site.data.tags[section_select].name and counter < 2 %}
         {% assign counter = counter | plus:1 %}
         <article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
             {% if post.cover %}
