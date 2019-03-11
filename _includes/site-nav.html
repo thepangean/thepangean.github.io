@@ -3,7 +3,7 @@
     <div class="site-nav-left">
         {% if page.current != 'home' %}
             {% if site.logo or site.logo_sports %}
-                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}"><img src="{{ site.baseurl}}{% if issports %}{{ site.logo_sports }}{% else %}{{ site.logo }}{% endif %}" alt="{{ site.title }}" /></a>
+                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}{% if issports %}sports{% endif %}"><img src="{{ site.baseurl}}{% if issports %}{{ site.logo_sports }}{% else %}{{ site.logo }}{% endif %}" alt="{{ site.title }}" /></a>
             {% else %}
                 <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             {% endif %}
