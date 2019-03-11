@@ -198,8 +198,12 @@ into the {body} of the default.hbs template -->
             </header>
 
             
-            <div style="width:100%;"><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Child_Maid_Servant.JPG/1024px-Child_Maid_Servant.JPG" rel="noopener noreferrer" target="_blank"><figure class="post-full-image" style="background-image: url(/assets/images/no-helping-hand.jpg)">
-            </figure></a></div>
+            <div style="width:100%;">
+              <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Child_Maid_Servant.JPG/1024px-Child_Maid_Servant.JPG" rel="noopener noreferrer" target="_blank">
+                <figure class="post-full-image" style="background-image: url(/assets/images/no-helping-hand.jpg)">
+                </figure>
+              </a>
+            </div>
             
 
             <section class="post-full-content">
@@ -384,6 +388,22 @@ For the migrant housemaids, the problem is aggravated by the mere fact that they
             <!-- If you use Disqus comments, just uncomment this block.
             The only thing you need to change is "test-apkdzgmqhj" - which
             should be replaced with your own Disqus site-id. -->
+            
+                <section class="post-full-comments">
+                    <div id="disqus_thread"></div>
+                    <script>
+                        var disqus_config = function () {
+                            this.page.url = '/';
+                            this.page.identifier = 'No Helping Hand to Helping Hands';
+                        };
+                        (function() {
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://the-pangean.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                </section>
             
 
         </article>

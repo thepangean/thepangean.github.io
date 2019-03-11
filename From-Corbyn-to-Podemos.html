@@ -198,8 +198,12 @@ into the {body} of the default.hbs template -->
             </header>
 
             
-            <div style="width:100%;"><a href="https://www.flickr.com/photos/64461923@N00/12716453043" rel="noopener noreferrer" target="_blank"><figure class="post-full-image" style="background-image: url(/assets/images/venezuala_protests.jpg)">
-            </figure></a></div>
+            <div style="width:100%;">
+              <a href="https://www.flickr.com/photos/64461923@N00/12716453043" rel="noopener noreferrer" target="_blank">
+                <figure class="post-full-image" style="background-image: url(/assets/images/venezuala_protests.jpg)">
+                </figure>
+              </a>
+            </div>
             
 
             <section class="post-full-content">
@@ -455,6 +459,22 @@ only they had the power they believe they deserve.</p>
             <!-- If you use Disqus comments, just uncomment this block.
             The only thing you need to change is "test-apkdzgmqhj" - which
             should be replaced with your own Disqus site-id. -->
+            
+                <section class="post-full-comments">
+                    <div id="disqus_thread"></div>
+                    <script>
+                        var disqus_config = function () {
+                            this.page.url = '/';
+                            this.page.identifier = 'From Corbyn to Podemos, Don't Forgive Maduro’s Cheerleaders';
+                        };
+                        (function() {
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://the-pangean.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                </section>
             
 
         </article>

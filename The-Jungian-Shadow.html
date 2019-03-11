@@ -198,8 +198,12 @@ into the {body} of the default.hbs template -->
             </header>
 
             
-            <div style="width:100%;"><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29_crop.jpg/867px-Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29_crop.jpg" rel="noopener noreferrer" target="_blank"><figure class="post-full-image" style="background-image: url(/assets/images/The-Jungian-Shadow.jpg)">
-            </figure></a></div>
+            <div style="width:100%;">
+              <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29_crop.jpg/867px-Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29_crop.jpg" rel="noopener noreferrer" target="_blank">
+                <figure class="post-full-image" style="background-image: url(/assets/images/The-Jungian-Shadow.jpg)">
+                </figure>
+              </a>
+            </div>
             
 
             <section class="post-full-content">
@@ -373,6 +377,22 @@ into the {body} of the default.hbs template -->
             <!-- If you use Disqus comments, just uncomment this block.
             The only thing you need to change is "test-apkdzgmqhj" - which
             should be replaced with your own Disqus site-id. -->
+            
+                <section class="post-full-comments">
+                    <div id="disqus_thread"></div>
+                    <script>
+                        var disqus_config = function () {
+                            this.page.url = '/';
+                            this.page.identifier = 'The Jungian Shadow';
+                        };
+                        (function() {
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://the-pangean.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                </section>
             
 
         </article>

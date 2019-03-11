@@ -202,8 +202,12 @@ into the {body} of the default.hbs template -->
             </header>
 
             
-            <div style="width:100%;"><a href="https://www.flickr.com/photos/dmac55/8587472570/in/photolist-e5R3pU-e3eUkb-aBxYMr-5FURpS-e7s6x1-e7mrAr-uKSqnG-r4UoZy-AiB5tZ-uHsDw7-eedDRY-us5n6D-ijyUY3-f1HRLU-DBJpgm-Jb5UV7-9b9RvB-etN9xa-tRmSdi-e3m63N-e39vXx-e3eHk5-9bcZ6U-4TjmJH-eoEnRy-eoEjh3-e3eTZL-9b9RtT-uKTqtw-fMT9eZ-qHUK2k-4V74L3-JgQiv-9b9R8r-9bcZbA-9b9RzB-9b9R9n-rmokYq-9b9R7t-bASdzP-9b9Rfx-uvLWLM-eoEcwC-eo5H1i-5FURq1-dZYZKh-eoEwDo-en7G4n-4Taf5q-9b9Rka" rel="noopener noreferrer" target="_blank"><figure class="post-full-image" style="background-image: url(/assets/images/nba1.jpg)">
-            </figure></a></div>
+            <div style="width:100%;">
+              <a href="https://www.flickr.com/photos/dmac55/8587472570/in/photolist-e5R3pU-e3eUkb-aBxYMr-5FURpS-e7s6x1-e7mrAr-uKSqnG-r4UoZy-AiB5tZ-uHsDw7-eedDRY-us5n6D-ijyUY3-f1HRLU-DBJpgm-Jb5UV7-9b9RvB-etN9xa-tRmSdi-e3m63N-e39vXx-e3eHk5-9bcZ6U-4TjmJH-eoEnRy-eoEjh3-e3eTZL-9b9RtT-uKTqtw-fMT9eZ-qHUK2k-4V74L3-JgQiv-9b9R8r-9bcZbA-9b9RzB-9b9R9n-rmokYq-9b9R7t-bASdzP-9b9Rfx-uvLWLM-eoEcwC-eo5H1i-5FURq1-dZYZKh-eoEwDo-en7G4n-4Taf5q-9b9Rka" rel="noopener noreferrer" target="_blank">
+                <figure class="post-full-image" style="background-image: url(/assets/images/nba1.jpg)">
+                </figure>
+              </a>
+            </div>
             
 
             <section class="post-full-content">
@@ -385,6 +389,22 @@ into the {body} of the default.hbs template -->
             <!-- If you use Disqus comments, just uncomment this block.
             The only thing you need to change is "test-apkdzgmqhj" - which
             should be replaced with your own Disqus site-id. -->
+            
+                <section class="post-full-comments">
+                    <div id="disqus_thread"></div>
+                    <script>
+                        var disqus_config = function () {
+                            this.page.url = '/';
+                            this.page.identifier = 'The Golden Era Continues with The Warriors';
+                        };
+                        (function() {
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://the-pangean.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                </section>
             
 
         </article>

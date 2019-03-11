@@ -202,8 +202,12 @@ into the {body} of the default.hbs template -->
             </header>
 
             
-            <div style="width:100%;"><a href="https://www.flickr.com/photos/brookward/28068122189/in/photolist-JLhsRc-2cAeu7k-QsoCh3-2cvMys1-K7kfFz-2afHW2k-28uzpe2-Eqw5kH-JyxPGc-Fqos5y-22oQgvV-28QANwb-NQ12PH-Eu7zX2-22kA7Yv-2bcsfLr-NPZmYg-246o4xb-2bcsQdg-QBTNUx-2cAeUhV-2bcsQ4Z-249hNzX-27S7f2f-FWGVuC-25cjssb-2egpQWf-2bCiorw-M9t5wS-F5qQcL-JadScZ-GKMPab-22FqQWP-22XJaiN-PmV2xK-2bXp488-2cbNC5x-NPZUvz-236XEjj-262noj2-2d8m6yY-RB7DwY-29MT6qy-PLW33M-2aSpMwj-2d7Uo5T-2dE3WT6-2cUQAjX-29FJ7PL-2dW9dxM" rel="noopener noreferrer" target="_blank"><figure class="post-full-image" style="background-image: url(/assets/images/Bowl.jpg)">
-            </figure></a></div>
+            <div style="width:100%;">
+              <a href="https://www.flickr.com/photos/brookward/28068122189/in/photolist-JLhsRc-2cAeu7k-QsoCh3-2cvMys1-K7kfFz-2afHW2k-28uzpe2-Eqw5kH-JyxPGc-Fqos5y-22oQgvV-28QANwb-NQ12PH-Eu7zX2-22kA7Yv-2bcsfLr-NPZmYg-246o4xb-2bcsQdg-QBTNUx-2cAeUhV-2bcsQ4Z-249hNzX-27S7f2f-FWGVuC-25cjssb-2egpQWf-2bCiorw-M9t5wS-F5qQcL-JadScZ-GKMPab-22FqQWP-22XJaiN-PmV2xK-2bXp488-2cbNC5x-NPZUvz-236XEjj-262noj2-2d8m6yY-RB7DwY-29MT6qy-PLW33M-2aSpMwj-2d7Uo5T-2dE3WT6-2cUQAjX-29FJ7PL-2dW9dxM" rel="noopener noreferrer" target="_blank">
+                <figure class="post-full-image" style="background-image: url(/assets/images/Bowl.jpg)">
+                </figure>
+              </a>
+            </div>
             
 
             <section class="post-full-content">
@@ -383,6 +387,22 @@ into the {body} of the default.hbs template -->
             <!-- If you use Disqus comments, just uncomment this block.
             The only thing you need to change is "test-apkdzgmqhj" - which
             should be replaced with your own Disqus site-id. -->
+            
+                <section class="post-full-comments">
+                    <div id="disqus_thread"></div>
+                    <script>
+                        var disqus_config = function () {
+                            this.page.url = '/';
+                            this.page.identifier = 'Super Bowl LIII: Old School vs. The New Age';
+                        };
+                        (function() {
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://the-pangean.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                </section>
             
 
         </article>

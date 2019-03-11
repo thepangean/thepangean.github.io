@@ -198,8 +198,12 @@ into the {body} of the default.hbs template -->
             </header>
 
             
-            <div style="width:100%;"><a href="https://upload.wikimedia.org/wikipedia/commons/0/03/Letter_signed_Robert_Wharton%2C_Nelsonville%2C_to_his_son_%28John_Wharton%3F%29%2C_April_8%2C_1864.jpg" rel="noopener noreferrer" target="_blank"><figure class="post-full-image" style="background-image: url(/assets/images/indian-econs-student.jpg)">
-            </figure></a></div>
+            <div style="width:100%;">
+              <a href="https://upload.wikimedia.org/wikipedia/commons/0/03/Letter_signed_Robert_Wharton%2C_Nelsonville%2C_to_his_son_%28John_Wharton%3F%29%2C_April_8%2C_1864.jpg" rel="noopener noreferrer" target="_blank">
+                <figure class="post-full-image" style="background-image: url(/assets/images/indian-econs-student.jpg)">
+                </figure>
+              </a>
+            </div>
             
 
             <section class="post-full-content">
@@ -427,6 +431,22 @@ He said, “What use is any of what you said to a nation whose soul is great eno
             <!-- If you use Disqus comments, just uncomment this block.
             The only thing you need to change is "test-apkdzgmqhj" - which
             should be replaced with your own Disqus site-id. -->
+            
+                <section class="post-full-comments">
+                    <div id="disqus_thread"></div>
+                    <script>
+                        var disqus_config = function () {
+                            this.page.url = '/';
+                            this.page.identifier = 'Diary of a Confused Indian Economics Student';
+                        };
+                        (function() {
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://the-pangean.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                </section>
             
 
         </article>
