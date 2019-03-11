@@ -50,8 +50,12 @@ into the {body} of the default.hbs template -->
             </header>
 
             {% if page.cover %}
-            <div style="width:100%;"><a href="{{page.link}}" rel="noopener noreferrer" target="_blank"><figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
-            </figure></a></div>
+            <div style="width:100%;">
+              <a href="{{page.link}}" rel="noopener noreferrer" target="_blank">
+                <figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
+                </figure>
+              </a>
+            </div>
             {% endif %}
 
             <section class="post-full-content">
@@ -139,7 +143,7 @@ into the {body} of the default.hbs template -->
                     <script>
                         var disqus_config = function () {
                             this.page.url = '{{ site.url }}{{ site.baseurl }}';
-                            this.page.identifier = '{{ site.title }}';
+                            this.page.identifier = '{{ page.title }}';
                         };
                         (function() {
                             var d = document, s = d.createElement('script');
