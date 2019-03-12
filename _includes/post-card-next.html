@@ -10,13 +10,13 @@
                 <header class="post-card-header">
                     {% if page.next.tags.size > 0 %}
                         {% for tag in page.next.tags %}
-                          {% if tag != 'sports'%}
+                          {% unless site.data.tags[tag].hidden %}
                             {% if forloop.index == page.next.tags.size %}
                                 <span class="post-card-tags">{{ tag | capitalize }}</span>
                             {% else %}
                                <span class="post-card-tags">{{ tag | capitalize }}</span>
                             {% endif %}
-                          {% endif %}
+                          {% endunless %}
                         {% endfor %}
                     {% endif %}
 

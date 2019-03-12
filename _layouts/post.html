@@ -35,13 +35,13 @@ into the {body} of the default.hbs template -->
                     {% if page.tags.size > 0 %}
                         <span class="date-divider">/</span>
                         {% for tag in page.tags %}
-                          {% if tag != 'sports' %}
+                          {% unless site.data.tags[tag].hidden %}
                             {% if forloop.index == page.tags.size %}
                                &nbsp <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>
                             {% else %}
                                &nbsp <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }} </a>,
                             {% endif %}
-                          {% endif %}
+                          {% endunless %}
                         {% endfor %}
                     {% endif %}
                 </section>
