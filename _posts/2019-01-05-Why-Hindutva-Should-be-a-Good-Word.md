@@ -9,9 +9,7 @@ tags: society
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/1/19/A_Hindu_temple_in_Bali_Indonesia_with_swastika_sign.jpg
-author: harsh.tiwari
-authors: tushar.singh
-author1: tushar.singh
+author: harsh.tiwari tushar.singh
 ---
 The term ‘Hindutva’ has a bad reputation and not without good reason. A most unholy concoction of unscientific claims by right-wing leaders, mob lynchings, casteism and communal hatred has come to define Hindutva. The term has become so contemptible, especially to the well-educated and well-to-do of Indian society, that anyone who has slightly Hindutvavadi inclinations is automatically branded a ‘Bigoted Bhakt’ or ‘Sanghi’. This is, however, a sad state-of-affairs, for a political ideology like 'Hindutva’ can be so much more than 'Mandir Wahin Banayenge’. This article is an attempt at defining (not revising) Hindutva. It is our attempt at showing the world that Hindutva can be a profoundly positive contributor to our lives and to the life of this diverse and great nation called India.
 

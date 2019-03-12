@@ -434,54 +434,51 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     width: 100%;
 }
 
+.post-feed-main {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 0;
+    padding: 30px 0 0 0;
+    float: left;
+    width: 60%;
+}
+
+.post-feed-column {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 0;
+    padding: 0 0 0 0;
+    float: left;
+    width: 40%;
+}
+
+.title-column {
+  /* text-decoration: underline; */
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  float: left;
+  padding-left: 30px;
+  padding-top: -200px;
+  width: 40%;
+  color:#15171A;
+  font-family: 'post_title_font';
+}
+
 /* raise1 raise2 secondary and tertiary are hacky ways to get the main page in the right format for browsers */
 
 .title {
   /* text-decoration: underline; */
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  float: left;
   padding-left: 30px;
+  padding-top: -200px;
+  width: 100%;
   font-family: 'post_title_font';
-}
-
-@media (min-width: 650px) {
-  .raise1 {
-    top: -52px;
-  }
-
-  .raise2 {
-    top: -104px;
-  }
-  .secondary {
-    position: relative;
-    padding-left: 33vw;
-    top: -52px;
-  }
-
-  .tertiary {
-    position: relative;
-    padding-left: 63vw;
-    top: -104px;
-  }
-
-}
-
-@media (min-width: 1140px) {
-  .raise1 {
-    top: -52px;
-  }
-
-  .raise2 {
-    top: -104px;
-  }
-  .secondary {
-    padding-left: 375px;
-    top: -52px;
-  }
-
-  .tertiary {
-    padding-left: 715px;
-    top: -104px;
-  }
-
 }
 
 .truncate {
@@ -516,7 +513,45 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     font-family: 'post_title_font';
 }
 
+.post-card-column {
+    flex: 1 1 300px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 0 20px 5px;
+    min-height: 0px;
+    background: #fff center center;
+    background-size: cover;
+    border-radius: 0px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--darkgrey);
+    /* box-shadow: rgba(39,44,49,0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px; */
+    transition: all 0.5s ease;
+    font-family: 'post_title_font';
+}
+.post-card-noshadow {
+    flex: 1 1 300px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 0 20px 40px;
+    min-height: 300px;
+    background: #fff center center;
+    background-size: cover;
+    border-radius: 5px;
+    /* box-shadow: rgba(39,44,49,0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px; */
+    transition: all 0.5s ease;
+    font-family: 'post_title_font';
+}
+
 .post-card:hover {
+    box-shadow: 0 0 1px rgba(39,44,49,0.10), 0 3px 16px rgba(39, 44, 49,0.07);
+    transition: all 0.3s ease;
+    transform: translate3D(0, -1px, 0);
+}
+
+.post-card-column:hover {
     box-shadow: 0 0 1px rgba(39,44,49,0.10), 0 3px 16px rgba(39, 44, 49,0.07);
     transition: all 0.3s ease;
     transform: translate3D(0, -1px, 0);
@@ -526,7 +561,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     position: relative;
     display: block;
     overflow: hidden;
-    border-radius: 5px 5px 0 0;
+    border-radius: 0px 0px 0 0;
 }
 
 .post-card-image {
@@ -536,10 +571,17 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     background-size: cover;
 }
 
+.post-card-image-main {
+    width: auto;
+    height: 400px;
+    background: var(--lightgrey) no-repeat center center;
+    background-size: cover;
+}
+
 .post-card-content-link {
     position: relative;
     display: block;
-    padding: 25px 25px 0;
+    padding: 2vw 2vw 0;
     color: var(--darkgrey);
 }
 
@@ -562,6 +604,11 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     margin-top: 0;
 }
 
+.post-card-title-column {
+    font-size: 1.5rem;
+    margin-top: 0;
+}
+
 .post-card-content {
     flex-grow: 1;
     display: flex;
@@ -574,7 +621,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-meta {
-    padding: 0 25px 25px;
+    font-size: 1rem;
+    padding: 0 2vw 2vw;
 }
 
 .author-profile-image {
@@ -645,6 +693,27 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 
 /* Adjust some margins for smaller screens */
+
+@media (min-width: 1140px) {
+  .raise1 {
+    top: -52px;
+  }
+
+  .raise2 {
+    top: -104px;
+  }
+  .secondary {
+    padding-left: 375px;
+    top: -52px;
+  }
+
+  .tertiary {
+    padding-left: 715px;
+    top: -104px;
+  }
+
+}
+
 @media (max-width: 650px) {
     .post-feed {
         padding-top: 0;
@@ -657,9 +726,57 @@ The first (most recent) post in the list is styled to be bigger than the others 
     .title {
       padding-left: 30px;
     }
+
+    .raise1 {
+      top: -52px;
+    }
+
+    .raise2 {
+      top: -104px;
+    }
+    .secondary {
+      position: relative;
+      padding-left: 33vw;
+      top: -52px;
+    }
+
+    .tertiary {
+      position: relative;
+      padding-left: 63vw;
+      top: -104px;
+    }
+
+    .post-feed-main {
+      width: 70%;
+    }
+
+    .post-feed-column {
+      width: 30%;
+    }
+
+    .title-column {
+      width: 30%;
+    }
+
+
 }
 
+@media (max-width: 500px) {
 
+    .post-feed-main {
+      width: 100%;
+    }
+
+    .post-feed-column {
+      width: 100%;
+    }
+
+    .title-column {
+      width: 100%;
+    }
+
+
+}
 
 /* 7. Single Post
 /* ---------------------------------------------------------- */
@@ -1299,6 +1416,7 @@ Usage (In Ghost editor):
 
 .author-card {
     display: flex;
+    width: 100%;
     align-items: center;
 }
 
@@ -1331,6 +1449,7 @@ Usage (In Ghost editor):
 
 .post-full-footer-right {
     flex-shrink: 0;
+    padding-right: 20px;
     margin-left: 20px;
 }
 

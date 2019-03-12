@@ -78,56 +78,29 @@ into the {body} of the default.hbs template -->
                 <!-- #author-->
 
                 {% for author in site.data.authors %}
-                    {% if author[1].username == page.author %}
+                    {% if page.author contains author[1].username %}
                         <section class="author-card">
                             {% if author[1].picture %}
-                                <img class="author-profile-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ page.author }}" />
+                                <img class="author-profile-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ author[1].username }}" />
                             {% endif %}
                             <section class="author-card-content">
-                                <h4 class="author-card-name"><a href="{{ site.baseurl }}author/{{ page.author }}">{{ author[1].name }}</a></h4>
+                                <h4 class="author-card-name"><a href="{{ site.baseurl }}author/{{ author[1].username }}">{{ author[1].name }}</a></h4>
                                 {% if author[1].bio %}
                                     <p class="truncate">{{ author[1].bio}}</p>
                                 {% else %}
-                                    <p>Read <a href="{{ site.baseurl }}author/{{ page.author }}">more posts</a> by this author.</p>
+                                    <p>Read <a href="{{ site.baseurl }}author/{{ author[1].username }}">more posts</a> by this author.</p>
                                 {% endif %}
                             </section>
                         </section>
-                        <div class="post-full-footer-right">
-                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}">Read More</a>
-                        </div>
+                        <!-- <div class="post-full-footer-right">
+                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}">Read <br>More</a>
+                        </div> -->
                     {% endif %}
                 {% endfor %}
                 <!-- /author  -->
             </footer>
 
-            <footer class="post-full-footer">
-                <!-- Everything inside the #author tags pulls data from the author -->
-                <!-- #author-->
-                {% for author in site.data.authors %}
-                    {% if author[1].username == page.authors %}
-                        <section class="author-card">
-                            {% if author[1].picture %}
-                                <img class="author-profile-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ page.authors }}" />
-                            {% endif %}
-                            <section class="author-card-content">
-                                <h4 class="author-card-name"><a href="{{ site.baseurl }}author/{{ page.authors }}">{{ author[1].name }}</a></h4>
-                                {% if author[1].bio %}
-                                    <p class="truncate">{{ author[1].bio}}</p>
-                                {% else %}
-                                    <p>Read <a href="{{ site.baseurl }}author/{{ page.authors }}">more posts</a> by this author.</p>
-                                {% endif %}
-                            </section>
-                        </section>
-                        <div class="post-full-footer-right">
-                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.authors }}">Read More</a>
-                        </div>
-                    {% endif %}
-                {% endfor %}
 
-
-
-                <!-- /author  -->
-            </footer>
 
             <footer class="post-full-footer">
               <div class="post-footnote">

@@ -39,6 +39,24 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
+      {% assign section_select = "headline" %}
+
+      <div class="post-feed-main">
+          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+          {%  include post-card-main.html %}
+      </div>
+
+      {% assign section_select = "trending" %}
+
+      <div class="title-column">
+        <h2>{{ site.data.tags[section_select].title}}</h2>
+      </div>
+
+      <div class="post-feed-column">
+          {% include post-card-column.html %}
+      </div>
+
+
       {% assign section_select = "football-eu" %}
       <div class="title">
         <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
@@ -60,7 +78,7 @@ into the {body} of the default.hbs template -->
       </div>
 
       {% assign section_select = "basketball" %}
-      <div class="title " >
+      <div class="title" >
         <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
       </div>
 
@@ -70,7 +88,7 @@ into the {body} of the default.hbs template -->
       </div>
 
       {% assign section_select = "baseball" %}
-      <div class="title " >
+      <div class="title" >
         <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
       </div>
 

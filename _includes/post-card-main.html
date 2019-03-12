@@ -1,11 +1,11 @@
 {% assign counter = 0 %}
 {% for post in site.posts %}
-    {% if post.tags contains site.data.tags[section_select].name and counter < 2 %}
+    {% if post.tags contains site.data.tags[section_select].name and counter < 1 %}
         {% assign counter = counter | plus:1 %}
-        <article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
+        <article class="post-card-noshadow {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
             {% if post.cover %}
                 <a class="post-card-image-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
-                    <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ post.cover }})"></div>
+                    <div class="post-card-image-main" style="background-image: url({{ site.baseurl }}{{ post.cover }})"></div>
                 </a>
             {% endif %}
             <div class="post-card-content">
@@ -26,7 +26,8 @@
                         <h2 class="post-card-title">{{ post.title }}</h2>
                     </header>
                     <section class="post-card-excerpt">
-                        <!-- <p>{{ post.content | strip_html | truncatewords: 33, "" }}</p> -->
+                        <p class="truncate" style="-webkit-line-clamp: 10;">{{ post.content | strip_html}}</p>
+                        <!-- <p>{{ post.content | strip_html | truncatewords: 150, "" }}...</p> -->
                     </section>
                 </a>
                 <footer class="post-card-meta">

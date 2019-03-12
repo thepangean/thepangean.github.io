@@ -1,18 +1,21 @@
+<!-- NOT HACKY ANYMORE!!! -->
+
 {% for author in site.data.authors %}
-    {% if author[1].username == post.author %}
+    {% if post.author contains author[1].username %}
         {% if author[1].picture %}
         <img class="author-profile-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ author[1].name }}" />
         {% endif %}
         <span class="post-card-author">
-            <a href="{{ site.baseurl }}author/{{ post.author }}/">{{ author[1].name }}</a>
+            <a href="{{ site.baseurl }}author/{{ author[1].username }}/">{{ author[1].name }}</a>
 
         </span>
+        <br>
     {% endif %}
 {% endfor %}
 
 
 <!-- This is a very hacky method to adding a second author -->
-{% if post.authors %}
+<!-- {% if post.authors %}
     <span class="post-card-author">
         <a>& </a> <br>
     </span>
@@ -27,4 +30,4 @@
             <a href="{{ site.baseurl }}author/{{ post.authors }}/">{{ author[1].name }}</a>
         </span>
     {% endif %}
-{% endfor %}
+{% endfor %} -->
