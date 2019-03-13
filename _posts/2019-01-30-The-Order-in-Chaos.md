@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Chaos.jpg
+cover: Chaos.jpg
 navigation: True
 title: "The Order in Chaos"
 date: 2019-01-30
@@ -22,5 +22,3 @@ The butterfly effect is inherently present everywhere, be it in the uncertainty 
 The question is where do we find order? Is it even possible to find order in a world, which is so consumed and immersed in chaos? In a world of chaos, how did we attain our present form endowed with thinking and reasoning abilities, when we are in actuality nothing but a combination of molecules? How do simple cells with no central control system divide and differentiate on their own to form a complex foetus in the womb? This is precisely what the English mathematician Alan Turing discussed in his work, <i>The Chemical Basis of Morphogenesis </i>, where he underscored the miraculously ingrained patterns of self-organisation observed in living organisms. This spontaneous order stems from the “local interactions” within the disordered system, such as a majestic flock of birds soaring high in the sky, or the schools of fish underwater. While these biological systems may seem chaotic when viewed from the standpoint of an individual constituent within the system (i.e. a bird flying in a flock), they exhibit extraordinary order and exquisite patterns, when analysed as a whole from a third person's perspective (a human observing the flock of birds). It is self-organisation that leads to grains of sands being unconsciously assembled such that they create magnificent sand dunes. Trees, rivers and blood vessels branching into stunning patterns of self-similarity, all beautifully demonstrate this paradox of order in disorder.
 
 All this means that we, in our petty human lives, fail to understand that chaos is nothing but a masked form of order and the key lies not in evading it but embracing it. While chaos may cause momentary frustration, it enables man to see the greater truth, showing him how his pathetic attempts to control everything around him may verily be the cause of his misery. In the words of the Buddha, “<i>Chaos is inherent in all compounded things. Strive on with diligence</i>”. The beauty of life lies in the perfect blend of both the systems and not merely escaping from one. Embrace the chaos, rise every morning in the expectation of being surprised and learning something new, let life teach you how to have peace in all this turmoil that you cannot control.
-
-

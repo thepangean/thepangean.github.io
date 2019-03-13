@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Imp_new.jpg
+cover: Imp_new.jpg
 navigation: True
 title: "New Heroes for a New Age?"
 date: 2019-01-20

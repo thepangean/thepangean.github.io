@@ -6,7 +6,7 @@ class: post-template
 
 title: "Christendom Today: How Christianity is still Shaping the Modern World"
 author: soham.gupta
-cover: assets/images/Vatican.jpg
+cover: Vatican.jpg
 tags: society
 date: 2019-02-22
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1024px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg

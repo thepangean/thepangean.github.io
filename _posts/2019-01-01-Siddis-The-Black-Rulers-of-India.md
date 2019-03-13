@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Malik_amber_ahmadnager_hi.jpg
+cover: Malik_amber_ahmadnager_hi.jpg
 navigation: True
 title: "Siddis: The Black Rulers of India"
 date: 2019-01-01

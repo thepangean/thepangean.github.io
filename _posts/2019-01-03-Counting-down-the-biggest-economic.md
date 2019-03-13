@@ -6,9 +6,9 @@ class: post-template
 
 title: Counting Down the Biggest Economic Policy Announcements since the 2008 Financial Crash
 author: shohan.mukherjee
-cover: assets/images/chart6034.png
-pic1: assets/images/irelandbust2010.png
-pic2: assets/images/Abenomics6036.jpg
+cover: chart6034.png
+pic1: irelandbust2010.png
+pic2: Abenomics6036.jpg
 tags: economics
 date: 2019-01-03
 link: False
@@ -43,7 +43,7 @@ Ah, dear, Austerity! The things you promised us, and now look at what you did to
 
 If you don’t know who or what I’m talking about, the reduction of <i>government budget deficits</i> through <i>spending cuts, tax increases,</i> or a <i>combination of both</i> is referred to as <em>Austerity</em>. It is a series of strict measures to deal with governments unable to pay their debts, viz. Greece (which lost 25% of its GDP) and the members of the Eurozone who have spectacularly contributed to its economic failure.
 
-<img src="{{ site.baseurl }}{{ page.pic1 }}">
+<img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}">
 
 During the European debt crisis, many countries embarked on austerity programs, reducing their budget deficits relative to GDP from 2010 to 2011. According to the CIA World Factbook, Greece decreased its budget deficit from 10.4% of GDP in 2010 to 9.6% in 2011. Iceland, Italy, Ireland, Portugal, France, and Spain also decreased their budget deficits from 2010 to 2011 relative to GDP.
 
@@ -62,7 +62,7 @@ The United States did quantitative easing the right way; with loads and loads of
 
 The Japanese then went out and did this:  
 
-<img src="{{ site.baseurl }}{{ page.pic2 }}">
+<img src="assets/images/{{ site.baseurl }}{{ page.pic2 }}">
 
 (Here’s a graph, showing the BoJ’s asset purchases, source: Haver Analytics)
 
@@ -79,7 +79,7 @@ The <i>No Bailouts</i> campaign securing 61.31% majority, won the referendum. In
 
 Just a week later, however, he would be forced to accept a bailout of further austerity measures and economic reforms, even more onerous than those the nation had so dramatically rejected.
 
-<img src="{{ site.baseurl }}{{ page.cover }}">
+<img src="assets/images/{{ site.baseurl }}{{ page.cover }}">
 
 8 - India’s Demonetization and the GST Bill, 2016
 

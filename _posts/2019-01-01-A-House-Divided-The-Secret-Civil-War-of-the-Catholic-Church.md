@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/800px-Interior_of_St_Andrews_Catholic_Church_in_Roanoke_Virginia.jpg
+cover: 800px-Interior_of_St_Andrews_Catholic_Church_in_Roanoke_Virginia.jpg
 navigation: True
 title: "A House Divided: The Secret Civil War of the Catholic Church"
 date: 2019-01-01

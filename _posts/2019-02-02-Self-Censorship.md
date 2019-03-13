@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Netflix.jpg
+cover: Netflix.jpg
 navigation: True
 title: "Self-Censorship By Video Streaming Platforms – Some Critical Issues"
 date: 2019-02-02
@@ -24,4 +24,3 @@ Second, there is a glaring lack of an appeals process. Video streaming platforms
 Third, where are the filmmakers? Excluding filmmakers and film professionals from the process of censorship leads to peculiar, laughable results. For a case in example, consider the Amazon Prime Original series, <i>The Marvellous Mrs. Maisel</i>. Mrs. Maisel routinely uses expletives while performing as a comedian – that is part of her unique charm. She even exposed her breasts before a club audience while performing an act. These acts get her arrested twice for public indecency, but she continues with them, largely unchanged. That is her unique charm, and it is a central quirk of the character. Now imagine if these expletives were to be censored, and the scene where Mrs. Maisel exposed her breasts cut out. It would strike at the core of the personality of the central character of a show, and therefore ruin the entire show completely. The persons best qualified to appreciate such artistic and cinematic nuances are film professionals, not tech corporates sitting in the air-conditioned offices of a video streaming platform. Delegating the job of censorship to non-film professionals risks this nuance of filmmaking getting lost in the process of censorship.
 
 Self-censorship by online video streaming platforms raises some critical concerns which need to be addressed. It is imperative that online video streaming platforms come up with a clearer, more specific and well-defined code to be guided by while censoring content. An appeals process – both in-house and, at the level of a self-constituted professional body – should be built into such a code. Film professionals must be involved in the entire process of framing a code. Content does not fall on a binary scale of obscene/not obscene. Cinematic nuances, amply illustrated by the example – for instance – of <i>The Marvellous Mrs. Maisel</i>, need to be kept in mind both while framing the code and during self-censorship.
-

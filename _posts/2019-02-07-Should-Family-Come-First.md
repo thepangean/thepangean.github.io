@@ -6,7 +6,7 @@ class: post-template
 
 title: "Should Family Come First?"
 author: stuti.gupta
-cover: assets/images/familyfirst.jpg
+cover: familyfirst.jpg
 tags: society
 date: 2019-02-07 03:46:00
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Filha_d%C3%A1_um_beijo_no_rosto_do_pai.jpg/1024px-Filha_d%C3%A1_um_beijo_no_rosto_do_pai.jpg

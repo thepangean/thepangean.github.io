@@ -6,7 +6,7 @@ class: post-template
 
 title: "The Jungian Shadow"
 author: namya.tewari
-cover: assets/images/The-Jungian-Shadow.jpg
+cover: The-Jungian-Shadow.jpg
 tags: culture
 date: 2019-02-18 12:46:00
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29_crop.jpg/867px-Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29_crop.jpg

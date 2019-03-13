@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/QBBakerMayfield.jpg
+cover: QBBakerMayfield.jpg
 navigation: True
 title: "The Arrival of the New Wave Generational Quarterbacks: What Will They Possibly Bring?"
 date: 2019-01-02

@@ -6,7 +6,7 @@ class: post-template
 
 title: Universal Healthcare and The India Story
 author: manya.manushi
-cover: assets/images/PM_Modi_2015.jpg
+cover: PM_Modi_2015.jpg
 tags: policy
 date: 2019-01-03 20:40:00
 link: https://upload.wikimedia.org/wikipedia/commons/9/90/PM_Modi_2015.jpg

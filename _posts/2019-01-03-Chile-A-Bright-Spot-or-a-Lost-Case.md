@@ -6,7 +6,7 @@ class: post-template
 
 title: "Chile – A Bright Spot or a Lost Case?"
 author: atreyi.bhaumik
-cover: assets/images/Palacio_de_la_Moneda_desde_Plaza_de_la_Constitucion.jpg
+cover: Palacio_de_la_Moneda_desde_Plaza_de_la_Constitucion.jpg
 tags: policy
 date: 2019-01-03 21:41:00
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Palacio_de_la_Moneda_desde_Plaza_de_la_Constituci%C3%B3n.jpg/1280px-Palacio_de_la_Moneda_desde_Plaza_de_la_Constituci%C3%B3n.jpg

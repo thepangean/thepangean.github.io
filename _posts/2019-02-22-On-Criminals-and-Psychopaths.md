@@ -6,7 +6,7 @@ class: post-template
 
 title: "On Criminals and Psychopaths: Why is Ted Bundy, Ted Bundy?"
 author: udayon.sen
-cover: assets/images/Ted_Bundy.jpg
+cover: Ted_Bundy.jpg
 tags: society
 date: 2019-02-22
 link: https://upload.wikimedia.org/wikipedia/commons/c/c7/FBI-360-Ted_Bundy_FBI_10_most_wanted_photo.jpg

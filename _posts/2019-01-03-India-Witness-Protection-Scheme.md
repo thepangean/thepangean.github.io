@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/SupremeCourt.jpg
+cover: SupremeCourt.jpg
 navigation: True
 title: "India’s Witness Protection Scheme: Opportunities & Challenges"
 date: 2019-01-03

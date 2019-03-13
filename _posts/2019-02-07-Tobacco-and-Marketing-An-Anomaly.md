@@ -6,7 +6,7 @@ class: post-template
 
 title: "Tobacco and Marketing: An Anomaly?"
 author: shivang.singh
-cover: assets/images/tobacco.jpg
+cover: tobacco.jpg
 tags: economics trending
 date: 2019-02-07 03:57:00
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Zoe_Lyons_Cigar_Wink_High_Res.jpg/680px-Zoe_Lyons_Cigar_Wink_High_Res.jpg

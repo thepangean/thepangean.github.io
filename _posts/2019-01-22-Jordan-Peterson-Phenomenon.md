@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/JP.jpg
+cover: JP.jpg
 navigation: True
 title: "Transphobia, Political Correctness and the Jordan Peterson Phenomenon"
 date: 2019-01-22

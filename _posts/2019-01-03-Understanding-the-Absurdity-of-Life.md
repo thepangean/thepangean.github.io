@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Pidgeon.jpg
+cover: Pidgeon.jpg
 navigation: True
 title: Understanding the Absurdity of Life
 date: 2019-01-03

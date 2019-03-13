@@ -13,7 +13,7 @@ class: post-template
 
 title: "Trump’s ‘New African Policy’: Can US Weave Diplomatic Tapestries Using Chinese Threads?"
 author: ashima.makhija
-cover: assets/images/5440390625_feab8a9520_b.jpg
+cover: 5440390625_feab8a9520_b.jpg
 tags: policy
 date: 2019-01-01
 link: https://www.flickr.com/photos/gageskidmore/5440390625/in/photolist-9hNwi1-9hKqAn-e41EUk-rUZdcr-QGsRgE-MK39tW-MK3rBo-NfmcLU-NfmfoC-Nww7us-LLk8UD-LHisaE-LAM6bs-LDmpvK-LALZK7-LHiKeQ-KPpVdp-LHiasw-MQVajU-LWtrfx-MLAc1B-LWvGQ7-MHUTnw-R5KKJp-BGpqDY?fbclid=IwAR1ZrtDo3svflbK7Te8TamTy3PDpORfePT6pRbfabPisoD5m-6XXjfi5pvY

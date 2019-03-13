@@ -6,12 +6,12 @@ class: post-template
 
 title: The Picture of Dorian Gray
 author: olly.bowes
-cover: assets/images/Dorian.jpg
-pic1: assets/images/Dorian1.png
-pic2: assets/images/Dorian2.png
-pic3: assets/images/Dorian3.png
-pic4: assets/images/Dorian4.png
-pic5: assets/images/Dorian5.png
+cover: Dorian.jpg
+pic1: Dorian1.png
+pic2: Dorian2.png
+pic3: Dorian3.png
+pic4: Dorian4.png
+pic5: Dorian5.png
 tags: culture
 date: 2019-02-05
 link: https://upload.wikimedia.org/wikipedia/commons/6/64/Opium_smoking_1874.jpg
@@ -116,7 +116,7 @@ melodies are often indelibly linked with the emotion, location or character
 alongside which they first appear. Thus, the twisting of a motif by introducing
 it to a new context can suggest many things to an audience – watch out for it!
 
-<div class="caption"><img src="{{ site.baseurl }}{{ page.pic1 }}" style="width:100%" /><b>Figure 1</b></div>
+<div class="caption"><img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}" style="width:100%" /><b>Figure 1</b></div>
 
 Next, we hear Henry’s own leitmotif, languorous triplets in the horns, except
 this time it isn’t Henry, but his wife, whom neither we nor Dorian are expecting
@@ -146,9 +146,9 @@ then how lost he is in the romance of it all (Fig. 3), before the scene peters
 out, and we transition to the next night, at the theatre
 
 
-<div class="caption"><img src="{{ site.baseurl }}{{ page.pic2 }}" style="width:100%"/><b>Figure 2</b></div>
+<div class="caption"><img src="assets/images/{{ site.baseurl }}{{ page.pic2 }}" style="width:100%"/><b>Figure 2</b></div>
 
-<div class="caption"><img src="{{ site.baseurl }}{{ page.pic3 }}" style="width:100%" /><b>Figure 3</b></div>
+<div class="caption"><img src="assets/images/{{ site.baseurl }}{{ page.pic3 }}" style="width:100%" /><b>Figure 3</b></div>
 
 
 Ah, the theatre scene. This was a lot of fun to devise – I recall Jamie
@@ -164,7 +164,7 @@ at the heart-strings as one would expect from an overture to a performance of
 *Romeo and Juliet*. It’s just dross. As is the acting that follows it, but for
 that I had to get more creative.
 
-<div class="caption"><img src="{{ site.baseurl }}{{ page.pic4 }}" style="width:100%" /><b>Figure 4</b></div>
+<div class="caption"><img src="assets/images/{{ site.baseurl }}{{ page.pic4 }}" style="width:100%" /><b>Figure 4</b></div>
 
 
 First, I set up a sense of scurrying tension within the on-stage audience by way
@@ -194,7 +194,7 @@ from obsessive thoughts about another person, or the ideals that they represent.
 Unfortunately for Sybil, Dorian’s ideals lead him to abandon her, storm out,
 have a wild night on the town before returning to his house, alone.
 
-<div class="caption"><img src="{{ site.baseurl }}{{ page.pic5 }}" style="width:100%" /><b>Figure 5</b></div>
+<div class="caption"><img src="assets/images/{{ site.baseurl }}{{ page.pic5 }}" style="width:100%" /><b>Figure 5</b></div>
 
 To cap the act off, Jamie and I had a bit of a predicament: the novella contains
 a long time-skip before a certain climactic scene that we both wanted to include

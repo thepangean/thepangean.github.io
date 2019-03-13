@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Tal.jpg
+cover: Tal.jpg
 navigation: True
 title: "US Rehab for Taliban Rebels – Finally, a Carrot in the Carrot & Stick?"
 date: 2019-01-16

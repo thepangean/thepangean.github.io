@@ -4,22 +4,22 @@ current: home
 class: 'sports-template'
 sports: true
 navigation: true
-cover: false
+cover: blog-cover-sports.jpg
 ---
 {% if page.tag.sports or page.sports %}
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/sports.css" />
 {% endif %}
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="{{ site.production_url }}{{ page.cover }}" />
+<meta name="twitter:image" content="{{ site.production_url }}assets/images/{{ page.cover }}" />
 <meta name="Description" content="Taking a step back, The Pangean is a newspaper that seeks to herald a revolution in media. It has no ideological persuasion in the articles it puts forth, welcoming diverse opinions on all kinds of subjects." />
 
 <!-- < default -->
-<!-- The tag above means: insert everything in this file
+<!-- The tag above means: insert everything in this fileassets/images/{{ page.cover }}
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
+<header class="site-header outer no-cover">
     <div class="inner">
         <div class="site-header-content">
             <h1 class="site-title">

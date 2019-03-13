@@ -5,7 +5,7 @@
                 <article class="post-card {{ page.class }}{% unless author[1].picture %} no-image{% endunless %}">
                     {% if author[1].picture %}
                         <a class="post-card-image-link" href="{{ site.baseurl }}author/{{ author[1].username }}">
-                            <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ author[1].picture }})"></div>
+                            <div class="post-card-image" style="background-image: url({{ site.baseurl }}assets/images/{{ author[1].picture }})"></div>
                         </a>
                     {% endif %}
                     <div class="post-card-content">
@@ -37,7 +37,7 @@
                 <article class="post-card {{ page.class }}{% unless author[1].picture %} no-image{% endunless %}">
                     {% if author[1].picture %}
                         <a class="post-card-image-link" href="{{ site.baseurl }}author/{{ author[1].username }}">
-                            <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ author[1].picture }})"></div>
+                            <div class="post-card-image" style="background-image: url({{ site.baseurl }}assets/images/{{ author[1].picture }})"></div>
                         </a>
                     {% endif %}
                     <div class="post-card-content">

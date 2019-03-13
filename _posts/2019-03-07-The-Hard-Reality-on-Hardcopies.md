@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 current: post
 navigation: True
@@ -6,7 +6,7 @@ class: post-template
 
 title: "The Hard Reality of Hardcopies"
 author: aritra.dutta.gupta
-cover: assets/images/Duke_Humfrey_Library_Interior.jpg
+cover: Duke_Humfrey_Library_Interior.jpg
 tags: culture
 date: 2019-03-07 03:15
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Duke_Humfrey%27s_Library_Interior_6%2C_Bodleian_Library%2C_Oxford%2C_UK_-_Diliff.jpg/1024px-Duke_Humfrey%27s_Library_Interior_6%2C_Bodleian_Library%2C_Oxford%2C_UK_-_Diliff.jpg

@@ -6,7 +6,7 @@ class: post-template
 
 title: "East Asia - The Lesson Learnt?"
 author: abhishek.sancheti
-cover: assets/images/Hong_Kong_skyscrapers.jpg
+cover: Hong_Kong_skyscrapers.jpg
 tags: economics
 date: 2019-02-01
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg/1024px-Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/God.png
+cover: God.png
 navigation: True
 title: "A World Without God"
 date: 2019-01-16

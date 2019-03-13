@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/TheGreatestShowman.jpg
+cover: TheGreatestShowman.jpg
 navigation: True
 title: A Cynical Circus
 date: 2019-01-01

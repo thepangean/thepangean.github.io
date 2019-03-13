@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 current: post
 navigation: True
@@ -6,7 +6,7 @@ class: post-template
 
 title: "The Picture of Dorian Gray – Final Thoughts from the Composer’s Desk"
 author: olly.bowes
-cover: assets/images/Dorian.jpg
+cover: Dorian.jpg
 tags: culture
 date: 2019-03-07 03:30
 link: https://upload.wikimedia.org/wikipedia/commons/6/64/Opium_smoking_1874.jpg

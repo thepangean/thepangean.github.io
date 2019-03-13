@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/tea.jpg
+cover: tea.jpg
 navigation: True
 title: "Book Review : The Darjeeling Distinction: Labour and Justice on Fair-Trade Tea Plantation in India"
 date: 2019-02-27

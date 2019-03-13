@@ -6,7 +6,7 @@ class: post-template
 
 title: No Helping Hand to Helping Hands
 author: atreyi.bhaumik
-cover: assets/images/no-helping-hand.jpg
+cover: no-helping-hand.jpg
 tags: policy
 date: 2019-01-03
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Child_Maid_Servant.JPG/1024px-Child_Maid_Servant.JPG

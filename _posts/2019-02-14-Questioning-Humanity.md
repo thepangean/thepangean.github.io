@@ -6,7 +6,7 @@ class: post-template
 
 title: "Questioning Humanity: The Stanford Prison Experiment"
 author: udayon.sen
-cover: assets/images/stanford-prison.jpg
+cover: stanford-prison.jpg
 tags: society
 date: 2019-02-14 21:00:00
 link: https://upload.wikimedia.org/wikipedia/commons/d/de/%D0%A1%D1%82%D0%B5%D0%BD%D1%84%D0%BE%D1%80%D0%B4.jpg

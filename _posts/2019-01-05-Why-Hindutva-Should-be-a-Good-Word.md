@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/HSwas.jpg
+cover: HSwas.jpg
 navigation: True
 title: Why 'Hindutva’ Should be a Good Word
 date: 2019-01-05

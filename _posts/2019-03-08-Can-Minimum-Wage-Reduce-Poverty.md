@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 current: post
 navigation: True
@@ -6,7 +6,7 @@ class: post-template
 
 title: "Can Minimum Wage Reduce Poverty?"
 author: shivang.singh
-cover: assets/images/Laborers_Liberation.jpg
+cover: Laborers_Liberation.jpg
 tags: economics
 date: 2019-03-08 23:45
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buchenwald_Slave_Laborers_Liberation.jpg/947px-Buchenwald_Slave_Laborers_Liberation.jpg

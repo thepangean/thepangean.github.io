@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Mid.jpg
+cover: Mid.jpg
 navigation: True
 title: "NBA Midseason Awards: Will the Best be Recognized?"
 date: 2019-02-01

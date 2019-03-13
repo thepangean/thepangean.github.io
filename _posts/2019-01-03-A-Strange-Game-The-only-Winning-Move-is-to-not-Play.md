@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Nuclear.jpg
+cover: Nuclear.jpg
 navigation: True
 title: “A Strange Game. The only Winning Move is to not Play.”
 date: 2019-01-03

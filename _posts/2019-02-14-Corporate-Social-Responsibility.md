@@ -6,7 +6,7 @@ class: post-template
 
 title: "What Social Responsibility, if Any, Do or Should Corporations Have in Society Today?"
 author: shivang.singh
-cover: assets/images/CSR.jpg
+cover: CSR.jpg
 tags: economics
 date: 2019-02-14 21:30:00
 link: https://www.flickr.com/photos/financialreform/4586716979

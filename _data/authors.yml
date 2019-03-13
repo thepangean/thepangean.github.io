@@ -4,10 +4,10 @@ euan.decourt:
   location: Paris, France
   positions: Partner, Communications
   bio: A Modern Languages (3LP) student at the University of Bristol currently wandering the European continent in search of a calling. A proud Welshman despite being born in England and having a French father.
-  picture: assets/images/euan.jpg
+  picture: euan.jpg
   facebook: False
   twitter: EuanDecourt
-  cover: assets/images/euan-cover.jpg
+  cover: euan-cover.jpg
 
 kheeran.naidu:
   username: kheeran.naidu
@@ -17,10 +17,10 @@ kheeran.naidu:
   url_full: http://github.com/kheeran/
   url: github.com/kheeran/
   bio: A technology innovator who is currently pursuing an MEng in Mathematics and Computer Science at the University of Bristol.
-  picture: assets/images/kheeran.jpg
+  picture: kheeran.jpg
   facebook: kheeran.naidu
   twitter: False
-  cover: assets/images/kheeran-cover.jpg
+  cover: kheeran-cover.jpg
 
 tushar.singh:
   username: tushar.singh
@@ -28,10 +28,10 @@ tushar.singh:
   location: Delhi, India
   positions: Partner, Editor
   bio: Actually Tushar Singh. He is studying Economics at Delhi University.
-  picture: assets/images/tushar.jpg
+  picture: tushar.jpg
   facebook: False
   twitter: dtusharsingh
-  cover: assets/images/tushar-cover.jpg
+  cover: tushar-cover.jpg
 
 harsh.tiwari:
   username: harsh.tiwari
@@ -39,10 +39,10 @@ harsh.tiwari:
   location: Kolkata, India
   positions: Partner, Chief Editor
   bio: I am a law student with wide-ranging interests who founded this newspaper with his friends to grow and be a better twenty-something.
-  picture: assets/images/harsh.jpg
+  picture: harsh.jpg
   facebook: False
   twitter: realHarshTiwari
-  cover: assets/images/harsh-cover.jpg
+  cover: harsh-cover.jpg
 
 atreyi.bhaumik:
   username: atreyi.bhaumik
@@ -50,10 +50,10 @@ atreyi.bhaumik:
   location: Delhi, India
   positions: Editor
   bio: I am a student in Delhi University, pursuing bachelors in Economics. I also have a keen interest in Policy and probably will explore that field in the future.
-  picture: assets/images/atreyi.jpg
+  picture: atreyi.jpg
   facebook: atreyi.bhaumik
   twitter: False
-  cover: assets/images/atreyi-cover.jpg
+  cover: atreyi-cover.jpg
 
 aric.kirsten:
   username: aric.kirsten
@@ -61,10 +61,10 @@ aric.kirsten:
   location: Tucson, Arizona
   positions: Editor
   bio: Currently a senior at The University of Arizona, studying sports management with a minor in computer science. Sports are my pride and joy, especially basketball and football!
-  picture: assets/images/aric.jpg
+  picture: aric.jpg
   facebook: aric.kirsten
   twitter: Arickrw3
-  cover: assets/images/aric-cover.jpg
+  cover: aric-cover.jpg
   sports: True
 
 morgan.black:
@@ -73,10 +73,10 @@ morgan.black:
   location: Bristol, UK
   positions: Contributor
   bio: Singer, musician and comparative mythologist essentially interested in modernising European Pagan religions and cultures to provide a sense of true identity for future generations.
-  picture: assets/images/morgan.jpg
+  picture: morgan.jpg
   facebook: False
   twitter: False
-  cover: assets/images/morgan-cover.jpg
+  cover: morgan-cover.jpg
 
 aritra.dutta.gupta:
   username: aritra.dutta.gupta
@@ -84,10 +84,10 @@ aritra.dutta.gupta:
   location: Kolkata, India.
   positions: Contributor
   bio: A nincompoop with an absurdly designed life.
-  picture: assets/images/aritra.jpg
+  picture: aritra.jpg
   facebook: False
   twitter: False
-  cover: assets/images/aritra-cover.jpg
+  cover: aritra-cover.jpg
 
 harshita.jain:
   username: harshita.jain
@@ -95,10 +95,10 @@ harshita.jain:
   location: Delhi, India
   positions: Contributor
   bio: Second year Psychology student from Delhi University, with a keen interest in reading anything from Archer to Rumi. Speaks in analogies, more often than not. Writes poetry and paints, when not testing people's attributes. Believes in Occam's Razor.
-  picture: assets/images/harshita.jpg
+  picture: harshita.jpg
   facebook: harshita.jain.9803
   twitter: False
-  cover: assets/images/harshita-cover.jpg
+  cover: harshita-cover.jpg
 
 jacob.jones:
   username: jacob.jones
@@ -106,10 +106,10 @@ jacob.jones:
   location: Tucson, Arizona
   positions: Contributor
   bio: I’m from Sacramento, California. I currently attend the University of Arizona as a History major. I’m a diehard fan of the Philadelphia Eagles, New York Yankees, and Sacramento Kings.
-  picture: assets/images/jacob.jpg
+  picture: jacob.jpg
   facebook: False
   twitter: False
-  cover: assets/images/jacob-cover.jpg
+  cover: jacob-cover.jpg
   sports: True
 
 ashima.makhija:
@@ -118,10 +118,10 @@ ashima.makhija:
   location: Delhi, India
   positions: Contributor
   bio: "I am pursuing Economics (Honours) from Shri Ram College of Commerce, University of Delhi. I spend my time solving fictional murder mysteries and avoiding real-life mysteries (seriously, when did I last open my course book?)."
-  picture: assets/images/ashima.jpg
+  picture: ashima.jpg
   facebook: False
   twitter: False
-  cover: assets/images/ashima-cover.jpg
+  cover: ashima-cover.jpg
 
 manya.manushi:
   username: manya.manushi
@@ -129,10 +129,10 @@ manya.manushi:
   location: Delhi, India
   positions: Contributor
   bio: Possessing unbridled enthusiasm to work tirelessly, Manya Manushi knows how to do the task assigned to her with an ever-smiling face. Always ecstatic, she believes that life is a continuous process of learning, exploring and growing.
-  picture: assets/images/manya.jpg
+  picture: manya.jpg
   facebook: manya.manushi
   twitter: ManushiManya
-  cover: assets/images/manya-cover.jpg
+  cover: manya-cover.jpg
 
 shohan.mukherjee:
   username: shohan.mukherjee
@@ -140,10 +140,10 @@ shohan.mukherjee:
   location: Kolkata, India
   positions: Contributor
   bio: All the powers in the universe are already ours. It is we who have put our hands before our eyes and cry that it is dark. -Sw.
-  picture: assets/images/shohan.jpg
+  picture: shohan.jpg
   facebook: False
   twitter: False
-  cover: assets/images/shohan-cover.jpg
+  cover: shohan-cover.jpg
 
 tyler.pesavento:
   username: tyler.pesavento
@@ -151,10 +151,10 @@ tyler.pesavento:
   location: San Jose, California
   positions: Contributor
   bio: Currently studying broadcast journalism at the University of Arizona. Coming from the Bay Area, I have had an interest in all major American sports.
-  picture: assets/images/tyler.jpg
+  picture: tyler.jpg
   facebook: tylerpesavento
   twitter: False
-  cover: assets/images/tyler-cover.jpg
+  cover: tyler-cover.jpg
   sports: True
 
 reuben.pritchard:
@@ -163,10 +163,10 @@ reuben.pritchard:
   location:
   positions: Contributor
   bio: Over-privileged English f***wit. You'll love me when I'm dead.
-  picture: assets/images/reuben.png
+  picture: reuben.png
   facebook: False
   twitter: False
-  cover: assets/images/reuben-cover.jpg
+  cover: reuben-cover.jpg
 
 abhishek.sancheti:
   username: abhishek.sancheti
@@ -174,10 +174,10 @@ abhishek.sancheti:
   location: New Delhi, India
   positions: Contributor
   bio: Young, Dumb and Curious. Currently pursuing B.A. (Hons) Economics from SRCC, Delhi University, he is fascinated by the subject matter of Economics. He wishes to be married to his first love, Economics by being an economist for the government.
-  picture: assets/images/abhishek.jpg
+  picture: abhishek.jpg
   facebook: False
   twitter: AbhishekSanche7
-  cover: assets/images/abhishek-cover.jpg
+  cover: abhishek-cover.jpg
 
 sagnik.sarkar:
   username: sagnik.sarkar
@@ -185,10 +185,10 @@ sagnik.sarkar:
   location: Kolkata, India
   positions: Contributor
   bio: A law student who believes that every problem can be solved. Will and skill are necessary preconditions.
-  picture: assets/images/sagnik.jpg
+  picture: sagnik.jpg
   facebook: False
   twitter: False
-  cover: assets/images/sagnik-cover.jpg
+  cover: sagnik-cover.jpg
 
 reema.singh:
   username: reema.singh
@@ -196,10 +196,10 @@ reema.singh:
   location: New Delhi, India
   positions: Contributor
   bio: A student of Economics at the University of Delhi, Reema finds her interest scattered between data science, microfinance, world history and politics. She finds her inspiration from the writings of Oscar Wilde and V. S. Naipaul.
-  picture: assets/images/reema.jpg
+  picture: reema.jpg
   facebook: reemasingh13
   twitter: False
-  cover: assets/images/reema-cover.jpg
+  cover: reema-cover.jpg
 
 shivang.singh:
   username: shivang.singh
@@ -207,10 +207,10 @@ shivang.singh:
   location: Hong Kong
   positions: Contributor
   bio: An ambitious, perseverant, and all-rounded parliamentarian in the making...
-  picture: assets/images/shivang.jpg
+  picture: shivang.jpg
   facebook: shivang.singh.1213
   twitter: shivangsingh98
-  cover: assets/images/shivang-cover.jpg
+  cover: shivang-cover.jpg
 
 swarnima.tewary:
   username: swarnima.tewary
@@ -218,10 +218,10 @@ swarnima.tewary:
   location: Kolkata, India.
   positions: Contributor
   bio: Independent researcher associated with IPSA. I am a passionate reader of ancient Indian scriptures & everything that falls in between & beyond. I live by & for Nature so when I'm not reading I'm out there in the garden living that magical life!
-  picture: assets/images/swarnima.jpg
+  picture: swarnima.jpg
   facebook: Flowerstruckswasti
   twitter: False
-  cover: assets/images/swarnima-cover.jpg
+  cover: swarnima-cover.jpg
   url: thepinkflora.com
   url_full: http://thepinkflora.com
 
@@ -231,10 +231,10 @@ sam.tanberg:
   location: Tuscon, Arizona
   positions: Contributor
   bio: University of Arizona student from Northern California. Big baseball fan (Go Red Sox), love basketball and football as well.
-  picture: assets/images/sam.png
+  picture: sam.png
   facebook: samtanberg16
   twitter: False
-  cover: assets/images/sam-cover.jpg
+  cover: sam-cover.jpg
   sports: True
 
 namya.tewari:
@@ -243,10 +243,10 @@ namya.tewari:
   location: Greater Noida, India
   positions: Contributor
   bio: Hi! I'm a student of philosophy who loves reading nerdy stuff and hoarding books. I'm greatly inspired by the works of Kahlil Gibran and aspire to write like him one day. And did I forget to mention, I daydream about the impossible. Yes that's it!
-  picture: assets/images/namya.jpg
+  picture: namya.jpg
   facebook: False
   twitter: False
-  cover: assets/images/namya-cover.jpg
+  cover: namya-cover.jpg
 
 adarsh.agarwal:
   username: adarsh.agarwal
@@ -254,10 +254,10 @@ adarsh.agarwal:
   location:
   positions: Guest Contributor
   bio: Adarsh Agarwal is an undergraduate Economics student at the University of Delhi, and aspires to become a recognisable name in the world of academia.
-  picture: assets/images/adarsh.jpg
+  picture: adarsh.jpg
   facebook: False
   twitter: False
-  cover: assets/images/adarsh-cover.jpg
+  cover: adarsh-cover.jpg
 
 soham.gupta:
   username: soham.gupta
@@ -265,10 +265,10 @@ soham.gupta:
   location:
   positions: Contributor
   bio: I believe that the relentless pursuit of truth is the most exalted goal a person could possibly strive for. And the truth, as far as I have experienced it, has only made me zealous for the greater glory of God.
-  # picture: assets/images/soham.jpg
+  # picture: soham.jpg
   facebook: False
   twitter: False
-  cover: assets/images/soham-cover.jpg
+  cover: soham-cover.jpg
 
 udayon.sen:
   username: udayon.sen
@@ -276,10 +276,10 @@ udayon.sen:
   location:
   positions: Contributor
   bio: Udayon Sen is an aspiring polymath who adores Michael Stevens but certainly has better hair than him (hopefully). He studies Computer Engineering, along with every other course he can study, just to accumulate enough for himself to spread the word.
-  picture: #assets/images/udayon.jpg
+  picture: #udayon.jpg
   facebook: False
   twitter: False
-  cover: assets/images/udayon-cover.jpg
+  cover: udayon-cover.jpg
 
 andrew.mark:
   username: andrew.mark
@@ -287,10 +287,10 @@ andrew.mark:
   location:
   positions: Contributor
   bio: A contributor at The Pangean
-  picture: #assets/images/andrew.jpg
+  picture: #andrew.jpg
   facebook: False
   twitter: False
-  cover: assets/images/andrew-cover.jpg
+  cover: andrew-cover.jpg
   sports: True
 
 olly.bowes:
@@ -299,10 +299,10 @@ olly.bowes:
   location:
   positions: Contributor
   bio: A contributor at The Pangean
-  picture: #assets/images/olly.jpg
+  picture: #olly.jpg
   facebook: False
   twitter: False
-  cover: assets/images/olly-cover.jpg
+  cover: olly-cover.jpg
 
 stuti.gupta:
   username: stuti.gupta
@@ -310,10 +310,10 @@ stuti.gupta:
   location:
   positions: Contributor
   bio: A contributor at The Pangean
-  picture: #assets/images/stuti.jpg
+  picture: #stuti.jpg
   facebook: False
   twitter: False
-  cover: assets/images/stuti-cover.jpg
+  cover: stuti-cover.jpg
 
 # aryaman.tewari:
 #   username: aryaman.tewari
@@ -321,7 +321,7 @@ stuti.gupta:
 #   location: New Delhi, India
 #   positions: Editor (Let go)
 #   bio: You'll usually find me either over at the local ground, or at the chess club. Currently, I'm trying to make the most of life in Delhi University. Coming to other interests, it'd be gothic music, Ruskin Bond and reading about the African Lion.
-#   picture: assets/images/aryaman.jpg
+#   picture: aryaman.jpg
 #   facebook: False
 #   twitter: False
-#   cover: assets/images/aryaman-cover.jpg
+#   cover: aryaman-cover.jpg

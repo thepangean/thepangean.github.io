@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Xi.jpg
+cover: Xi.jpg
 navigation: True
 title: "Taking Bait to the Fish: China in Latin America"
 date: 2019-01-20

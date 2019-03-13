@@ -6,7 +6,7 @@ class: post-template
 
 title: "Jan Lokpal: The Half-Waged War for Anti-Corruption"
 author: ashima.makhija
-cover: assets/images/Anna_Hazare_on_2nd_day.jpg
+cover: Anna_Hazare_on_2nd_day.jpg
 tags: policy
 date: 2019-01-03 21:01:00
 link: https://upload.wikimedia.org/wikipedia/commons/2/26/Anna_Hazare_on_2nd_day.jpg

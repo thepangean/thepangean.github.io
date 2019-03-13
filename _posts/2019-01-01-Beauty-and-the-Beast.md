@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Indian_Woman_with_bindi.jpg
+cover: Indian_Woman_with_bindi.jpg
 navigation: True
 title: Beauty and the Beast
 date: 2019-01-01

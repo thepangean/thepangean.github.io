@@ -6,12 +6,12 @@ class: post-template
 
 title: How Oil Trickled Through the Decade
 author: shohan.mukherjee
-cover: assets/images/oilrig.jpg
-pic1: assets/images/oilrig1.png
-pic2: assets/images/oilrig2.png
-pic3: assets/images/oilrig3.jpg
-pic4: assets/images/oilrig4.png
-pic5: assets/images/oilrig5.png
+cover: oilrig.jpg
+pic1: oilrig1.png
+pic2: oilrig2.png
+pic3: oilrig3.jpg
+pic4: oilrig4.png
+pic5: oilrig5.png
 tags: economics
 date: 2019-01-28
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/West_Texas_Pumpjack.JPG/1024px-West_Texas_Pumpjack.JPG
@@ -34,7 +34,7 @@ Barack Obama’s struggle towards clean energy has been tough and why shouldn’
 
 Meanwhile, China’s economy was on the rise. Just look at the number of billionaires shoot up post-2000:
 
-<img src="{{ site.baseurl }}{{ page.pic1 }}">
+<img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}">
 
 At the turn of the decade, China had a GDP growth rate bordering on 10% with investors high about the potential that the Chinese market had. Even the US markets were looking at the Far East manufacturing powerhouse as a likely rival in the coming future, with experts predicting their economic output to be at par by 2018. China was not only becoming a force to be reckoned with but also a major consumer of oil which was expected to lead a huge boost in global oil demand. But [predictions do not always come true, do they?](https://www.forbes.com/sites/yuwahedrickwong/2018/08/23/the-reality-of-chinas-economic-slowdown/#2c7990464d86)
 
@@ -53,7 +53,7 @@ There was the fear that perhaps several important sea-lanes and canals, such as 
 
 The <i>‘fear premium</i>’(price rise due to speculations about significant events that will negatively affect markets) caused a surge that the world was definitely not prepared for.
 
-<img src="{{ site.baseurl }}{{ page.pic2 }}">
+<img src="assets/images/{{ site.baseurl }}{{ page.pic2 }}">
 
 **Sheikh Vs. Shale**
 
@@ -61,7 +61,7 @@ By 2015, Crude oil prices ended [below $40 per barrel](https://www.google.com/ur
 
 The most surprising fact of all was the conflict in the Middle East, including the Syrian Crisis, had little to no effect on the oil markets. If these forces did not affect the markets, then who did? OPEC? Saudi Arabia?
 
-<img src="{{ site.baseurl }}{{ page.pic3 }}">
+<img src="assets/images/{{ site.baseurl }}{{ page.pic3 }}">
 
 Yes, and No. The Saudis were partially to blame. But they were completely responsible for one of the <i>greatest tricks pulled in economic history</i>. Since 2008, the [US had been steadily increasing](https://news.ihsmarkit.com/press-release/energy-power/tight-oil-test-us-production-growth-remains-resilient-amid-lower-crude-oi) their production of ‘shale’ oil, obtained from organic-rich sedimentary rock found primarily in [Texas and North Dakota](https://www.npr.org/2018/11/23/669198912/after-struggles-north-dakota-grows-into-its-ongoing-oil-boom). By 2014, they had shaved off 50% of their imports from OPEC while expanding production by a hefty 70 percent. This boost to supply caused oil prices to drop globally and at a frenetic pace, unchecked by the OPEC disagreeing on whether to lower their production. So Saudi Arabia held out, their Oil Minister saying he [doesn’t care](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwipvYmKjfLfAhWCXSsKHc33CJcQFjAAegQIAxAB&url=https%3A%2F%2Fwww.businessinsider.com%2Fr-saudis-naimi-says-opec-will-not-cut-output-however-far-oil-falls-mees-2014-12&usg=AOvVaw2O8qH49yL33uAaNlFrEgoY) even if prices fell to $20 a barrel.
 
@@ -84,12 +84,12 @@ But back in the global oil markets, things were looking better. Prices were risi
 <i>"Oil prices are too high, OPEC is at it again. Not good!"—US President Donald Trump in June 2018</i>
 This prompted the 23rd June meeting of OPEC ministers in Vienna where they decided to boost production by 1 million barrels/day. Unfortunately, it was soon overshadowed by Trump’s announcement of US withdrawal from the JCPOA.
 
-<a href="https://twitter.com/realdonaldtrump/status/1021234525626609666?lang=en"> <img src="{{ site.baseurl }}{{ page.pic4 }}"></a>
+<a href="https://twitter.com/realdonaldtrump/status/1021234525626609666?lang=en"> <img src="assets/images/{{ site.baseurl }}{{ page.pic4 }}"></a>
 
 This action, as the market expected, would result in a greater loss of supply than the initial estimates of 500,000 bl/d. As a result, the market began [preparing for the worst](https://oilprice.com/Energy/Crude-Oil/Iran-Claims-Its-Oil-Revenues-Surged-Despite-Sanctions.html)(even overestimating shortages) and sources reveal that OPEC had started to hike its production way before the June 2018 meeting.
 Contrary to economic understanding, when November 4th approached, the day the sanctions on Iran would be enforced again, the price of crude oil [dropped like a rock](https://www.marketwatch.com/story/why-oil-prices-are-plunging-despite-us-sanctions-on-irans-energy-sector-2018-11-01).Factor in the growing fears of an [oncoming recession in China](https://www.marketwatch.com/story/chinas-coming-recession-has-pushed-oil-below-60-2018-11-13) (the world’s largest importer of oil) and the ensuing fall in demand, and we have another spectacular swing again.
 
-<img src="{{ site.baseurl }}{{ page.pic5 }}">
+<img src="assets/images/{{ site.baseurl }}{{ page.pic5 }}">
 
 The New Year may bring new sentiments but much remains to be seen. Only Oil can affect geopolitics so greatly. Or is it the other way around? At least for the past century, one thing’s for sure.
 

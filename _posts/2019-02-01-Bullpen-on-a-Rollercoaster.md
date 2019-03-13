@@ -6,7 +6,7 @@ class: post-template
 
 title: Bullpen on a Rollercoaster
 author: adarsh.agarwal
-cover: assets/images/MapSouthEastAsia.png
+cover: MapSouthEastAsia.png
 tags: economics
 date: 2019-02-01
 link: https://commons.wikimedia.org/wiki/File:RCEP.png

@@ -13,7 +13,7 @@ class: post-template
 
 title: Only Turkey can Save the European Dream, but Not in the Way you Think.
 author: reuben.pritchard
-cover: assets/images/34243609056_d04c5b1742_k.jpg
+cover: 34243609056_d04c5b1742_k.jpg
 tags: policy
 date: 2019-01-01
 link: https://www.flickr.com/photos/pedrosz/34243609056

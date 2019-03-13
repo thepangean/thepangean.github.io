@@ -6,7 +6,7 @@ class: post-template
 
 title: Behind the Veil of Economic Growth
 author: reema.singh
-cover: assets/images/economy1-o.jpg
+cover: economy1-o.jpg
 tags: economics
 date: 2019-02-07 04:15:00
 link: https://im.rediff.com/news/2017/feb/economy1-o.jpg

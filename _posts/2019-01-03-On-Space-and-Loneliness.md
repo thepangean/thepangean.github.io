@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Loneliness.jpg
+cover: Loneliness.jpg
 navigation: True
 title: On Space and Loneliness
 date: 2019-01-03
@@ -26,4 +26,3 @@ Carl Sagan chose and assembled 115 images and varieties of natural sounds. There
 However, one song which resonates with this entire struggle is the simple choice of a gospel blues song written and performed by American musician Blind Willie Johnson that was recorded in 1927. The song was named: “Dark was the Night. Cold was the Ground”. It is basically an instrumental song with the self-taught slide style used by Willie and accompanied by his moaning and humming. Johnson was not blind when he was born, but it is speculated that he was blinded by his stepmother when was only 7 years old. Apparently, during an argument, she splashed Willie with a caustic solution of lye water which ended up permanently blinding him. However, that was not the end of his suffering. He used to perform on the streets and had a tin cup tied to his neck to collect money. During his career, he was praised for his style which became quite popular but he was never financially well off. Post the Great Depression, his audience was completely wiped off, and he never recorded again. And in strange series of circumstances in 1945, his home got destroyed in a fire and he continued to live within the ruins of his house, where he was exposed to humidity and dampness, following which he contracted Malaria. His health steadily worsened due to several other factors and hospitals were not willing to admit him owing to his visual impairment.
 
 He passed away on September 18, 1945. His life has been a true testimony of his song, which has immortalized humankind's search to cure loneliness. His song truly represents the primal feeling which we all have, whether individually or collectively, for a greater purpose and a direction to every event. Floating in the endless space, it represents a sign of hope and a possibility on how loneliness could be a feature which could give us a new path to our existence. But maybe being alone is not bad after all. Maybe we could all be God’s lonely men. I guess we simply need a few aliens to tell us what the truth is.
-

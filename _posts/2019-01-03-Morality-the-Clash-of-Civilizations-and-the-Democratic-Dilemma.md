@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/DictatorialDemoc.jpg
+cover: DictatorialDemoc.jpg
 navigation: True
 title: "Morality, the Clash of Civilizations and the Democratic Dilemma"
 date: 2019-01-03

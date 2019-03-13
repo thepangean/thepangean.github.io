@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 current: post
 navigation: True
@@ -6,7 +6,7 @@ class: post-template
 
 title: "From Corbyn to Podemos, Don't Forgive Maduro’s Cheerleaders"
 author: reuben.pritchard
-cover: assets/images/venezuala_protests.jpg
+cover: venezuala_protests.jpg
 tags: policy
 date: 2019-03-07 04:30
 link: https://www.flickr.com/photos/64461923@N00/12716453043

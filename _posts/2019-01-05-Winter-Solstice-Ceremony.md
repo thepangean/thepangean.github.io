@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/SacredStones.jpg
+cover: SacredStones.jpg
 navigation: True
 title: "Winter Solstice Ceremony at Stanton Drew Stone Circle"
 date: 2019-01-05

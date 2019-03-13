@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Lawrence.jpg
+cover: Lawrence.jpg
 navigation: True
 title: "From Friday Night Lights to National Champion, What’s Next for Trevor Lawrence?"
 date: 2019-02-01

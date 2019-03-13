@@ -6,7 +6,7 @@ class: post-template
 
 title: "Cry Me A River? A Dialogue on Laughing at Other People's Pain"
 author: harshita.jain
-cover: assets/images/Eduardo_Zamacois_Zabala.jpg
+cover: Eduardo_Zamacois_Zabala.jpg
 tags: society
 date: 2019-02-22
 link: https://en.m.wikipedia.org/wiki/Schadenfreude#/media/File%3AEduardo_Zamacois_y_Zabala_-_Regreso_al_convento.jpg

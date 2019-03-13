@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 current: post
 navigation: True
@@ -6,8 +6,8 @@ class: post-template
 
 title: "Micro Economies: Big Challenges and Small Opportunities"
 author: abhishek.sancheti
-cover: assets/images/beach-mauritius.jpg
-tags: economics headline
+cover: beach-mauritius.jpg
+tags: economics headline trending
 date: 2019-03-08 23:30
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La-preneuse-beach-mauritius.jpg/1024px-La-preneuse-beach-mauritius.jpg
 ---

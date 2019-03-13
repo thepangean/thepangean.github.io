@@ -11,7 +11,7 @@ disqus: false
 into the {body} of the default.hbs template -->
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="{{ site.production_url }}{{ page.cover }}" />
+<meta name="twitter:image" content="{{ site.production_url }}assets/images/{{ page.cover }}" />
 
 
 
@@ -52,7 +52,7 @@ into the {body} of the default.hbs template -->
             {% if page.cover %}
             <div style="width:100%;">
               <a href="{{page.link}}" rel="noopener noreferrer" target="_blank">
-                <figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
+                <figure class="post-full-image" style="background-image: url({{ site.baseurl }}assets/images/{{ page.cover }})">
                 </figure>
               </a>
             </div>
@@ -81,7 +81,7 @@ into the {body} of the default.hbs template -->
                     {% if page.author contains author[1].username %}
                         <section class="author-card">
                             {% if author[1].picture %}
-                                <img class="author-profile-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ author[1].username }}" />
+                                <img class="author-profile-image" src="{{ site.baseurl }}assets/images/{{ author[1].picture }}" alt="{{ author[1].username }}" />
                             {% endif %}
                             <section class="author-card-content">
                                 <h4 class="author-card-name"><a href="{{ site.baseurl }}author/{{ author[1].username }}">{{ author[1].name }}</a></h4>
@@ -150,10 +150,10 @@ into the {body} of the default.hbs template -->
                 {% if related_posts > 1 %}
                     <article class="read-next-card"
                         {% if site.cover %}
-                            style="background-image: url({{ site.baseurl }}{{ site.cover }})"
+                            style="background-image: url({{ site.baseurl }}assets/images/{{ site.cover }})"
                         {% else %}
                             {% if page.cover %}
-                                style="background-image: url(url({{ site.baseurl }}{{ page.cover }})"{% endif %}
+                                style="background-image: url(url({{ site.baseurl }}assets/images/{{ page.cover }})"{% endif %}
                         {% endif %}
                     >
                         <header class="read-next-card-header">

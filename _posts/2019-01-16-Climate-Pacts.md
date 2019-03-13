@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Ice.jpg
+cover: Ice.jpg
 navigation: True
 title: "Climate Pacts: Can They Alone Deliver Climate Justice?"
 date: 2019-01-16

@@ -6,7 +6,7 @@ class: post-template
 
 title: "The Vedantic Influence on Indian Foreign Policy"
 author: swarnima.tewary
-cover: assets/images/om-symbol.png
+cover: om-symbol.png
 tags: policy
 date: 2019-02-07 04:37:00
 link: https://en.wikipedia.org/wiki/File:Om_symbol.svg

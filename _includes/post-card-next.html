@@ -2,7 +2,7 @@
     <article class="post-card {{ page.next.class }}{% unless page.next.cover %} no-image{% endunless %}">
         {% if page.next.cover %}
             <a class="post-card-image-link" href="{{ site.baseurl }}{{ page.next.url | remove_first: '/' }}">
-                <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ page.next.cover }})"></div>
+                <div class="post-card-image" style="background-image: url({{ site.baseurl }}assets/images/tiny/{{ page.next.cover }})"></div>
             </a>
         {% endif %}
         <div class="post-card-content">

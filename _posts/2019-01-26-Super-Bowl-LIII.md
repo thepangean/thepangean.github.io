@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Bowl.jpg
+cover: Bowl.jpg
 navigation: True
 title: "Super Bowl LIII: Old School vs. The New Age"
 date: 2019-01-26

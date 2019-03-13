@@ -6,7 +6,7 @@ class: post-template
 
 title: "How does Finance Benefit Society?"
 author: shivang.singh
-cover: assets/images/enron.jpg
+cover: enron.jpg
 tags: economics
 date: 2019-02-07 04:28:00
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Enron_Complex.jpg/1024px-Enron_Complex.jpg

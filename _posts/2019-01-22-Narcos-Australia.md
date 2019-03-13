@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Heroin.jpg
+cover: Heroin.jpg
 navigation: True
 title: "Narcos Australia: Can Fractured Australian Policy Tackle its Deepening Drug Crisis?"
 date: 2019-01-22
@@ -24,6 +24,3 @@ Essentially, over-production and over-supply of these drugs is crushing the logi
 For supply reduction, the government already has various drug prohibition strategies in place. In addition to this, segments of the drug market can be individually regulated as well. Needle-syringe programs, medically supervised injecting centres and methadone treatment are examples of steps that could be contemplated. Some organisations are also suggesting the legalisation of certain drugs such as cannabis, following the example of Canada and some American states. It is not unreasonable to suggest that drugs which are acceptable to the community, sufficiently attractive to people seeking a drug experience, and safe enough when provided in small quantities and low concentration ought to be legalised. Moreover, legalisation of some drugs can help in regulation of the drug market, whilst generating revenue through taxation.
 
 In the words of Alex Wodak, president of the Australian Drug Law Enforcement Foundation, “Drug prohibition took many decades to establish. A post prohibition drug policy will also take many decades to establish. Change will inevitably be slow and incremental. Mistakes will be made but continuing our failed and futile policy indefinitely because it works politically should not be an option.” Australia's drug problem has been proving itself immune to the policies that have been adapted so far, and without a radical change, it would appear that the drug menace will not end. The need of the hour is for a new drug policy that gets its priorities straight, instead of being old wine in a new bottle that emphasises crackdowns and seizures.
-
-
-

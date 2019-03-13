@@ -6,7 +6,7 @@ class: post-template
 
 title: Is Hollywood the Perfect Fit for Superstar Bryce Harper?
 author: sam.tanberg
-cover: assets/images/26601426807_02d65b0fc3_k.jpg
+cover: 26601426807_02d65b0fc3_k.jpg
 tags: sports baseball
 date: 2019-01-01
 link: https://www.flickr.com/photos/number7cloud/26601426807/in/photolist-GwFgpM-28193DJ-Juk4Fo-23XsKhE-Jbxd7z-29a8JWC

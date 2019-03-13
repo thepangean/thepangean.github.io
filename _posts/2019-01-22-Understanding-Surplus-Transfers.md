@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Fed.jpg
+cover: Fed.jpg
 navigation: True
 title: "Understanding Surplus Transfers between Central Banks and Governments"
 date: 2019-01-22
