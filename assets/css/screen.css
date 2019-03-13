@@ -530,7 +530,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     transition: all 0.5s ease;
     font-family: 'post_title_font';
 }
-.post-card-noshadow {
+
+.post-card-noshadowhover {
     flex: 1 1 300px;
     display: flex;
     flex-direction: column;
@@ -543,6 +544,10 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     /* box-shadow: rgba(39,44,49,0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px; */
     transition: all 0.5s ease;
     font-family: 'post_title_font';
+}
+
+.nohover {
+  pointer-events: none;
 }
 
 .post-card:hover {
