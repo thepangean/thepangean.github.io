@@ -49,7 +49,7 @@ Opposition is an avid fan of the Chavez-Maduro regime. He has personally called
 Maduro to congratulate him on an election victory in 2016. This is the very
 election which was decried as unfair by Human Rights Watch. The Labour Party is
 the second largest party in the United Kingdom’s House of Commons and the
-largest political movement in Europe by the membership. Its prominent members
+largest political movement in Europe by membership. Its prominent members
 include Owen Jones who wrote in 2012, “Chavez’s critics in the West are entitled
 to passionately disagree with him. But it’s time they stopped pretending he is a
 dictator”. That was 4 years after Chavez expelled Human Rights Watch from the
