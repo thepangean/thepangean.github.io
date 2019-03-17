@@ -14,7 +14,7 @@ link: https://upload.wikimedia.org/wikipedia/commons/b/b1/2016_BRICS_summit_in_G
 Prior to the beginning of the 19th century, economies around the world were
 highly localised and agrarian. Commerce was seemingly restricted to domestic
 production and self-consumption, compelling countries to thrive independently;
-transnational trade was underdeveloped at the time.  However, with the advent of
+transnational trade was underdeveloped at the time. However, with the advent of
 the Industrial Revolution in Western Europe around 1760, nations discovered new
 methods of production and advanced ways of transportation that employed
 inventive machinery and steam power. This facilitated trade by lowering the
@@ -36,7 +36,7 @@ Throughout the history of humankind, there have been three elaborate phases that
 have led to the development of today’s global economy. Phase One, which existed
 between 200,000 BCE and 10,000 BCE, was predominantly characterised by the
 procurement of food over various seasons and regions. The early man moved around
-in search of new locations where he could hunt or cultivate.  Food was the
+in search of new locations where he could hunt or cultivate. Food was the
 primary good of exchange. Hence, this phase was characterised by
 self-locomotion, rather than the movement of goods. In Phase Two, the global
 economy progressed towards localisation, and witnessed the exchange of diverse
@@ -46,7 +46,7 @@ civilisations and food surpluses.  Countries termed the *Ancient Seven* or the
 *A7* flourished extensively and witnessed sizeable economic growth. These were
 India, China, Egypt, Turkey, Iran, Iraq, and Greece/Italy. It was more
 profitable for these countries to manufacture and sell within domestic
-territories rather than globally.  Local market conditions determined prices,
+territories rather than globally. Local market conditions determined prices,
 while international factors had almost no role to play. Although trade did
 emerge with the development of the Silk Route and Spice Route among other means,
 globalisation in its modern understanding had not yet begun on account of high
@@ -83,7 +83,7 @@ West had at its disposal, access to better institutions and progressive
 political establishments, thus facilitating faster growth in the modern era. On
 the contrary, countries like India suffered adverse colonial rule while
 countries like China witnessed regular instabilities with changing regimes and
-leaders.  Similarly, the legal systems in *G7* countries were more advanced and
+leaders. Similarly, the legal systems in *G7* countries were more advanced and
 accountable relative to their *A7* counterparts. There is sufficient evidence to
 back these claims, however, the Great Divergence was not entirely based on the
 foundations of this explanation. And reinforcing this criticism, the final
@@ -102,9 +102,7 @@ I would say that the harmonisation of all these factors can be said to have led
 to the Great Divergence. For most of the modern era, the West outshone the Rest
 in all three – cultural, institutional, and educational factors. But then, what
 really led to the Great Convergence? Was it the West that lost pace or the Rest
-that gathered it?  Well, both happened simultaneously…
-
- 
+that gathered it? Well, both happened simultaneously…
 
 The growth of the West is said to have slowed down after attaining a certain
 degree of development, while growth of the Rest is said to have sped up so as to
@@ -118,8 +116,6 @@ maintain the entire production process, in addition to outsourcing jobs, these
 firms also had to transfer their technical, managerial, financial, and marketing
 know-how to these countries – mainly the currently *Industrialising Six* or *I6*
 – China, India, Poland, Korea, Thailand, and Indonesia.  
-
- 
 
 The West aimed at gaining from the unification of advanced technology and
 skilled workers, both of which were easily and economically available in these
@@ -138,7 +134,7 @@ inequalities between the global North and South. The stagnated and shrunken
 economies of China and India, among others, in the *I6* revived remarkably.  
 
 Today, *I6* countries and *G7* countries enjoy more or less the same share of
-global income and output.  Although the *G7* might still be richer than the
+global income and output. Although the *G7* might still be richer than the
 *I6*, they no longer treasure the dominance that they once did. Poverty in
 developing countries is on the fall owing to an increase in employment and
 improved quality of life. Contrastingly, wealth in developed countries is on the
