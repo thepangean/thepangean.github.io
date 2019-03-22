@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "The ‘Bhakt’ and The Bhakti"
-author: swarnima.swastika.tewary
+author: swarnima.tewary
 cover: Morning_Aarti_of_the_Ganges,_ghats_of_Varanasi.jpg
 tags: culture
 date: 2019-03-21 11:01
