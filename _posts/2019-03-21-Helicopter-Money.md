@@ -1,4 +1,3 @@
-
 ---
 layout: post
 current: post
@@ -33,4 +32,3 @@ Although this solves the issue of accounting, it raises another important questi
 Inconvertible fiat currency is unique in the fact that it has a positive exchange value against commodities as it can be produced at essentially zero cost. Therefore, there is always a potential temptation for central banks to undertake such action by the virtue of printing more and more currency. However, one needs to keep a check on the amount of currency circulated in the economy to ensure that hyperinflation does not occur and the intrinsic value of all commodities do not fall to zero.
 
 Helicopter Drops are dangerous as they conjure up the illusion that monetary magic can whip up real goods and services out of nothing. If this notion holds among those who influence monetary policy, then rational policymaking would become literally impossible. This is because policymakers would become so addicted to Helicopter Money that the overissue of fiat currency would only be dealt with a larger issue of currency until the economy collapses. Therefore, there is a good reason why Helicopter Money has not been used as a monetary policy tool but kept as a classroom experiment. And if Milton Friedman would have been alive today, he would have been horrified at what the Keynesians, the Classicals and the world at large have done to his innocent classroom experiment.
-
