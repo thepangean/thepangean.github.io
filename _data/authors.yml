@@ -88,6 +88,17 @@ aritra.dutta.gupta:
   facebook: False
   twitter: False
   cover: aritra-cover.jpg
+  
+stuti.gupta:
+  username: stuti.gupta
+  name: Stuti Gupta
+  location: New Delhi
+  positions: Contributor
+  bio: An Economics student at the University of Delhi who writes to retain all that's left of her sanity. As feminist as they come.
+  picture: stuti.jpg
+  facebook: stuti.gupta.7798
+  twitter: False
+  cover: stuti-cover.jpg
 
 daniel.harris:
   username: daniel.harris
@@ -314,17 +325,6 @@ olly.bowes:
   facebook: False
   twitter: False
   cover: olly-cover.jpg
-
-stuti.gupta:
-  username: stuti.gupta
-  name: Stuti Gupta
-  location: New Delhi
-  positions: Contributor
-  bio: An Economics student at the University of Delhi who writes to retain all that's left of her sanity. As feminist as they come.
-  picture: stuti.jpg
-  facebook: stuti.gupta.7798
-  twitter: False
-  cover: stuti-cover.jpg
 
 # aryaman.tewari:
 #   username: aryaman.tewari
