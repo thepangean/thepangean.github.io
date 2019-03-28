@@ -6,10 +6,12 @@ class: post-template
 
 title: "Apple’s China problems ft. Future Apple and the Coase Conjecture"
 author: shohan.mukherjee
-cover: 
+cover: IPhone_4S_Compared_to_iPhone_3GS.jpg
+pic1: 1509730264519.jpg
+pic2: gettyimages-93081350.jpg
 tags: economics
 date: 2019-03-28 02:03
-link: 
+link: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/IPhone_4S_Compared_to_iPhone_3GS.jpg/640px-IPhone_4S_Compared_to_iPhone_3GS.jpg
 ---
 The Apple craze in China is officially over a decade old. During my days in
 China, more often than not, I would take the early bus to Tianjin, along with 20
@@ -17,15 +19,15 @@ people glued to the glare of their phone screens. Take a walk across a busy
 intersection on a weekday morning and you will find dozens of people marching to
 work, busy on their smartphones. Not just any smartphones―the Apple iPhone.
 
-![https://lh6.googleusercontent.com/lb38KXlz1F2TllikTfKpV3QKflZ14w92D3AnAwq8xIDHYLYtaELdYAwVWzngy9CZL74x2d-m5T_5E5xvwu8CCnNjQQZdB_1EhYWv6BH0lrHxWevAoriAgQAx-uvdWf0jM9KdcirH](media/eb66aa7726c59c7c705abca5093eccbb.jpg)
-
-https://lh6.googleusercontent.com/lb38KXlz1F2TllikTfKpV3QKflZ14w92D3AnAwq8xIDHYLYtaELdYAwVWzngy9CZL74x2d-m5T_5E5xvwu8CCnNjQQZdB_1EhYWv6BH0lrHxWevAoriAgQAx-uvdWf0jM9KdcirH
+<a href="https://lh6.googleusercontent.com/lb38KXlz1F2TllikTfKpV3QKflZ14w92D3AnAwq8xIDHYLYtaELdYAwVWzngy9CZL74x2d-m5T_5E5xvwu8CCnNjQQZdB_1EhYWv6BH0lrHxWevAoriAgQAx-uvdWf0jM9KdcirH">![](assets/images/{{ page.pic1 }})</a>
 
 The reason why I did not specify which models are most popular is that the
 iPhone craze in China is more about class than tech specs.
 
-*“The people don’t bother which generation it is, as long as it’s an iPhone”--
-Mobile store owner, Tianjin, China*
+<blockquote>
+“The people don’t bother which generation it is, as long as it’s an iPhone”--
+Mobile store owner, Tianjin, China
+</blockquote>
 
 From 4th Generation all the way to the latest models, the Chinese make a big
 deal out of the iPhone, even if they are not the ones to show it. Despite this,
@@ -55,14 +57,16 @@ Apple is a monopoly, with no competition in the foreseeable future. But wait,
 our good friend Ronald Coase, a Nobel-winning economist, has something important
 to say...
 
-*“[A]s soon as the consumers who are willing to pay the monopoly price make
+<blockquote>
+“[A]s soon as the consumers who are willing to pay the monopoly price make
 their purchases, the monopolist has an incentive to lower his price and sell to
 some of the remaining consumers. Immediately after the next round of sales, the
 monopolist would find it worthwhile to lower his price yet again. This process
 would continue until all buyers with reservation prices above marginal cost are
 served. But rational consumers would anticipate this rapid fall of prices and
 wait until the market price reaches its ultimate level before making any
-purchases”*
+purchases”
+</blockquote>
 
 If that went over your head, do not panic. What he means to say is that in a
 market for a durable good (whose resale is not possible) with only one primary
@@ -86,9 +90,9 @@ taking
 place](https://www.notebookcheck.net/Apple-cuts-iPhone-8-and-XR-prices-in-China-by-20-percent.394146.0.html).
 Time to get yourself an iPhone.
 
-![https://lh4.googleusercontent.com/ZTgkOCzIQP3kJpWuDzoY5rOmUl3jCg11OTrIRKWgguK_Qc8JXos7VycoRldaD2_HHOTOFTtfklC5r8vT2j8JDSeOcyM1IPjIfgIDQmCm78DiUmHKLevdmnuwMw2le3Yx_MSrDOTk](media/342ff6abb47590d697479cf7f0141b0b.jpg)
 
-https://lh4.googleusercontent.com/ZTgkOCzIQP3kJpWuDzoY5rOmUl3jCg11OTrIRKWgguK_Qc8JXos7VycoRldaD2_HHOTOFTtfklC5r8vT2j8JDSeOcyM1IPjIfgIDQmCm78DiUmHKLevdmnuwMw2le3Yx_MSrDOTk
+<a href="https://lh4.googleusercontent.com/ZTgkOCzIQP3kJpWuDzoY5rOmUl3jCg11OTrIRKWgguK_Qc8JXos7VycoRldaD2_HHOTOFTtfklC5r8vT2j8JDSeOcyM1IPjIfgIDQmCm78DiUmHKLevdmnuwMw2le3Yx_MSrDOTk">![](assets/images/{{ page.pic2 }})</a>
+
 
 The people in China know this well enough and this is why they keep sitting on
 the iPhones, waiting for prices to drop. That, ladies and gentlemen, is exactly
