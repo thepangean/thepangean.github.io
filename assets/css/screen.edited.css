@@ -11,15 +11,6 @@ production stylesheet in assets/built/screen.css
 /* 12. Pagination - Tools to let you flick between pages
 /* ---------------------------------------------------------- */
 
-@font-face {
-    font-family: 'test';
-    src: url('greatvibes-regular-webfont.woff2') format('woff2'),
-         url('greatvibes-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 /* The main wrapper for our pagination links */
 .pagination {
     position: relative;

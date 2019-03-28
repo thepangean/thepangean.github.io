@@ -48,14 +48,14 @@ production stylesheet in assets/built/screen.css
 
 }
 
-@font-face {
+/* @font-face {
     font-family: 'test';
     src: url('fonts/greatvibes-regular-webfont.woff2') format('woff2'),
          url('fonts/greatvibes-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
-}
+} */
 
 body {
     background: #ffffff;
@@ -95,6 +95,10 @@ body {
 .outer {
     position: relative;
     padding: 0 4vw;
+}
+
+.sports {
+  background-color: var(--black);
 }
 
 /* Centered content container blocks */
@@ -140,7 +144,7 @@ body {
     padding-top: 12px;
     padding-bottom: 12px;
     color: #000;
-    background: color(var(--white)) no-repeat center center;
+    /* background: color(var(--white)) no-repeat center center; */
     background-size: cover;
 }
 
@@ -153,7 +157,7 @@ body {
     left: 0;
     z-index: 10;
     display: block;
-    background: rgba(255,255,255,1);
+    /* background: rgba(255,255,255,1); */
 }
 
 .site-header:after {
@@ -166,7 +170,7 @@ body {
     z-index: 10;
     display: block;
     height: 80px;
-    background: var(--white)/* linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0)); */
+    /* background: var(--white)*/ /* linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0)); */
 }
 
 .site-header.no-cover:before,
@@ -791,7 +795,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .post-template .site-main,
 .page-template .site-main {
     padding-bottom: 4vw;
-    background: var(--white);
+    /* background: var(--white); */
 }
 
 .post-full {
