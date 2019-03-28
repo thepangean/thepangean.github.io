@@ -37,7 +37,7 @@
 </head>
 <body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
 
-    <div class="site-wrapper">
+    <div class="site-wrapper {% if issports %} sports {% endif %}">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
         {{ content }}
 
