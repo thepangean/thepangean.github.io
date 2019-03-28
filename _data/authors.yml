@@ -67,6 +67,17 @@ aric.kirsten:
   cover: aric-cover.jpg
   sports: True
 
+stephen.mcandrew:
+  username: stephen.mcandrew
+  name: Stephen McAndrew
+  location: Leeds
+  positions: Associate Editor
+  bio: Third year politics, philosophy and economics student at the University of Leeds, staying on to study an MSc in economics next year.
+  picture: stephen-mc.jpg
+  facebook: False
+  twitter: CrippliedTurkey
+  cover: stephen-mc-cover.jpg
+
 morgan.black:
   username: morgan.black
   name: Morgan Black
