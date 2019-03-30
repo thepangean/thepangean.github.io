@@ -1,2 +1,26 @@
+#Google Search Engine Robot
+User-agent: Googlebot
+Allow: /
+
+#Yahoo! Search Engine Robot
+User-Agent: Slurp
+Allow: /
+
+#Yandex Search Engine Robot
+User-agent: Yandex
+Allow: /
+
+#Microsoft Search Engine Robot
+User-Agent: msnbot
+Allow: /
+
+#Twitter cards
+User-agent: Twitterbot
+Allow: /
+
+
+User-agent: facebookexternalhit
+Allow: /
+
 User-agent: *
-Disallow:
+Disallow: /
