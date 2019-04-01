@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: robot.jpg
 navigation: True
-title: "EARTH TO THE ROBOTS: FOURTH INDUSTRIAL REVOLUTION"
+title: "Earth to the Robots: Fourth Industrial Revolution"
 date: 2019-03-29
 tags: policy
 class: post-template
