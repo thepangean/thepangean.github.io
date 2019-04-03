@@ -1167,7 +1167,7 @@ Usage (In Ghost editor):
     margin: 0.5em 0;
     padding: 1em 0 1.5em;
     border: 0;
-    color: var(--blue);
+    color: var(--green);
     font-family: 'post_body_font';
     font-size: 3.2rem;
     line-height: 1.35em;
@@ -1210,7 +1210,7 @@ Usage (In Ghost editor):
 }
 
 .footnote-backref {
-    color: var(--blue) !important;
+    color: var(--green) !important;
     font-size: 1.2rem;
     font-weight: bold;
     text-decoration: none !important;
@@ -1471,8 +1471,8 @@ Usage (In Ghost editor):
 }
 
 .author-card-button:hover {
-    border-color: var(--blue);
-    color: var(--blue);
+    border-color: var(--green);
+    color: var(--green);
     text-decoration: none;
 }
 
