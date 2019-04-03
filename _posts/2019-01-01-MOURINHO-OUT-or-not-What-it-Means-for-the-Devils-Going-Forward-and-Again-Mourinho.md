@@ -5,7 +5,7 @@ cover: JoseMourinho.jpg
 navigation: True
 title: "MOURINHO OUT: What it Means for the Devils Going Forward and Again, Mourinho."
 date: 2019-01-01
-tags: sports football-eu
+tags: sports football
 class: post-template
 subclass: 'post tag-speeches'
 link: "https://upload.wikimedia.org/wikipedia/commons/9/93/José_Mourinho_-_Жозе_Моуринью_%2822164519268%29.jpg"

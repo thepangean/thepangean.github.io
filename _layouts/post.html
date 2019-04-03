@@ -111,6 +111,7 @@ into the {body} of the default.hbs template -->
             The only thing you need to change is "test-apkdzgmqhj" - which
             should be replaced with your own Disqus site-id. -->
             {% if site.disqus or page.disqus %}
+            {% unless issports %}
                 <section class="post-full-comments">
                     <div id="disqus_thread"></div>
                     <script>
@@ -126,6 +127,7 @@ into the {body} of the default.hbs template -->
                         })();
                     </script>
                 </section>
+            {% endunless %}
             {% endif %}
 
         </article>

@@ -5,7 +5,7 @@ cover: QBBakerMayfield.jpg
 navigation: True
 title: "The Arrival of the New Wave Generational Quarterbacks: What Will They Possibly Bring?"
 date: 2019-01-02
-tags: sports football-us
+tags: sports american-football
 class: post-template
 link: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Baker_Mayfield_training_camp_2018_%282%29_%28cropped%29.jpg"
 author: tyler.pesavento

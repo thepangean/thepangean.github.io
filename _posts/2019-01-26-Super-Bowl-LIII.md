@@ -5,7 +5,7 @@ cover: Bowl.jpg
 navigation: True
 title: "Super Bowl LIII: Old School vs. The New Age"
 date: 2019-01-26
-tags: sports football-us
+tags: sports american-football
 class: post-template
 subclass: 'post tag-speeches'
 link: https://www.flickr.com/photos/brookward/28068122189/in/photolist-JLhsRc-2cAeu7k-QsoCh3-2cvMys1-K7kfFz-2afHW2k-28uzpe2-Eqw5kH-JyxPGc-Fqos5y-22oQgvV-28QANwb-NQ12PH-Eu7zX2-22kA7Yv-2bcsfLr-NPZmYg-246o4xb-2bcsQdg-QBTNUx-2cAeUhV-2bcsQ4Z-249hNzX-27S7f2f-FWGVuC-25cjssb-2egpQWf-2bCiorw-M9t5wS-F5qQcL-JadScZ-GKMPab-22FqQWP-22XJaiN-PmV2xK-2bXp488-2cbNC5x-NPZUvz-236XEjj-262noj2-2d8m6yY-RB7DwY-29MT6qy-PLW33M-2aSpMwj-2d7Uo5T-2dE3WT6-2cUQAjX-29FJ7PL-2dW9dxM

@@ -6,16 +6,6 @@ headline:
   name: headline
   title: Headline
   hidden: True
-policy:
-  name: policy
-  title: Policy
-  description: False
-  cover: False
-economics:
-  name: economics
-  title: Economics
-  description: False
-  cover: False
 culture:
   name: culture
   title: Culture
@@ -26,11 +16,21 @@ society:
   title: Society
   description: False
   cover: False
-conscience:
-  name: conscience
-  title: Conscience
+policy:
+  name: policy
+  title: Policy
   description: False
   cover: False
+economics:
+  name: economics
+  title: Economics
+  description: False
+  cover: False
+# conscience:
+#   name: conscience
+#   title: Conscience
+#   description: False
+#   cover: False
 sports:
   name: sports
   title: Sports
@@ -38,15 +38,15 @@ sports:
   cover: False
   sports: True
   hidden: True
-football-eu:
-  name: football-eu
-  title: Football (EU)
+football:
+  name: football
+  title: Football
   description: False
   cover: False
   sports: True
-football-us:
-  name: football-us
-  title: Football (US)
+american-football:
+  name: american-football
+  title: American Football
   description: False
   cover: False
   sports: True

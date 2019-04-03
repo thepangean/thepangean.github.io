@@ -53,10 +53,13 @@ into the {body} of the default.hbs template -->
           {% include post-card-column.html %}
       </div>
 
+      {% for tag in site.data.tags %}
+      {% if tag[1].sports and tag[1].hidden == False %}
 
-      {% assign section_select = "football-eu" %}
+      {% assign section_select = tag[1].name %}
+
       <div class="title">
-        <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
+        <a href="{{site.baseurl}}tag/{{ section_select }}"><h2>{{ site.data.tags[section_select].title}}</h2></a>
       </div>
 
       <div class="post-feed">
@@ -64,35 +67,8 @@ into the {body} of the default.hbs template -->
           {%  include post-card-section.html %}
       </div>
 
-      {% assign section_select = "football-us" %}
-      <div class="title" >
-        <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
-      </div>
-      <div class="post-feed" >
-          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-
-          {%  include post-card-section.html %}
-      </div>
-
-      {% assign section_select = "basketball" %}
-      <div class="title" >
-        <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
-      </div>
-
-      <div class="post-feed " >
-          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card-section.html %}
-      </div>
-
-      {% assign section_select = "baseball" %}
-      <div class="title" >
-        <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>{{ site.data.tags[section_select].title}}</h2></a>
-      </div>
-
-      <div class="post-feed " >
-          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card-section.html %}
-      </div>
+      {% endif %}
+      {% endfor %}
 
 
     </div>

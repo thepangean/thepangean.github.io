@@ -65,7 +65,7 @@ aric.kirsten:
   facebook: aric.kirsten
   twitter: Arickrw3
   cover: aric-cover.jpg
-  sports: False
+  sports: True
 
 stephen.mcandrew:
   username: stephen.mcandrew
@@ -143,7 +143,7 @@ jacob.jones:
   facebook: False
   twitter: False
   cover: jacob-cover.jpg
-  sports: False
+  sports: True
 
 ashima.makhija:
   username: ashima.makhija
@@ -188,7 +188,7 @@ tyler.pesavento:
   facebook: tylerpesavento
   twitter: False
   cover: tyler-cover.jpg
-  sports: False
+  sports: True
 
 reuben.pritchard:
   username: reuben.pritchard
@@ -268,7 +268,7 @@ sam.tanberg:
   facebook: samtanberg16
   twitter: False
   cover: sam-cover.jpg
-  sports: False
+  sports: True
 
 namya.tewari:
   username: namya.tewari
@@ -313,7 +313,7 @@ andrew.mark:
   facebook: False
   twitter: False
   cover: andrew-cover.jpg
-  sports: False
+  sports: True
 
 olly.bowes:
   username: olly.bowes
