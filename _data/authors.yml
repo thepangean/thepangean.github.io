@@ -280,7 +280,29 @@ namya.tewari:
   facebook: False
   twitter: False
   cover: namya-cover.jpg
+  
+troy.worden:
+  username: troy.worden
+  name: Troy Worden
+  location: Pittsburg
+  positions: Contributor
+  bio: Troy Worden was president of the Berkeley College Republicans in 2017. He has appeared on Fox News, Fox Business, CNN, OAN, CRTV, and NRA TV. He has contributed to the Washington Examiner, Campus Reform, The Daily Signal, and American Greatness.
+  picture: troy.jpg
+  facebook: False
+  twitter: False
+  cover: troy-cover.jpg
 
+gurleen.kaur:
+  username: gurleen.kaur
+  name: Gurleen Kaur
+  location: New Delhi
+  positions: Contributor
+  bio: I am a second year student pursuing Economics(H) from Delhi University. I am deeply interested in short stories in Punjabi and Sufi Poetry of Bulleh Shah. An environmentalist at heart, I firmly believe in building a sustainable society.
+  picture: gurleen.jpg
+  facebook: troy.worden.14
+  twitter: False
+  cover: gurleen-cover.jpg
+  
 soham.gupta:
   username: soham.gupta
   name: Soham Gupta
