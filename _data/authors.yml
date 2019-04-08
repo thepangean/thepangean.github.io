@@ -145,6 +145,17 @@ jacob.jones:
   cover: jacob-cover.jpg
   sports: True
 
+gurleen.kaur:
+  username: gurleen.kaur
+  name: Gurleen Kaur
+  location: New Delhi
+  positions: Contributor
+  bio: I am a second year student pursuing Economics(H) from Delhi University. I am deeply interested in short stories in Punjabi and Sufi Poetry of Bulleh Shah. An environmentalist at heart, I firmly believe in building a sustainable society.
+  picture: gurleen.jpg
+  facebook: troy.worden.14
+  twitter: False
+  cover: gurleen-cover.jpg
+
 ashima.makhija:
   username: ashima.makhija
   name: Ashima Makhija
@@ -234,17 +245,6 @@ reema.singh:
   twitter: False
   cover: reema-cover.jpg
 
-shivang.singh:
-  username: shivang.singh
-  name: Shivang Singh
-  location: Hong Kong
-  positions: Contributor
-  bio: An ambitious, perseverant, and all-rounded parliamentarian in the making...
-  picture: shivang.jpg
-  facebook: shivang.singh.1213
-  twitter: shivangsingh98
-  cover: shivang-cover.jpg
-
 swarnima.tewary:
   username: swarnima.tewary
   name: Swarnima Swastika Tewary
@@ -280,7 +280,7 @@ namya.tewari:
   facebook: False
   twitter: False
   cover: namya-cover.jpg
-  
+
 troy.worden:
   username: troy.worden
   name: Troy Worden
@@ -292,17 +292,6 @@ troy.worden:
   twitter: False
   cover: troy-cover.jpg
 
-gurleen.kaur:
-  username: gurleen.kaur
-  name: Gurleen Kaur
-  location: New Delhi
-  positions: Contributor
-  bio: I am a second year student pursuing Economics(H) from Delhi University. I am deeply interested in short stories in Punjabi and Sufi Poetry of Bulleh Shah. An environmentalist at heart, I firmly believe in building a sustainable society.
-  picture: gurleen.jpg
-  facebook: troy.worden.14
-  twitter: False
-  cover: gurleen-cover.jpg
-  
 soham.gupta:
   username: soham.gupta
   name: Soham Gupta
@@ -358,6 +347,17 @@ adarsh.agarwal:
   facebook: False
   twitter: False
   cover: adarsh-cover.jpg
+
+shivang.singh:
+  username: shivang.singh
+  name: Shivang Singh
+  location: Hong Kong
+  positions: Guest Contributor
+  bio: An ambitious, perseverant, and all-rounded parliamentarian in the making...
+  picture: shivang.jpg
+  facebook: shivang.singh.1213
+  twitter: shivangsingh98
+  cover: shivang-cover.jpg
 
 # aryaman.tewari:
 #   username: aryaman.tewari
