@@ -596,7 +596,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .post-card-image-main {
     width: auto;
     height: 400px;
-    background: var(--black) no-repeat center center;
+    background: var(--black) no-repeat top center;
     background-size: cover;
 }
 
