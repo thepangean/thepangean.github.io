@@ -5,7 +5,7 @@ cover: HSwas.jpg
 navigation: True
 title: Why 'Hindutva’ Should be a Good Word
 date: 2019-01-05
-tags: society
+tags: society trending
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/1/19/A_Hindu_temple_in_Bali_Indonesia_with_swastika_sign.jpg
