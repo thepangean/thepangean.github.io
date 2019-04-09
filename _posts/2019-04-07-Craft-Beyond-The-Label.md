@@ -11,7 +11,7 @@ subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/5/5b/Indian_Craft_work.JPG
 author: gurleen.kaur
 ---
-India has always been a land of diversity. It has always welcomed various cultures and traditions. It is a country which has mixed its rich cultural diversity to the economy and markets. The handicraft industry is one of such industries. In India, the industry means more than just work, they are an expression of a particular community, ethnicity, or tradition, employing local craftsmanship and locally sourced materials. The handicrafts have evolved over the centuries, acquiring its present form which is aesthetically pleasing and culturally valuable. The folklores, the dialects, and the tribal lifestyles have inspired the prints. These handicrafts have, thus, shaped the value systems and the vision of the society.
+India has always been a land of diversity. It has always welcomed various cultures and traditions. It is a country which has mixed its rich cultural diversity with the economy and markets. The handicraft industry is one of such industries. In India, the industry means more than just work, they are an expression of a particular community, ethnicity, or tradition, employing local craftsmanship and locally sourced materials. The handicrafts have evolved over the centuries, acquiring its present form which is aesthetically pleasing and culturally valuable. The folklores, the dialects, and the tribal lifestyles have inspired the prints. These handicrafts have, thus, shaped the value systems and the vision of the society.
 
   
 
