@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 current: post
 navigation: True

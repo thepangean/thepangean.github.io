@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "The Hard Reality of Hardcopies"
-author: aritra.dutta.gupta
+author: aritra.gupta
 cover: Duke_Humfrey_Library_Interior.jpg
 tags: culture
 date: 2019-03-07 03:15

@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "2001: A Metaphysical Odyssey"
-author: aritra.dutta.gupta
+author: aritra.gupta
 cover: 2001.jpg
 tags: culture
 date: 2019-02-07 02:33:00
