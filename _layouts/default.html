@@ -22,6 +22,10 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
 
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    {% endif %}
+
     <!--[if IE]>
         <style>
             p, ol, ul{
