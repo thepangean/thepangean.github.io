@@ -1874,6 +1874,7 @@ Usage (In Ghost editor):
     margin: 0 0 10px 0;
     font-family: 'post_body_font';
     font-style: italic;
+    font-size: 1em;
 }
 
 .site-header-content .author-location svg {
@@ -1896,6 +1897,10 @@ Usage (In Ghost editor):
         font-size: 1.8rem;
         line-height: 1.15em;
         letter-spacing: 0;
+    }
+
+    .site-header-content .author-meta {
+        font-size: 0.7em;
     }
 }
 
