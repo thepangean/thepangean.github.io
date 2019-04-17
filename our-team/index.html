@@ -172,7 +172,7 @@
     </div>
 </main>
 
-<main id="site-main" class="site-main outer" role="main">
+<main id="site-main2" class="site-main outer" role="main">
     <div class="inner">
 
         <div class="post-feed" style="width:100%">
@@ -943,9 +943,29 @@
         </div>
 
         <div class="post-footnote">
-          <a href="mailto:pangeanmailbox@gmail.com?Subject=Join%20the%20team" target="_top">Join our team</a> and be part of the revolution. We always welcome articles.
+          <a id="link-click" href="#bottom">Join our team</a> and be part of the revolution. We always welcome articles.
         </div>
     </div>
+</main>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- MINOR ERROR WHEN LINKING FROM ANOTHER SITE -->
+
+<script type="text/javascript">
+  $(document).ready(function(){
+
+    $("#link-click").click(function(){
+      $("#application").show();
+    });
+  });
+
+</script>
+
+<main id="site-main3" class="site-main outer" role="main">
+  <div id="application" class="inner" style="display: none">
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHEMW3eddc19EUnCYMJNWVYJLjenSSd06v9pWa75TpHp5nRg/viewform?embedded=true" width="100%" height="1736" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+  </div>
 </main>
 
 
