@@ -1,3 +1,4 @@
+# HIDDEN
 trending:
   name: trending
   title: Trending
@@ -6,6 +7,7 @@ headline:
   name: headline
   title: Headline
   hidden: True
+#VISIBLE
 culture:
   name: culture
   title: Culture
