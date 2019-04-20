@@ -100,6 +100,18 @@ aritra.gupta:
   twitter: False
   cover: aritra-cover.jpg
 
+james.eakin:
+  username: james.eakin
+  name: James Eakin
+  location: Brighton
+  positions: Contributor
+  bio: Student at Sussex University writing about UFC.
+  picture: james-eakin.jpg
+  facebook: False
+  twitter: False
+  cover: james-eakin-cover.jpg
+  sports: True
+
 stuti.gupta:
   username: stuti.gupta
   name: Stuti Gupta
