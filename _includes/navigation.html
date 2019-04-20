@@ -1,11 +1,12 @@
 <ul class="nav" role="menu">
     <li class="nav-home" role="menuitem"><a href="{{site.baseurl}}">Home</a></li>
     <li class="nav-about" role="menuitem"><a href="{{site.baseurl}}about">About</a></li>
-    <li class="nav-culture" role="menuitem"><a href="{{site.baseurl}}tag/culture">{{ site.data.tags.culture.title}}</a></li>
-    <li class="nav-society" role="menuitem"><a href="{{site.baseurl}}tag/society">{{ site.data.tags.society.title}}</a></li>
-    <li class="nav-policy" role="menuitem"><a href="{{site.baseurl}}tag/policy">{{ site.data.tags.policy.title}}</a></li>
-    <li class="nav-economics" role="menuitem"><a href="{{site.baseurl}}tag/economics">{{ site.data.tags.economics.title}}</a></li>
-    <!-- <li class="nav-conscience" role="menuitem"><a href="{{site.baseurl}}tag/conscience">Conscience</a></li> -->
+    {% for tag in site.data.tags %}
+    {% unless tag[1].sports or tag[1].hidden %}
+    {% assign section_select = tag[1].name %}
+    <li class="nav" role="menuitem"><a href="{{site.baseurl}}tag/{{ section_select }}">{{ site.data.tags[section_select]title}}</a></li>
+    {% endunless %}
+    {% endfor %}
     <li class="nav-contributors" role="menuitem"><a href="{{site.baseurl}}our-team">Our Team</a></li>
     <li class="nav-sports" role="menuitem"><a href="{{site.baseurl}}sports">{{ site.data.tags.sports.title}} Site</a></li>
 

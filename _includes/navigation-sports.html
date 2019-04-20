@@ -1,10 +1,11 @@
 <ul class="nav" role="menu">
     <li class="nav-home" role="menuitem"><a href="{{site.baseurl}}sports">Home</a></li>
-      <li class="nav-football-eu" role="menuitem"><a href="{{site.baseurl}}tag/football">{{ site.data.tags.football.title}}</a></li>
-    <li class="nav-football-us" role="menuitem"><a href="{{site.baseurl}}tag/american-football">{{ site.data.tags.american-football.title}}</a></li>
-    <li class="nav-basketball" role="menuitem"><a href="{{site.baseurl}}tag/basketball">{{ site.data.tags.basketball.title}}</a></li>
-    <li class="nav-baseball" role="menuitem"><a href="{{site.baseurl}}tag/baseball">{{ site.data.tags.baseball.title}}</a></li>
-    <li class="nav-mma" role="menuitem"><a href="{{site.baseurl}}tag/mma">{{ site.data.tags.mma.title}}</a></li>
+    {% for tag in site.data.tags %}
+    {% if tag[1].sports and tag[1].hidden == False %}
+    {% assign section_select = tag[1].name %}
+    <li class="nav" role="menuitem"><a href="{{site.baseurl}}tag/{{ section_select }}">{{ site.data.tags[section_select]title}}</a></li>
+    {% endif %}
+    {% endfor %}
     <li class="nav-contributors" role="menuitem"><a href="{{site.baseurl}}sports/sports-team">Sports Team</a></li>
     <li class="nav-home" role="menuitem"><a href="{{site.baseurl}}">Main Site</a></li>
 
