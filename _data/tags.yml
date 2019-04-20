@@ -62,3 +62,9 @@ baseball:
   description: False
   cover: False
   sports: True
+mma:
+  name: mma
+  title: MMA
+  description: False
+  cover: False
+  sports: True
