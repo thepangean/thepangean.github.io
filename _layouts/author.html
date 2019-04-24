@@ -15,7 +15,7 @@ logo: False
 <!-- Everything inside the #author tags pulls data from the author -->
 {% for author in site.data.authors %}
     {% if page.author contains author[1].username  %}
-    <header class="site-header outer {% if author[1].cover or page.cover %}" style="background-image: url({{ site.baseurl }}{% if author[1].cover %}{{ author[1].cover }}{% elsif page.cover %}assets/images/{{ page.cover }}{% endif %}) {% else %}no-cover{% endif %}">
+    <header class="site-header outer {% if author[1].cover or page.cover %}" style="background-image: url({{ site.baseurl }}{% if author[1].cover %}assets/{{ author[1].cover }}{% elsif page.cover %}assets/images/{{ page.cover }}{% endif %}) {% else %}no-cover{% endif %}">
         <div class="inner">
             {% include site-nav.html %}
             <div class="site-header-content">
