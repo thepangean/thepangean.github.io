@@ -6,10 +6,10 @@ class: post-template
 
 title: "How to Talk About Islam"
 author: soham.gupta
-cover: 
+cover: Sultan_Ahmed_Mosque_Istanbul_Turkey_retouched.jpg
 tags: society
 date: 2019-04-25 14:05
-link:
+link: https://upload.wikimedia.org/wikipedia/commons/5/56/Sultan_Ahmed_Mosque_Istanbul_Turkey_retouched.jpg
 ---
 
 There is no doubt that Islam is by far the most powerful religion in the world
