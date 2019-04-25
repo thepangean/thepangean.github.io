@@ -72,7 +72,7 @@ for decoration and adaptation of space. The very term ‘gothic’ itself was us
 derogatively by writers like Molière to criticise a barbarous, pagan style
 called monstrous by association with a less ‘civilised’ age.
 
-By very virtue of worshiping a ‘pagus’, a local spirit of nature, the earlier
+By very virtue of worshipping a ‘pagus’, a local spirit of nature, the earlier
 pagans venerated nature, and medieval Christian churches began to take on
 aspects emulative of the ‘nemetons’, sacred groves of the heathens from Europe
 of yore. Greeks and Romans themselves had their ‘tenemos’, areas of vegetation
