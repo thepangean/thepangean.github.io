@@ -20,9 +20,6 @@ tags: economics
 date: 2019-04-26 1:45
 link:
 ---
-<div class="caption" style="text-align: left">
-<a href="https://www.flickr.com/photos/117994717@N06/15890096265" ><img src="assets/images/{{ page.pic1 }}" style="width:100%"/></a>
-</div>
 
 The Indian elections are right around the corner and the mood is currently in
 full swing. Check the papers and you’ll barely find any real estate left for
@@ -33,9 +30,11 @@ The line between celebrities and candidates gets blurrier by the day and
 election campaigns are [quickly turning into promotional
 tours](https://timesofindia.indiatimes.com/city/kolkata/for-mimi-chakraborty-its-all-work-and-no-sleep-before-poll-drill-starts/articleshow/68434360.cms).
 
-![https://lh5.googleusercontent.com/NCb75hsLkbBaZTqOs7V2N8ZoddUj7mt9VfPKgJSO7t3FMKsZQ8Xd6HxGnzoIEh2GeqNQ4CxuDPOF0gdLdZX6t6WAX2WUVYS_I8TpIKZAwxpv82S5n3BKHbtBW7hqvMl_iQNRlUy-](media/a22efb2749ce67ce207977a613c8b8cb.jpg)
+<div class="caption" style="text-align: center">
+<a href="https://www.thenational.ae/image/policy:1.846431:1554721397/WEB-wo09-india-BJPmanifesto.jpg?f=16x9&w=1200&$p$f$w=3003272" ><img src="assets/images/{{ page.pic1 }}" style="width:100%"/></a>
+<a href="https://www.thenational.ae/image/policy:1.844208:1554197520/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9" ><img src="assets/images/{{ page.pic2 }}" style="width:100%"/></a>
+</div>
 
-![https://lh6.googleusercontent.com/iO6P-_29nuHVLhu8QwbHArSFcHcjSE8_MU82qeU5WFGR1sKuw33hPFROw5Idw4cf_AXqNGtUTFyLFRDWPfjr6x8zuL1XuRVNDRgiuzFfafmS8mgHSmj2Av9zfB26FH-WpuVV0ZFJ](media/1fc24f70f01a9f722dc54aa80a339c7c.jpg)
 
 One has to feel sorry for the manifestos, which the *majority* of voters will
 probably have only a glance of at most. Studies at the [frontiers of decision
@@ -76,14 +75,18 @@ months beginning July 2018. This is a direct indication of the sliding prices
 that farmers have been facing for their produce, which has led to innumerable
 suicides.
 
-![https://lh4.googleusercontent.com/QyKjHQEUfwNi60D4aMYKapTDqdDEUH_F1rjzw_C1cMgpTvk0iHdRsKaCZjxNJJCrtPPi9gPz0J_h-UWb8g-2MYREPnNOrbRsOeO1REsTQNEkfYMNbf-Eg_d6l-IeKmckCV44QL_p](media/a44b87e9f574a7b28a855c0bde49c998.jpg)
+<div class="caption" style="text-align: center">
+<a href="https://www.hindustantimes.com/static/ht2019/1/1501pg1a.jpg" ><img src="assets/images/{{ page.pic3 }}" style="width:100%"/></a>
+</div>
 
 Women’s safety is also experiencing issues that India cannot seem to get away
 from that have been lingering for far too long and are only getting worse.
 According to a recent poll of 548 experts by the [Thomson Reuters
 Foundation](http://poll2018.trust.org/country/?id=india),
 
-*“India ranked 1st among the world’s most dangerous countries for women.”*
+<blockquote>
+“India ranked 1st among the world’s most dangerous countries for women.”
+</blockquote>
 
 No progress here, ladies and gentlemen.
 
@@ -95,7 +98,9 @@ decisions? How rational are *you*?
 
 This is where our rant comes to an end and the *dissection* begins.
 
-![https://lh5.googleusercontent.com/hdiBM2PBF10H3aQoFrHeF3NQBDq3tUPL1guHTOJ-qNcSA6vcdsturbSolJbVxlYgFCQYsqrYPf_tgk-IK4BZRsNq8-cMJwctwBOmCP44I5AHG1hL0NtZR65FJTxUTWBXeKgtN6ck](media/a30934a19f29346f4d92186f18331420.jpg)
+<div class="caption" style="text-align: center">
+<a href="http://alphajournal.com/wp-content/uploads/2019/03/9-march-Asset-management-firms-putting-748045477-1352x730.png" ><img src="assets/images/{{ page.pic4 }}" style="width:100%"/></a>
+</div>
 
 Let us play a little game.
 
@@ -108,7 +113,7 @@ promises to reduce unemployment by 20%, with a 100% chance of fulfilling his
 promise. Whereas, Party B promises to reduce unemployment by 35%, with a 15 out
 of 16 chance of fulfilling his promise. To put it neatly,
 
-*Case 1*
+**Case 1**
 
 **A**: *20% unemployment drop, with certainty (100% Guarantee).*
 
@@ -121,7 +126,7 @@ Ok, here’s a second case to choose from.  Party A promises a 20% reduction in
 unemployment, only now with a 16% chance of fulfilling his promise. Whereas,
 Party B promises 35% fall, with a 15% chance. Restating it,
 
-*Case 2*
+**Case 2**
 
 **A**: *20% unemployment drop, with a 16% chance.*
 
@@ -142,12 +147,13 @@ was proportional and thus, renders both cases to be the absolute same.
 So if the problem never changed, did your choice of candidates change? From B to
 A, or A to B?
 
-If you did not, then
-[congratulations](https://www.youtube.com/watch?v=SC4xMk98Pdc), you have
+If you did not, then congratulations, you have
 rational preferences. If you did, then there are more than a few things at work
 here.
 
-![https://lh3.googleusercontent.com/I8LqH7Zb-6mCG6zelc15s6pRj1plabHt_aMGk6Q5J7Pjwl2cX1qwhfpaCMhnkRxCnMUMjKwZRnNKDCHRMIkfbGvSp8PdnhRaB9Z0HT1t0lW4DspyD938wfVPCCCkT4G6WRCbLiLN](media/ef1273b5e50efa8f1d99935b027a5d68.jpg)
+<div class="caption" style="text-align: center">
+<a href="https://images.assettype.com/nationalherald%2F2019-03%2F86996a27-d96e-43c6-82e8-80b278886dd3%2Funemployment.jpg?rect=0%2C0%2C513%2C289&w=1200&auto=format%2Ccompress&ogImage=true" ><img src="assets/images/{{ page.pic5 }}" style="width:100%"/></a>
+</div>
 
 Let us try another problem of this sort. Whether or not the government promised
 to deposit [Rs. 15
@@ -158,15 +164,15 @@ financial help, so take Party A and Party B who make the respective
 [income-support](https://economictimes.indiatimes.com/news/economy/agriculture/budget-2019-income-support-for-farmers-a-progressive-step-but-not-enough-to-mitigate-stress/articleshow/67802322.cms)
 promises:
 
-*Case 1*
+**Case 1**
 
 **A**: *Rs 11,000 a year, with an 11% chance*
 
 **B**: *Rs 15,000 a year, with a 10% chance*
 
-*Case 2*
+**Case 2**
 
-**A**: *Rs 11,000 a year, guaranteed (100% chance).*
+**A**: *Rs 11,000 a year, <b>guaranteed</b> (100% chance).*
 
 **B**: *Rs 15,000 a year, with a 10% chance, and Rs 11,000 a year, with an 89%
 chance*
@@ -178,7 +184,9 @@ form as Case 2. There has been no significant change in the factors that should
 influence your decision-making. Yet there will be more than a few instances of
 people making unidentical choices for Cases 1 and 2.
 
-![https://lh3.googleusercontent.com/ZmB_QpcDGdkup-Azl1SAXs4jst6aZ4f6Ul8Uezqxcju5HjpnKHPyx6OPpKgjPuNWOo_py8WAtsIheA0iUGCl91deLPaxcdxB0U_KGx0R2lmvm-Gg95VtYviGKkecgG6yajFpWkc1](media/9ca91f71f6182bc2fde0f37657fdb3d1.jpg)
+<div class="caption" style="text-align: center">
+<a href="https://eisamay.indiatimes.com/thumb/msid-22646670,width-400,resizemode-4/mamata.jpg" ><img src="assets/images/{{ page.pic6 }}" style="width:100%"/></a>
+</div>
 
 Time to do a bit of explaining. Consider these cases as lotteries. Both Party A
 and Party B have an 89% chance of not fulfilling any promise in Case 1. But
@@ -198,29 +206,30 @@ Which is essentially,
 
 **B**: *Rs 15,000 a year, with a 10% chance and Rs 0, with a 90% chance*
 
-![https://lh6.googleusercontent.com/eoHE1j4dNbfPLvVF6l0an7jF4-9yFq3pFsKsQgVZir214m5LkxFxbRm944hOqoAWaD3SB86WT_q1-CIp5qP-ak4q7qe-1JJ8w4-pgfaLiAvp6La2LUDmyi9odehcQkWQsSmYEch8](media/aba073936394f72de426246c7e9b91e1.jpg)
-
-*“What just happened?”*
+<div class="caption" style="text-align: center">
+<a href="https://topreporter.co/wp-content/uploads/2019/03/img_lg_20180721121400.jpg" ><img src="assets/images/{{ page.pic7 }}" style="width:100%"/></a>
+<em>“What just happened?”</em>
+</div>
 
 I know, things are getting discombobulated in your head, but stay with me.
 Eventually, what we are left with is a much detailed way to re-write and
 represent Cases 1 and 2 as *nested* probabilities.
 
-*Case 1*
+**Case 1**
 
-**A**: 11% x *Rs 11,000 +   89% x Rs 0*
+**A**: 11% x *<span style="color:red">Rs 11,000</span> +   <span style="color:blue">89% x Rs 0</span>*
 
-**B:** *11% x [( 10/11 x Rs 15000)+(1/11 x Rs 0)]   +  89% x Rs 0*
+**B:** *11% x [<span style="color:red">( 10/11 x Rs 15000)+(1/11 x Rs 0)</span>]   +  <span style="color:blue">89% x Rs 0</span>*
 
-*Case 2*
+**Case 2**
 
-**A**: 11% x *Rs 11,000 +   89% x Rs 11,000*
+**A**: 11% x *<span style="color:red">Rs 11,000</span> +   <span style="color:blue">89% x Rs 11,000</span>*
 
-**B**: *11% x [( 10/11 x Rs 15000)+(1/11 x Rs 0)]   + 89% x Rs 11,000*
+**B**: *11% x [<span style="color:red">( 10/11 x Rs 15000)+(1/11 x Rs 0)</span>]   + <span style="color:blue">89% x Rs 11,000</span>*
 
-The parts marked in **Red** are the actual *determinants* and the *only* factors
+The parts marked in **<span style="color:red">Red</span>** are the actual *determinants* and the *only* factors
 when it comes to decision-making between the two parties. The segments marked in
-**Blue** are offered by *both* parties and thus, should not be a determining
+**<span style="color:blue">Blue</span>** are offered by *both* parties and thus, should not be a determining
 factor in rational choosing.
 
 So if you ended up choosing A in Case 1 and B in Case 2 (or vice versa), you
@@ -228,9 +237,10 @@ have just chosen two different answers for the same problem. Do you see it now?
 That is where rational preferences are violated and we can now find our
 *irrational voter*.
 
-*“I think I see what he’s getting at!”*
-
-![https://lh6.googleusercontent.com/5BjzzMBq_tdmu1YLaxi0c_zQO5GemA76P4yhvsPa3TYFBgNREaQdDbJmA786fVMQhAmmChIuoUJb5WX-RsIbWd4WHHG2VZ6SwsZqNm4mMPMuL5ZpCL8-NETawqJOZtqYcNiQQY3i](media/d4b5e11e9d58b020aafd0946ea6135c2.jpg)
+<div class="caption" style="text-align: center">
+<a href="https://insidestory.org.au/wp-content/uploads/2017/07/2012-05-nehru.jpg" ><img src="assets/images/{{ page.pic8 }}" style="width:100%"/></a>
+<em>“I think I see what he’s getting at!”</em>
+</div>
 
 After all this, we come to the origins of the problem. The lack of coherence
 empirically observed above is called the **Allais Paradox**, and has been the
@@ -260,9 +270,12 @@ dimensions](https://www.tandfonline.com/doi/pdf/10.1207/S15427579JPFM0402_01) in
 the world of economics and [decision-making under
 uncertainty](http://nobelprize.org/nobel_prizes/economics/laureates/2002/).
 
-![https://lh6.googleusercontent.com/-BpOQAEvQ61GYIQvXBle5l2dT71ittQy5S9dqwN3PemUpXQrK_wrEXxAzJkrWo1KO4XzoloPC1Eb-l_JWQF7RjDTfiIGdG0erGscOjdFPcLq8tgBX-aN7adtkvFC98NCGIkH26PH](media/8a68b46119751ff402919798f345fb44.jpg)
+<div class="caption" style="text-align: center">
+<a href="https://media.vanityfair.com/photos/58262be9364154776b0baa17/master/w_600,c_limit/michael-lewis-moneyball-daniel-kahneman-amos-tversky-01.jpg" ><img src="assets/images/{{ page.pic9 }}" style="width:100%"/></a>
+<em>Amos Tversky (left), Daniel Kahneman (right)</em>
+</div>
 
-*Amos Tversky (left), Daniel Kahneman (right)*
+
 
 Maurice Allais had made one of the foremost and yet perplexing dives into human
 rationality and for that, today, the world is in a better position to understand
