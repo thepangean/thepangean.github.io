@@ -3,8 +3,7 @@ layout: post
 current: post
 cover: uniind.jpg
 navigation: True
-title: "Lost Votes 
-*A call to first-time voters*"
+title: "Lost Votes: A Call to First-Time Voters"
 date: 2019-04-26
 tags: policy
 class: post-template
