@@ -6,7 +6,7 @@ class: post-template
 
 title: "Exposing the Irrational Voter, Mathematically!"
 author: shohan.mukherjee
-cover:
+cover: Irrational-voter.jpg
 pic1: Irrational-voter-1.jpg
 pic2: Irrational-voter-2.jpg
 pic3: Irrational-voter-3.jpg
