@@ -7,7 +7,7 @@ class: post-template
 title: "Venezuela: A Country Being Played?"
 author: atreyi.bhaumik
 cover: venezuela.jpg
-tags: policy trending
+tags: trending policy
 date: 2019-02-07 05:00:00
 link: https://www.flickr.com/photos/davidhdz/9438076805/in/photolist-fo1Bqa-B2sbJm-5trFh4-2yW382-Eg9nSP-g5Uiw-fHtVzk-PEtev-EyAxsj-KDTHVF-knUx7-f7J8pB-6PviJw-bno1D-8myDfs-nf1XXz-DQTWyT-8Jwnfb-6yjdv-sHCok-F4WSwy-HDzytJ-KexQFm-DTPA4G-Toogfh-HDzu9w-e1uC5a-JBGCQ-9V5yt-nt9yXB-bNpqk2-BKb8rg-EMpKsX-vKur7v-RkazUc-hTNWq-EZ4ok-4x3pQ2-JHpyTk-EupGNh-gX8GGc-fNwnso-HfBtrY-24poyy7-JMLm6W-KYyVH5-LmELX8-axZToY-GTjjFW-26AZne3
 ---
