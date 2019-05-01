@@ -7,15 +7,6 @@ class: post-template
 title: "Exposing the Irrational Voter, Mathematically!"
 author: shohan.mukherjee
 cover: Irrational-voter.jpg
-pic1: Irrational-voter-1.jpg
-pic2: Irrational-voter-2.jpg
-pic3: Irrational-voter-3.jpg
-pic4: Irrational-voter-4.jpg
-pic5: Irrational-voter-5.jpg
-pic6: Irrational-voter-6.jpg
-pic7: Irrational-voter-7.jpg
-pic8: Irrational-voter-8.jpg
-pic9: Irrational-voter-9.jpg
 tags: economics
 date: 2019-04-26 1:45
 link:
@@ -29,12 +20,6 @@ Pangean](http://thepangean.com) for more). The juries are out and so are the
 The line between celebrities and candidates gets blurrier by the day and
 election campaigns are [quickly turning into promotional
 tours](https://timesofindia.indiatimes.com/city/kolkata/for-mimi-chakraborty-its-all-work-and-no-sleep-before-poll-drill-starts/articleshow/68434360.cms).
-
-<div class="caption" style="text-align: center">
-<a href="https://www.thenational.ae/image/policy:1.846431:1554721397/WEB-wo09-india-BJPmanifesto.jpg?f=16x9&w=1200&$p$f$w=3003272" ><img src="assets/images/{{ page.pic1 }}" style="width:100%"/></a>
-<a href="https://www.thenational.ae/image/policy:1.844208:1554197520/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9" ><img src="assets/images/{{ page.pic2 }}" style="width:100%"/></a>
-</div>
-
 
 One has to feel sorry for the manifestos, which the *majority* of voters will
 probably have only a glance of at most. Studies at the [frontiers of decision
@@ -75,10 +60,6 @@ months beginning July 2018. This is a direct indication of the sliding prices
 that farmers have been facing for their produce, which has led to innumerable
 suicides.
 
-<div class="caption" style="text-align: center">
-<a href="https://www.hindustantimes.com/static/ht2019/1/1501pg1a.jpg" ><img src="assets/images/{{ page.pic3 }}" style="width:100%"/></a>
-</div>
-
 Women’s safety is also experiencing issues that India cannot seem to get away
 from that have been lingering for far too long and are only getting worse.
 According to a recent poll of 548 experts by the [Thomson Reuters
@@ -97,10 +78,6 @@ But can we *trust* the voters? How rational are they when it comes to making
 decisions? How rational are *you*?
 
 This is where our rant comes to an end and the *dissection* begins.
-
-<div class="caption" style="text-align: center">
-<a href="http://alphajournal.com/wp-content/uploads/2019/03/9-march-Asset-management-firms-putting-748045477-1352x730.png" ><img src="assets/images/{{ page.pic4 }}" style="width:100%"/></a>
-</div>
 
 Let us play a little game.
 
@@ -151,10 +128,6 @@ If you did not, then congratulations, you have
 rational preferences. If you did, then there are more than a few things at work
 here.
 
-<div class="caption" style="text-align: center">
-<a href="https://images.assettype.com/nationalherald%2F2019-03%2F86996a27-d96e-43c6-82e8-80b278886dd3%2Funemployment.jpg?rect=0%2C0%2C513%2C289&w=1200&auto=format%2Ccompress&ogImage=true" ><img src="assets/images/{{ page.pic5 }}" style="width:100%"/></a>
-</div>
-
 Let us try another problem of this sort. Whether or not the government promised
 to deposit [Rs. 15
 Lakh](https://www.businesstoday.in/current/economy-politics/bjp-never-promised-to-deposit-rs-15-lakh-in-people-bank-accounts-rajnath-singh/story/335629.html)
@@ -184,10 +157,6 @@ form as Case 2. There has been no significant change in the factors that should
 influence your decision-making. Yet there will be more than a few instances of
 people making unidentical choices for Cases 1 and 2.
 
-<div class="caption" style="text-align: center">
-<a href="https://eisamay.indiatimes.com/thumb/msid-22646670,width-400,resizemode-4/mamata.jpg" ><img src="assets/images/{{ page.pic6 }}" style="width:100%"/></a>
-</div>
-
 Time to do a bit of explaining. Consider these cases as lotteries. Both Party A
 and Party B have an 89% chance of not fulfilling any promise in Case 1. But
 wait? Didn’t Party B promise a 10% chance? So it gives us (100% -10%=) 90%
@@ -205,11 +174,6 @@ of Party B, we get
 Which is essentially,
 
 **B**: *Rs 15,000 a year, with a 10% chance and Rs 0, with a 90% chance*
-
-<div class="caption" style="text-align: center">
-<a href="https://topreporter.co/wp-content/uploads/2019/03/img_lg_20180721121400.jpg" ><img src="assets/images/{{ page.pic7 }}" style="width:100%"/></a>
-<em>“What just happened?”</em>
-</div>
 
 I know, things are getting discombobulated in your head, but stay with me.
 Eventually, what we are left with is a much detailed way to re-write and
@@ -236,11 +200,6 @@ So if you ended up choosing A in Case 1 and B in Case 2 (or vice versa), you
 have just chosen two different answers for the same problem. Do you see it now?
 That is where rational preferences are violated and we can now find our
 *irrational voter*.
-
-<div class="caption" style="text-align: center">
-<a href="https://insidestory.org.au/wp-content/uploads/2017/07/2012-05-nehru.jpg" ><img src="assets/images/{{ page.pic8 }}" style="width:100%"/></a>
-<em>“I think I see what he’s getting at!”</em>
-</div>
 
 After all this, we come to the origins of the problem. The lack of coherence
 empirically observed above is called the **Allais Paradox**, and has been the
@@ -269,13 +228,6 @@ human approach towards uncertainty that they [opened up new
 dimensions](https://www.tandfonline.com/doi/pdf/10.1207/S15427579JPFM0402_01) in
 the world of economics and [decision-making under
 uncertainty](http://nobelprize.org/nobel_prizes/economics/laureates/2002/).
-
-<div class="caption" style="text-align: center">
-<a href="https://media.vanityfair.com/photos/58262be9364154776b0baa17/master/w_600,c_limit/michael-lewis-moneyball-daniel-kahneman-amos-tversky-01.jpg" ><img src="assets/images/{{ page.pic9 }}" style="width:100%"/></a>
-<em>Amos Tversky (left), Daniel Kahneman (right)</em>
-</div>
-
-
 
 Maurice Allais had made one of the foremost and yet perplexing dives into human
 rationality and for that, today, the world is in a better position to understand
