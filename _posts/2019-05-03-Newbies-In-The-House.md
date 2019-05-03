@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: trumpc.jpg
+cover: trumpcartoon.jpg
 navigation: True
 title: "Newbies in the House"
 date: 2019-05-03
