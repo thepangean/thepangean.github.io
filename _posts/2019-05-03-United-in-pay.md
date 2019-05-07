@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "United in pay, Divided in dues"
+title: "United in Pay, Divided in Dues"
 author: shohan.mukherjee
 cover: UN_General_Assembly.jpg
 pic1: united-in-pay-1.png
