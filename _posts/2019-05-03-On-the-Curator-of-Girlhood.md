@@ -47,7 +47,7 @@ unnecessary hiding. She talks of the profoundness of female rituals and suddenly
 nothing about my existence as a teen girl is mundane to me. With her poetry,
 every mundane experience of girlhood evolves into a sacrosanct ceremony.
 
-“*I had never pinned, so badly,*
+“*I had never pined, so badly,*
 
 *for denim to slip down her lower back,*
 
