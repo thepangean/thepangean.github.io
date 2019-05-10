@@ -9,8 +9,7 @@ tags: economics
 class: post-template
 subclass: 'post tag-speeches'
 link: https://images.app.goo.gl/YvKngN8eaKciPJAq6
-author: unnati.jain
-authors: sailesh.buchasia
+author: unnati.jain sailesh.buchasia
 ---
 *How can mankind prevail in the face of such exponential and encompassing technological change?*
 
