@@ -16,6 +16,7 @@ tags: society
 date: 2019-05-14 23:18
 link: https://search.creativecommons.org/photos/1560d0c8-2286-4b4d-a419-c15eaed96001
 ---
+
 “I wonder what is the source of this pleasure of "seeing the whole," of looking
 down on, totalizing the most immoderate of human texts. To be lifted to the
 summit of the World Trade Center is to be lifted out of the city's grasp… It's
