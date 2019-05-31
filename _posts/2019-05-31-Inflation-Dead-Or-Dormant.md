@@ -1,0 +1,40 @@
+---
+layout: post
+current: post
+cover: volcker.jpg
+navigation: True
+title: "Inflation - Dead Or Dormant?"
+date: 2019-05-31
+tags: economics
+class: post-template
+subclass: 'post tag-speeches'
+link: https://images.app.goo.gl/pDFrM27tPBWsQPPs5
+author: riya.kaul
+---
+The US Federal Reserve, in its recent Open Market Operations Committee Meeting, chose an ambiguous stance by leaving the federal funds rate unchanged at the range of 2.25-2.5%, much to the dismay of the markets and the Government, who long awaited a rate cut. As the growth rates declined across Europe, China and US in Q1 2019, the Fed was expected to finally move away from the rate hikes, which were also offsetting the fiscal concessions provided by the
+
+US government.
+
+  
+
+This monetary tightening began in late 2015, as an attempt to counter the inflation that was expected in the aftermath of using heterodox mutations like Quantitative Easing (QE) to recover demand in the largest Post-War Recession of 2008. While the Fiscal Policy has become increasingly pro-cyclical in the recent (Trump) years, the hawkish Monetary Policy attempts to counter the inflation that is already locked far behind its 2% benchmark, which has resulted in the Trump’s disapproval of Jerome Powell (thus, the threats of replacing him with political cronies like Herman Cain). The low expected inflation has not only caused the recessionary air to resurface but has also invited wild justifications for credibility restoration. Fed’s Loretta Mester recently went as far as to claim that the economy has finally reached its equilibrium in her (neo)classic defense of the recent speculations.
+
+  
+
+But none of the justifications explained why inflation is globally stifled for the developed economies despite the rising-but-low rates. The observation remains that the Monetary Policy is losing grip over the rate of inflation. Prices are no longer as sensitive to the interest rates as they used to be, thus, explaining the recent surge in various financial forums pronouncing inflation dead, attributing it mainly to technological advancements. In times of prosperity, inflation is high due to the increased productivity and employment, which gives the workforce the ability to bargain for greater wages, that will push up the costs and then the prices. With improved technology and reduced labour intensity, the ability of the workers to demand greater wages during an upswing has declined. Additionally, the prophecy paradox, that embodies the self-fulfilling nature of expectations in economics, comes to play. The general level of expected inflation in the markets is low which is seen to be taking its effect on the actual figures, and though these expectations are being publicized as a reflective of the credibility of the Fed, they certainly don’t go in tandem with the economic or the fiscal cycle.
+
+  
+
+However, the major setback has been taken by the theory of the Phillips curve, which describes the inverse relationship between inflation and unemployment via the cost-wage spiral. This relation was violated once back in the 70s when stagflation hit the American economy. It was chiefly blamed at the rising oil prices, when in fact it was the abolition of Bretton Woods by Nixon that took a toll on the economy. Though its collapse provided the US with a monetary policy that extended beyond the clasp of the Special Drawing Rights, it immediately resulted in inflation which was previously limited to the $35/ounce gold peg. In order to tackle the inflation, the government bought in price controls which reduced the profitability of businesses, and ended up in large scale layoffs. But this direct relation had helped Milton Friedman in developing a long run perspective to the theory, and concluding that in the long run, the Phillips curve is vertical. In the short-run, however, there is sufficient scope for monetary policy to smooth out fluctuations around the independent pathway of potential output by affecting cyclical unemployment and price levels.
+
+  
+
+The curve has currently flattened, and this relation is no longer as strong for the developed economies as it used to be, considering how unemployment is presently at 3.9% in the USA, below its natural rate that stands at 4%, but inflation has shown no signs of a revival. A similar pattern had been witnessed right before the tech bubble had burst. This flattening of the curve is possibly a structural problem, not amenable to macroeconomic measures and it reduces the capability of the Central Banks to reach their inflation targets. But if the theory still survives, it could only mean that the Fed anticipates a pending risk for the inflation to resurface, for which the rate hikes, under the alias of a ‘friendly normalisation’, are being pursued. Perhaps inflation is not dead, but dormant and potentially on a rise, although it is ‘inflation targeting’ that might be officially dead.
+
+  
+
+In fact, this inflation-interest rate relation, which is hardly ever questioned, was never a strong one, to begin with. J.Stiglitz asserts *“this rudimentary method is based on a weak economic theory and little empirical evidence…and there is no reason to believe that, whatever the source of inflation, the best solution is to raise interest rates.”* The Central Banks have been over-relying on the Monetary Policy for every minor inconvenience as if it is a panacea for the dearth of aggregate demand. And why not? It’s the easiest way out, 2008 stands witness. But that is if we remain unreasonably adamant on the “In the long run, we’re all dead” approach. While the Fiscal Policy, despite its implementation imperfections, attempts to systematically address the economic issues at their core, the monetary policy has been globally reduced to an interest fluctuation switch, whose volatility takes its toll on its own ability. It is an important but overexploited tool that was ideally supposed to address the Dual Mandate on both price stability and employment issues through a suitable policy mix, but there seems to be no coordination among the fiscal and the monetary policy. The past few centuries stand witness to the fact that no monetary system has stood firm for over 50 years, citing the changes that the monetary policy faced in 1913, 1933, 1945 and 1971. And considering its ageing ability to address inflation, people have already started coming up with alternatives to the existing system, the most prominent one being the Modern Monetary Theory (MMT).
+
+  
+
+Once a fringe economic model, MMT stems out of the monetary theory of Marx, which later seems to have influenced Keynes, and is nowadays gaining mainstream attention, such as being proposed for financing the Green New Deal by Alexandria Ocasio-Cortez. It basically states that a country with its own currency can simply pay off its debt by printing more currency. The idea would seem questionable even to a layman, but this is only true if the debt is denominated in the domestic currency, which though is not the case for most of the nations, it’s certainly applicable for the USA as an advantage of USD being the major global reserve currency. This theory is often criticised for its utter disregard for the size of the deficits and the impact on inflation, but it does address these issues by manipulating the revenue side. Additionally, being a brain-child of the left doesn’t imply that it will not be accepted by the right since it can just as easily help in financing tax cuts. Major investors such as Ray Dalio, who feed off of capitalism, have stated that something like MMT will inevitably be replacing the Central Banks. In fact, MMT appears to be the only way to elude the burgeoning debt and the declining credibility of the Fed. It will help finance the fiscal profligacy every US government has inherited from its fear of lobbyists, be it progressive or conservative. Either way, it might ameliorate the system after the hawks have devoured what’s left of their monetary policy.
