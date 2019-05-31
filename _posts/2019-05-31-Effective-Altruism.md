@@ -43,7 +43,7 @@ The cost of return flights = £600
 
 Accommodation costs for 5 months= £1,600
 
-Living costs = £40/week x 50 = £800
+Living costs = £40/week x 20 = £800
 
 Total = £3000
 
