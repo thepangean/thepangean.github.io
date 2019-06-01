@@ -33,9 +33,7 @@ Harry Kane’s role in the game as well as whether Tottenham can handle the big 
 
   
 
-Pochettino’s equivalent on Saturday evening will be none other than Jürgen Klopp. Klopp
-
-has already experienced managing a Champions League final in 2013 and 2018; the former saw his Borussia Dortmund side suffer a 2-1 defeat to Bayern Munich after a late Arjen Robben goal eventually penetrated Dortmund, who had been astutely tactically organised until the 80th minute mark when they were caught out of position as they began to take more risks.
+Pochettino’s equivalent on Saturday evening will be none other than Jürgen Klopp. Klopp has already experienced managing a Champions League final in 2013 and 2018; the former saw his Borussia Dortmund side suffer a 2-1 defeat to Bayern Munich after a late Arjen Robben goal eventually penetrated Dortmund, who had been astutely tactically organised until the 80th minute mark when they were caught out of position as they began to take more risks.
 
   
 
