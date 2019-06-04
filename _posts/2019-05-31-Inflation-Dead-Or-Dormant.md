@@ -11,9 +11,7 @@ subclass: 'post tag-speeches'
 link: https://images.app.goo.gl/pDFrM27tPBWsQPPs5
 author: riya.kaul
 ---
-The US Federal Reserve, in its recent Open Market Operations Committee Meeting, chose an ambiguous stance by leaving the federal funds rate unchanged at the range of 2.25-2.5%, much to the dismay of the markets and the Government, who long awaited a rate cut. As the growth rates declined across Europe, China and US in Q1 2019, the Fed was expected to finally move away from the rate hikes, which were also offsetting the fiscal concessions provided by the
-
-US government.
+The US Federal Reserve, in its recent Open Market Operations Committee Meeting, chose an ambiguous stance by leaving the federal funds rate unchanged at the range of 2.25-2.5%, much to the dismay of the markets and the Government, who long awaited a rate cut. As the growth rates declined across Europe, China and US in Q1 2019, the Fed was expected to finally move away from the rate hikes, which were also offsetting the fiscal concessions provided by the US government.
 
   
 
