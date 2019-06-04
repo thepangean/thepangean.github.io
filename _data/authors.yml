@@ -191,6 +191,17 @@ jacob.jones:
   cover: jacob-cover.jpg
   sports: True
 
+riya.kaul:
+  username: riya.kaul
+  name: Riya Kaul
+  location: Faridabad
+  positions: Contributor
+  bio: Studying economics at Delhi University. That's pretty much it.
+  picture: riya-kaul.jpg
+  facebook: False
+  twitter: False
+  cover: riya-kaul-cover.jpg
+
 gurleen.kaur:
   username: gurleen.kaur
   name: Gurleen Kaur
@@ -404,9 +415,6 @@ shivang.singh:
   facebook: shivang.singh.1213
   twitter: shivangsingh98
   cover: shivang-cover.jpg
-
-
-
 
 
 # aryaman.tewari:
