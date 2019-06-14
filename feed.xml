@@ -1,4 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-14T00:56:13+00:00</updated><id>/</id><title type="html">The Pangean</title><subtitle>Taking a step back</subtitle><entry><title type="html">Table</title><link href="/table" rel="alternate" type="text/html" title="Table" /><published>2019-06-04T21:22:00+00:00</published><updated>2019-06-04T21:22:00+00:00</updated><id>/table</id><content type="html" xml:base="/table">&lt;table&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-14T00:59:15+00:00</updated><id>/</id><title type="html">The Pangean</title><subtitle>Taking a step back</subtitle><entry><title type="html">‘Missing’ Firms in GDP Calculation</title><link href="/Missing-Firms-in-GDP-Calculation" rel="alternate" type="text/html" title="'Missing' Firms in GDP Calculation" /><published>2019-06-13T17:34:00+00:00</published><updated>2019-06-13T17:34:00+00:00</updated><id>/Missing-Firms-in-GDP-Calculation</id><content type="html" xml:base="/Missing-Firms-in-GDP-Calculation">&lt;p&gt;The controversies regarding India’s GDP numbers, with 2011-2012 as the base
+year, seem to be not coming to an end. The Indian National Sampling Survey
+Office’s (NSSO) study, ending June 2017, revealed that 38% of the companies
+which are a part of the MCA21 database (the Modi government’s e-governance
+initiative) were missing. The study implied that the inclusion of data from such
+companies would grossly overestimate GDP figures.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Background&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2015, the Central Statistical Office (CSO) of India issued a new GDP series,
+wherein the routine 2004-05 base year was replaced with 2011-12. According to Dr
+R. Nagaraj, such a revision usually leads to a slight expansion of the absolute
+GDP in the base year, keeping the growth rate constant. But this time, the
+absolute GDP was reduced slightly in the base year and the growth rate had an
+unprecedented rise.&lt;/p&gt;
+
+&lt;p&gt;There were significant changes in the methodology this time. The CSO had shifted
+to the latest global template, the System of National Accounts 2008, for
+calculations. Moreover, the income accruing to the Private Corporate Sector
+(PCS) was directly estimated using the Ministry of Corporate Affairs’ (MCA)
+statutory filing of financial returns, i.e. the aforementioned MCA-21. The PCS
+accounts for over one-third of the GDP, and has affected estimates of many
+industries. The CSO claims that GDP calculation through MCA-21, which is a
+larger database than the Annual Survey of Industries for Manufacturing used
+previously, better captures the economy’s value addition, especially of smaller
+enterprises and services activities. The critics, however, fear that this has
+led to a gross overestimation of GDP.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The NSSO Survey&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A recent report of the NSSO titled &lt;em&gt;Technical Report on Service Sector
+Enterprises in India&lt;/em&gt; found nearly 38% of the companies surveyed using MCA21
+database to be unusable for data collection purposes. Of this, 21% were “out of
+coverage” firms, 12% were designated untraceable and 4.5% were closed. Many of
+these companies according to Dr R. Nagaraj, are shell/fake/spurious entities
+that remain legally registered (but merely on paper) but do not produce goods
+and services. The only purpose is to help the owner hide the profits and, thus,
+reduce the taxable income.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Is GDP Overestimated?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mr Pronab Sen, former Chief Statistician, disagrees with the fact that GDP is
+overestimated due to the data from the ‘missing’ firms. He explains that for the
+purpose of measurement of GDP, it is more important for the statisticians that
+the shell companies are submitting their balance sheets regularly to the MCA21.
+These firms are involved in some form of economic activity, and not measuring
+their output would mean severe underestimation of the GDP. The value creation is
+happening by some other company, but the transactions are being routed through
+these shell companies. Ignoring them would mean a part of the business of the
+registered company is being ignored, which is wrong. Hence, the GDP will only be
+correctly estimated if we include the data from the shell companies. However,
+the taxable income accruing to the private sector and thus the private savings
+will surely be underestimated.&lt;/p&gt;
+
+&lt;p&gt;Second, growth rates are measured over a period of time and are influenced by
+the regularity with which the companies file the returns. Thus, the fact that a
+large number of companies are not being measured affects the level of the
+economy, but not the growth profile.  &lt;/p&gt;
+
+&lt;p&gt;Moreover, the MCA21 database is a compilation of the audited financial returns
+filed by the companies. The returns are reconciled with the corporate tax
+collected by the Income Tax Department. Mr Sen explains that the audit data from
+MCA21 would always be better than unaudited data, the one collected from the
+field. The MCA data captures value creation by an entity which is a registered
+corporate. The value may be coming from the company itself or simply a book
+entry from some other company. This doesn’t matter as far as gross value
+addition (GVA) is concerned.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MCA21: Foolproof?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The use of MCA21 database, however, does have its disadvantages. The presence of
+spurious firms creates low-level problems related to growth rates and gross
+value addition (GVA) by different sectors. For instance, a manufacturing company
+can create a shell company as a trading firm. The creation of a fake company of
+such kind will lead to some of the GVA by the manufacturing sector being counted
+as the GVA by the services sector.  &lt;/p&gt;
+
+&lt;p&gt;To consider the argument that all active companies under the MCA have filed
+statutory returns at least once during the last three years to be true will be a
+mistake. If it were true, there would at least be one year for which there would
+existent data for seven to eight hundred thousand companies, which has never
+been the case. For most years data is available for around three hundred
+thousand active companies. The estimates of gross value added for these three
+hundred thousand companies is inflated to obtain the GVA of the universe of 10
+hundred thousand companies.  &lt;/p&gt;
+
+&lt;p&gt;There can be no denying the fact that MCA21 contains information from shell
+companies. The data from such fictitious units cannot be ignored to prevent
+underestimation. The only way to make the process of GDP calculation efficient
+and transparent would be to weed out these shell companies. The Ministry of
+Corporate Affairs (MCA) has started the process of geo-tagging the registered
+offices in the returns filed with the Registrar of Companies (RoC). Geo-tagging
+is the process of attaching geographical meta-data (exact latitudinal and
+longitudinal information) with an online return filing system, alerting the
+government if too many companies are registered on the same premises. The
+process of geo-tagging is still underway and it would be too early to comment on
+its effectiveness.&lt;/p&gt;
+
+&lt;p&gt;The debate on the inclusion of figures from shell companies for the calculation
+of GDP and the veracity of the GDP numbers is raging. There is a need for
+statisticians, economists and policymakers to sit together and find solutions to
+these technical issues related to GDP calculation. Additional steps need to be
+taken by the Income Tax Department and the Enforcement Directorate (India’s
+white collar crime watchdog) to clamp down on the operations of such spurious
+companies. The Justice Shah Commission, constituted in 2015, highlighted the
+role of such companies in money laundering, which is a punishable offence under
+Prevention of Money Laundering Act, 2002. A holistic government approach is
+necessary to fight the menace of shell companies.&lt;/p&gt;</content><author><name>Gurleen Kaur</name></author><category term="economics" /><summary type="html">The controversies regarding India’s GDP numbers, with 2011-2012 as the base year, seem to be not coming to an end. The Indian National Sampling Survey Office’s (NSSO) study, ending June 2017, revealed that 38% of the companies which are a part of the MCA21 database (the Modi government’s e-governance initiative) were missing. The study implied that the inclusion of data from such companies would grossly overestimate GDP figures.   The Background In 2015, the Central Statistical Office (CSO) of India issued a new GDP series, wherein the routine 2004-05 base year was replaced with 2011-12. According to Dr R. Nagaraj, such a revision usually leads to a slight expansion of the absolute GDP in the base year, keeping the growth rate constant. But this time, the absolute GDP was reduced slightly in the base year and the growth rate had an unprecedented rise. There were significant changes in the methodology this time. The CSO had shifted to the latest global template, the System of National Accounts 2008, for calculations. Moreover, the income accruing to the Private Corporate Sector (PCS) was directly estimated using the Ministry of Corporate Affairs’ (MCA) statutory filing of financial returns, i.e. the aforementioned MCA-21. The PCS accounts for over one-third of the GDP, and has affected estimates of many industries. The CSO claims that GDP calculation through MCA-21, which is a larger database than the Annual Survey of Industries for Manufacturing used previously, better captures the economy’s value addition, especially of smaller enterprises and services activities. The critics, however, fear that this has led to a gross overestimation of GDP.   The NSSO Survey A recent report of the NSSO titled Technical Report on Service Sector Enterprises in India found nearly 38% of the companies surveyed using MCA21 database to be unusable for data collection purposes. Of this, 21% were “out of coverage” firms, 12% were designated untraceable and 4.5% were closed. Many of these companies according to Dr R. Nagaraj, are shell/fake/spurious entities that remain legally registered (but merely on paper) but do not produce goods and services. The only purpose is to help the owner hide the profits and, thus, reduce the taxable income. Is GDP Overestimated? Mr Pronab Sen, former Chief Statistician, disagrees with the fact that GDP is overestimated due to the data from the ‘missing’ firms. He explains that for the purpose of measurement of GDP, it is more important for the statisticians that the shell companies are submitting their balance sheets regularly to the MCA21. These firms are involved in some form of economic activity, and not measuring their output would mean severe underestimation of the GDP. The value creation is happening by some other company, but the transactions are being routed through these shell companies. Ignoring them would mean a part of the business of the registered company is being ignored, which is wrong. Hence, the GDP will only be correctly estimated if we include the data from the shell companies. However, the taxable income accruing to the private sector and thus the private savings will surely be underestimated. Second, growth rates are measured over a period of time and are influenced by the regularity with which the companies file the returns. Thus, the fact that a large number of companies are not being measured affects the level of the economy, but not the growth profile.   Moreover, the MCA21 database is a compilation of the audited financial returns filed by the companies. The returns are reconciled with the corporate tax collected by the Income Tax Department. Mr Sen explains that the audit data from MCA21 would always be better than unaudited data, the one collected from the field. The MCA data captures value creation by an entity which is a registered corporate. The value may be coming from the company itself or simply a book entry from some other company. This doesn’t matter as far as gross value addition (GVA) is concerned.   MCA21: Foolproof? The use of MCA21 database, however, does have its disadvantages. The presence of spurious firms creates low-level problems related to growth rates and gross value addition (GVA) by different sectors. For instance, a manufacturing company can create a shell company as a trading firm. The creation of a fake company of such kind will lead to some of the GVA by the manufacturing sector being counted as the GVA by the services sector.   To consider the argument that all active companies under the MCA have filed statutory returns at least once during the last three years to be true will be a mistake. If it were true, there would at least be one year for which there would existent data for seven to eight hundred thousand companies, which has never been the case. For most years data is available for around three hundred thousand active companies. The estimates of gross value added for these three hundred thousand companies is inflated to obtain the GVA of the universe of 10 hundred thousand companies.   There can be no denying the fact that MCA21 contains information from shell companies. The data from such fictitious units cannot be ignored to prevent underestimation. The only way to make the process of GDP calculation efficient and transparent would be to weed out these shell companies. The Ministry of Corporate Affairs (MCA) has started the process of geo-tagging the registered offices in the returns filed with the Registrar of Companies (RoC). Geo-tagging is the process of attaching geographical meta-data (exact latitudinal and longitudinal information) with an online return filing system, alerting the government if too many companies are registered on the same premises. The process of geo-tagging is still underway and it would be too early to comment on its effectiveness. The debate on the inclusion of figures from shell companies for the calculation of GDP and the veracity of the GDP numbers is raging. There is a need for statisticians, economists and policymakers to sit together and find solutions to these technical issues related to GDP calculation. Additional steps need to be taken by the Income Tax Department and the Enforcement Directorate (India’s white collar crime watchdog) to clamp down on the operations of such spurious companies. The Justice Shah Commission, constituted in 2015, highlighted the role of such companies in money laundering, which is a punishable offence under Prevention of Money Laundering Act, 2002. A holistic government approach is necessary to fight the menace of shell companies.</summary></entry><entry><title type="html">Table</title><link href="/table" rel="alternate" type="text/html" title="Table" /><published>2019-06-04T21:22:00+00:00</published><updated>2019-06-04T21:22:00+00:00</updated><id>/table</id><content type="html" xml:base="/table">&lt;table&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;p&gt;Manager&lt;/p&gt;&lt;/td&gt;
 &lt;td&gt;&lt;p&gt;UEFA Champions League Finals &lt;span style=&quot;color:green&quot;&gt;win&lt;/span&gt;/&lt;span style=&quot;color:red&quot;&gt;loss&lt;/span&gt; record (year)&lt;/p&gt;&lt;/td&gt;
@@ -357,26 +464,4 @@ the city.&lt;/b&gt;&lt;/div&gt;</content><author><name>Daniel Harris</name></aut
 
 &lt;p&gt;Thus, it would seem that, with the right kind of limitations on what Machine Learning is used for and an investment in human beings, we can really herald a society where man and AI work together. First, we need to change our educational institutions to help foster more and more creativity, thereby preparing the jobs market for a situation where humans no longer do many mundane jobs. The efficiencies created by this division of labour between humans and AI will reap rewards that can only be imagined. Second, we need to align AI with our value systems and morals, using it as a purposeful instrument for human betterment rather than as a sterile but disastrously potent machine. With these two broad approaches, we humans can reach even greater heights of civilisation in the coming Age. After all, to quote Max Tegmark, President of the Future of Life Institute:&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;“Everything we love about civilization is a product of intelligence, so amplifying our human intelligence with artificial intelligence has the potential of helping a civilization flourish like never before – as long as we manage to keep the technology beneficial.”&lt;/em&gt;&lt;/p&gt;</content><author><name>unnati.jain sailesh.buchasia</name></author><category term="economics" /><summary type="html">How can mankind prevail in the face of such exponential and encompassing technological change?</summary></entry><entry><title type="html">Has the Dragon Woken Up? A Look at China’s Arctic Policy</title><link href="/China-Arctic-Policy" rel="alternate" type="text/html" title="Has the Dragon Woken Up? A Look at China’s Arctic Policy" /><published>2019-05-10T00:00:00+00:00</published><updated>2019-05-10T00:00:00+00:00</updated><id>/China-Arctic-Policy</id><content type="html" xml:base="/China-Arctic-Policy">&lt;p&gt;The urge to control resources is as old as human civilisation. European travellers’ constant endeavour to find new trade routes with the Far East from the sixteenth to the eighteenth century, and the establishment of European settlements and colonies in Asian and African countries are the best manifestations of this urge. Most of the twentieth century was marked by efforts of countries like America and the erstwhile USSR at increasing their military and economic sphere of influence. This lust continues even in the present century but, interestingly, new players have appeared on the horizon. The most notable of these is China.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Arctic-Pie Everyone Wants a Slice Of&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Control on land has reached, probably, its exhaustion limit. Space and water are new frontiers human beings are exploring. As a testimonial, one can take the example of the Arctic region. Besides littoral states — Canada, Denmark, Norway, Russia and the United States, China, lacking even an Arctic coast, is asserting its right over the waters of the Arctic. Interest in the Arctic, which is a twenty-first century happening, has its roots in climate change. The region at present is characterised by thick white sheets of snow. It is pitch dark for half of the year and has bizarre ‘white nights’ for the remaining half.&lt;/p&gt;
-
-&lt;p&gt;Here is the deal: global warming is likely to lead to the melting of these snow sheets and, in turn, to the discovery of huge energy deposits. In 2008, the US Geological Survey released an assessment, and, according to it, the Arctic possesses 30% of the world’s undiscovered natural gas and 13% of its undiscovered oil reserves. In addition to this, the ocean would become navigable and shorter trade routes would ensure faster movement of ships when the snow caps melt. Analysts believe that, because of the melting snow, the ‘north-east passage’ will open-up towards Europe and the ‘north-west passage’ will ensure better connectivity between the USA and Canada. China’s Arctic ambition can be seen in the background of this hunt for resources and new trade routes, fuelled by its desire to be an important geopolitical player and an energy giant.&lt;/p&gt;
-
-&lt;p&gt;In March 2010, Chinese Rear Admiral Yin Zhuo, putting forth his country’s claim and questioning the territorial rights of littoral states said, “The Arctic belongs to all the people around the world, as no nation has sovereignty over it. . . . China must plan an indispensable role in Arctic exploration as we have one-fifth of the world’s population.” His remarks upended the international relations policy of China, which is embodied in the Five Principles of Peaceful Coexistence rooted in respect for the sovereignty of nations. To support its argument, Beijing says that as per the United Nations Convention on the Law of the Sea, the Arctic is a shipping commons.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;China and the Arctic&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In 2013, China secured a permanent observer status in the Arctic Council, which many saw as a sign of growing Chinese influence in the region. The Arctic Council is an intergovernmental forum formed in 1996. Its members - Canada, Denmark, Finland, Iceland, Norway, Russia, Sweden and the United States address issues of sustainable development and those faced by the indigenous people of the Arctic.&lt;/p&gt;
-
-&lt;p&gt;In January 2018, Beijing came up with a White Paper on Chinese Arctic Policy, the first official document on Arctic strategy. It explains the economic possibilities the region offers to the country and declares China to be a major stakeholder by labelling itself as a “near-Arctic State” even though Beijing is almost 3,000 km (1,800 miles) from the Arctic Circle. The document seeks Beijing’s close involvement in areas like scientific research, resource exploration, shipping and security. As per the White Paper, China wants to integrate the ‘Polar Silk Road’ or ‘blue economic passage’ with the greater Belt and Road Initiative.&lt;/p&gt;
-
-&lt;p&gt;The former is a predominantly China-Russian partnership to link China and Europe through the Arctic Ocean. The Belt and Road Initiative is the brainchild of President Xi Jinping and aims to connect 152 countries in Asia, Europe, the Middle East, Latin America and Africa through vast logistics and transport networks. Many countries including India are sceptical about BRI as they see it as a veneer under which China wants to boost its own economic and political influence. China’s plans for a Polar Silk Road include developing Arctic shipping routes. It has bought or commissioned several ice-breakers - including nuclear-powered ones - to carve out new routes for its goods through the Arctic ice.&lt;/p&gt;
-
-&lt;p&gt;In order to allay the fear of countries which are sceptical about its intentions, China is courting countries of the region near the Arctic through diplomatic and economic initiatives. It is making investments in Greenland and wants access to its mines. The Chinese company Shenghe Resources purchased a 12.5% share in Greenland Minerals and Energy. Xiao Yang, director of the Arctic Research Center at Beijing International Studies University recently wrote in a paper, “Greenland will be the key node for the successful implementation of the Polar Silk Road.” Greenland is self-governing, though still nominally controlled by Denmark. And this Chinese move is worrying the Danes and the Americans too, as the latter has the vast Thule Air Base located in the far north of Greenland. In fact, in 2013, Iceland became the first European country to enter into a Free Trade Agreement with China. Chinese banks have made huge investments in Iceland after the 2008 crisis. The China-Iceland Arctic Science Observatory in northern Iceland will conduct research on glaciology, oceanography and other similar fields. In addition, the state-owned China Development Bank has made a huge investment in the Russian energy company Novatek. It will provide China access to Arctic’s liquefied natural gas from the Yamal liquefied natural gas project in the northern port of Sabetta. The first cross-border railway bridge to link China and Russia was completed on April 2, 2019.&lt;/p&gt;
-
-&lt;p&gt;Besides diplomatic initiatives, China is spending more than $60 million annually on polar research. The China-Nordic Arctic Research Center has been set up in Shanghai. Until now, nine Arctic expeditions have been undertaken by China. The last one will make long-term atmospheric and oceanographic monitoring possible.&lt;/p&gt;
-
-&lt;p&gt;An insight into the Arctic policy of China makes one believe that diplomatic endeavours of Xi Jinping are moving in the right direction. The Second Belt and Road Forum in Beijing concluded on April 27 this year. China claims 150 countries participated in this forum, indicating Chinese prowess. Of course, India was a notable exception. As Napoleon famously aphorised about 170 years ago, “Let China sleep; when she wakes she will shake the world.” It seems the dragon is finally awake. It is difficult to underestimate the growing economic influence of China in the world and, in particular, the Arctic region―where its power grows in leaps and bounds. Only time will tell how successful it will be in camouflaging its ‘predatory economics’ with environmental monitoring.&lt;/p&gt;</content><author><name>Manya Manushi</name></author><category term="policy" /><summary type="html">The urge to control resources is as old as human civilisation. European travellers’ constant endeavour to find new trade routes with the Far East from the sixteenth to the eighteenth century, and the establishment of European settlements and colonies in Asian and African countries are the best manifestations of this urge. Most of the twentieth century was marked by efforts of countries like America and the erstwhile USSR at increasing their military and economic sphere of influence. This lust continues even in the present century but, interestingly, new players have appeared on the horizon. The most notable of these is China.</summary></entry></feed>
+&lt;p&gt;&lt;em&gt;“Everything we love about civilization is a product of intelligence, so amplifying our human intelligence with artificial intelligence has the potential of helping a civilization flourish like never before – as long as we manage to keep the technology beneficial.”&lt;/em&gt;&lt;/p&gt;</content><author><name>unnati.jain sailesh.buchasia</name></author><category term="economics" /><summary type="html">How can mankind prevail in the face of such exponential and encompassing technological change?</summary></entry></feed>
