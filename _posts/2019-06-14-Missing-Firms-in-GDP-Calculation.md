@@ -7,7 +7,7 @@ class: post-template
 title: "‘Missing’ Firms in GDP Calculation"
 author: gurleen.kaur
 cover: question-mark.jpg
-tags: econs
+tags: economics
 date: 2019-06-14 01:13
 link: https://images.app.goo.gl/KXQ1jwx5BMd2oJaE9
 ---
