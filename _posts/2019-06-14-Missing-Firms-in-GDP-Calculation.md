@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "‘Missing’ Firms in GDP Calculation"
+title: "'Missing' Firms in GDP Calculation"
 author: gurleen.kaur
 cover: question-mark.jpg
 tags: economics
