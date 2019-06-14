@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 current: post
 navigation: True
@@ -8,7 +8,7 @@ title: "'Missing' Firms in GDP Calculation"
 author: gurleen.kaur
 cover: question-mark.jpg
 tags: economics
-date: 2019-06-14 01:13
+date: 2019-06-13 17:34
 link: https://images.app.goo.gl/KXQ1jwx5BMd2oJaE9
 ---
 The controversies regarding India's GDP numbers, with 2011-2012 as the base
