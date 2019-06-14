@@ -7,6 +7,30 @@
     </link>
     
       
+      <item>
+        <title>Table</title>
+        
+          <description>&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Manager&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;UEFA Champions League Finals &lt;span style=&quot;color:green&quot;&gt;win&lt;/span&gt;/&lt;span style=&quot;color:red&quot;&gt;loss&lt;/span&gt; record (year)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;CL semi-finals reached&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;CL quarter-finals reached&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;Number of seasons managed in CL&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;CL win percentage (%)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+</description>
+        
+        <pubDate>Tue, 04 Jun 2019 21:22:00 +0000</pubDate>
+        <link>
+        /table</link>
+        <guid isPermaLink="true">/table</guid>
+      </item>
+      
+    
+      
     
       
     
