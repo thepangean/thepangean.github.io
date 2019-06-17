@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "Martin Scorsese And The American Dream"
+title: "Martin Scorsese and The American Dream"
 author: pranav.manie
 cover: las-vegas.jpg
 tags: culture
@@ -95,7 +95,7 @@ Substance usage provided that enhanced ability. Promiscuous sex provided the
 relief after. Home life provided the anxiety.
 
 In *The Wolf of Wall Street*, this conception of the American Dream was most
-magnified when money-crazed kids read a Forbes piece that was actually critical
+magnified when money-crazed kids read a *Forbes* piece that was actually critical
 of Jordan Belfort and decided to join his firm, Stratton Oakmont. Drugs, women,
 capital, a need for the high life. It was everything that an average American
 male needed; a break from the monotony of merely existing and working an
