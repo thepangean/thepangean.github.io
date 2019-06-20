@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: fashionjapan.jpg
+cover: fashionjapan.JPG
 navigation: True
 title: "Celebrating Darkness Through Style: Yami Kawaii"
 date: 2019-06-20
