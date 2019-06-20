@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: moneyfly.jpg
+cover: moneyfly.jpeg
 navigation: True
 title: "Robust Political Economy"
 date: 2019-06-20
