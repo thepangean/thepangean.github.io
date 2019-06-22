@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: borderguards.jpg
 navigation: True
-title: "A Tale Of Two Brothers"
+title: "A Tale of Two Brothers"
 date: 2019-06-22
 tags: policy
 class: post-template
