@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 current: post
 navigation: True
@@ -244,8 +244,6 @@ been knocked out at the first hurdle had Napoli’s Arkadiusz Milik not fired
 straight at Alisson in the final minute of the group stage. Managers have no
 control over these moments and it is imperceptive to solely look at the end
 results rather than use critical thinking to evaluate the process of a match.
-
- 
 
 Pep’s Champions League legacy is complex with many different factors having to
 be considered. He has almost exclusively had super-teams at his disposal and
