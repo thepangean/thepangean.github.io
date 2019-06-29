@@ -5,7 +5,7 @@ cover: belt.jpg
 navigation: True
 title: "UFC 237 and UFC 238 Round-Up"
 date: 2019-06-28
-tags: sports mma
+tags: sports mma headline
 class: post-template
 subclass: 'post tag-speeches'
 link: https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%99%D7%A4%D7%95%D7%AA_%D7%94%D7%9C%D7%97%D7%99%D7%9E%D7%94_%D7%94%D7%90%D7%95%D7%9C%D7%98%D7%99%D7%9E%D7%98%D7%99%D7%91%D7%99%D7%AA#/media/%D7%A7%D7%95%D7%91%D7%A5:UFC_Championship_Belt.jpg
