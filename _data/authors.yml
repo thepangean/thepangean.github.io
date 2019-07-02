@@ -112,6 +112,17 @@ sailesh.buchasia:
   twitter:
   cover: sailesh-cover.jpg
 
+sanjana.chandaliya:
+  username: sanjana.chandaliya
+  name: Sanjana Chandaliya
+  location: New Delhi, India
+  positions: Contributor
+  bio: A diligent, curious and sensible person, Sanjana wishes to explore various fields in her college life. Currently pursuing Bachelor of Commerce (Honours) at SRCC, she has a keen interest in Economics, Politics and Public Policy.
+  picture: sanjana.jpg
+  facebook: False
+  twitter: SanjanaChan1
+  cover: False
+
 aritra.gupta:
   username: aritra.gupta
   name: Aritra Dutta Gupta
@@ -134,6 +145,17 @@ james.eakin:
   twitter: False
   cover: james-eakin-cover.jpg
   sports: True
+
+oindrila.ghosh:
+  username: oindrila.ghosh
+  name: Oindrila Ghosh
+  location: Vasco da Gama, Goa
+  positions: Contributor
+  bio: I am a student of Chemical Engineering at BITS Pilani and an Egyptology enthusiast, who loves reading about cold cases, creation and everything else that will probably never benefit me in my future career.
+  picture: oindrila.png
+  facebook: oindrila.ghosh.5268
+  twitter: False
+  cover: False
 
 stuti.gupta:
   username: stuti.gupta
@@ -212,6 +234,17 @@ gurleen.kaur:
   facebook: troy.worden.14
   twitter: False
   cover: gurleen-cover.jpg
+
+kartik.kundeti:
+  username: kartik.kundeti
+  name: Kartik Balaji Kundeti
+  location: Hyderabad
+  positions: Contributor
+  bio: A low-key individual with keen interest in Economics and Policy making. Currently pursuing Economics from SRCC, University of Delhi.
+  picture: kartik.jpg
+  facebook: False
+  twitter: kartikbalaji_kb
+  cover: False
 
 ashima.makhija:
   username: ashima.makhija
@@ -406,6 +439,17 @@ olly.bowes:
   facebook: False
   twitter: False
   cover: olly-cover.jpg
+
+sumayee.barman:
+  username: sumayee.barman
+  name: Sumayee Roy Barman
+  location: Kolkata
+  positions: Illustrator
+  bio: I guess, I am what you call a selfless narcissist?
+  picture: sumayee.jpg
+  facebook: sumayee
+  twitter: False
+  cover: sumayee-cover.jpg
 
 adarsh.agarwal:
   username: adarsh.agarwal
