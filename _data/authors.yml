@@ -224,6 +224,19 @@ ashima.makhija:
   twitter: False
   cover: ashima-cover.jpg
 
+pranav.manie:
+  username: pranav.manie
+  name: Pranav Manie
+  location: Delhi
+  positions: Contributor
+  bio: I'm an economics undergrad at Hansraj College. Love talking about all kinds of pop culture, love to know about what's happening in the world.
+  picture: pranav-manie.jpg
+  facebook: pranav.manie
+  twitter: False
+  cover: pranav-manie-cover.jpg
+  url_full: https://theotherweblog.wordpress.com
+  url: https://theotherweblog.wordpress.com
+
 manya.manushi:
   username: manya.manushi
   name: Manya Manushi
@@ -415,19 +428,6 @@ shivang.singh:
   facebook: shivang.singh.1213
   twitter: shivangsingh98
   cover: shivang-cover.jpg
-
-pranav.manie:
-  username: pranav.manie
-  name: Pranav Manie
-  location: Delhi
-  positions: Contributor
-  bio: I'm an economics undergrad at Hansraj College. Love talking about all kinds of pop culture, love to know about what's happening in the world.
-  picture: pranav-manie.jpg
-  facebook: pranav.manie
-  twitter: False
-  cover: pranav-manie-cover.jpg
-  url_full: https://theotherweblog.wordpress.com
-  url: https://theotherweblog.wordpress.com
 
 
 # aryaman.tewari:
