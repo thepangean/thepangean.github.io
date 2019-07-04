@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "THE MIDDLE INCOME TRAP And How India Must Avert It"
+title: "The Middle Income Trap and How India Must Avert It"
 author: riya.kaul
 cover: Gorakhpur_Junction_railway_station.jpg
 tags: economics
