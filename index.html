@@ -32,6 +32,31 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
+      {% assign section_select = "millennial" %}
+
+      <div class="post-feed-main">
+          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+          {%  include post-card-main.html %}
+      </div>
+
+      {% assign section_select = "millennial" %}
+
+      <div class="title-column">
+        {% assign counter_top = 0 %}
+        {% for post in site.posts %}
+          {% if post.tags contains site.data.tags[section_select].name %}
+            {% assign counter_top = counter_top | plus:1 %}
+          {% endif %}
+        {% endfor %}
+        {% if counter_top > 0 %}
+          <h2>{{ site.data.tags[section_select].title}}</h2>
+        {% endif %}
+      </div>
+
+      <div class="post-feed-column">
+          {% include post-card-column.html %}
+      </div>
+
       {% for tag in site.data.tags %}
       {% unless tag[1].sports or tag[1].hidden %}
 

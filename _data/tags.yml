@@ -7,6 +7,14 @@ headline:
   name: headline
   title: Headline
   hidden: True
+millennial:
+  name: millennial
+  title: Millennial Campaign
+  hidden: True
+main:
+  name: main
+  title: Main
+  hidden: True
 #VISIBLE
 culture:
   name: culture
