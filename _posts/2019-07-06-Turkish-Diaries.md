@@ -4,14 +4,12 @@ current: post
 navigation: True
 class: post-template
 
-title: "The State of the Millennial in 2019"
-author: shohan.mukherjee
-cover: millennials.jpg
-pic1: lalalala.gif
-pic2: millennials1.jpg
-tags: millennial economics
-date: 2019-07-07 01:40
-link: https://www.flickr.com/photos/145362372@N03/46067529652
+title: "Turkish Diaries"
+author: sanjana.chandaliya
+cover: Hagia-Istanbul.jpg
+tags: culture
+date: 2019-07-06 14:40
+link: https://www.flickr.com/photos/pedrosz/24854155744
 ---
 Before writing this piece, I had a couple of rather conflicting thoughts, that
 made me resist the urge to write a personal account of my visit to Turkey. My
