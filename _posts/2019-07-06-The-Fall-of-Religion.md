@@ -5,7 +5,7 @@ cover: fallofrel.jpg
 navigation: True
 title: "The Fall of Religion in the Millennial West"
 date: 2019-07-06
-tags: society millennial
+tags: millennial society
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/4/46/Christ_washes_apostles%27_feet_%28Monreale%29.jpg

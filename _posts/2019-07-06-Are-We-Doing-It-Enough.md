@@ -5,7 +5,7 @@ cover: doingit.jpg
 navigation: True
 title: "Are We ‘Doing It’ Enough?"
 date: 2019-07-06
-tags: society millennial
+tags: millennial society 
 class: post-template
 subclass: 'post tag-speeches'
 link: https://www.flickr.com/photos/centralasian/6953794788
