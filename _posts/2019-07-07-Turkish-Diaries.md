@@ -11,6 +11,7 @@ tags: culture
 date: 2019-07-07 02:40
 link: https://www.flickr.com/photos/pedrosz/24854155744
 ---
+
 Before writing this piece, I had a couple of rather conflicting thoughts, that
 made me resist the urge to write a personal account of my visit to Turkey. My
 initial enthusiasm to pen down my extraordinary experience was soon met by a
