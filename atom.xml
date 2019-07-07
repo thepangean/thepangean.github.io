@@ -43,6 +43,8 @@
       
     
       
+    
+      
       <item>
         <title>Table</title>
         
@@ -63,6 +65,21 @@
         <link>
         /table</link>
         <guid isPermaLink="true">/table</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Caption Image</title>
+        
+          <description>&lt;div class=&quot;caption&quot; style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mario_Draghi_-_World_Economic_Forum_Annual_Meeting_2012.jpg/1024px-Mario_Draghi_-_World_Economic_Forum_Annual_Meeting_2012.jpg&quot;&gt;&lt;img src=&quot;assets/images//Mario-Draghi.jpg&quot; style=&quot;width:100%&quot; /&gt;&lt;/a&gt;&lt;b&gt;Country:&lt;/b&gt; Italy &lt;br /&gt;
+&lt;b&gt;Education:&lt;/b&gt; La Sapienza University, Massachusetts Institute of Technology&lt;/div&gt;
+</description>
+        
+        <pubDate>Tue, 04 Jun 2019 21:22:00 +0000</pubDate>
+        <link>
+        /photo-caption</link>
+        <guid isPermaLink="true">/photo-caption</guid>
       </item>
       
     
