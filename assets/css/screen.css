@@ -952,6 +952,17 @@ The first (most recent) post in the list is styled to be bigger than the others 
     min-width: 100%;
 }
 
+/* Sourced from https://css-tricks.com/snippets/css/drop-caps/ */
+.post-full-content p:first-of-type::first-letter {
+  float: left;
+  font-family: Georgia;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
 .post-full-content li {
     word-break: break-word;
 }
