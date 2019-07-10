@@ -73,7 +73,7 @@ debt plaguing much of the Western world. 
 >“If the employer is just having a problem with me and my ways, then guess what,
 I quit!”
 
-<div class="caption" style="text-align: left"><a href="javascript:void(0)" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}" style="width:100%"/></a></div>
+<div class="caption" style="text-align: left"><a href="https://66.media.tumblr.com/504bc9dab4a70c6c69a5696be0456568/tumblr_n22rf1CVMY1tq4of6o1_500.gif" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}" style="width:100%"/></a></div>
 
 Unfortunately, there lies another innate flaw deep within us. Maybe, it is
 because a lot of us are still young and haven’t grown out of the habit of
