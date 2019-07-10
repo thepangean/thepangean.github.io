@@ -86,7 +86,7 @@ If we are to make up ground, and reach our expectations (sky high!), we will
 have to adjust to the ways of the world and not be so adamant as we strive to
 perfection. But why ‘perfection’? Why are we so obsessed with getting it right?
 
-<div class="caption" style="text-align: left"><a href="javascript:void(0)" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic2 }}" style="width:100%"/></a></div>
+<div class="caption" style="text-align: left"><a href="https://thepangean.com/author/shohan.mukherjee/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic2 }}" style="width:100%"/></a></div>
 
 The answer lies with the world that has been built by the last generation to
 earn the ‘greatest’ title before us: the baby boomers. As baby boomers emerged
