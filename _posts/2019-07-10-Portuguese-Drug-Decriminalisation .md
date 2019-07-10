@@ -27,13 +27,13 @@ spending 5 months in Lisbon. The interviews referenced are personal interviews
 that I completed in April, 2019. Some have been translated from Portuguese to
 English. The three interviews I will reference are of the following people:
 
-**João Santa Maria** – Peer mediator in the NGO IN-Mouraria – a harm reduction
+*João Santa Maria* – Peer mediator in the NGO IN-Mouraria – a harm reduction
 centre for drug users.
 
-**Brendan Hughes** – Principal Scientist and expert in Drug Legislation at the
+*Brendan Hughes* – Principal Scientist and expert in Drug Legislation at the
 European Monitoring Centre for Drugs and Drug Addiction.
 
-**João Goulão** – Director of SICAD, the government department for Intervention
+*João Goulão* – Director of SICAD, the government department for Intervention
 on Addictive Behaviours and Dependencies, and the architect for Portugal’s drug
 policy. 
 
