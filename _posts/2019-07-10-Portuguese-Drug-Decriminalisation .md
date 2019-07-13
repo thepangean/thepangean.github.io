@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "Portuguese Drug Decriminalisation – Has it worked?"
+title: "Portuguese Drug Decriminalisation – Has it Worked?"
 author: daniel.harris
 cover: 1024px-Amsterdam_rainbow_coffeeshop.jpg
 pic1: drug-decriminalisation.png
