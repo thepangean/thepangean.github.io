@@ -1,4 +1,441 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-07-12T18:26:42+00:00</updated><id>/</id><title type="html">The Pangean</title><subtitle>Taking a step back</subtitle><entry><title type="html">Educating the Millennials: Whose Responsibility?</title><link href="/Educating-the-Millennials" rel="alternate" type="text/html" title="Educating the Millennials: Whose Responsibility?" /><published>2019-07-12T00:00:00+00:00</published><updated>2019-07-12T00:00:00+00:00</updated><id>/Educating-the-Millennials</id><content type="html" xml:base="/Educating-the-Millennials">&lt;p&gt;“Education is the most powerful weapon which you can use to change the world.” These words of Nelson Mandela capture the importance of obtaining an education for every individual across any generation. Millennials, too, recognise the importance of getting educated. In fact, according to the Pew Research Center, they are the most educated generation yet. However, the major impediment that comes in their way of entering the formal schooling system and, later, higher education is limited availability of finance.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-07-13T16:57:57+00:00</updated><id>/</id><title type="html">The Pangean</title><subtitle>Taking a step back</subtitle><entry><title type="html">On Codes and Ciphers; The Imitation Game</title><link href="/On-Codes-and-Ciphers" rel="alternate" type="text/html" title="On Codes and Ciphers; The Imitation Game" /><published>2019-07-12T17:45:00+00:00</published><updated>2019-07-12T17:45:00+00:00</updated><id>/On-Codes-and-Ciphers</id><content type="html" xml:base="/On-Codes-and-Ciphers">&lt;p&gt;“Are you paying attention? Good. If you are not listening carefully, you will
+miss things, important things. I will not pause, I will not repeat myself, and
+you will not interrupt me. You think that because you’re sitting where you are
+and I am sitting where I am, that you are in control of what is about to happen.
+You’re mistaken. I am in control, because I know things that you do not know.” - &lt;em&gt;The Imitation Game&lt;/em&gt;, 2014.&lt;/p&gt;
+
+&lt;div class=&quot;caption&quot; style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg&quot;&gt;&lt;img src=&quot;assets/images//Alan_Turing_Aged_16.jpg&quot; style=&quot;width:100%&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Alan Turing was a revolutionary mathematician, a pioneer among computer
+scientists and, most importantly, one of the key players in resolving World War
+II through his immense contribution to the decoding of the Enigma cipher. The
+Allied forces were in a near-constant state of perplexion over how to crack the
+Enigma, the cipher used by the Germans, in order to encrypt messages. Though the
+Enigma was reported to have been decoded by the Polish well before him, Turing’s
+original method of decrypting the cipher was instrumental in predicting German
+movements during the War.&lt;/p&gt;
+
+&lt;div class=&quot;caption&quot; style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/_dchris/19612913884&quot;&gt;&lt;img src=&quot;assets/images//enigma-machine.jpg&quot; style=&quot;width:100%&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;The Enigma was believed to be impossible to crack. Ultimately, however, it was
+broken, bearing testimony to how nothing is truly unbreakable, and every system
+has a catch attached to it; a principle well highlighted by modern cryptologists
+like Shamir and Bonhe.&lt;/p&gt;
+
+&lt;p&gt;The conceptualisation of codes and ciphers is well-documented alongside the
+history of warfare and the development of language, as we know it. A very famous
+cipher, the Caesar Cipher, was supposedly used by the famous Roman general to
+communicate messages from one camp to another whilst maintaining the
+authenticity of commands. In the cipher, the first letter of the alphabet is
+replaced with any chosen letter, the subsequent letters then get replaced in a
+similar order. For example, in the ‘G Cipher’, A gets replaced by G, B gets
+replaced by H and so on.&lt;/p&gt;
+
+&lt;div class=&quot;caption&quot; style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://s4scoding.com/images/caesar-cipher-left-shift-of-3.jpg&quot;&gt;&lt;img src=&quot;assets/images//caesar-cipher-left-shift-of-3.jpg&quot; style=&quot;width:100%&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;One of the key aspects of codes and ciphers comes from the concept of
+steganography. Even though steganography is considered to be a part of
+cryptology, it actually isn’t, it is simply a method of hiding information,
+using pictures. This method is said to be foolproof. It was even used in the
+very famous or rather infamous case of Cicada 3301, when an unknown group of
+people claimed to hide information within certain images, and challenged someone
+to crack it.&lt;/p&gt;
+
+&lt;p&gt;Another prominent cipher is the Vigenere Cipher; a key-controlled Caesar Cipher.
+A key is a system through which one can encode or decode anything, like messages
+or warnings. Vigenere Ciphers have been instrumental during war communication
+even during the era of the Napoleonic Wars and have stood the test of time, 
+being one of the most recognisable of ciphers today. However, the claim to the
+throne of the most illustrious cipher would, undisputedly, go to the Morse Code.
+The concept behind the Morse Code, (which despite the misnomer of being a code,
+is actually a cipher) is also behind the invention of the telegraph by, you
+guessed it, Samuel Morse.&lt;/p&gt;
+
+&lt;div class=&quot;caption&quot; style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/b/b5/International_Morse_Code.svg&quot;&gt;&lt;img src=&quot;assets/images//International_Morse_Code.svg&quot; style=&quot;width:100%&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;For almost half a century, the Telegraph was the only means by which electronic
+messages could be sent and received. The Morse Code expresses words, i.e. the
+letters and numbers that constitute them, in the form of ‘dots and dashes’ and
+it is in this form that it is sent to the receiver. Morse Code, however, has
+been, quite interestingly, used in several other forms such as taps and untaps;
+tapping signifying a dot, and pausing a dash. (Yes, Sherlock fans, you guessed
+it, didn’t you)? The Morse Code is quite a reliable form of masking data, if
+masked properly that is.&lt;/p&gt;
+
+&lt;p&gt;Funny enough, codes and ciphers have been an integral part of artistic movements
+in Europe. One of the most renowned ciphers was developed by one of the most
+talented men in Europe. Although his name is obscure, he is considered to have
+talent comparable to the likes of Leonardo Da Vinci. Most of the relics of that
+age have been protected using this very cipher. The cipher in question is the
+Alberti Cipher, conceptualised by the revolutionary, Alberti. This cipher
+replaces words according to a disk which helps encrypt and decrypt the text.&lt;/p&gt;
+
+&lt;p&gt;The famous author David Kahn notes in his book &lt;em&gt;The Codebreakers&lt;/em&gt; that history
+has forgotten several of the other famous ciphers, such as the ones used by many
+mathematicians in the Middle-East during the Oriental age, the Scytale Cipher
+used by the Spartans during their Golden Age, and so on. There has been no
+dearth in the human ability to innovate. In order to create a foolproof cipher
+system, all has been done, ranging from methods of transposition (that is to
+replace one word with another, as was utilised by the famous Gronsfeld Cipher)
+to the generation of intelligent schemes to make decryption difficult without
+the key.&lt;/p&gt;
+
+&lt;p&gt;However, when the Enigma was built, it was almost as if the pinnacle of human
+comprehension was reached and it was presumed that it could not be broken, no
+matter what the Allies did. However, a group of people in Bletchley Park refused
+to give up and the rest, as they say, is history. Alan Turing has been an
+inspiration for the greatest of modern cryptographers, from Adi Shamir to
+Malcolm Williamson. In an age in which it is predicted that computers might rule
+the world, the authenticity of information and security are some of the biggest
+concerns. Cryptography and its application are only going to get more complex
+and esoteric, to the extent that we may not be able to comprehend even abstract
+concepts on the quantum nature of information.&lt;/p&gt;
+
+&lt;p&gt;Information, they say, is key. The philosophy behind the establishment, setting
+up and the consequent breaking of codes signifies the ultimate nature of how we
+are. It signifies the essence of humankind. It is in the nature of man to build
+and then eventually destroy, to construct and then ultimately deconstruct, only
+for a better possibility to be explored. Human nature tells us that nothing is
+truly unbreakable and that everything, which is part of human effort, can be
+brought down, thanks to humans themselves.&lt;/p&gt;
+
+&lt;p&gt;Codes help us express ourselves in a niche manner, truly being an indication of
+the creativity and perseverance, we as humans, are able to display and put into
+effect.&lt;/p&gt;</content><author><name>Riya Kaul</name></author><category term="culture" /><summary type="html">“Are you paying attention? Good. If you are not listening carefully, you will miss things, important things. I will not pause, I will not repeat myself, and you will not interrupt me. You think that because you’re sitting where you are and I am sitting where I am, that you are in control of what is about to happen. You’re mistaken. I am in control, because I know things that you do not know.” - The Imitation Game, 2014. Alan Turing was a revolutionary mathematician, a pioneer among computer scientists and, most importantly, one of the key players in resolving World War II through his immense contribution to the decoding of the Enigma cipher. The Allied forces were in a near-constant state of perplexion over how to crack the Enigma, the cipher used by the Germans, in order to encrypt messages. Though the Enigma was reported to have been decoded by the Polish well before him, Turing’s original method of decrypting the cipher was instrumental in predicting German movements during the War. The Enigma was believed to be impossible to crack. Ultimately, however, it was broken, bearing testimony to how nothing is truly unbreakable, and every system has a catch attached to it; a principle well highlighted by modern cryptologists like Shamir and Bonhe. The conceptualisation of codes and ciphers is well-documented alongside the history of warfare and the development of language, as we know it. A very famous cipher, the Caesar Cipher, was supposedly used by the famous Roman general to communicate messages from one camp to another whilst maintaining the authenticity of commands. In the cipher, the first letter of the alphabet is replaced with any chosen letter, the subsequent letters then get replaced in a similar order. For example, in the ‘G Cipher’, A gets replaced by G, B gets replaced by H and so on. One of the key aspects of codes and ciphers comes from the concept of steganography. Even though steganography is considered to be a part of cryptology, it actually isn’t, it is simply a method of hiding information, using pictures. This method is said to be foolproof. It was even used in the very famous or rather infamous case of Cicada 3301, when an unknown group of people claimed to hide information within certain images, and challenged someone to crack it. Another prominent cipher is the Vigenere Cipher; a key-controlled Caesar Cipher. A key is a system through which one can encode or decode anything, like messages or warnings. Vigenere Ciphers have been instrumental during war communication even during the era of the Napoleonic Wars and have stood the test of time,  being one of the most recognisable of ciphers today. However, the claim to the throne of the most illustrious cipher would, undisputedly, go to the Morse Code. The concept behind the Morse Code, (which despite the misnomer of being a code, is actually a cipher) is also behind the invention of the telegraph by, you guessed it, Samuel Morse. For almost half a century, the Telegraph was the only means by which electronic messages could be sent and received. The Morse Code expresses words, i.e. the letters and numbers that constitute them, in the form of ‘dots and dashes’ and it is in this form that it is sent to the receiver. Morse Code, however, has been, quite interestingly, used in several other forms such as taps and untaps; tapping signifying a dot, and pausing a dash. (Yes, Sherlock fans, you guessed it, didn’t you)? The Morse Code is quite a reliable form of masking data, if masked properly that is. Funny enough, codes and ciphers have been an integral part of artistic movements in Europe. One of the most renowned ciphers was developed by one of the most talented men in Europe. Although his name is obscure, he is considered to have talent comparable to the likes of Leonardo Da Vinci. Most of the relics of that age have been protected using this very cipher. The cipher in question is the Alberti Cipher, conceptualised by the revolutionary, Alberti. This cipher replaces words according to a disk which helps encrypt and decrypt the text. The famous author David Kahn notes in his book The Codebreakers that history has forgotten several of the other famous ciphers, such as the ones used by many mathematicians in the Middle-East during the Oriental age, the Scytale Cipher used by the Spartans during their Golden Age, and so on. There has been no dearth in the human ability to innovate. In order to create a foolproof cipher system, all has been done, ranging from methods of transposition (that is to replace one word with another, as was utilised by the famous Gronsfeld Cipher) to the generation of intelligent schemes to make decryption difficult without the key. However, when the Enigma was built, it was almost as if the pinnacle of human comprehension was reached and it was presumed that it could not be broken, no matter what the Allies did. However, a group of people in Bletchley Park refused to give up and the rest, as they say, is history. Alan Turing has been an inspiration for the greatest of modern cryptographers, from Adi Shamir to Malcolm Williamson. In an age in which it is predicted that computers might rule the world, the authenticity of information and security are some of the biggest concerns. Cryptography and its application are only going to get more complex and esoteric, to the extent that we may not be able to comprehend even abstract concepts on the quantum nature of information. Information, they say, is key. The philosophy behind the establishment, setting up and the consequent breaking of codes signifies the ultimate nature of how we are. It signifies the essence of humankind. It is in the nature of man to build and then eventually destroy, to construct and then ultimately deconstruct, only for a better possibility to be explored. Human nature tells us that nothing is truly unbreakable and that everything, which is part of human effort, can be brought down, thanks to humans themselves. Codes help us express ourselves in a niche manner, truly being an indication of the creativity and perseverance, we as humans, are able to display and put into effect.</summary></entry><entry><title type="html">The Wandering Wonder</title><link href="/The-Wandering-Wondar" rel="alternate" type="text/html" title="The Wandering Wonder" /><published>2019-07-12T17:00:00+00:00</published><updated>2019-07-12T17:00:00+00:00</updated><id>/The-Wandering-Wondar</id><content type="html" xml:base="/The-Wandering-Wondar">&lt;p&gt;Have you ever wandered off while sitting down―all in your head, all out of
+wonder? Ever imagined multiple lives for yourself? Ever wondered how there are a
+gazillion lives that are all affected by the interconnectedness of everything?
+Has there been a time when you have wanted to exchange places, or be at multiple
+places, living multiple lives at the same time? If you have, my friend, we are
+aboard the same boat and I hope your frustration wards off just as soon as I
+wish for mine to leave. Or maybe, just maybe, better yet, this wonder is what
+keeps us afloat, keeps us from dreading the worst. We know there’s a lot that
+exists, we know we may never know about it all, and maybe it’s this wonder that
+keeps us excited to be alive. I may be rationalising here and I promise to get
+rid of this defence mechanism as soon as I find a better one. But language is
+funny in more ways than not. We feel liberated using it, and at the same time,
+there is also a strange kind of entrapment. We cannot communicate without words,
+and yet are words sufficient to voice everything we feel?&lt;/p&gt;
+
+&lt;p&gt;Personally, I did not know that the frustration of being limited to one
+experience was a common dilemma, I had no idea there was even a name for it,
+albeit none that one can use in their English essay. Onism, and we shall all
+thank John Koenig for the same, is a word that tries to explain the frustration
+of being stuck in just one body, that inhabits only one place at a time. It is
+understood to be like standing in front of the departures screen at an airport,
+flickering over with strange place names like other people’s passwords, each
+representing one more thing you will never get to see before you die―and all
+because, as the arrow on the map helpfully points out, you are here.&lt;/p&gt;
+
+&lt;p&gt;One can imagine how much more rich and satisfying it would be to have multiple
+bodies, not just one―so one could escape themselves for a while and live on the
+other side of the planet. Or take a step back and see themselves from someone
+else’s point of view, in full context with the rest of the world, with their
+face the right way around, their eyes un-flattened, just as vivid as one appears
+to other people. It would be like knowing yourself like others do, judging our
+own quirks but with much less self-loathing, just seeing them as unique factions
+of our being. However absurd the idea may seem; it would bring so much more
+clarity and joy. Of course, this may be coming from a place of bias, with myself
+being someone who has felt this for a long time and only just recently found out
+about the word that expresses it so well on an unanticipated night. A friend
+introduced me to &lt;em&gt;The Dictionary of Obscure Sorrows&lt;/em&gt; and that’s when I met with
+the genius work of John Koenig. This man is on a mission to fill the gaps
+incurred in the English language.&lt;/p&gt;
+
+&lt;p&gt;His dictionary includes words that describe emotions that one may feel but can’t
+put into motion through speech or writing, it includes questioning the
+limitations that language puts on us. One has to acknowledge that our bodies and
+minds are bombarded with so many complex sensations throughout the day that it
+would be impossible to assign a name to each. Feelings are a product of any
+stimulation one can procure―the lack of it―a phenomenon in itself. Even though
+&lt;em&gt;Merriam&lt;/em&gt; and &lt;em&gt;Oxford&lt;/em&gt; haven’t made it yet, Koenig with his popular Tumblr Blog
+and subsequent YouTube Channel and website is paving the way. &lt;em&gt;TDOBS&lt;/em&gt; is
+intriguing because it presents a word that is obscure or completely invented and
+then connects it to a stylised video to further enhance the definition of that
+word. As Koenig indicates on his website, “Each original definition aims to fill
+a hole in the language—to give a name to emotions we all might experience but
+don’t yet have a word for.”&lt;/p&gt;
+
+&lt;p&gt;Koenig has said multiple times that the blog began with his desire to write
+poems. He made up words to help frame the poems better. He insists that the
+inception began at a dark time in his life. In his Ted Talk, Koenig recollects
+the time when his own melancholy triggered him to compose the dictionary, and
+how people later came up to him to thank him for his work. The graphic
+designer/editor/voice performer speaks of how his sombreness gave him a penchant
+for words. One should be aware of the fact that he makes sure that all his words
+have etymological significance. That they all have sense and reason behind them.
+&lt;em&gt;TDOBS&lt;/em&gt; gained popularity with the wilfulness of Twitter, someone tweeted out 23
+of the words and then, boom! The crowd came rushing, in shared understanding of
+the un-worded emotions. Words such as ‘sonder’ have made it to the bigwigs, with
+companies using them to name products. A very prominent bar in New York has
+named its drinks after the 23 popularised words; artists too have now started
+naming their paintings with the help of these words, so as to express themselves
+better.&lt;/p&gt;
+
+&lt;p&gt;One might wonder why out of every interesting word this man has invented, I
+longed to make this word the winter sun―Onism. Onism is a portmanteau of monism&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;onanism. In philosophy, monism is the view that a variety of things can be
+explained in terms of a single reality or substance, or a distinct source. Onism
+can be seen as a kind of monism, because one’s life is indeed limited to a
+single reality, by virtue of being restricted to a single body, but something is
+clearly missing. Meanwhile, onanism is another word for masturbation or
+self-pleasure, transfixed inside our own menagerie of fantasies like going on a
+sightseeing tour of our own apartment—frustrating in its closed-off familiarity.
+Again, something is missing. What makes it even more special is that Onism was
+born while Koenig was travelling in an airplane, across 6 countries, in the
+process of moving places and struggling with the idea of a new life. To me, this
+brings in the idea more so than anything else. It makes me think of Remedial
+Chaos Theory: there are lots of me in other timelines who - collectively - have
+done everything I have not. It is the awareness of everything you are giving up,
+to be where you are right now. It is questioning the excuses we have invented to
+explain why so much of our life belongs in the background. Koenig very well
+expresses this in how he words his video transcripts- “We sketch monsters on the
+map because we find their presence comforting. They guard the edges of the
+abyss, and force us to look away; so, we can live comfortably in the Known
+World, at least for a little while.” An analogy I came across may help you
+visualise it better.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By the time we enter primary school, we have heard all about the planets in our
+Solar System. As we grow older, we learn that the Solar System is just a speck
+in the Milky Way Galaxy, and that there are thousands of galaxies out there,
+peppering our universe with their glow and might. The celestial mysteries that
+beckon to us are countless, but we resign ourselves to the fact that they are
+limited to computer screens and observatories. We accept the fact that the stars
+are too far away to take seriously, that Jupiter has a turbulent red spot over
+twice the size of our planet, that the moon will always be a distant relative.
+So instead, we look around at how far the horizon is and how hauntingly it
+encircles us. That scircle is just a fleck of life, dotted on the surface of the
+earth.&lt;/p&gt;
+
+&lt;p&gt;We may think about the number of adventures we could be having, the divergent
+memories we could be creating, the new people we could be meeting—within the
+ring that encircles us. We have only one body, although our minds would surely
+wish we had ten. The world becomes even more intriguing once we extricate
+ourselves from that ring- there are mountains and slopes waiting to be climbed,
+fields of snow waiting to be shaped into spheres and thrown, peaks that are
+craving to be mounted, oceans with shadowy depths, beautiful creatures, and fish
+that we still do not know exist. There are villages waiting to be visited, whose
+culture is unlike anything we have ever witnessed. There are waterfalls,
+rainforests, and glaciers still unknown to the human mind, foreign sunshine that
+is waiting to infuse itself into our bloodstreams, caves that scream adrenaline
+and excitement. There are airplanes, trains, cars, bicycles, and our own two
+feet. But something stops us, limitations confine us. The lack of time, money,
+and flexibility in our schedules. The fact that the seconds keep ticking by,
+that so much of our time goes in useless endeavours we will never remember. And
+the reality that we cannot be in two places at once. The fact that our two feet
+are rooted in the same place, that there are millions of places we could be in
+right now—but we are always forced to choose one. That when we are at the
+airport, we have only one destination to go to—while the other cities flicker
+like candlelight on a windy afternoon. When we drive a car, there are thousands
+of alternate routes we could take. And yet, we do not—because we believe that we
+are not meant to deviate from our predetermined route. In other words, we are
+unknowingly ensnared. Onism is the frustration of knowing how little of the
+universe we will be able to appreciate; the impatience of seeing the stars
+twinkling at night, as if mocking our inability to escape the ground. But
+somehow, it only makes us dream more. Our inability to traverse the Solar System
+makes us imagine; it makes us envisage a universe that is probably more
+beautiful and romantic than what it really is. &lt;/p&gt;
+
+&lt;p&gt;One may construe Onism as something that resembles sadness or sorrow, or one may
+call it the Chi Force and what keeps us alive, but whatever it may be thought of
+as- we are all affected by it, however it may come. I’d really encourage people
+to go about looking for &lt;em&gt;The Dictionary of Obscure Sorrows&lt;/em&gt; and open their minds
+to new words that express age-old emotions. &lt;/p&gt;
+
+&lt;p&gt;Given the chance, I’d definitely like to end with a line from Koenig’s script- &lt;/p&gt;
+
+&lt;p&gt;“But if someone were to ask you on your Deathbed&lt;/p&gt;
+
+&lt;p&gt;What it was like to live here on Earth&lt;/p&gt;
+
+&lt;p&gt;Perhaps the only honest answer would be,&lt;/p&gt;
+
+&lt;p&gt;I don’t know, I passed through it once, but I’ve really been there.”&lt;/p&gt;</content><author><name>Harshita Jain</name></author><category term="society" /><summary type="html">Have you ever wandered off while sitting down―all in your head, all out of wonder? Ever imagined multiple lives for yourself? Ever wondered how there are a gazillion lives that are all affected by the interconnectedness of everything? Has there been a time when you have wanted to exchange places, or be at multiple places, living multiple lives at the same time? If you have, my friend, we are aboard the same boat and I hope your frustration wards off just as soon as I wish for mine to leave. Or maybe, just maybe, better yet, this wonder is what keeps us afloat, keeps us from dreading the worst. We know there’s a lot that exists, we know we may never know about it all, and maybe it’s this wonder that keeps us excited to be alive. I may be rationalising here and I promise to get rid of this defence mechanism as soon as I find a better one. But language is funny in more ways than not. We feel liberated using it, and at the same time, there is also a strange kind of entrapment. We cannot communicate without words, and yet are words sufficient to voice everything we feel? Personally, I did not know that the frustration of being limited to one experience was a common dilemma, I had no idea there was even a name for it, albeit none that one can use in their English essay. Onism, and we shall all thank John Koenig for the same, is a word that tries to explain the frustration of being stuck in just one body, that inhabits only one place at a time. It is understood to be like standing in front of the departures screen at an airport, flickering over with strange place names like other people’s passwords, each representing one more thing you will never get to see before you die―and all because, as the arrow on the map helpfully points out, you are here. One can imagine how much more rich and satisfying it would be to have multiple bodies, not just one―so one could escape themselves for a while and live on the other side of the planet. Or take a step back and see themselves from someone else’s point of view, in full context with the rest of the world, with their face the right way around, their eyes un-flattened, just as vivid as one appears to other people. It would be like knowing yourself like others do, judging our own quirks but with much less self-loathing, just seeing them as unique factions of our being. However absurd the idea may seem; it would bring so much more clarity and joy. Of course, this may be coming from a place of bias, with myself being someone who has felt this for a long time and only just recently found out about the word that expresses it so well on an unanticipated night. A friend introduced me to The Dictionary of Obscure Sorrows and that’s when I met with the genius work of John Koenig. This man is on a mission to fill the gaps incurred in the English language. His dictionary includes words that describe emotions that one may feel but can’t put into motion through speech or writing, it includes questioning the limitations that language puts on us. One has to acknowledge that our bodies and minds are bombarded with so many complex sensations throughout the day that it would be impossible to assign a name to each. Feelings are a product of any stimulation one can procure―the lack of it―a phenomenon in itself. Even though Merriam and Oxford haven’t made it yet, Koenig with his popular Tumblr Blog and subsequent YouTube Channel and website is paving the way. TDOBS is intriguing because it presents a word that is obscure or completely invented and then connects it to a stylised video to further enhance the definition of that word. As Koenig indicates on his website, “Each original definition aims to fill a hole in the language—to give a name to emotions we all might experience but don’t yet have a word for.” Koenig has said multiple times that the blog began with his desire to write poems. He made up words to help frame the poems better. He insists that the inception began at a dark time in his life. In his Ted Talk, Koenig recollects the time when his own melancholy triggered him to compose the dictionary, and how people later came up to him to thank him for his work. The graphic designer/editor/voice performer speaks of how his sombreness gave him a penchant for words. One should be aware of the fact that he makes sure that all his words have etymological significance. That they all have sense and reason behind them. TDOBS gained popularity with the wilfulness of Twitter, someone tweeted out 23 of the words and then, boom! The crowd came rushing, in shared understanding of the un-worded emotions. Words such as ‘sonder’ have made it to the bigwigs, with companies using them to name products. A very prominent bar in New York has named its drinks after the 23 popularised words; artists too have now started naming their paintings with the help of these words, so as to express themselves better. One might wonder why out of every interesting word this man has invented, I longed to make this word the winter sun―Onism. Onism is a portmanteau of monism onanism. In philosophy, monism is the view that a variety of things can be explained in terms of a single reality or substance, or a distinct source. Onism can be seen as a kind of monism, because one’s life is indeed limited to a single reality, by virtue of being restricted to a single body, but something is clearly missing. Meanwhile, onanism is another word for masturbation or self-pleasure, transfixed inside our own menagerie of fantasies like going on a sightseeing tour of our own apartment—frustrating in its closed-off familiarity. Again, something is missing. What makes it even more special is that Onism was born while Koenig was travelling in an airplane, across 6 countries, in the process of moving places and struggling with the idea of a new life. To me, this brings in the idea more so than anything else. It makes me think of Remedial Chaos Theory: there are lots of me in other timelines who - collectively - have done everything I have not. It is the awareness of everything you are giving up, to be where you are right now. It is questioning the excuses we have invented to explain why so much of our life belongs in the background. Koenig very well expresses this in how he words his video transcripts- “We sketch monsters on the map because we find their presence comforting. They guard the edges of the abyss, and force us to look away; so, we can live comfortably in the Known World, at least for a little while.” An analogy I came across may help you visualise it better. By the time we enter primary school, we have heard all about the planets in our Solar System. As we grow older, we learn that the Solar System is just a speck in the Milky Way Galaxy, and that there are thousands of galaxies out there, peppering our universe with their glow and might. The celestial mysteries that beckon to us are countless, but we resign ourselves to the fact that they are limited to computer screens and observatories. We accept the fact that the stars are too far away to take seriously, that Jupiter has a turbulent red spot over twice the size of our planet, that the moon will always be a distant relative. So instead, we look around at how far the horizon is and how hauntingly it encircles us. That scircle is just a fleck of life, dotted on the surface of the earth. We may think about the number of adventures we could be having, the divergent memories we could be creating, the new people we could be meeting—within the ring that encircles us. We have only one body, although our minds would surely wish we had ten. The world becomes even more intriguing once we extricate ourselves from that ring- there are mountains and slopes waiting to be climbed, fields of snow waiting to be shaped into spheres and thrown, peaks that are craving to be mounted, oceans with shadowy depths, beautiful creatures, and fish that we still do not know exist. There are villages waiting to be visited, whose culture is unlike anything we have ever witnessed. There are waterfalls, rainforests, and glaciers still unknown to the human mind, foreign sunshine that is waiting to infuse itself into our bloodstreams, caves that scream adrenaline and excitement. There are airplanes, trains, cars, bicycles, and our own two feet. But something stops us, limitations confine us. The lack of time, money, and flexibility in our schedules. The fact that the seconds keep ticking by, that so much of our time goes in useless endeavours we will never remember. And the reality that we cannot be in two places at once. The fact that our two feet are rooted in the same place, that there are millions of places we could be in right now—but we are always forced to choose one. That when we are at the airport, we have only one destination to go to—while the other cities flicker like candlelight on a windy afternoon. When we drive a car, there are thousands of alternate routes we could take. And yet, we do not—because we believe that we are not meant to deviate from our predetermined route. In other words, we are unknowingly ensnared. Onism is the frustration of knowing how little of the universe we will be able to appreciate; the impatience of seeing the stars twinkling at night, as if mocking our inability to escape the ground. But somehow, it only makes us dream more. Our inability to traverse the Solar System makes us imagine; it makes us envisage a universe that is probably more beautiful and romantic than what it really is.  One may construe Onism as something that resembles sadness or sorrow, or one may call it the Chi Force and what keeps us alive, but whatever it may be thought of as- we are all affected by it, however it may come. I’d really encourage people to go about looking for The Dictionary of Obscure Sorrows and open their minds to new words that express age-old emotions.  Given the chance, I’d definitely like to end with a line from Koenig’s script-  “But if someone were to ask you on your Deathbed What it was like to live here on Earth Perhaps the only honest answer would be, I don’t know, I passed through it once, but I’ve really been there.”</summary></entry><entry><title type="html">Fleabag: A Tale of Clumsy Womanhood</title><link href="/Fleabag" rel="alternate" type="text/html" title="Fleabag: A Tale of Clumsy Womanhood" /><published>2019-07-12T16:30:00+00:00</published><updated>2019-07-12T16:30:00+00:00</updated><id>/Fleabag</id><content type="html" xml:base="/Fleabag">&lt;p&gt;&lt;em&gt;Fleabag&lt;/em&gt;, a dark comedy, is a television show for every chaotic feminist out
+there. It is a brutally honest account of a dysfunctional yet nonchalant woman,
+who is clearly failing at life with her passive-aggressive family, dead business
+and meaningless sexual relationships. The show, set in contemporary London,
+speaks the mind of a modern woman through a feminist lens. Phoebe Waller-Bridge,
+the writer of the show, also stars as the protagonist and plays her unnamed
+character with utter brilliance, whom we call Fleabag.&lt;/p&gt;
+
+&lt;p&gt;The viewers take a ride through Fleabag’s mind, quite literally, when she talks
+to them by breaking the fourth wall. She, conceitedly, predicts the actions of
+the people she meets and talks to her audience about it. In the very first
+scene, she presumes exactly what is going to happen after she has sex with an
+immensely attractive man, and does so throughout the series. She seems to
+understand the routine behaviour of the men who she sleeps with, and is seldom
+fascinated by them. As viewers, we do not see Fleabag’s story, we see Fleabag.
+She is present in every scene of every episode and is almost constantly talking.
+The audience is not provided with other characters’ stories, and Fleabag’s
+encounters and perceptions form the plot of the entire series. In fact, a few
+interesting events in the characters’ lives build up to form the narrative of a
+rather bigger story.&lt;/p&gt;
+
+&lt;p&gt;In the first episode, Fleabag and her sister, Claire, attend a feminist lecture,
+the tickets of which were given to them by their father. Fleabag called this
+“[her] dad’s way of coping with two motherless daughters”, who is now in a
+relationship with their godmother and has minimised contact with them. The
+lecturer asks the audience to “raise [their] hands if you would trade five years
+of your life for the so-called perfect body”, to which the sisters promptly
+raise their hands, followed by Fleabag calling themselves ‘bad feminists.’&lt;/p&gt;
+
+&lt;p&gt;Through a lot of instances in the show, we come to understand how Fleabag uses
+sex to validate her own body and desirability, once even explicitly saying, “I
+know that my body is the only thing I have left, and when that gets old and
+unfuckable, I may as well kill it.” We later see how the complexities of
+Fleabag’s anguish over the death of her mother and her best friend are
+intertwined with her sexual encounters.&lt;/p&gt;
+
+&lt;p&gt;Season 1 is an entry into the mayhem of Fleabag’s life, whereas season 2 is what
+she calls her love story. Andrew Scott enters season 2 as &lt;em&gt;Sexy Priest&lt;/em&gt; and one
+cannot take eyes off him. As Fleabag says ‘his arm’, ‘his beautiful neck’, ‘I
+found myself pining &lt;em&gt;YES, YES, YES!&lt;/em&gt;’ But glass shatters, it’s not as much a
+love story between Fleabag and ‘Sexy Priest’, as it is Fleabag’s
+self-introspection and overcoming her disruptive behaviour. She learns to love
+and to let go. Her cafe business thrives, and so does her relationship with
+Claire.&lt;/p&gt;
+
+&lt;p&gt;A magnificent scene in season 2, with guest star Kristin Scott Thomas, playing
+the role of Belinda who wins an award for women in business, might just be the
+monologue of the year, and will absolutely pierce through your heart. Belinda
+says, “I was in an aeroplane the other day, and I realised – I’ve been longing
+to say this out loud – women are born with pain built-in. It’s our physical
+destiny. Period pain, sore boobs, childbirth, you know. We carry it within
+ourselves throughout our lives.”&lt;/p&gt;
+
+&lt;p&gt;“Men don’t. They have to seek it out. They invent all these Gods and demons and
+things just so they can feel guilty about things, which is something we do very
+well on our own. Then they create wars so they can feel things and touch each
+other, and when there aren’t any wars they can play rugby.”&lt;/p&gt;
+
+&lt;p&gt;“And we have it all going on in here, inside. We have pain on a cycle for years
+and years and years. And then, just as you feel you’re making peace with it all,
+what happens? The menopause comes.”&lt;/p&gt;
+
+&lt;p&gt;Men capitalise to feel alive, but women bring things to life. She protected even
+when she suffered, while he created violence to be able to restore peace. Women
+built walls to nurture, not to divide.&lt;/p&gt;
+
+&lt;p&gt;In an interview with &lt;em&gt;The Hollywood Reporter&lt;/em&gt;, Phoebe Waller-Bridge confirmed
+that &lt;em&gt;Fleabag&lt;/em&gt; is not autobiographical. “A lot of the time when I was being
+asked about the show, it was through the prism of feminism which was an
+important part of the show for me…I just started feeling like I was suddenly
+being moved into a different position that it wasn’t so much that I was a
+writer, it was that I was a feminist writer, which of course I am, but that
+becomes a category of writing”, added Phoebe.&lt;/p&gt;
+
+&lt;p&gt;So, I would say, watch this for the love of clumsy womanhood, for learning to be
+strong in this modern feminist world even when your entire life is crumbling
+down. &lt;em&gt;Fleabag&lt;/em&gt; taught me that feminism is hope, even if its standards you
+cannot seem to reach, and women (dead or alive) will be your strength.&lt;/p&gt;</content><author><name>Harshita Jain</name></author><category term="culture" /><summary type="html">Fleabag, a dark comedy, is a television show for every chaotic feminist out there. It is a brutally honest account of a dysfunctional yet nonchalant woman, who is clearly failing at life with her passive-aggressive family, dead business and meaningless sexual relationships. The show, set in contemporary London, speaks the mind of a modern woman through a feminist lens. Phoebe Waller-Bridge, the writer of the show, also stars as the protagonist and plays her unnamed character with utter brilliance, whom we call Fleabag. The viewers take a ride through Fleabag’s mind, quite literally, when she talks to them by breaking the fourth wall. She, conceitedly, predicts the actions of the people she meets and talks to her audience about it. In the very first scene, she presumes exactly what is going to happen after she has sex with an immensely attractive man, and does so throughout the series. She seems to understand the routine behaviour of the men who she sleeps with, and is seldom fascinated by them. As viewers, we do not see Fleabag’s story, we see Fleabag. She is present in every scene of every episode and is almost constantly talking. The audience is not provided with other characters’ stories, and Fleabag’s encounters and perceptions form the plot of the entire series. In fact, a few interesting events in the characters’ lives build up to form the narrative of a rather bigger story. In the first episode, Fleabag and her sister, Claire, attend a feminist lecture, the tickets of which were given to them by their father. Fleabag called this “[her] dad’s way of coping with two motherless daughters”, who is now in a relationship with their godmother and has minimised contact with them. The lecturer asks the audience to “raise [their] hands if you would trade five years of your life for the so-called perfect body”, to which the sisters promptly raise their hands, followed by Fleabag calling themselves ‘bad feminists.’ Through a lot of instances in the show, we come to understand how Fleabag uses sex to validate her own body and desirability, once even explicitly saying, “I know that my body is the only thing I have left, and when that gets old and unfuckable, I may as well kill it.” We later see how the complexities of Fleabag’s anguish over the death of her mother and her best friend are intertwined with her sexual encounters. Season 1 is an entry into the mayhem of Fleabag’s life, whereas season 2 is what she calls her love story. Andrew Scott enters season 2 as Sexy Priest and one cannot take eyes off him. As Fleabag says ‘his arm’, ‘his beautiful neck’, ‘I found myself pining YES, YES, YES!’ But glass shatters, it’s not as much a love story between Fleabag and ‘Sexy Priest’, as it is Fleabag’s self-introspection and overcoming her disruptive behaviour. She learns to love and to let go. Her cafe business thrives, and so does her relationship with Claire. A magnificent scene in season 2, with guest star Kristin Scott Thomas, playing the role of Belinda who wins an award for women in business, might just be the monologue of the year, and will absolutely pierce through your heart. Belinda says, “I was in an aeroplane the other day, and I realised – I’ve been longing to say this out loud – women are born with pain built-in. It’s our physical destiny. Period pain, sore boobs, childbirth, you know. We carry it within ourselves throughout our lives.” “Men don’t. They have to seek it out. They invent all these Gods and demons and things just so they can feel guilty about things, which is something we do very well on our own. Then they create wars so they can feel things and touch each other, and when there aren’t any wars they can play rugby.” “And we have it all going on in here, inside. We have pain on a cycle for years and years and years. And then, just as you feel you’re making peace with it all, what happens? The menopause comes.” Men capitalise to feel alive, but women bring things to life. She protected even when she suffered, while he created violence to be able to restore peace. Women built walls to nurture, not to divide. In an interview with The Hollywood Reporter, Phoebe Waller-Bridge confirmed that Fleabag is not autobiographical. “A lot of the time when I was being asked about the show, it was through the prism of feminism which was an important part of the show for me…I just started feeling like I was suddenly being moved into a different position that it wasn’t so much that I was a writer, it was that I was a feminist writer, which of course I am, but that becomes a category of writing”, added Phoebe. So, I would say, watch this for the love of clumsy womanhood, for learning to be strong in this modern feminist world even when your entire life is crumbling down. Fleabag taught me that feminism is hope, even if its standards you cannot seem to reach, and women (dead or alive) will be your strength.</summary></entry><entry><title type="html">Housing -The Millennial Pipe Dream</title><link href="/The-Millennial-Pipe-Dream" rel="alternate" type="text/html" title="Housing -The Millennial Pipe Dream" /><published>2019-07-12T16:00:00+00:00</published><updated>2019-07-12T16:00:00+00:00</updated><id>/The-Millennial-Pipe-Dream</id><content type="html" xml:base="/The-Millennial-Pipe-Dream">&lt;p&gt;“Like generations before them, the demographic cohort known as the millennials …
+has shaped a number of social and cultural aspects, including fashion,
+technology, and politics,” wrote The Fed. “One area where they’re facing
+challenges in leaving their mark, however, is the economy.”&lt;/p&gt;
+
+&lt;p&gt;Twenty years ago, the median price of a regular condominium settlement in an
+American city was $108,900. Now, the figure is at $337,200. Even if one
+accounts for inflation, the price has still risen astronomically, despite the
+fact that the current working demographic cohort, the millennials, have
+exhibited an involuntary disinclination towards homeownership, which is
+reflected in the shift of the median age of homeownership from 29 in the 1970’s
+to 33 presently. This global behavioural shift is attributed to more than just
+the generation gap.&lt;/p&gt;
+
+&lt;p&gt;One would assume that it was the Boomers and the Gen Xers who were the hardest
+hit when the housing bubble burst a decade ago, for they lost the jobs and bore
+the fury of the deflated real estate and stock market. But the millennials, then
+aged between their pre-teens to early 20s, had their average age of graduation
+in 2010, right in the midst of the global economic meltdown. Naturally, when
+they joined the workforce, the job market was rough, with lower wages and puny
+scope for raises. Additionally, there was a lack of income stability, since it’s
+common for most millennials to switch jobs at least three times in the five
+years that follow graduation. &lt;/p&gt;
+
+&lt;p&gt;This, however, is not entirely a question of affordability, for, even
+comparatively better-off millennials, earning over $50,000 a year, have chosen
+not to purchase a home. Real estate is not an ‘impulse’ purchase. Many young
+graduates already have the burden of student loans that overwhelms the benefits
+of going to college, and upsets the debt-to-income ratio and their credit score,
+despite having a reasonably good income level. As a result, it becomes harder
+for them to acquire loans with easy down payment terms. Moreover, post the
+foreclosure of millions of American homes during the Great Recession, new
+lending reforms were implemented by most of the developed nations, like the
+Dodd-Frank Act in the USA, which further exacerbated the down payment
+requirements. &lt;/p&gt;
+
+&lt;p&gt;Another survey found that the millennials had an average tipping point of at
+least five years of rental residentship before they would decide to purchase a
+home in the area, and by this logic, even the older segment of the millennials
+would have made a decision to own a home post-2013. And, at that point, the
+easing of the global economy had begun to recede, and rate hikes were soon on
+the table, thus making Adjustable Rate Mortgage an unattractive option, due to
+the loss that would accompany the refinancing process. These economic
+fluctuations at such a delicate transition point in life definitely had a
+subconscious impact on the minds of young millennials, who have turned
+risk-averse. Consequently, the tendency of careful considerations has
+accompanied their decisions in most avenues of life, ranging from commitment to
+a family to an investment like real estate. The Boomers have accused the
+‘crypto-crazed’ millennials of destroying the housing markets, when in fact,
+they are becoming victims to the vicious cycle of the renting market. As a
+result of the unaffordability, a greater number of millennials are moving to the
+rental space, pushing up the demand and thus the rents, which then lowers their
+savings, and further delays homeownership.&lt;/p&gt;
+
+&lt;p&gt;But it would not be fair to entirely blame the Great Recession for the modern
+housing crisis. Urban sprawling is at its peak. Currently, 54% of the global
+population lives in cities, and another 2.5 billion people are expected to be
+added to this figure by 2050. The scarce land contributes to the skyrocketing
+prices of accommodation, and there is a limit to which the cities can grow
+vertically. This limit is not merely a variable of the architectural abilities
+but also depends on the return factor. While most big cities have the ability to
+build high skyscrapers, it becomes unaffordable once the government weighs in
+all the indirect costs. When you graph the marginal construction costs against
+the number of floors on the abscissa, it gives out a familiar U-shaped curve,
+whose viability lies at the bottom-most point (only cost is considered, because
+the return from public residential projects is one-time and only aims to cover
+costs). Another reason that tall buildings are being avoided, is the NIMBYism
+(Not in my backyard) displayed by the existing residents, who oppose progressive
+developmental projects, citing how it would contribute to greater pollution,
+rising traffic and would deflate the price of their properties. &lt;/p&gt;
+
+&lt;p&gt;The working population, largely composed of millennials, battles the crisis not
+only in the usual suspect cities like NY, Tokyo, Hong Kong, London, Mumbai etc.,
+but also has to face it in other smaller cities like Dubai. The crisis takes an
+especially risky turn when it comes to the developing nations, where a
+combination of bureaucratic red tape and rapidly growing population clamps
+people down to an impoverished existence. Take the example of Mumbai, India,
+about which the Scottish urban planner Patrick Geddes had famously remarked,
+“Mumbai is not housing its workers, it’s warehousing them”. Nearly 52% of this
+city’s population lives on 9% of its land, in informal settlements called slums.
+Many of these slum-dwellers are educated people working in MNCs, who can afford
+monthly dine-ins at the most high-end restaurants in the city, but not a decent
+settlement. The slums appear to be a poverty problem for Asia, when they
+actually are a real estate problem. The crisis is mainly associated with two
+flawed policies. The city has an unnaturally low Floor-Space Index (FSI) at 1.3,
+while cities in other Asian nations flourish at an average FSI of 7-8. The FSI
+is the ratio of the floor area to the plot area. So an FSI of, say, 2, would
+allow us to construct two stories if the process includes the entire plot area,
+and four stories if we leave half the plot vacant. The next flawed policy for
+Mumbai is one that has been famously dubbed the easiest way to destroy a city,
+next only to a bombing - rent control. The rent is frozen at pre-Independence
+levels, robbing landowners of any incentive to rent it out to tenants in fear of
+encroachment. Such a policy often results in the formation of dilapidated ghost
+towns, which has happened to many cities of China, Turkey, and the like. &lt;/p&gt;
+
+&lt;p&gt;Clearly, governments all over the world have come to the rescue of the working
+millennials with rash and hasty policies like rent control, which have only
+exacerbated the situation. The lack of attention and forethought that a basic
+amenity like housing faces globally is an important contributor to a class
+divide in modern cities, resulting in other socio-economic issues. Shirish B.
+Patel, an urban planner, in his piece in the &lt;em&gt;Economic and Political Weekly&lt;/em&gt;,
+had perfectly summed up the situation of the working class millennials of the
+cities with the analogy of a big ship, which has many workers, who perform every
+petty to intricate task on board, throughout the day, for which the captain pays
+them well, but does not allow them to spend the night on the ship. If they
+manage to survive the night in water, without getting eaten by the sharks, they
+must report to work the next morning. If not, there are plenty of fish in the
+sea.&lt;/p&gt;</content><author><name>Riya Kaul</name></author><category term="millennial" /><category term="economics" /><summary type="html">“Like generations before them, the demographic cohort known as the millennials … has shaped a number of social and cultural aspects, including fashion, technology, and politics,” wrote The Fed. “One area where they’re facing challenges in leaving their mark, however, is the economy.” Twenty years ago, the median price of a regular condominium settlement in an American city was $108,900. Now, the figure is at $337,200. Even if one accounts for inflation, the price has still risen astronomically, despite the fact that the current working demographic cohort, the millennials, have exhibited an involuntary disinclination towards homeownership, which is reflected in the shift of the median age of homeownership from 29 in the 1970’s to 33 presently. This global behavioural shift is attributed to more than just the generation gap. One would assume that it was the Boomers and the Gen Xers who were the hardest hit when the housing bubble burst a decade ago, for they lost the jobs and bore the fury of the deflated real estate and stock market. But the millennials, then aged between their pre-teens to early 20s, had their average age of graduation in 2010, right in the midst of the global economic meltdown. Naturally, when they joined the workforce, the job market was rough, with lower wages and puny scope for raises. Additionally, there was a lack of income stability, since it’s common for most millennials to switch jobs at least three times in the five years that follow graduation.  This, however, is not entirely a question of affordability, for, even comparatively better-off millennials, earning over $50,000 a year, have chosen not to purchase a home. Real estate is not an ‘impulse’ purchase. Many young graduates already have the burden of student loans that overwhelms the benefits of going to college, and upsets the debt-to-income ratio and their credit score, despite having a reasonably good income level. As a result, it becomes harder for them to acquire loans with easy down payment terms. Moreover, post the foreclosure of millions of American homes during the Great Recession, new lending reforms were implemented by most of the developed nations, like the Dodd-Frank Act in the USA, which further exacerbated the down payment requirements.  Another survey found that the millennials had an average tipping point of at least five years of rental residentship before they would decide to purchase a home in the area, and by this logic, even the older segment of the millennials would have made a decision to own a home post-2013. And, at that point, the easing of the global economy had begun to recede, and rate hikes were soon on the table, thus making Adjustable Rate Mortgage an unattractive option, due to the loss that would accompany the refinancing process. These economic fluctuations at such a delicate transition point in life definitely had a subconscious impact on the minds of young millennials, who have turned risk-averse. Consequently, the tendency of careful considerations has accompanied their decisions in most avenues of life, ranging from commitment to a family to an investment like real estate. The Boomers have accused the ‘crypto-crazed’ millennials of destroying the housing markets, when in fact, they are becoming victims to the vicious cycle of the renting market. As a result of the unaffordability, a greater number of millennials are moving to the rental space, pushing up the demand and thus the rents, which then lowers their savings, and further delays homeownership. But it would not be fair to entirely blame the Great Recession for the modern housing crisis. Urban sprawling is at its peak. Currently, 54% of the global population lives in cities, and another 2.5 billion people are expected to be added to this figure by 2050. The scarce land contributes to the skyrocketing prices of accommodation, and there is a limit to which the cities can grow vertically. This limit is not merely a variable of the architectural abilities but also depends on the return factor. While most big cities have the ability to build high skyscrapers, it becomes unaffordable once the government weighs in all the indirect costs. When you graph the marginal construction costs against the number of floors on the abscissa, it gives out a familiar U-shaped curve, whose viability lies at the bottom-most point (only cost is considered, because the return from public residential projects is one-time and only aims to cover costs). Another reason that tall buildings are being avoided, is the NIMBYism (Not in my backyard) displayed by the existing residents, who oppose progressive developmental projects, citing how it would contribute to greater pollution, rising traffic and would deflate the price of their properties.  The working population, largely composed of millennials, battles the crisis not only in the usual suspect cities like NY, Tokyo, Hong Kong, London, Mumbai etc., but also has to face it in other smaller cities like Dubai. The crisis takes an especially risky turn when it comes to the developing nations, where a combination of bureaucratic red tape and rapidly growing population clamps people down to an impoverished existence. Take the example of Mumbai, India, about which the Scottish urban planner Patrick Geddes had famously remarked, “Mumbai is not housing its workers, it’s warehousing them”. Nearly 52% of this city’s population lives on 9% of its land, in informal settlements called slums. Many of these slum-dwellers are educated people working in MNCs, who can afford monthly dine-ins at the most high-end restaurants in the city, but not a decent settlement. The slums appear to be a poverty problem for Asia, when they actually are a real estate problem. The crisis is mainly associated with two flawed policies. The city has an unnaturally low Floor-Space Index (FSI) at 1.3, while cities in other Asian nations flourish at an average FSI of 7-8. The FSI is the ratio of the floor area to the plot area. So an FSI of, say, 2, would allow us to construct two stories if the process includes the entire plot area, and four stories if we leave half the plot vacant. The next flawed policy for Mumbai is one that has been famously dubbed the easiest way to destroy a city, next only to a bombing - rent control. The rent is frozen at pre-Independence levels, robbing landowners of any incentive to rent it out to tenants in fear of encroachment. Such a policy often results in the formation of dilapidated ghost towns, which has happened to many cities of China, Turkey, and the like.  Clearly, governments all over the world have come to the rescue of the working millennials with rash and hasty policies like rent control, which have only exacerbated the situation. The lack of attention and forethought that a basic amenity like housing faces globally is an important contributor to a class divide in modern cities, resulting in other socio-economic issues. Shirish B. Patel, an urban planner, in his piece in the Economic and Political Weekly, had perfectly summed up the situation of the working class millennials of the cities with the analogy of a big ship, which has many workers, who perform every petty to intricate task on board, throughout the day, for which the captain pays them well, but does not allow them to spend the night on the ship. If they manage to survive the night in water, without getting eaten by the sharks, they must report to work the next morning. If not, there are plenty of fish in the sea.</summary></entry><entry><title type="html">Educating the Millennials: Whose Responsibility?</title><link href="/Educating-the-Millennials" rel="alternate" type="text/html" title="Educating the Millennials: Whose Responsibility?" /><published>2019-07-12T00:00:00+00:00</published><updated>2019-07-12T00:00:00+00:00</updated><id>/Educating-the-Millennials</id><content type="html" xml:base="/Educating-the-Millennials">&lt;p&gt;“Education is the most powerful weapon which you can use to change the world.” These words of Nelson Mandela capture the importance of obtaining an education for every individual across any generation. Millennials, too, recognise the importance of getting educated. In fact, according to the Pew Research Center, they are the most educated generation yet. However, the major impediment that comes in their way of entering the formal schooling system and, later, higher education is limited availability of finance.&lt;/p&gt;
 
 &lt;p&gt;Education funding is the most important means to strengthen education systems in the world. This has evolved over the years. In mid-19th century, governments across the world did most of the funding using revenue from taxes levied at the local level. Around the 20th century, the growth of the education sector became a global phenomenon. Other sources of education financing such as external grants or loans provided by foreign government, private organisations such as NGOs, and local administrations were being increasingly tapped. The amount spent by developing countries on improving the condition was close enough to the average spent in developed countries. A historical decline in education inequalities was observed during this time. UNGC’s Millennium Development Goals were signed in 2000, in which the second goal was to achieve universal primary education. The first decade of the 21st century saw increased international financial flows for development assistance. Post-2010, there was a notable reduction in the amount of public funds being used to finance education. Secondary and tertiary levels of education receive more funding than the primary level. Notable examples in this regard would be Europe and Sub-Saharan Africa where less development assistance is provided for primary education. The UNICEF report, &lt;a href=&quot;http://www.unicef.org/publications/files/Investment_Case_for_Education_and_Equity_FINAL.pdf&quot;&gt;&lt;em&gt;The Investment Case for Education and Equity&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;2015&lt;/em&gt;, shows that in low-income countries, on average 46% of public resources for education are allocated to the 10% of students who are most educated – while this figure goes down to 26% and 13% in lower-middle and upper-middle income countries respectively. Larger allocation to higher education is important to ensure better national competitiveness through innovation, and to enhance the skills of millennials. Moreover, there is cross-country heterogeneity with respect to the importance of the education sector vis-à-vis other sectors. For example, American Samoa and Kiribati spend more than 12% of their national income on education while countries such as Bangladesh and Bermuda spend only about 1% for this purpose.&lt;/p&gt;
 
@@ -8,7 +445,7 @@
 
 &lt;p&gt;Millennials are doing their bit to reduce strain on resources. Some students enter the workforce while being enrolled in higher education to either financially support themselves or to gain practical experience. Many start-up stories unfold in universities. Many millennials believe in the ‘earn while you learn’ concept. Education loans are becoming increasingly popular as a means to finance education in developed as well as developing countries. According to an estimate by CNBC, student debt stands at nearly $1.5 trillion and, roughly, one in four American adults is paying off student loans.&lt;/p&gt;
 
-&lt;p&gt;Financing of higher education institutions assumes great significance in today’s extremely competitive world. Higher education makes an immense contribution towards building the social capital of a nation. The government should have a futuristic outlook and increase spending on education with a focus on the quality. This is important because millennials see education as a means not only to acquire a degree but an avenue to enhance their knowledge and employability. While need-based grants and scholarships are available to some students, there are many who are denied these. Industry can provide lucrative internship opportunities to students, which help them finance their education. Policymakers should assess the impact of student loans as a source of financing education. Loan servicing results in reduced disposable income, which may impact the economic growth of a country adversely. For example, the &lt;a href=&quot;https://www.federalreserve.gov/econresdata/feds/2016/files/2016010pap.pdf&quot;&gt;Federal Reserve Board of Washington,&lt;/a&gt; DC concluded in a study that increasing student debt in the US has resulted in reduced homeownership. The growth of the housing sector is important for the economic revival of any country because of backward and forward linkages. High student debt will have implications for workforce composition as well. &lt;a href=&quot;https://www.nerdwallet.com/blog/investing/millennial-grad-retirement-age-is-75/&quot;&gt;A study&lt;/a&gt; from NerdWallet predicts that students who graduated from US colleges in 2015 will have to delay retirement until the age of 75, in part because of the increasing burden of student debt. It is, thus, imperative for policymakers across the world to brainstorm and find ways to finance education in a manner that it becomes a win-win situation for millennials and their successors – Generation Z.&lt;/p&gt;</content><author><name>Manya Manushi</name></author><category term="policy" /><category term="millennial" /><summary type="html">“Education is the most powerful weapon which you can use to change the world.” These words of Nelson Mandela capture the importance of obtaining an education for every individual across any generation. Millennials, too, recognise the importance of getting educated. In fact, according to the Pew Research Center, they are the most educated generation yet. However, the major impediment that comes in their way of entering the formal schooling system and, later, higher education is limited availability of finance.</summary></entry><entry><title type="html">Portuguese Drug Decriminalisation – Has it worked?</title><link href="/Portuguese-Drug-Decriminalisation" rel="alternate" type="text/html" title="Portuguese Drug Decriminalisation – Has it worked?" /><published>2019-07-10T16:00:00+00:00</published><updated>2019-07-10T16:00:00+00:00</updated><id>/Portuguese-Drug-Decriminalisation</id><content type="html" xml:base="/Portuguese-Drug-Decriminalisation">&lt;p&gt;In 2001, Portugal became a global leader in the war against drugs when it
+&lt;p&gt;Financing of higher education institutions assumes great significance in today’s extremely competitive world. Higher education makes an immense contribution towards building the social capital of a nation. The government should have a futuristic outlook and increase spending on education with a focus on the quality. This is important because millennials see education as a means not only to acquire a degree but an avenue to enhance their knowledge and employability. While need-based grants and scholarships are available to some students, there are many who are denied these. Industry can provide lucrative internship opportunities to students, which help them finance their education. Policymakers should assess the impact of student loans as a source of financing education. Loan servicing results in reduced disposable income, which may impact the economic growth of a country adversely. For example, the &lt;a href=&quot;https://www.federalreserve.gov/econresdata/feds/2016/files/2016010pap.pdf&quot;&gt;Federal Reserve Board of Washington,&lt;/a&gt; DC concluded in a study that increasing student debt in the US has resulted in reduced homeownership. The growth of the housing sector is important for the economic revival of any country because of backward and forward linkages. High student debt will have implications for workforce composition as well. &lt;a href=&quot;https://www.nerdwallet.com/blog/investing/millennial-grad-retirement-age-is-75/&quot;&gt;A study&lt;/a&gt; from NerdWallet predicts that students who graduated from US colleges in 2015 will have to delay retirement until the age of 75, in part because of the increasing burden of student debt. It is, thus, imperative for policymakers across the world to brainstorm and find ways to finance education in a manner that it becomes a win-win situation for millennials and their successors – Generation Z.&lt;/p&gt;</content><author><name>Manya Manushi</name></author><category term="millennial" /><category term="policy" /><summary type="html">“Education is the most powerful weapon which you can use to change the world.” These words of Nelson Mandela capture the importance of obtaining an education for every individual across any generation. Millennials, too, recognise the importance of getting educated. In fact, according to the Pew Research Center, they are the most educated generation yet. However, the major impediment that comes in their way of entering the formal schooling system and, later, higher education is limited availability of finance.</summary></entry><entry><title type="html">Portuguese Drug Decriminalisation – Has it worked?</title><link href="/Portuguese-Drug-Decriminalisation" rel="alternate" type="text/html" title="Portuguese Drug Decriminalisation – Has it worked?" /><published>2019-07-10T16:00:00+00:00</published><updated>2019-07-10T16:00:00+00:00</updated><id>/Portuguese-Drug-Decriminalisation</id><content type="html" xml:base="/Portuguese-Drug-Decriminalisation">&lt;p&gt;In 2001, Portugal became a global leader in the war against drugs when it
 decriminalised the possession and consumption of all illegal substances. When
 this topic comes up in conversation, most people (especially those from the UK
 and the US) are rather shocked when they find out. Two obvious questions then
@@ -614,314 +1051,4 @@ AK party will come back to power in the next Parliamentary elections if it
 continues with the same narrow mindset of making Turkey an Islamist nation. I
 would urge the readers to develop a positive outlook towards Turkey, a country
 adapting itself with the changing times while retaining its cultural heritage.
-There’s more to this beautiful nation than what meets the internet!&lt;/p&gt;</content><author><name>Sanjana Chandaliya</name></author><category term="culture" /><summary type="html">Before writing this piece, I had a couple of rather conflicting thoughts, that made me resist the urge to write a personal account of my visit to Turkey. My initial enthusiasm to pen down my extraordinary experience was soon met by a greater impediment when I searched the internet to gather more information about Turkey, as I will explain later. I would not have done justice to myself if I would have written an article instead of a personal account. And so, I have decided to shut down those thoughts and do what I wanted to do anyway, i.e. to enlighten you about my journey, along with the aftermath, as it was in Turkey. Nothing more and nothing less. Turkey, one of the five countries to be a part of both Europe and Asia, was a journey of a lifetime. Having visited five cities and towns over a course of twelve days, I experienced breath-taking architecture (mosques, museums, palaces, theatres and natural beauty), talked to Turks and ate traditional Turkish delicacies. I consider myself to be in a position to form an opinion about the country and its citizens. An Islamic country, where 99.8% of the population follows Islam as its religion, Turkey was truly a blend of modernity and cultural heritage, where people had accepted the reality of the modern era while remaining true to their own roots. It rightfully stood in the middle ground, embodying the qualities of both Europe and Asia. The country’s two wonders of the ancient world: The Temple of Artemis and The Mausoleum of Halicarnassus, its rich traditional architecture, a blend of Islam and Christianity, was intellectually stimulating and visually captivating at the same time. The cherry on top was the state-of-the-art infrastructure, pristine surroundings, the technologically-advanced society and the open-minded people.  It’s a little hard to digest that an Islamic society can be so advanced and modern, isn’t it? Turkey certainly broke the few stereotypes I might have had against Muslims and reinforced the sense of respect I had for the religion. There were some incidents that took place during the journey that compelled me to think highly of Islam. In Islam, women are often expected to wear traditional dresses (like burqa, hijab, niqab, etc.), look after the domestic chores, and behave in a modest and polite way. However, men and women in Turkey wore western attire; jeans and t-shirts among other dresses. In the entirety of my journey, from a big city like Istanbul to a small town like Selcuk, I did not see more than 20% of the women with headscarves, let alone garments fully covering their body. The work culture was inclusive and women were financially independent. I remember eating at restaurants and cafes where women waited tables, even at night, a phenomenon uncommon in my supposedly more liberal home country, India. Furthermore, unlike India, smoking in public was not considered a taboo in Turkey and both men and women openly smoked in the streets. Although smoking does not imply modernity, yet to experience it in an Islamic country is a big deal.   There was one incident that stood out from the rest and acted as an ‘inception’ for my exploration of the Islamic world. It was when I visited the Suleymaniye Mosque in Istanbul, where a college student had volunteered to explain the history of the mosque to visitors. While explaining the prayer pattern, he said that women stood at the back during Namaz so as to ensure that men do not get distracted during prayer. I found this absurd and initiated a discussion on the point. My father was apprehensive that the discussion might turn into a heated argument and tried to stop me. To this, the gentleman instantly replied, “I want to hear her opinion. She (Muslim women, not me) is the disadvantaged one.” This incident indicated both a positive as well as a negative point for Turkish Islam: positive because the younger generations were open-minded and negative because the religion put women in a position of disadvantage.  To further my proposition, let us take a look at some statistics. According to the Central Intelligence Agency of the USA, Turkey is a developed country and is considered advanced in terms of infrastructure, technology, industrialisation, per capita income and standards of living. For a better understanding of Turkey’s economic and social situation, let us compare it with India: &amp;nbsp; Turkey India Male-Female percentage of population 49.1% - 50.9% 51.8% - 48.2% Population density 104.5 people/sq km 415.63 people/ sq km Literacy Rate 95.6% 74.04% Male literacy rate 98% 80.9% Female literacy rate 92% 64.6% Quality of Life Index (Rank) 44/70 52/70 Population living in Urban areas 70% 33% Source: World Population Review, 2019 In spite of some troublesome trends like rising unemployment and inflation, the above statistics provide enough evidence that Turkey is a developed nation. My curiosity to learn more about Turkish Islam and to uphold my findings led me to collect pamphlets everywhere I went and undertake an in-depth search on the internet. But, what I read online was in stark contrast to what I saw through my eyes. I was appalled by the negative portrayal of Turkey in almost all of the articles I read! All of them had some common themes: economic and political instability, humanitarian crisis, disputes based on religion, and so on. I was distressed to find out that a staggering 477 women were killed and another 232 injured at the hands of violent men in Turkey in 2018. It was only when one of Turkey’s biggest pop stars Sıla Gencoglu filed abuse charges against her actor boyfriend in 2018 that a media frenzy was set off, which sparked the long-awaited national debate about violence against women. Furthermore, the Women in Statistics 2017 report stated that only 28% of women above 15 years of age were part of the Turkish labour force. These incidences reduced the confidence I had in Turkish Islam.  Furthering my research, I found out that Turkey’s current President Recep Tayyip Erdogan and his AK party have made the constitutionally secular country more conservative and religious. The pro-Islamic authoritarian President aims to raise a ‘pious generation’ and thus promotes the growth of state-funded religious education in the country. Although the AK party claims to be secular, it seeks to change the country’s laws to greater reflect its growing Muslim identity. So, why did the modern people of Turkey elect Erdogan into power in the first place? This is because, in the first decade of his rule starting from 2003, he initiated several rapid economic and democratic reforms in the country. However, legal and democratic standards quickly deteriorated after 2013, and his focus shifted to the promotion of Islam. As a result, people became fearful that the President might slowly erase the line between Religion and the State, and make Turkey a non-secular country, upsetting the great balance put in place by the great Atatürk.  These steps have received a backlash from the Turks, especially the younger generation, and the level of piety has declined over the years, despite an increase in religious education. There has been a significant drop in people calling themselves ‘religious conservative’, from 32% in 2008 to 25% in 2018. People who say they fast during the Muslim holy month of Ramadan declined from 77% to 65%. Figures for ‘nonbeliever’ and ‘atheist’, which had been barely registered in 2008, increased to 2% and 3% respectively.  Now comes the final question. Is Turkey a modern or a conservative Islamic nation? The internet is full of Turkey’s past, which lost its way under President Erdogan, both economically and socially. However, what I saw was Turkey’s future, where the so-called ‘pious generation’ is changing course and embracing people from all religions and backgrounds. There is no chance that the AK party will come back to power in the next Parliamentary elections if it continues with the same narrow mindset of making Turkey an Islamist nation. I would urge the readers to develop a positive outlook towards Turkey, a country adapting itself with the changing times while retaining its cultural heritage. There’s more to this beautiful nation than what meets the internet!</summary></entry><entry><title type="html">The Fall of Religion in the Millennial West</title><link href="/The-Fall-of-Religion" rel="alternate" type="text/html" title="The Fall of Religion in the Millennial West" /><published>2019-07-06T00:00:00+00:00</published><updated>2019-07-06T00:00:00+00:00</updated><id>/The-Fall-of-Religion</id><content type="html" xml:base="/The-Fall-of-Religion">&lt;p&gt;One of the most important demographic changes, in recent times, is the rise of the ‘nones’ in Western society. These are a group of people who refuse to identify themselves with any mainstream religious group or denomination. A 2012 article, by the Pew Research Center, noted that “[o]ne-fifth of the U.S. public – and a third of adults under 30 – are religiously unaffiliated today” and “[i]n the last five years alone, the unaffiliated have increased from just over 15% to just under 20% of all U.S. adults. Their ranks now include more than 13 million self-described atheists and agnostics (nearly 6% of the U.S. public), as well as nearly 33 million people who say they have no particular religious affiliation (14%)”. If we look at certain Western European countries and even in some parts of Eastern Europe, the numbers will undoubtedly be higher.&lt;/p&gt;
-
-&lt;p&gt;Why is this happening? Why are young people increasingly disassociating themselves from organised religion, especially in what can only be fittingly described as a post-Christian society?&lt;/p&gt;
-
-&lt;p&gt;There are four main reasons which I put forward, all of which can be summed up in a single sentence: &lt;strong&gt;Christianity – and, especially, Catholicism - has lost its credibility in the minds of our youth.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1: The Dominant Historical Narrative&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Each one of us has heard it sometime or the other. The popular narrative runs thus: human society began well and reached summits of excellence and achievement, especially in the classical age. But when Christianity came, all that progress and achievement, as well as the scientific impulse, came to an end and was effectively destroyed. For centuries, the West was embroiled in a quagmire of oppressive feudalism and religious intolerance, in which free-thinkers were labelled heretics and persecuted fiercely. This was called the &lt;em&gt;Dark Ages&lt;/em&gt;, and rightly so, because human civilisation was truly held in captivity in the darkness of religious bigotry and superstition. All of this was the case, until the time of the Renaissance and the Enlightenment when, finally, we were able to break free of the chains of theocracy and emerge into the bright new world, to build our future for ourselves.&lt;/p&gt;
-
-&lt;p&gt;At least, that is how countless millennials understand the Medieval period. It is certainly the way history is taught in our schools, and thus the way many millennials understand this era.&lt;/p&gt;
-
-&lt;p&gt;Added to this is the stigma of the Crusades and the Inquisitions, both of which are believed to be butcheries of human life and liberty based on religious (and especially Catholic) dogmatism and fanaticism. Fresh in the mind of many of our fellow millennials is the Galileo Affair, in which – it is believed – the geocentric Catholics tried to murder the heliocentric Galileo for the crime of trying to think rationally and not superstitiously.&lt;/p&gt;
-
-&lt;p&gt;Much of this narrative, however, is myopic, and fails to take into account the various other factors which were at play. But, unfortunately for people like me, many of my fellow millennials believe this to be the Gospel truth. And naturally, it has distanced them from a religion which, they are convinced, is responsible for stifling human civilisation and progress.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2: The Widening Gap Between the Jesus of History and the Christ of Faith&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Dan Brown is one of the most popular fiction authors in the world today. I have had the chance of reading parts of his books, and have found his style to be most engaging. However, Brown is more than your average thriller writer. Thanks to books like &lt;em&gt;The Da Vinci Code&lt;/em&gt;, Brown has managed to bring the ‘Lost Gospels’ to the forefront of public discourse. And boy, has it fired the imagination of the masses.&lt;/p&gt;
-
-&lt;p&gt;What people like Brown have managed to do is convince the populace – and especially the youth – that there is big difference between the Jesus of Catholicism and the actual Jesus whom we read about in works like the Gospel of Peter and Phillip, for example. He has also managed to alert people regarding the issue of the Biblical canon; why are these four Gospels part of the Bible and not others? Why has the Church chosen to only highlight these particular narratives and declare others heretical?&lt;/p&gt;
-
-&lt;p&gt;The way information is put out in books such as these has convinced countless many that in the very early history of Christianity, there emerged a power-hungry faction which sought to glorify their own theology at the expense of others. We are told that there was not one but several ‘Christianities’ in the beginning. But one faction – which today exists as the Catholic Church – gained ascendancy and, with quite a bit of patronage from Romam Emperor Constantine, persecuted the other factions.&lt;/p&gt;
-
-&lt;p&gt;This adds to the impression that today’s youth already has regarding the Christian faith and leaves them with a deep distrust towards anything related to Catholicism.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3: The Rise of Philosophical Naturalism and Postmodern Nihilism&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Everyone looks at the world through a set of lenses. We all operate with basic metaphysical and epistemological presuppositions. However, in recent times, especially in universities, a particular philosophical perspective has been put forward vociferously, and other points of view have largely been isolated and marginalized.&lt;/p&gt;
-
-&lt;p&gt;I, for a while, was an undergraduate philosophy student at a well-respected university in India. And what I encountered from my professors was not a careful treatment of the various opposing perspectives but rather open and brazen bias, especially when it came to the philosophy of religion.&lt;/p&gt;
-
-&lt;p&gt;What young undergraduates are consistently taught is that the arguments for the existence of God – as put forward by people like Augustine, Aquinas, Leibniz and others – are all extremely poor and fallacious bits of reasoning which can be so easily debunked that one wonders how such eminent men came to such bizarre conclusions. We are also told that these people were motivated by their own personal religious beliefs, and sought to back them up the best they could. What remained was a set of arguments that would only convince people who already had faith.&lt;/p&gt;
-
-&lt;p&gt;At least, that is the dominant narrative in philosophical academia.&lt;/p&gt;
-
-&lt;p&gt;And young philosophers usually accept this without question, without delving deeper into the works of Augustine and Aquinas to see if this is indeed true. Most of them don’t bother to later study the philosophy of religion, but rather end up specialising in other fields. And so what they uncritically accept as true in their early years, they end up carrying throughout life. And it is in this way that a consistent naturalist philosophical narrative has been built up over time.&lt;/p&gt;
-
-&lt;p&gt;Of course, this has led our young people to be extremely skeptical of any supernatural claims and has, therefore, led them to the conclusion that this world is all there is.&lt;/p&gt;
-
-&lt;p&gt;An interesting development happening simultaneously is the rise of postmodernism. This is entirely different from the dogmatic atheism I have just described. Rather, this is a dogmatic rejection of all dogmatism, an objective denial of all objectivity. It is a position some might characterise as absurd, but this appellation is readily embraced by some of its vociferous proponents.&lt;/p&gt;
-
-&lt;p&gt;Postmodernism is basically summed up in three maxims: “Truth is what you make of it. Morality is what you shape of it. God is Who you think He/She/It is.”&lt;/p&gt;
-
-&lt;p&gt;In many ways, this attitude is the product of the younger generation’s exposure to other cultures, viewpoints and ways of thinking. Young people see heated debates in which scholars on both sides put forward their cases and state their opinions, each backing themselves up with copious argumentation. They see different religions and ways of life, entirely different from the ones they had been exposed to. And having no strong rational grounds to support the religion of their upbringing, they naturally come to the conclusion that ‘man is the measure of all things’.&lt;/p&gt;
-
-&lt;p&gt;This understanding of life is indeed very attractive since it promises a kind of godhood. One is free to shape one’s reality and one’s destiny as one sees it. One is free to identify as whatever one pleases and be whoever one wishes to be. Above all, one is liberated from the shackles of dogmatism, free to believe whatever they wish to believe.&lt;/p&gt;
-
-&lt;p&gt;Naturally, anyone addicted to this euphoria of freedom will find organised religion, with all its creeds and ancient affirmations, very unattractive indeed.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4: The Transformation of Culture&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This is perhaps the most important and significant of all, since it strikes not merely at our intellect but also at our emotions. The cultural elite of the West are working very hard to change and transform culture. They do this through books, films, magazines and mass media.&lt;/p&gt;
-
-&lt;p&gt;For example: Imagine that you have grown up in a very conservative society, your parents told you that the right thing to do was to dress modestly, especially in front of the opposite sex. What happens when you are constantly exposed to pictures of men and women in states of partial or complete undress, when you can hardly go to the movies or even switch on a television without coming across some scene or advertisement that is either sexually explicit or has strong sexual themes, that too being performed by men and women who are great artists whom you admire?&lt;/p&gt;
-
-&lt;p&gt;Naturally, your perception is going to shift. You would in all likelihood rather imitate your heroes and role models rather than your parents, in this case. And in all probability, your friends have similar attitudes in this regard.&lt;/p&gt;
-
-&lt;p&gt;All of these factors come together and compound in such a way that it is possible to change views about something as fundamental as human sexuality across the course of a generation! Changing one’s views on sexual ethics is nothing more and nothing less than a paradigm shift. Instead of being something that is sacred and to be enjoyed within the context of marriage in a reproductively responsible manner, young people are offered the alluring option of ‘sex with no strings attached’. Rather than being the self-giving expression of commitment and love between two spouses (as Christians have traditionally believed), it has become a ‘casual’ affair. It is, therefore, no wonder that our young people are losing their faith in traditional Christianity.&lt;/p&gt;
-
-&lt;p&gt;Popular music has played an inestimable role in detaching young people from the Christian faith. Young people see singers who are clearly extraordinarily talented, beloved by all their friends and peer groups, and who sing songs that contain themes that are clearly contrary to Christian faith and morals, in more ways than one. Naturally, over time, one comes to favour one’s friend groups rather than one’s parents and one begins to side with the more secularising culture rather than traditional ways of living.&lt;/p&gt;
-
-&lt;p&gt;Now, I am a millennial myself. But I am not your average millennial. In fact, I am a convert to the Catholic Church, having come from a liberal Hindu background myself. I am the black sheep, so to speak, of this modern and enlightened generation. What causes me to remain traditional and Catholic? Why don’t I simply join the great secular bus and enjoy all the many benefits its offers? Why do I remain in the shadows and willingly disassociate myself from much of the modern world and even isolate myself, at times, enjoying but a few friends?&lt;/p&gt;
-
-&lt;p&gt;The reasons are endless, but I will summarise it in a few brief points.&lt;/p&gt;
-
-&lt;p&gt;First of all, it is my firmest conviction that the conventional narrative about the &lt;em&gt;Dark Ages&lt;/em&gt; is thoroughly erroneous, and in fact holds little water in academic circles, thank God. This view of the Medieval Church as an oppressive, science-persecuting religion has been increasingly discredited in modern times, not least by the excellent work of the Pulitzer-Prize winning Rodney Stark who, although himself a non-Catholic, has taken it upon himself to work towards exonerating the Catholic Church from baseless myths and lies, as can be seen in his work &lt;em&gt;Bearing False Witness&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Moreover, this idea that the Church persecuted scientists fails to take into account the immense contributions the Church made to science, in the Middle Ages and after as well. It is true that Galileo was persecuted – on charges of heresy. But what is left unmentioned is that Copernicus’s heliocentrism fascinated the Pope of his time, who spoke highly of him on numerous occasions. What is also conveniently left out is the devoutly Christian spirit of the countless intellectuals across the course of history who laid the foundations of modern science, believing that their study and analysis of the natural world was a kind of worship of God.&lt;/p&gt;
-
-&lt;p&gt;What are we then left with? Is there no future for religion in the West?&lt;/p&gt;
-
-&lt;p&gt;Religion will survive. The Church will always be there in the West, even if it is weakened and marginalised. Popular culture and the mass media already brand the Christian faith as regressive. It is perhaps only a matter of time before popular opinion turns into political legislation.&lt;/p&gt;
-
-&lt;p&gt;But the Church will survive. It always has.&lt;/p&gt;
-
-&lt;p&gt;Not only that, it has found a new homeland. As the West continues to go down this slippery slope and continues to schism itself from its Christian roots, the great African continent has already opened its arms wide open, in welcome of the Gospel and the Church.&lt;/p&gt;</content><author><name>Soham Gupta</name></author><category term="millennial" /><category term="society" /><summary type="html">One of the most important demographic changes, in recent times, is the rise of the ‘nones’ in Western society. These are a group of people who refuse to identify themselves with any mainstream religious group or denomination. A 2012 article, by the Pew Research Center, noted that “[o]ne-fifth of the U.S. public – and a third of adults under 30 – are religiously unaffiliated today” and “[i]n the last five years alone, the unaffiliated have increased from just over 15% to just under 20% of all U.S. adults. Their ranks now include more than 13 million self-described atheists and agnostics (nearly 6% of the U.S. public), as well as nearly 33 million people who say they have no particular religious affiliation (14%)”. If we look at certain Western European countries and even in some parts of Eastern Europe, the numbers will undoubtedly be higher.</summary></entry><entry><title type="html">Are We ‘Doing It’ Enough?</title><link href="/Are-We-Doing-It-Enough" rel="alternate" type="text/html" title="Are We ‘Doing It’ Enough?" /><published>2019-07-06T00:00:00+00:00</published><updated>2019-07-06T00:00:00+00:00</updated><id>/Are-We-Doing-It-Enough</id><content type="html" xml:base="/Are-We-Doing-It-Enough">&lt;p&gt;The generation that fails all? After a myriad of people belting out how we, the Millennials, have failed the world, there’s a new complaint in the game, and if I may, a superfluous one. If you haven’t heard about it yet, let me enlighten you, we, are falling, yet again; falling behind on our duty as sexual beings. We’re not having enough intercourse, the coitus is lacking, we’re not hiding the salami right, we are to fornicate/copulate more often, I can go ahead and call it a thousand more names, but what it comes down to is that we are not having enough sex.&lt;/p&gt;
-
-&lt;p&gt;The sexual economy of the world seems to be in danger. Of course, this conclusion is met with evidence from surveys done on American grounds and on Americans but there seems to lie an innate truth to it. &lt;em&gt;The Atlantic&lt;/em&gt;’s December cover story threw light on this. I’m sure Kate Julian’s extensive research on the topic and terming of the phenomenon ‘Sexual Recession’ brought her just as much hate as it did fame, but from what I could procure, she left no page unturned, except the veil of obvious bias, but we’ll come to that later.&lt;/p&gt;
-
-&lt;p&gt;In a full tell-all, supported by a General Social Survey (GSS) in 2016, conducted at the University of Chicago, she lists out reasons behind the recession―the assumed ones, why it occurred in the first place and why this recession is specific to the Millennials. Her article is a long read―heavy with insight and stories from across her social sphere―and, given a choice, I’d award her. Her article shone light upon something that we were all aware of in parts, and albeit she only showed off the parts that worked in her favour, she did make sure that all was listed, with enough to make us not counter her points.&lt;/p&gt;
-
-&lt;p&gt;As Foucault would say, we love talking about sex, we enjoy discussing it not just as a primal need rather as a form of entertainment. Sexuality, he said, was a construct of human discourse. “We convince ourselves that we have never said enough on the subject,” he wrote in his (four-volume) &lt;em&gt;The History of Sexuality&lt;/em&gt;. “It is possible that where sex is concerned, the most long-winded, the most impatient of societies is our own.” Personally, I’d say, few fields of human behaviour—and none more important—are this hard to explain. As something that has been talked about ever so often, from religious scriptures telling us how and when to do it, oh, and of course, when not to, to trilogies earning billions with 1001 pages of ‘teeth-clenchingly good’ sex. We all know of it, but why and how it became the talk of the town, albeit uttered only in hushed tones, is vague.&lt;/p&gt;
-
-&lt;p&gt;The aforementioned GSS determined that people who are in their early 20s right now are two and a half times as likely to be abstinent as Gen Xers were at the same age. Specifically, between the years 1990 to 2014, the average adult went from having sex 62 times a year to 54 times a year, therefore, the hoola-hoo about the downfall in the Sexual Economy. If I were to meet the ‘spokesperson’ of this Sexual Economy that we all have now been made aware of, I’d only have one word to say: ‘Damn.’ Just so one is kept in the know, it’s not just an American problem. Most countries don’t track their citizens’ sex lives closely. But those that try, mostly the ones who are extremely wealthy, are reporting their own sex delays and declines. One of the most respected sex studies in the world, Britain’s National Survey of Sexual Attitudes and Lifestyles, reported in 2001 that people between the ages of 16 to 44 were having sex more than six times a month, on average. By 2012, the rate had dropped to fewer than five times. Over approximately the same period, Australians in relationships went from having sex around 1.8 times a week to 1.4 times. Finland’s ‘Finsex’ study found declines in frequency of coitus, coupled with increasing rates of masturbation. In the Netherlands, the median age at which people first have intercourse rose from 17.1 in 2012 to 18.6 in 2017, and other types of physical contact also got pushed back, even kissing. In fertility-challenged Japan, which is already in the midst of a demographic crisis and has become something of a case study in the dangers of sexlessness, a third of single people aged 18 to 34 were virgins as of the year 2005; but by 2015, 43% of people reported the same. Japan has been infiltrated by several cultural complexes: Hikikomori (the phenomenon of complete isolation from society) being one of them.&lt;/p&gt;
-
-&lt;p&gt;However, whatever’s going on here does not seem like a ‘millennial trend’. It really probably pertains to people in their 20s, so younger millennials or Gen-Z. We tend to talk about millennials as if they are some group that just landed here intact, whereas it’s more useful to talk about what it’s like to be a young person, at this point. Not to mention, the fear of a “sex recession” is misdirected. A drop in sexual encounters from 62 to 54 times a year means that the average adult is still having sex more than once a week. Millennials are having to deal with things previous generations haven’t dealt with, and it’s useful to clarify that. As and when I read more about this, I found that people think online connectivity and smartphones have had a dramatic effect on how people’s lives are shaped and their behaviours. That’s probably true for most generational groups, and for the groups that use technology more, that’d be truer. Tinder has only made things easier, so why the lack? My only problem was why 2 and 2 didn’t add up to 4.&lt;/p&gt;
-
-&lt;p&gt;So, I went digging, and found a &lt;em&gt;Cosmopolitan&lt;/em&gt; article (yes, I went there) and believe me, if &lt;em&gt;The Atlantic&lt;/em&gt; makes you believe you’re not having enough sex, &lt;em&gt;Cosmopolitan&lt;/em&gt; will assure you enough for a lifetime, or well, at least a couple of months. The survey research showed a decline in sex mainly among white, middle-aged, married couples, which, of course, is a very, very small bracket to be construed as an entire generation’s problem. Julian’s tone in &lt;em&gt;The Atlantic&lt;/em&gt;––listing a myriad of theories to explain the drop, from smartphones to economic instability to Tinder––was cautionary, I’ll give her that. But, news of the so-called “sex recession” provoked reactions across the internet, from &lt;em&gt;Vox&lt;/em&gt; to &lt;em&gt;Vice&lt;/em&gt;—not to mention the plethora of comments which turned it into madness with no method. Companies have picked up on this, more researches are being based on the same and while all that is great, there’s a problem that doesn’t exist and is yet being worked upon.&lt;/p&gt;
-
-&lt;p&gt;People are different now; sex is different now. Dictionaries may still consider sex to be vaginal penetration, but to us—it may be anything from second base to the seventh one. Sexuality is explored more. People are more aware of what it is that they want, there’s more to it than just genitals having a meet and greet, pleasure plays a huge role in how sex is seen. I would highly recommend that people read Julian’s article and all the reasons she gives for us to not be having enough sex: from stress to bad, painful encounters, but with a grain of salt. We may be failing to do a gazillion more things, but for once, I can attest sex is something we’re doing a bang-up job of (all puns intended.) Tinder, Bumble and Grindr have only made it more relevant. Nothing one does to explore it can be wrong, not until someone is harmed. There is no ‘normal’ amount of sex. Worrying about how much sex one’s having—which can increase anxiety, decrease body confidence, and hinder healthy communication—is not good for one’s sex life, either. Ironic, isn’t it? In terms of desired sexual activity, every individual, and every couple is different, including people who identify as asexual. Just the idea of #MeToo challenges the notion that we can measure our sex lives by anything other than our own generational values and self-reported satisfaction.&lt;/p&gt;
-
-&lt;p&gt;On a fundamental level, I share Julian’s concern when she writes that she “was taken aback by what seemed like heartbreaking changes in the way many people were relating—or not relating—to one another.” This is what we should focus our attention on. It turns out, though, that a small drop in aggregate annual sexual frequency has no demonstrable effect on how couples form and sustain, fulfilling relationships. If people aren’t having sex but they’re doing other things they find fulfilling, that’s great. But if people are not having sex, and wish they were, that’s more of a concern, wouldn’t you say?&lt;/p&gt;
-
-&lt;p&gt;All I have to say is that every generation has its faults counted, every generation has to face things the previous ones didn’t have to endure. While one is yet to see how much more can be done, can be changed or morphed, I am sure that our shapeshifter of a generation won’t be a disappointment. Sex or not.&lt;/p&gt;</content><author><name>Harshita Jain</name></author><category term="millennial" /><category term="society" /><summary type="html">The generation that fails all? After a myriad of people belting out how we, the Millennials, have failed the world, there’s a new complaint in the game, and if I may, a superfluous one. If you haven’t heard about it yet, let me enlighten you, we, are falling, yet again; falling behind on our duty as sexual beings. We’re not having enough intercourse, the coitus is lacking, we’re not hiding the salami right, we are to fornicate/copulate more often, I can go ahead and call it a thousand more names, but what it comes down to is that we are not having enough sex.</summary></entry><entry><title type="html">The Middle Income Trap and How India Must Avert It</title><link href="/The-Middle-Income-Trap" rel="alternate" type="text/html" title="The Middle Income Trap and How India Must Avert It" /><published>2019-07-02T12:40:00+00:00</published><updated>2019-07-02T12:40:00+00:00</updated><id>/The-Middle-Income-Trap</id><content type="html" xml:base="/The-Middle-Income-Trap">&lt;p&gt;While the &lt;em&gt;Mahatyohar&lt;/em&gt; (Read: General Elections) of the Indian nation concluded
-with a staggering majority for the incumbent BJP, it was immediately followed by
-the official revelation of certain important economic indicators that were
-perhaps obscured in a mist of uncertainty during the election campaign.
-Nevertheless, the unemployment rate was revealed to be at a four-decade high of
-6.1% while the GDP growth rate of 2019 Q1 has dropped to nearly 5.8% after a
-decline in the consumption expenditure for automobile and real estate, which
-explains the recent 0.2% reduction in the IMF growth projections for India as
-compared to its previous assessment in January. The growth concerns have put
-more interest rate cuts by the Reserve Bank of India on the radar, and have
-pushed its stance from neutral to accommodative. And while all these deviations
-can be credited to the global slowdown that is being projected for 2019 as a
-part of the generic economic cycle, for emerging nations like India this could
-indicate the end to an era of rapid economic convergence.&lt;/p&gt;
-
-&lt;p&gt;Recently, amidst the chaos of the Indian elections, Rathin Roy, Director of the
-National Institute of Public Finance and Policy, highlighted a bipartisan issue
-of long term stagnation that the Indian economy might soon have to confront. He
-identified that the long term growth of the nation is primarily spurred by what
-the top 10% income bracket of the population consumes. This was good enough to
-lift India to the group of lower-middle income nations back in 2008 when the per
-capita income rose above $1005 for the first time. But now, this group has
-become a major hindrance to reaching the upper-middle-income bracket that ranges
-from $3,956 to $12,235 per capita. In order to cross this threshold, the
-economy must witness a structural transformation of the non-luxury good
-industries, on which the majority of the Indian population depends. Roy states
-that while aspects like infrastructure, microfinance, etc. are being dealt with
-by the government’s &lt;em&gt;PM Awas Yojana&lt;/em&gt; and &lt;em&gt;PM Mudra Yojana&lt;/em&gt; schemes respectively,
-it is agriculture that clearly needs to undergo a proper revival to ameliorate
-the productivity of the most basic non-luxury good; foodgrain, for which we’re
-becoming increasingly dependent. Other aspects like technology and human capital
-development require immediate attention for escaping the Middle Income Trap that
-we’re heading into. &lt;/p&gt;
-
-&lt;p&gt;The Middle Income Trap is an economic phenomenon that states how a poor nation
-makes significant progress on its way to becoming a middle-income nation but
-then finds it harder to take the shape of a fully developed, high-income nation.
-This phenomenon is more frequent than one would assume. Only 13 of the 101
-nations deemed to be middle-income countries in the 1960’s had achieved
-high-income levels by 2011. The failure of the rest of the nations is primarily
-attributed to the rising domestic wages, failure to invest in human capital,
-lack of innovation and issues with macroeconomic stability. While the latter is
-comparatively under control and any recent macroeconomic discrepancies have been
-exogenous to the powers of the central bank, the remaining three are extremely
-crucial yet underrated issues in the Indian economy. &lt;/p&gt;
-
-&lt;p&gt;Roy identifies that labour-intensive business investments are increasingly being
-channelled towards nations like Bangladesh, even though their wages are similar
-to those of East Indian states like Bihar, Jharkhand, etc. But there, the labour
-is scarce due to mass migrations towards the western states where minimum wages
-are much higher, a policy which had contributed to the early popularity the
-current PM Modi, during his tenure as the Chief Minister of the western state of
-Gujarat. Although it is difficult to revert such populist policies, the issue of
-high wages has the ability to resolve itself in time, as the nation’s
-demographic structure changes, with more people contributing to the labour
-supply. &lt;/p&gt;
-
-&lt;p&gt;As for the development of human capital, the current share of education-related
-expenditure in India’s Union Budget is a mere 3%, much lower than the minimum 6%
-required for the basic functioning of the education system, let alone its
-restructuring. Innovation was encouraged through government initiatives like
-&lt;em&gt;Startup India&lt;/em&gt;, which badly backfired as the government failed to encourage
-investors by perpetuating the regressive Angel Tax, which charged venture
-capitalists on any amount invested over and above the government’s faulty
-valuation of the startups. &lt;/p&gt;
-
-&lt;p&gt;An observation similar to Rathin Roy’s was made in the Economic Survey of
-2017-18, which identified the threat of a ‘Late Converger Stall’ that India will
-have to tackle on its way to the upper-middle-income status. Economic
-convergence, which is the process of developing economies catching up with the
-developed ones, is divided into phases. There have been early convergers like
-Japan and South Korea, who managed to take advantage of their cheap labour and
-efficient productivity in time, and then there are late convergers like India,
-who did not open their economy to global opportunities until the eleventh hour
-and must now bear the consequences. &lt;/p&gt;
-
-&lt;p&gt;The Economic Survey identified the major headwinds that were absent for the
-early convergers and could now lead to a growth stall for the late convergers.
-Hyper globalisation repudiation due to a growing sentiment of protectionism was
-absent during the early convergers period, which gave Japan, China, and South
-Korea, an average export boost of over 15% during their convergence period. The
-global trade-to-GDP ratio is on a decline since 2011, which, from a policy
-perspective, means that the late convergers must now focus more on enhancing
-private investments to boost growth. Another factor identified by the survey was
-the thwarted structural transformation due to wrongly channelising resources
-from low productivity sectors to marginally more productive sectors rather than
-high productivity sectors. Sectors like finance, technology, and other
-professional services must be tapped for overcoming the stagnation.
-Additionally, climate-change-induced agricultural stress and regression of human
-capital are also some of the major issues that need to be addressed with greater
-urgency.&lt;/p&gt;
-
-&lt;p&gt;Although the middle-income trap can be avoided by both increasing domestic
-demand or by boosting exports, India can only prioritise the former because
-becoming an export-led economy would imply a current account surplus and capital
-account deficit, and that would curb the FDI to the nation, which is evidently
-undesirable for an Emerging Market Economy (EME). The policy mix of the
-politically right government has, for the most part, comprised economically
-left-leaning schemes combined with cleverly constructed, investment conducive
-foreign policy. But that is not enough. India is one of the prime investment
-destinations among its fellow EMEs, and we must fully take advantage of that
-before the preferences, as they inevitably will, shift to the African nations,
-for capital is faithful to none.&lt;/p&gt;</content><author><name>Riya Kaul</name></author><category term="economics" /><summary type="html">While the Mahatyohar (Read: General Elections) of the Indian nation concluded with a staggering majority for the incumbent BJP, it was immediately followed by the official revelation of certain important economic indicators that were perhaps obscured in a mist of uncertainty during the election campaign. Nevertheless, the unemployment rate was revealed to be at a four-decade high of 6.1% while the GDP growth rate of 2019 Q1 has dropped to nearly 5.8% after a decline in the consumption expenditure for automobile and real estate, which explains the recent 0.2% reduction in the IMF growth projections for India as compared to its previous assessment in January. The growth concerns have put more interest rate cuts by the Reserve Bank of India on the radar, and have pushed its stance from neutral to accommodative. And while all these deviations can be credited to the global slowdown that is being projected for 2019 as a part of the generic economic cycle, for emerging nations like India this could indicate the end to an era of rapid economic convergence. Recently, amidst the chaos of the Indian elections, Rathin Roy, Director of the National Institute of Public Finance and Policy, highlighted a bipartisan issue of long term stagnation that the Indian economy might soon have to confront. He identified that the long term growth of the nation is primarily spurred by what the top 10% income bracket of the population consumes. This was good enough to lift India to the group of lower-middle income nations back in 2008 when the per capita income rose above $1005 for the first time. But now, this group has become a major hindrance to reaching the upper-middle-income bracket that ranges from $3,956 to $12,235 per capita. In order to cross this threshold, the economy must witness a structural transformation of the non-luxury good industries, on which the majority of the Indian population depends. Roy states that while aspects like infrastructure, microfinance, etc. are being dealt with by the government’s PM Awas Yojana and PM Mudra Yojana schemes respectively, it is agriculture that clearly needs to undergo a proper revival to ameliorate the productivity of the most basic non-luxury good; foodgrain, for which we’re becoming increasingly dependent. Other aspects like technology and human capital development require immediate attention for escaping the Middle Income Trap that we’re heading into.  The Middle Income Trap is an economic phenomenon that states how a poor nation makes significant progress on its way to becoming a middle-income nation but then finds it harder to take the shape of a fully developed, high-income nation. This phenomenon is more frequent than one would assume. Only 13 of the 101 nations deemed to be middle-income countries in the 1960’s had achieved high-income levels by 2011. The failure of the rest of the nations is primarily attributed to the rising domestic wages, failure to invest in human capital, lack of innovation and issues with macroeconomic stability. While the latter is comparatively under control and any recent macroeconomic discrepancies have been exogenous to the powers of the central bank, the remaining three are extremely crucial yet underrated issues in the Indian economy.  Roy identifies that labour-intensive business investments are increasingly being channelled towards nations like Bangladesh, even though their wages are similar to those of East Indian states like Bihar, Jharkhand, etc. But there, the labour is scarce due to mass migrations towards the western states where minimum wages are much higher, a policy which had contributed to the early popularity the current PM Modi, during his tenure as the Chief Minister of the western state of Gujarat. Although it is difficult to revert such populist policies, the issue of high wages has the ability to resolve itself in time, as the nation’s demographic structure changes, with more people contributing to the labour supply.  As for the development of human capital, the current share of education-related expenditure in India’s Union Budget is a mere 3%, much lower than the minimum 6% required for the basic functioning of the education system, let alone its restructuring. Innovation was encouraged through government initiatives like Startup India, which badly backfired as the government failed to encourage investors by perpetuating the regressive Angel Tax, which charged venture capitalists on any amount invested over and above the government’s faulty valuation of the startups.  An observation similar to Rathin Roy’s was made in the Economic Survey of 2017-18, which identified the threat of a ‘Late Converger Stall’ that India will have to tackle on its way to the upper-middle-income status. Economic convergence, which is the process of developing economies catching up with the developed ones, is divided into phases. There have been early convergers like Japan and South Korea, who managed to take advantage of their cheap labour and efficient productivity in time, and then there are late convergers like India, who did not open their economy to global opportunities until the eleventh hour and must now bear the consequences.  The Economic Survey identified the major headwinds that were absent for the early convergers and could now lead to a growth stall for the late convergers. Hyper globalisation repudiation due to a growing sentiment of protectionism was absent during the early convergers period, which gave Japan, China, and South Korea, an average export boost of over 15% during their convergence period. The global trade-to-GDP ratio is on a decline since 2011, which, from a policy perspective, means that the late convergers must now focus more on enhancing private investments to boost growth. Another factor identified by the survey was the thwarted structural transformation due to wrongly channelising resources from low productivity sectors to marginally more productive sectors rather than high productivity sectors. Sectors like finance, technology, and other professional services must be tapped for overcoming the stagnation. Additionally, climate-change-induced agricultural stress and regression of human capital are also some of the major issues that need to be addressed with greater urgency. Although the middle-income trap can be avoided by both increasing domestic demand or by boosting exports, India can only prioritise the former because becoming an export-led economy would imply a current account surplus and capital account deficit, and that would curb the FDI to the nation, which is evidently undesirable for an Emerging Market Economy (EME). The policy mix of the politically right government has, for the most part, comprised economically left-leaning schemes combined with cleverly constructed, investment conducive foreign policy. But that is not enough. India is one of the prime investment destinations among its fellow EMEs, and we must fully take advantage of that before the preferences, as they inevitably will, shift to the African nations, for capital is faithful to none.</summary></entry><entry><title type="html">Africa Sees a New Dawn</title><link href="/Africa-Sees-a-New-Dawn" rel="alternate" type="text/html" title="Africa Sees a New Dawn" /><published>2019-07-02T12:40:00+00:00</published><updated>2019-07-02T12:40:00+00:00</updated><id>/Africa-Sees-a-New-Dawn</id><content type="html" xml:base="/Africa-Sees-a-New-Dawn">&lt;p&gt;As the US and China are engaged in a trade war, and debates about the
-unpredictability of relationships between the EU and Britain continue to linger,
-the continent of Africa is taking steps to create a close-knit relationship to
-realise the vision of the African Union and Agenda 2063. On May 30, 2019, the
-African Continental Free Trade Agreement (AfCFTA) came into force after being
-ratified by the parliaments of 24 countries. The CFTA is an attempt by the
-African governments to “unlock Africa’s tremendous potential” and deliver
-prosperity to all Africans.&lt;/p&gt;
-
-&lt;p&gt;AfCFTA seeks to create a single unified African continental market for goods and
-services with free movement of business, people and investment. The AfCFTA will
-bring together all 55 member states of the African Union covering a market of
-more than 1.2 billion people and a combined GDP of more than $3.4 trillion. In
-terms of the number of participating countries, the AfCFTA will be the world’s
-largest free trade area.&lt;/p&gt;
-
-&lt;p&gt;A single market for goods and services enables free movement of goods, services,
-and labour from one country to another. Trade among the 55 African Union member
-states is only 18% of the total exports from the continent. A free market
-improves these numbers prodigiously. Improved intra-continental trade would
-benefit the consumers across the continent, as the goods and services would
-become relatively cheaper. This increases the real income of consumers, part of
-which again is spent. The ambitious project seeks to remove tariffs on 90% of
-the goods traded between the signatories to the agreement, and gradually
-eliminate other non-tariff barriers to trade in goods and services. As an
-economist would argue, removal of these barriers would increase the producer and
-consumer surplus, and overall efficiency of these economies. &lt;/p&gt;
-
-&lt;p&gt;The manufacturing sector is the backbone of Africa. The new agreement promotes
-competition among the firms and aids Africa in unlocking its true potential and
-thus boosting its export of manufactured goods to the rest of the world. The
-relatively small size of many African markets is one of the reasons that inhibit
-private sector investment. A unified market will enable the continent to attract
-foreign direct investment. By and large, these would lead to an increase in
-consumption and investment components and add to an overall increase in GDP.  By
-2030, the African market size is expected to reach 1.7 billion people, with a
-combined consumer and business spending of $6.7 trillion&lt;/p&gt;
-
-&lt;p&gt;A study by UNCTAD concedes that the long term monetary benefits that AfCFTA
-shall yield are annual welfare gains as high as $16 billion. Estimates from the
-UN Economic Commission for Africa (UNECA) suggest that the AfCFTA has the
-potential to boost intra-African trade by 52.3%. There’s a substantial amount of
-evidence to show that free movement boosts the economies of countries. A study
-has shown that nations could increase their per-capita GDP growth by 12%, simply
-by being a member of the European Union.&lt;/p&gt;
-
-&lt;p&gt;The AfCFTA document says one of its goals is to “foster a competitive
-manufacturing sector and promote economic diversification”. Even as 43% of the
-goods traded within Africa are from the manufacturing sector, it represents only
-about 10% of the total GDP in Africa, lagging behind other developing countries.
-Africa’s low level of intra-regional trade is one of the reasons for the
-continent’s enduring poverty and lack of a strong manufacturing base. The
-African economies can, therefore, leverage their gigantic population size of 1.2
-billion to expand their manufacturing sector and gain a comparative cost
-advantage over other nations. &lt;/p&gt;
-
-&lt;p&gt;Apart from AfCFTA, there are some Regional Economic Communities (REC) in Africa
-such as ECA, SADC, ECOWAS, and COMESCA. While ECOWAS was quite successful, the
-other blocs have problems. Disputes continue to hamper relations and drive the
-countries toward not honouring agreements. For instance, Kenya and Tanzania,
-both members of ECA, have been engaged in a trade war. Tanzania has been known
-to kick out Kenyan executives and impound Kenyan imports at the border, in
-violation of ECA rules. While Tanzania scrapped preferential access to Kenyan
-textiles, Kenya allowed goods from Export Processing Zones to be sold in local
-markets, which prevented Tanzanian goods from being competitive. Members of
-COMESCA, Kenya, Tanzania and Uganda have also been blaming each other for
-exploiting the low import duties on sugar. That AfCFTA doesn’t have a clause to
-repeal all the existing trade blocs would prove a real challenge as it creates
-ambiguity. Then there is also the threat of countries acting in favour of their
-trading partners from “the regional blocs.” The success of the agreement depends
-on how efficiently the AU deals with these RECs.&lt;/p&gt;
-
-&lt;p&gt;AfCFTA is to face some more challenges. The two largest economies of Africa,
-Nigeria and South Africa haven’t ratified the agreement yet. South Africa has
-assured that it would sign it once domestic legal requirements have been
-satisfied. However, Nigeria backed out from signing the agreement citing “the
-agreement would drastically affect the small business sector of the country.”
-“We will not agree to anything that will undermine local manufacturers and
-entrepreneurs, or that may lead to Nigeria becoming a dumping ground for
-finished goods,” Nigeria has stated. The pervasive nature of Small and Medium
-Enterprises (SMEs) in virtually every sector of the Nigerian economy and their
-place in national development is conspicuous. SMEs in Nigeria are believed to
-account for about 40% of GDP and 70% of industrial employment. Rice is also a
-factor that is preventing the largest African economy from signing the deal. 
-Due to various government initiatives, rice is starting to command 40% more
-price than what it used to 3 years back in the Nigerian markets.&lt;/p&gt;
-
-&lt;p&gt;Interestingly,  Nigeria would largely benefit from signing the deal. With a
-rapidly growing population of almost 200 million, Nigeria has more workers and
-consumers than anywhere in Africa. For many businesses, there is no other place
-in Africa that can offer such a scale. This will provide a competitive advantage
-to Nigeria in firms’ considerations of where to set up facilities and do
-business. AfCFTA will expose local Nigerian firms to better practices and
-technologies, often through partnerships with the MNCs and sometimes through
-competition. This sort of exposure will challenge entrepreneurs in the country
-and give them greater access to the skills and partnerships they need to be
-dynamic in today’s world. By giving businesses access to a larger market beyond
-their home country, the trade agreement would allow the establishments in
-Nigeria (that are not profitable now) to take advantage of the economies of
-scale and industries to take advantage of the growth in intra-Africa relations.
-Remaining a non-signatory to the agreement might cost Nigeria dearly. The
-country’s isolation makes it difficult for local businesses to scale abroad,
-thus making them less attractive for foreign direct investment.&lt;/p&gt;
-
-&lt;p&gt;In launching the African Continental Free Trade Area and making it work, Africa
-is overcoming the historic fragmentation and isolation of her economies by
-opening up huge commercial opportunities as well as improving transport and
-communication linkages among the countries. This connectivity will enable the
-vision of the African Union and Agenda 2063: “An integrated, prosperous, and
-peaceful Africa, driven by its citizens, representing a dynamic force in the
-global arena.” However, there are many roadblocks for AU to overcome in the
-process of successful implementation of the agreement and realising her dream of
-“Agenda 2063: The Africa We Want [Pan-Africanism]’’. The success of the
-agreement depends on how well AU manages the disputes among member nations and
-oversees the implementation of the agreement in true spirit.&lt;/p&gt;</content><author><name>Kartik Balaji Kundeti</name></author><category term="economics" /><summary type="html">As the US and China are engaged in a trade war, and debates about the unpredictability of relationships between the EU and Britain continue to linger, the continent of Africa is taking steps to create a close-knit relationship to realise the vision of the African Union and Agenda 2063. On May 30, 2019, the African Continental Free Trade Agreement (AfCFTA) came into force after being ratified by the parliaments of 24 countries. The CFTA is an attempt by the African governments to “unlock Africa’s tremendous potential” and deliver prosperity to all Africans. AfCFTA seeks to create a single unified African continental market for goods and services with free movement of business, people and investment. The AfCFTA will bring together all 55 member states of the African Union covering a market of more than 1.2 billion people and a combined GDP of more than $3.4 trillion. In terms of the number of participating countries, the AfCFTA will be the world’s largest free trade area. A single market for goods and services enables free movement of goods, services, and labour from one country to another. Trade among the 55 African Union member states is only 18% of the total exports from the continent. A free market improves these numbers prodigiously. Improved intra-continental trade would benefit the consumers across the continent, as the goods and services would become relatively cheaper. This increases the real income of consumers, part of which again is spent. The ambitious project seeks to remove tariffs on 90% of the goods traded between the signatories to the agreement, and gradually eliminate other non-tariff barriers to trade in goods and services. As an economist would argue, removal of these barriers would increase the producer and consumer surplus, and overall efficiency of these economies.  The manufacturing sector is the backbone of Africa. The new agreement promotes competition among the firms and aids Africa in unlocking its true potential and thus boosting its export of manufactured goods to the rest of the world. The relatively small size of many African markets is one of the reasons that inhibit private sector investment. A unified market will enable the continent to attract foreign direct investment. By and large, these would lead to an increase in consumption and investment components and add to an overall increase in GDP.  By 2030, the African market size is expected to reach 1.7 billion people, with a combined consumer and business spending of $6.7 trillion A study by UNCTAD concedes that the long term monetary benefits that AfCFTA shall yield are annual welfare gains as high as $16 billion. Estimates from the UN Economic Commission for Africa (UNECA) suggest that the AfCFTA has the potential to boost intra-African trade by 52.3%. There’s a substantial amount of evidence to show that free movement boosts the economies of countries. A study has shown that nations could increase their per-capita GDP growth by 12%, simply by being a member of the European Union. The AfCFTA document says one of its goals is to “foster a competitive manufacturing sector and promote economic diversification”. Even as 43% of the goods traded within Africa are from the manufacturing sector, it represents only about 10% of the total GDP in Africa, lagging behind other developing countries. Africa’s low level of intra-regional trade is one of the reasons for the continent’s enduring poverty and lack of a strong manufacturing base. The African economies can, therefore, leverage their gigantic population size of 1.2 billion to expand their manufacturing sector and gain a comparative cost advantage over other nations.  Apart from AfCFTA, there are some Regional Economic Communities (REC) in Africa such as ECA, SADC, ECOWAS, and COMESCA. While ECOWAS was quite successful, the other blocs have problems. Disputes continue to hamper relations and drive the countries toward not honouring agreements. For instance, Kenya and Tanzania, both members of ECA, have been engaged in a trade war. Tanzania has been known to kick out Kenyan executives and impound Kenyan imports at the border, in violation of ECA rules. While Tanzania scrapped preferential access to Kenyan textiles, Kenya allowed goods from Export Processing Zones to be sold in local markets, which prevented Tanzanian goods from being competitive. Members of COMESCA, Kenya, Tanzania and Uganda have also been blaming each other for exploiting the low import duties on sugar. That AfCFTA doesn’t have a clause to repeal all the existing trade blocs would prove a real challenge as it creates ambiguity. Then there is also the threat of countries acting in favour of their trading partners from “the regional blocs.” The success of the agreement depends on how efficiently the AU deals with these RECs. AfCFTA is to face some more challenges. The two largest economies of Africa, Nigeria and South Africa haven’t ratified the agreement yet. South Africa has assured that it would sign it once domestic legal requirements have been satisfied. However, Nigeria backed out from signing the agreement citing “the agreement would drastically affect the small business sector of the country.” “We will not agree to anything that will undermine local manufacturers and entrepreneurs, or that may lead to Nigeria becoming a dumping ground for finished goods,” Nigeria has stated. The pervasive nature of Small and Medium Enterprises (SMEs) in virtually every sector of the Nigerian economy and their place in national development is conspicuous. SMEs in Nigeria are believed to account for about 40% of GDP and 70% of industrial employment. Rice is also a factor that is preventing the largest African economy from signing the deal.  Due to various government initiatives, rice is starting to command 40% more price than what it used to 3 years back in the Nigerian markets. Interestingly,  Nigeria would largely benefit from signing the deal. With a rapidly growing population of almost 200 million, Nigeria has more workers and consumers than anywhere in Africa. For many businesses, there is no other place in Africa that can offer such a scale. This will provide a competitive advantage to Nigeria in firms’ considerations of where to set up facilities and do business. AfCFTA will expose local Nigerian firms to better practices and technologies, often through partnerships with the MNCs and sometimes through competition. This sort of exposure will challenge entrepreneurs in the country and give them greater access to the skills and partnerships they need to be dynamic in today’s world. By giving businesses access to a larger market beyond their home country, the trade agreement would allow the establishments in Nigeria (that are not profitable now) to take advantage of the economies of scale and industries to take advantage of the growth in intra-Africa relations. Remaining a non-signatory to the agreement might cost Nigeria dearly. The country’s isolation makes it difficult for local businesses to scale abroad, thus making them less attractive for foreign direct investment. In launching the African Continental Free Trade Area and making it work, Africa is overcoming the historic fragmentation and isolation of her economies by opening up huge commercial opportunities as well as improving transport and communication linkages among the countries. This connectivity will enable the vision of the African Union and Agenda 2063: “An integrated, prosperous, and peaceful Africa, driven by its citizens, representing a dynamic force in the global arena.” However, there are many roadblocks for AU to overcome in the process of successful implementation of the agreement and realising her dream of “Agenda 2063: The Africa We Want [Pan-Africanism]’’. The success of the agreement depends on how well AU manages the disputes among member nations and oversees the implementation of the agreement in true spirit.</summary></entry></feed>
+There’s more to this beautiful nation than what meets the internet!&lt;/p&gt;</content><author><name>Sanjana Chandaliya</name></author><category term="culture" /><summary type="html">Before writing this piece, I had a couple of rather conflicting thoughts, that made me resist the urge to write a personal account of my visit to Turkey. My initial enthusiasm to pen down my extraordinary experience was soon met by a greater impediment when I searched the internet to gather more information about Turkey, as I will explain later. I would not have done justice to myself if I would have written an article instead of a personal account. And so, I have decided to shut down those thoughts and do what I wanted to do anyway, i.e. to enlighten you about my journey, along with the aftermath, as it was in Turkey. Nothing more and nothing less. Turkey, one of the five countries to be a part of both Europe and Asia, was a journey of a lifetime. Having visited five cities and towns over a course of twelve days, I experienced breath-taking architecture (mosques, museums, palaces, theatres and natural beauty), talked to Turks and ate traditional Turkish delicacies. I consider myself to be in a position to form an opinion about the country and its citizens. An Islamic country, where 99.8% of the population follows Islam as its religion, Turkey was truly a blend of modernity and cultural heritage, where people had accepted the reality of the modern era while remaining true to their own roots. It rightfully stood in the middle ground, embodying the qualities of both Europe and Asia. The country’s two wonders of the ancient world: The Temple of Artemis and The Mausoleum of Halicarnassus, its rich traditional architecture, a blend of Islam and Christianity, was intellectually stimulating and visually captivating at the same time. The cherry on top was the state-of-the-art infrastructure, pristine surroundings, the technologically-advanced society and the open-minded people.  It’s a little hard to digest that an Islamic society can be so advanced and modern, isn’t it? Turkey certainly broke the few stereotypes I might have had against Muslims and reinforced the sense of respect I had for the religion. There were some incidents that took place during the journey that compelled me to think highly of Islam. In Islam, women are often expected to wear traditional dresses (like burqa, hijab, niqab, etc.), look after the domestic chores, and behave in a modest and polite way. However, men and women in Turkey wore western attire; jeans and t-shirts among other dresses. In the entirety of my journey, from a big city like Istanbul to a small town like Selcuk, I did not see more than 20% of the women with headscarves, let alone garments fully covering their body. The work culture was inclusive and women were financially independent. I remember eating at restaurants and cafes where women waited tables, even at night, a phenomenon uncommon in my supposedly more liberal home country, India. Furthermore, unlike India, smoking in public was not considered a taboo in Turkey and both men and women openly smoked in the streets. Although smoking does not imply modernity, yet to experience it in an Islamic country is a big deal.   There was one incident that stood out from the rest and acted as an ‘inception’ for my exploration of the Islamic world. It was when I visited the Suleymaniye Mosque in Istanbul, where a college student had volunteered to explain the history of the mosque to visitors. While explaining the prayer pattern, he said that women stood at the back during Namaz so as to ensure that men do not get distracted during prayer. I found this absurd and initiated a discussion on the point. My father was apprehensive that the discussion might turn into a heated argument and tried to stop me. To this, the gentleman instantly replied, “I want to hear her opinion. She (Muslim women, not me) is the disadvantaged one.” This incident indicated both a positive as well as a negative point for Turkish Islam: positive because the younger generations were open-minded and negative because the religion put women in a position of disadvantage.  To further my proposition, let us take a look at some statistics. According to the Central Intelligence Agency of the USA, Turkey is a developed country and is considered advanced in terms of infrastructure, technology, industrialisation, per capita income and standards of living. For a better understanding of Turkey’s economic and social situation, let us compare it with India: &amp;nbsp; Turkey India Male-Female percentage of population 49.1% - 50.9% 51.8% - 48.2% Population density 104.5 people/sq km 415.63 people/ sq km Literacy Rate 95.6% 74.04% Male literacy rate 98% 80.9% Female literacy rate 92% 64.6% Quality of Life Index (Rank) 44/70 52/70 Population living in Urban areas 70% 33% Source: World Population Review, 2019 In spite of some troublesome trends like rising unemployment and inflation, the above statistics provide enough evidence that Turkey is a developed nation. My curiosity to learn more about Turkish Islam and to uphold my findings led me to collect pamphlets everywhere I went and undertake an in-depth search on the internet. But, what I read online was in stark contrast to what I saw through my eyes. I was appalled by the negative portrayal of Turkey in almost all of the articles I read! All of them had some common themes: economic and political instability, humanitarian crisis, disputes based on religion, and so on. I was distressed to find out that a staggering 477 women were killed and another 232 injured at the hands of violent men in Turkey in 2018. It was only when one of Turkey’s biggest pop stars Sıla Gencoglu filed abuse charges against her actor boyfriend in 2018 that a media frenzy was set off, which sparked the long-awaited national debate about violence against women. Furthermore, the Women in Statistics 2017 report stated that only 28% of women above 15 years of age were part of the Turkish labour force. These incidences reduced the confidence I had in Turkish Islam.  Furthering my research, I found out that Turkey’s current President Recep Tayyip Erdogan and his AK party have made the constitutionally secular country more conservative and religious. The pro-Islamic authoritarian President aims to raise a ‘pious generation’ and thus promotes the growth of state-funded religious education in the country. Although the AK party claims to be secular, it seeks to change the country’s laws to greater reflect its growing Muslim identity. So, why did the modern people of Turkey elect Erdogan into power in the first place? This is because, in the first decade of his rule starting from 2003, he initiated several rapid economic and democratic reforms in the country. However, legal and democratic standards quickly deteriorated after 2013, and his focus shifted to the promotion of Islam. As a result, people became fearful that the President might slowly erase the line between Religion and the State, and make Turkey a non-secular country, upsetting the great balance put in place by the great Atatürk.  These steps have received a backlash from the Turks, especially the younger generation, and the level of piety has declined over the years, despite an increase in religious education. There has been a significant drop in people calling themselves ‘religious conservative’, from 32% in 2008 to 25% in 2018. People who say they fast during the Muslim holy month of Ramadan declined from 77% to 65%. Figures for ‘nonbeliever’ and ‘atheist’, which had been barely registered in 2008, increased to 2% and 3% respectively.  Now comes the final question. Is Turkey a modern or a conservative Islamic nation? The internet is full of Turkey’s past, which lost its way under President Erdogan, both economically and socially. However, what I saw was Turkey’s future, where the so-called ‘pious generation’ is changing course and embracing people from all religions and backgrounds. There is no chance that the AK party will come back to power in the next Parliamentary elections if it continues with the same narrow mindset of making Turkey an Islamist nation. I would urge the readers to develop a positive outlook towards Turkey, a country adapting itself with the changing times while retaining its cultural heritage. There’s more to this beautiful nation than what meets the internet!</summary></entry></feed>
