@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "On Codes and Ciphers; The Imitation Game"
-author: riya.kaul
+author: udayon.sen
 cover: enigma-decryption.JPG
 pic1: Alan_Turing_Aged_16.jpg
 pic2: enigma-machine.jpg
