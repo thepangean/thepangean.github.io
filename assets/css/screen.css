@@ -536,6 +536,15 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     font-family: 'post_title_font';
 }
 
+.see-more {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  /* align-items: flex-end; */
+  margin: 0 20px 5px;
+}
+
 .post-card-noshadowhover {
     flex: 1 1 300px;
     display: flex;
