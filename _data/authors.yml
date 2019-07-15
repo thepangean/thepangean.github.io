@@ -55,18 +55,6 @@ atreyi.bhaumik:
   twitter: False
   cover: atreyi-cover.jpg
 
-aric.kirsten:
-  username: aric.kirsten
-  name: Aric Kirsten
-  location: Tucson, Arizona
-  positions: Co-Editor
-  bio: Currently a senior at The University of Arizona, studying sports management with a minor in computer science. Sports are my pride and joy, especially basketball and football!
-  picture: aric.jpg
-  facebook: aric.kirsten
-  twitter: Arickrw3
-  cover: aric-cover.jpg
-  sports: True
-
 ali.abdi:
   username: ali.abdi
   name: Ali Abdi
@@ -89,6 +77,17 @@ stephen.mcandrew:
   facebook: False
   twitter: CrippliedTurkey
   cover: stephen-mc-cover.jpg
+
+sumayee.barman:
+  username: sumayee.barman
+  name: Sumayee Roy Barman
+  location: Kolkata
+  positions: Illustrator
+  bio: I guess, I am what you call a selfless narcissist?
+  picture: sumayee.jpg
+  facebook: sumayee
+  twitter: False
+  cover: sumayee-cover.jpg
 
 morgan.black:
   username: morgan.black
@@ -304,17 +303,6 @@ tyler.pesavento:
   cover: tyler-cover.jpg
   sports: True
 
-reuben.pritchard:
-  username: reuben.pritchard
-  name: Reuben Pritchard
-  location:
-  positions: Contributor
-  bio: Over-privileged English f***wit. You'll love me when I'm dead.
-  picture: reuben.png
-  facebook: False
-  twitter: False
-  cover: reuben-cover.jpg
-
 abhishek.sancheti:
   username: abhishek.sancheti
   name: Abhishek Sancheti
@@ -384,17 +372,6 @@ namya.tewari:
   twitter: False
   cover: namya-cover.jpg
 
-troy.worden:
-  username: troy.worden
-  name: Troy Worden
-  location: Pittsburg
-  positions: Contributor
-  bio: Troy Worden was president of the Berkeley College Republicans in 2017. He has appeared on Fox News, Fox Business, CNN, OAN, CRTV, and NRA TV. He has contributed to the Washington Examiner, Campus Reform, The Daily Signal, and American Greatness.
-  picture: troy.jpg
-  facebook: False
-  twitter: False
-  cover: troy-cover.jpg
-
 soham.gupta:
   username: soham.gupta
   name: Soham Gupta
@@ -429,28 +406,6 @@ andrew.mark:
   cover: andrew-cover.jpg
   sports: True
 
-olly.bowes:
-  username: olly.bowes
-  name: Olly Bowes
-  location:
-  positions: Contributor
-  bio: A contributor at The Pangean
-  picture: #olly.jpg
-  facebook: False
-  twitter: False
-  cover: olly-cover.jpg
-
-sumayee.barman:
-  username: sumayee.barman
-  name: Sumayee Roy Barman
-  location: Kolkata
-  positions: Illustrator
-  bio: I guess, I am what you call a selfless narcissist?
-  picture: sumayee.jpg
-  facebook: sumayee
-  twitter: False
-  cover: sumayee-cover.jpg
-
 adarsh.agarwal:
   username: adarsh.agarwal
   name: Adarsh Agarwal
@@ -461,6 +416,17 @@ adarsh.agarwal:
   facebook: False
   twitter: False
   cover: adarsh-cover.jpg
+
+reuben.pritchard:
+  username: reuben.pritchard
+  name: Reuben Pritchard
+  location:
+  positions: Guest Contributor
+  bio: Over-privileged English f***wit. You'll love me when I'm dead.
+  picture: reuben.png
+  facebook: False
+  twitter: False
+  cover: reuben-cover.jpg
 
 shivang.singh:
   username: shivang.singh
@@ -473,6 +439,39 @@ shivang.singh:
   twitter: shivangsingh98
   cover: shivang-cover.jpg
 
+troy.worden:
+  username: troy.worden
+  name: Troy Worden
+  location: Pittsburg
+  positions: Guest Contributor
+  bio: Troy Worden was president of the Berkeley College Republicans in 2017. He has appeared on Fox News, Fox Business, CNN, OAN, CRTV, and NRA TV. He has contributed to the Washington Examiner, Campus Reform, The Daily Signal, and American Greatness.
+  picture: troy.jpg
+  facebook: False
+  twitter: False
+  cover: troy-cover.jpg
+
+olly.bowes:
+  username: olly.bowes
+  name: Olly Bowes
+  location:
+  positions: Guest Contributor
+  bio: A guest contributor at The Pangean
+  picture: #olly.jpg
+  facebook: False
+  twitter: False
+  cover: olly-cover.jpg
+
+# aric.kirsten:
+#   username: aric.kirsten
+#   name: Aric Kirsten
+#   location: Tucson, Arizona
+#   positions: Co-Editor (Left)
+#   bio: Currently a senior at The University of Arizona, studying sports management with a minor in computer science. Sports are my pride and joy, especially basketball and football!
+#   picture: aric.jpg
+#   facebook: aric.kirsten
+#   twitter: Arickrw3
+#   cover: aric-cover.jpg
+#   sports: True
 
 # aryaman.tewari:
 #   username: aryaman.tewari
