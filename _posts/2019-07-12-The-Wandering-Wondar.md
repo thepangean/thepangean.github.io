@@ -159,4 +159,4 @@ What it was like to live here on Earth
 
 Perhaps the only honest answer would be,
 
-I don’t know, I passed through it once, but I’ve really been there.”
+I don’t know, I passed through it once, but I’ve never really been there.”
