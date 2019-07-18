@@ -8,7 +8,7 @@ title: "Millennials, the Gentle Souls"
 author: stuti.gupta
 cover: gay-pride.jpg
 tags: society
-date: 2019-07-18 1:00
+date: 2019-07-18 00:00
 link: https://cdn.pixabay.com/photo/2014/04/05/11/08/gay-pride-314659_960_720.jpg
 ---
 It is perhaps for the first time ever that postmodernism has found such a lovely
