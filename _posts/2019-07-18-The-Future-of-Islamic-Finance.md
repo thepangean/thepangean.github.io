@@ -6,10 +6,10 @@ class: post-template
 
 title: "The Future of Islamic Finance in the Global Economy"
 author: sailesh.buchasia unnati.jain
-cover: pending.png
+cover: Islamic-Bank.jpg
 tags: economics
 date: 2019-07-18 00:10
-link: https://thepangean.com/
+link: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sabaibdjib.jpg/1024px-Sabaibdjib.jpg
 ---
 Islamic banks do not have a long history. The first bank started its operations
 in 1963 in Egypt. The main centres worldwide are in Iran, Saudi Arabia,
