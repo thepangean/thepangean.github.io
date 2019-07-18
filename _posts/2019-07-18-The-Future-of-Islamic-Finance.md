@@ -9,7 +9,7 @@ author: sailesh.buchasia unnati.jain
 cover: islamic-finance.jpg
 tags: economics
 date: 2019-07-18 1:10
-link: 
+link: "#"
 ---
 Islamic banks do not have a long history. The first bank started its operations
 in 1963 in Egypt. The main centres worldwide are in Iran, Saudi Arabia,
