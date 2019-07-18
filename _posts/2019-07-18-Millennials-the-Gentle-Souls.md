@@ -7,7 +7,7 @@ class: post-template
 title: "Millennials, the Gentle Souls"
 author: stuti.gupta
 cover: gay-pride.jpg
-tags: society
+tags: millennial society
 date: 2019-07-18 00:00
 link: https://cdn.pixabay.com/photo/2014/04/05/11/08/gay-pride-314659_960_720.jpg
 ---
