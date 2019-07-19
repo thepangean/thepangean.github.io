@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "Millennials, the Gentle Souls"
+title: "Millennials, The Gentle Souls"
 author: stuti.gupta
 cover: gay-pride.jpg
 tags: millennial society
