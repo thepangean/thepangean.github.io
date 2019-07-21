@@ -89,16 +89,28 @@ sumayee.barman:
   twitter: False
   cover: sumayee-cover.jpg
 
-morgan.black:
-  username: morgan.black
-  name: Morgan Black
-  location: Bristol, UK
+yashna.arora:
+  username: yashna.arora
+  name: Yashna Arora
+  location: New Delhi
   positions: Contributor
-  bio: Singer, musician and comparative mythologist essentially interested in modernising European Pagan religions and cultures to provide a sense of true identity for future generations.
-  picture: morgan.jpg
+  bio:  I am your average eighteen going on eighty six going on eight year old omnivore for stories and other edible things who draws too many hyperlocal references and argues too much.
+  picture: yashna-arora.jpg
+  facebook: yashnemowhatever
+  twitter: yashnope
+  cover: yashna-arora-cover.jpg
+
+jacob.benabou:
+  username: jacob.benabou
+  name: Jacob Benabou
+  location: Martinez, CA
+  positions: Contributor
+  bio: I am an undergraduate student at the University of Arizona majoring in Statistics with minors in both sports management and computer science! I love sports because I think it is a great way to unify communities all over the world!
+  picture: jacob-benabou.jpg
   facebook: False
   twitter: False
-  cover: morgan-cover.jpg
+  cover: jacob-benabou-cover.jpg
+  sports: True
 
 sailesh.buchasia:
   username: sailesh.buchasia
@@ -177,6 +189,17 @@ daniel.harris:
   facebook: daniel.harris.7140
   twitter: False
   cover: daniel-harris-cover.jpg
+
+samuel.hogan:
+  username: samuel.hogan
+  name: Samuel Hogan
+  location: Burgess Hill
+  positions: Contributor
+  bio: A English language and Spanish university student who has been a passionate football fan since young with an interest in tennis and the NBA amongst others.
+  picture: samuel-hogan.jpg
+  facebook: False
+  twitter: False
+  cover: samuel-hogan-cover.jpg
 
 harshita.jain:
   username: harshita.jain
@@ -325,6 +348,28 @@ sagnik.sarkar:
   twitter: False
   cover: sagnik-cover.jpg
 
+sritama.sen:
+  username: sritama.sen
+  name: Sritama Sen
+  location: Kolkata
+  positions: Contributor
+  bio: An undergrad student of English literature at Jadavpur University, Kolkata. Sometimes, I ramble about books and films. Sometimes, my ramblings even make sense.
+  picture: sritama-sen.jpg
+  facebook: sritama.sen.90
+  twitter: False
+  cover: sritama-sen-cover.jpg
+
+hrishita.sharma:
+  username: hrishita.sharma
+  name: Hrishita Sharma
+  location: New Delhi
+  positions: Contributor
+  bio: Feminist, economics, panic, dance battles, artsy corners in the city and book recommendations. That's the recipe.
+  picture: hrishita-sharma.jpg
+  facebook: False
+  twitter: False
+  cover: hrishita-sharma-cover.jpg
+
 reema.singh:
   username: reema.singh
   name: Reema Singh
@@ -417,6 +462,17 @@ adarsh.agarwal:
   twitter: False
   cover: adarsh-cover.jpg
 
+morgan.black:
+  username: morgan.black
+  name: Morgan Black
+  location: Bristol, UK
+  positions: Guest Contributor
+  bio: Singer, musician and comparative mythologist essentially interested in modernising European Pagan religions and cultures to provide a sense of true identity for future generations.
+  picture: morgan.jpg
+  facebook: False
+  twitter: False
+  cover: morgan-cover.jpg
+
 reuben.pritchard:
   username: reuben.pritchard
   name: Reuben Pritchard
@@ -453,7 +509,7 @@ troy.worden:
 olly.bowes:
   username: olly.bowes
   name: Olly Bowes
-  location:
+  location: Bristol, UK
   positions: Guest Contributor
   bio: A guest contributor at The Pangean
   picture: #olly.jpg
