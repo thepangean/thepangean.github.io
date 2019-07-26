@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "Secrets of Sorcery"
-author: oindrila.gosh
+author: oindrila.ghosh
 cover: Witches.jpg
 tags: society
 date: 2019-07-26 05:30
