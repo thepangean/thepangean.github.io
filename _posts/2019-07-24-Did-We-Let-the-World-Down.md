@@ -27,7 +27,7 @@ Ironically, the same song starts with the lines, “*It is kind of funny, how li
 
 
 
-One question: <em>how did everyone f*ck up everything?</em> A synopsis of the Arab Spring might be a good parallel to draw. There was a social movement for political change, optimism was sky-high, some progress was made, and just when all pieces of the puzzle seemed to be coming together, due to *someone’s* self-interest, everything went back to square one. That is where the world stands today: back to square one. It was much ado about nothing.
+One question: *how did everyone f\*ck up everything?* A synopsis of the Arab Spring might be a good parallel to draw. There was a social movement for political change, optimism was sky-high, some progress was made, and just when all pieces of the puzzle seemed to be coming together, due to *someone’s* self-interest, everything went back to square one. That is where the world stands today: back to square one. It was much ado about nothing.
 
 
 
