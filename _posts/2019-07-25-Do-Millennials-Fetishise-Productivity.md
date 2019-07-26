@@ -5,12 +5,12 @@ cover: productivity.jpg
 navigation: True
 title: "Do Millennials Fetishise Productivity?"
 date: 2019-07-25
-tags: society millennial
+tags: millennial society 
 class: post-template
 subclass: 'post tag-speeches'
 link: https://pixabay.com/es/illustrations/hombre-oficina-empresario-negocio-1633667/
 author: hrishita.sharma
---- 
+---
 There’s always that one favorite cousin in the family, who wakes up at 5 AM to meditate and revise the previous day’s lessons, pays attention during all lectures, is up to date with social media and is going to intern at Microsoft for the coming summer. And then, there’s every other Millennial.
 
 Millennials; who manage to sleep through eight alarms in a span of ten minutes, we are not eating healthy and we are definitely not performing well in college. But we are still quite there. Last I remember, we were thriving on self-deprivation, grinding through work and pulling off all-nighters just to submit that one assignment on time. We are most definitely not the ‘ungrateful, lazy, unambitious generation’.

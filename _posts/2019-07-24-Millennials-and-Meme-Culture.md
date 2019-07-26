@@ -5,7 +5,7 @@ cover: memes.jpg
 navigation: True
 title: "Millennials and Meme Culture"
 date: 2019-07-24
-tags: culture millennial
+tags: millennial culture 
 class: post-template
 subclass: 'post tag-speeches'
 link: https://www.needpix.com/photo/download/1410543/man-person-cell-smart-phone-cartoon-illustration-man-using-phone-cartoon-free-pictures
