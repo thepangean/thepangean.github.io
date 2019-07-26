@@ -8,7 +8,7 @@ title: "The Lived Experience Through The Lens of Pop Culture"
 author: pranav.manie
 cover: pending.png
 tags: millennial culture
-date: 2019-07-26 04:40
+date: 2019-07-26
 link: thepangean.com
 ---
 Pop culture was never meant to be therapeutic for the conscience. It was merely

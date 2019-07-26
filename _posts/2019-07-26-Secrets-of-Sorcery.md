@@ -8,7 +8,7 @@ title: "Secrets of Sorcery"
 author: oindrila.ghosh
 cover: Witches.jpg
 tags: society
-date: 2019-07-26 04:30
+date: 2019-07-26
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Witches%3B_five_silhouetted_figures._Wellcome_V0048920.jpg/640px-Witches%3B_five_silhouetted_figures._Wellcome_V0048920.jpg
 ---
 The mention of witchcraft is bound to conjure up some image in your mind. Now,
