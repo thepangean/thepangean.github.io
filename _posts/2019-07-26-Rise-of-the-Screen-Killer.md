@@ -7,7 +7,7 @@ class: post-template
 title: "Rise of the Screen Thriller"
 author: pranav.manie
 cover: social-media.jpeg
-tags: millennial culture
+tags: culture
 date: 2019-07-26
 link: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRl7k4v61uxSOj0EiLUUJCVkaNmlh6h5fiOlakUFrEubt19ehn
 ---
