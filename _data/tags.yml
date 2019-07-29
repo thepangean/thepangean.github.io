@@ -11,36 +11,53 @@ millennial:
   name: millennial
   title: Millennial Campaign
   hidden: True
+  campaign: True
 main:
   name: main
   title: Main
   hidden: True
+
 #VISIBLE
 culture:
   name: culture
   title: Culture
   description: False
   cover: False
+  section: True
 society:
   name: society
   title: Society
   description: False
   cover: False
+  section: True
 policy:
   name: policy
   title: Policy
   description: False
   cover: False
+  section: True
 economics:
   name: economics
   title: Economics
   description: False
   cover: False
+  section: True
 # conscience:
 #   name: conscience
 #   title: Conscience
 #   description: False
 #   cover: False
+#   section: True
+
+# COLUMNS
+Harshita:
+  name: Harshita
+  title: Harshita
+  description: This is Harshita's column.
+  cover: False
+  column: True
+
+# SPORTS
 sports:
   name: sports
   title: Sports
