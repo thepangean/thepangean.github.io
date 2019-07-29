@@ -200,7 +200,7 @@ body {
 ;}
 
 .site-logo {
-    max-height: 100px;
+    max-width: 300px;
 }
 
 .site-description {
@@ -224,7 +224,7 @@ body {
 
 @media (max-width: 700px){
   .site-logo {
-      max-height: 60px;
+      max-width: 130px;
   }
 }
 
