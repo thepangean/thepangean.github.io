@@ -1321,7 +1321,7 @@ Usage (In Ghost editor):
     padding: 6.5vw 7vw 7vw;
     border: color(var(--whitegrey) l(+2%)) 1px solid;
     text-align: center;
-    background: color(var(--whitegrey) l(+4%));
+    background: rgba(152, 194, 46, 0.2);
     border-radius: 7px;
 }
 
@@ -2000,7 +2000,7 @@ Usage (In Ghost editor):
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgba(0,25,40,0.97);
+    background: rgba(0,100,50,0.95);
     opacity: 0;
     transition: opacity 200ms ease-in;
     pointer-events: none;
