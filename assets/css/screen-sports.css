@@ -1613,7 +1613,7 @@ Usage (In Ghost editor):
 
 .read-next-card-content {
     position: relative;
-    z-index: 2
+    z-index: 2;
     flex-grow: 1;
     display: flex;
     font-size: 1.7rem;
