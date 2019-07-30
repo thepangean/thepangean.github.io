@@ -119,6 +119,23 @@
     </script>
     <script src="{{ site.baseurl }}assets/js/infinitescroll.js"></script> -->
     <!-- /endif -->
+    <script type="text/javascript">
+    var $form = $('form#subscribe'),
+    url = 'https://script.google.com/macros/s/AKfycbym3-K5CryLpVBsD5lqUI-io41S0z2TtHioGbTHo4AfHSQhdhE/exec'
+
+    $('#submit-form').on('click', function(e) {
+      e.preventDefault();
+      console.log("YO!");
+      var jqxhr = $.ajax({
+        url: url,
+        method: "GET",
+        dataType: "json",
+        data: $form.serializeObject()
+      }).success(
+        console.log("YAY!");
+      );
+    })
+    </script>
 
     {% if paginator.total_pages > site.paginate %}
     <script>
@@ -126,6 +143,7 @@
     </script>
     <script src="{{ site.baseurl }}assets/js/infinitescroll.js"></script>
     {% endif %}
+
 
 
     <!-- Add Google Analytics  -->

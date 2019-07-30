@@ -21,7 +21,7 @@ CNAME: thepangean.com #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
-subscribers: False
+subscribers: True
  # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
