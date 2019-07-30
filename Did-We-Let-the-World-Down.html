@@ -297,19 +297,24 @@ into the {body} of the default.hbs template -->
 
             <!-- Email subscribe form at the bottom of the page -->
             
-                <section class="subscribe-form">
-                    <h3 class="subscribe-form-title">Subscribe to The Pangean</h3>
-                    <p>Get the latest posts delivered right to your inbox</p>
-                    <form id="subscribe">
+                <section id="subscribe" class="subscribe-form">
+                    <div id="subscribe_overlay">
+                        <h3 class="subscribe-form-title">Subscribe to The Pangean</h3>
+                        <p>Get the latest posts delivered right to your inbox</p>
+                        <form id="form_subscribe">
     <!-- <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  /> -->
 
     <div class="form-group">
-        <input class="subscribe-email" type="text" name="email"  placeholder="youremail@example.com" />
+        <input id="form_email" class="subscribe-email" type="email" name="Email"  placeholder="youremail@example.com" required></input>
     </div>
-    <button id="submit-form" class="" type="submit" disabled><span>Subscribe</span></button>
+    <button id="form_submit" type="submit" value="Subscribe">Subscribe</button>
     <!-- <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script> -->
 </form>
 
+                    </div>
+                    <div id="subscribe_overlay-thanks" style="display:none">
+                        <h3 class="subscribe-form-title">Thank you for subscribing!</h3>
+                    </div>
                 </section>
             
 
@@ -435,7 +440,7 @@ into the {body} of the default.hbs template -->
                 The Pangean does not condemn or condone any of the views of its contributors. It only gives them the space to think and write without hindrance.
               </div>
             </footer>
-            
+
             
 
         </article>
@@ -1401,22 +1406,28 @@ into the {body} of the default.hbs template -->
     
         <div id="subscribe" class="subscribe-overlay">
             <a class="subscribe-overlay-close" href="#"></a>
-            <div class="subscribe-overlay-content">
+            <div id="subscribe_overlay" class="subscribe-overlay-content">
                 
-                    <img class="subscribe-overlay-logo" src="/assets/images/blog-icon.png" alt="The Pangean" />
+                    <!-- <img class="subscribe-overlay-logo" src="/assets/images/blog-icon.png" alt="The Pangean" /> -->
                 
                 <h1 class="subscribe-overlay-title">Subscribe to The Pangean</h1>
                 <p class="subscribe-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered straight to your inbox</p>
-                <form id="subscribe">
+                <form id="form_subscribe">
     <!-- <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  /> -->
 
     <div class="form-group">
-        <input class="subscribe-email" type="text" name="email"  placeholder="youremail@example.com" />
+        <input id="form_email" class="subscribe-email" type="email" name="Email"  placeholder="youremail@example.com" required></input>
     </div>
-    <button id="submit-form" class="" type="submit" disabled><span>Subscribe</span></button>
+    <button id="form_submit" type="submit" value="Subscribe">Subscribe</button>
     <!-- <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script> -->
 </form>
 
+            </div>
+            <div id="subscribe_overlay-thanks" class="subscribe-overlay-content" style="display:none">
+                
+                    <img class="subscribe-overlay-logo" src="/assets/images/blog-icon.png" alt="The Pangean" />
+                
+                <h1 class="subscribe-overlay-title">Thank you for subscribing!</h1>
             </div>
         </div>
     
@@ -1446,22 +1457,30 @@ into the {body} of the default.hbs template -->
     </script>
     <script src="/assets/js/infinitescroll.js"></script> -->
     <!-- /endif -->
-    <script type="text/javascript">
-    var $form = $('form#subscribe'),
-    url = 'https://script.google.com/macros/s/AKfycbym3-K5CryLpVBsD5lqUI-io41S0z2TtHioGbTHo4AfHSQhdhE/exec'
 
-    $('#submit-form').on('click', function(e) {
-      e.preventDefault();
-      console.log("YO!");
-      var jqxhr = $.ajax({
-        url: url,
-        method: "GET",
-        dataType: "json",
-        data: $form.serializeObject()
-      }).success(
-        console.log("YAY!");
-      );
-    })
+    <script type="text/javascript">
+
+      $('form#form_subscribe').on('submit', function(e) {
+        var $form = $(this);
+
+        if ($form.data('submitted') === true) {
+          e.preventDefault();
+        } else {
+          $form.data('submitted', true);
+          e.preventDefault();
+          var url = 'https://script.google.com/macros/s/AKfycbym3-K5CryLpVBsD5lqUI-io41S0z2TtHioGbTHo4AfHSQhdhE/exec';
+          var user_email = $('input#form_email').val();
+
+          $.get(url, { Email : user_email } , function(data){
+            if (data.result == "success") {
+              $("#subscribe_overlay").hide();
+              $("#subscribe_overlay-thanks").show();
+            }
+          });
+        }
+      });
+
+
     </script>
 
     

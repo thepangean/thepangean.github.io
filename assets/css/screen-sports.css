@@ -97,7 +97,7 @@ body {
 }
 
 .site-main {
-    z-index: 100;
+    z-index: 3;
     flex-grow: 1;
 }
 
@@ -165,7 +165,7 @@ body {
     right: 0;
     bottom: 0;
     left: 0;
-    z-index: 10;
+    z-index: 1;
     display: block;
     /* background: rgba(255,255,255,1); */
 }
@@ -177,7 +177,7 @@ body {
     right: 0;
     bottom: auto;
     left: 0;
-    z-index: 10;
+    z-index: 1;
     display: block;
     height: 80px;
     /* background: var(--white)*/ /* linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0)); */
@@ -200,7 +200,7 @@ body {
 }
 
 .site-title {
-    z-index: 10;
+    z-index: 1;
     margin: 0;
     padding: 0;
     font-size: 3.8rem;
@@ -214,7 +214,7 @@ body {
 }
 
 .site-description {
-    z-index: 10;
+    z-index: 1;
     margin: 0;
     padding: 5px 0;
     font-size: 2.2rem;
@@ -244,7 +244,7 @@ body {
 
 .site-nav {
     position: relative;
-    z-index: 300;
+    z-index: 4;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
@@ -822,7 +822,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 .post-full {
     position: relative;
-    z-index: 50;
+    z-index: 2;
 }
 /* ^ Required to make .post-full-content:before/after z-index stacking work */
 
@@ -1334,9 +1334,9 @@ Usage (In Ghost editor):
 .subscribe-form {
     margin: 1.5em 0;
     padding: 6.5vw 7vw 7vw;
-    border: color(var(--whitegrey) l(+2%)) 1px solid;
+    border: color(var(--darkgrey) l(+2%)) 1px solid;
     text-align: center;
-    background: color(var(--whitegrey) l(+4%));
+    background: rgba(152, 194, 46, 0.2);
     border-radius: 7px;
 }
 
@@ -1564,7 +1564,7 @@ Usage (In Ghost editor):
 
 .read-next-card-header {
     position: relative;
-    z-index: 50;
+    z-index: 2;
     padding-top: 20px;
     text-align: center;
 }
@@ -1613,7 +1613,7 @@ Usage (In Ghost editor):
 
 .read-next-card-content {
     position: relative;
-    z-index: 50;
+    z-index: 2
     flex-grow: 1;
     display: flex;
     font-size: 1.7rem;
@@ -1675,7 +1675,7 @@ Usage (In Ghost editor):
     top: 0;
     right: 0;
     left: 0;
-    z-index: 1000;
+    z-index: 5;
     display: flex;
     align-items: center;
     height: 60px;
@@ -1879,7 +1879,7 @@ Usage (In Ghost editor):
 /* ---------------------------------------------------------- */
 
 .site-header-content .author-profile-image {
-    z-index: 10;
+    z-index: 1;
     flex-shrink: 0;
     margin: 0 0 20px 0;
     width: 100px;
@@ -1888,7 +1888,7 @@ Usage (In Ghost editor):
 }
 
 .site-header-content .author-bio {
-    z-index: 10;
+    z-index: 1;
     flex-shrink: 0;
     margin: 5px 0 10px 0;
     max-width: 600px;
@@ -1902,7 +1902,7 @@ Usage (In Ghost editor):
 }
 
 .site-header-content .author-meta {
-    z-index: 10;
+    z-index: 1;
     flex-shrink: 0;
     display: flex;
     justify-content: center;
@@ -2008,11 +2008,11 @@ Usage (In Ghost editor):
     right: 0;
     bottom: 0;
     left: 0;
-    z-index: 9000;
+    z-index: 6;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgba(0,25,40,0.97);
+    background: rgba(0,100,50,0.95);
     opacity: 0;
     transition: opacity 200ms ease-in;
     pointer-events: none;
@@ -2027,7 +2027,7 @@ Usage (In Ghost editor):
 
 .subscribe-overlay-content {
     position: relative;
-    z-index: 9999;
+    z-index: 7;
     margin: 0 0 5vw 0;
     padding: 4vw;
     color: #fff;
