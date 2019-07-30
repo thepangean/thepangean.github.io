@@ -207,6 +207,8 @@ into the {body} of the default.hbs template -->
             
         </div>
         
+            <a class="subscribe-button" href="#subscribe">Subscribe</a>
+        
     </div>
 </nav>
 
@@ -299,6 +301,21 @@ behind the hills... Into Shadow.”</i>
             </section>
 
             <!-- Email subscribe form at the bottom of the page -->
+            
+                <section class="subscribe-form">
+                    <h3 class="subscribe-form-title">Subscribe to The Pangean</h3>
+                    <p>Get the latest posts delivered right to your inbox</p>
+                    <form id="subscribe">
+    <!-- <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  /> -->
+
+    <div class="form-group">
+        <input class="subscribe-email" type="text" name="email"  placeholder="youremail@example.com" />
+    </div>
+    <button id="submit-form" class="" type="submit" disabled><span>Subscribe</span></button>
+    <!-- <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script> -->
+</form>
+
+                </section>
             
 
             <footer class="post-full-footer">
@@ -1473,6 +1490,27 @@ behind the hills... Into Shadow.”</i>
 
     <!-- The big email subscribe modal content -->
     
+        <div id="subscribe" class="subscribe-overlay">
+            <a class="subscribe-overlay-close" href="#"></a>
+            <div class="subscribe-overlay-content">
+                
+                    <img class="subscribe-overlay-logo" src="/assets/images/blog-icon.png" alt="The Pangean" />
+                
+                <h1 class="subscribe-overlay-title">Subscribe to The Pangean</h1>
+                <p class="subscribe-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered straight to your inbox</p>
+                <form id="subscribe">
+    <!-- <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  /> -->
+
+    <div class="form-group">
+        <input class="subscribe-email" type="text" name="email"  placeholder="youremail@example.com" />
+    </div>
+    <button id="submit-form" class="" type="submit" disabled><span>Subscribe</span></button>
+    <!-- <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script> -->
+</form>
+
+            </div>
+        </div>
+    
 
     <!-- highlight.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
@@ -1499,8 +1537,26 @@ behind the hills... Into Shadow.”</i>
     </script>
     <script src="/assets/js/infinitescroll.js"></script> -->
     <!-- /endif -->
+    <script type="text/javascript">
+    var $form = $('form#subscribe'),
+    url = 'https://script.google.com/macros/s/AKfycbym3-K5CryLpVBsD5lqUI-io41S0z2TtHioGbTHo4AfHSQhdhE/exec'
+
+    $('#submit-form').on('click', function(e) {
+      e.preventDefault();
+      console.log("YO!");
+      var jqxhr = $.ajax({
+        url: url,
+        method: "GET",
+        dataType: "json",
+        data: $form.serializeObject()
+      }).success(
+        console.log("YAY!");
+      );
+    })
+    </script>
 
     
+
 
 
     <!-- Add Google Analytics  -->
