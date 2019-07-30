@@ -33,7 +33,7 @@ collections:
   - sports
 
 # Disqus
-disqus: True
+disqus: False
 disqus_shortname: the-pangean # replace with your disqus username
 
 # Google Analytics
