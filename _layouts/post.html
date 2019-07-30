@@ -64,20 +64,6 @@ into the {body} of the default.hbs template -->
                 </div>
             </section>
 
-            <!-- Email subscribe form at the bottom of the page -->
-            {% if site.subscribers %}
-                <section id="subscribe" class="subscribe-form">
-                    <div id="subscribe_overlay">
-                        <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
-                        <p>Get the latest posts delivered right to your inbox</p>
-                        {% include subscribe-form.html placeholder="youremail@example.com" %}
-                    </div>
-                    <div id="subscribe_overlay-thanks" style="display:none">
-                        <h3 class="subscribe-form-title">Thank you for subscribing!</h3>
-                    </div>
-                </section>
-            {% endif %}
-
             <footer class="post-full-footer">
                 <!-- Everything inside the #author tags pulls data from the author -->
                 <!-- #author-->
@@ -105,7 +91,19 @@ into the {body} of the default.hbs template -->
                 <!-- /author  -->
             </footer>
 
-
+            <!-- Email subscribe form at the bottom of the page -->
+            {% if site.subscribers %}
+                <section id="subscribe" class="subscribe-form">
+                    <div id="subscribe_overlay">
+                        <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
+                        <p>Get the latest posts delivered right to your inbox</p>
+                        {% include subscribe-form.html placeholder="youremail@example.com" %}
+                    </div>
+                    <div id="subscribe_overlay-thanks" style="display:none">
+                        <h3 class="subscribe-form-title">Thank you for subscribing!</h3>
+                    </div>
+                </section>
+            {% endif %}
 
             <footer class="post-full-footer">
               <div class="post-footnote">
