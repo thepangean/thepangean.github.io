@@ -83,13 +83,19 @@
     {% if site.subscribers %}
         <div id="subscribe" class="subscribe-overlay">
             <a class="subscribe-overlay-close" href="#"></a>
-            <div class="subscribe-overlay-content">
+            <div id="subscribe_overlay" class="subscribe-overlay-content">
                 {% if site.logo %}
                     <img class="subscribe-overlay-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" />
                 {% endif %}
                 <h1 class="subscribe-overlay-title">Subscribe to {{ site.title }}</h1>
                 <p class="subscribe-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered straight to your inbox</p>
                 {% include subscribe-form.html placeholder="youremail@example.com" %}
+            </div>
+            <div id="subscribe_overlay-thanks" class="subscribe-overlay-content" style="display:none">
+                {% if site.logo %}
+                    <img class="subscribe-overlay-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" />
+                {% endif %}
+                <h1 class="subscribe-overlay-title">Thank you for subscribing!</h1>
             </div>
         </div>
     {% endif %}
@@ -119,22 +125,30 @@
     </script>
     <script src="{{ site.baseurl }}assets/js/infinitescroll.js"></script> -->
     <!-- /endif -->
-    <script type="text/javascript">
-    var $form = $('form#subscribe'),
-    url = 'https://script.google.com/macros/s/AKfycbym3-K5CryLpVBsD5lqUI-io41S0z2TtHioGbTHo4AfHSQhdhE/exec'
 
-    $('#submit-form').on('click', function(e) {
-      e.preventDefault();
-      console.log("YO!");
-      var jqxhr = $.ajax({
-        url: url,
-        method: "GET",
-        dataType: "json",
-        data: $form.serializeObject()
-      }).success(
-        console.log("YAY!");
-      );
-    })
+    <script type="text/javascript">
+
+      $('form#form_subscribe').on('submit', function(e) {
+        var $form = $(this);
+
+        if ($form.data('submitted') === true) {
+          e.preventDefault();
+        } else {
+          $form.data('submitted', true);
+          e.preventDefault();
+          var url = 'https://script.google.com/macros/s/AKfycbym3-K5CryLpVBsD5lqUI-io41S0z2TtHioGbTHo4AfHSQhdhE/exec';
+          var user_email = $('input#form_email').val();
+
+          $.get(url, { Email : user_email } , function(data){
+            if (data.result == "success") {
+              $("#subscribe_overlay").hide();
+              $("#subscribe_overlay-thanks").show();
+            }
+          });
+        }
+      });
+
+
     </script>
 
     {% if paginator.total_pages > site.paginate %}

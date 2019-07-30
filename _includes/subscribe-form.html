@@ -1,9 +1,9 @@
-<form id="subscribe">
+<form id="form_subscribe">
     <!-- <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  /> -->
 
     <div class="form-group">
-        <input class="subscribe-email" type="text" name="email"  placeholder="youremail@example.com" />
+        <input id="form_email" class="subscribe-email" type="email" name="Email"  placeholder="youremail@example.com" required></input>
     </div>
-    <button id="submit-form" class="" type="submit" {% unless site.subscribe %}disabled{% endunless %}><span>Subscribe</span></button>
+    <button id="form_submit" type="submit" value="Subscribe">Subscribe</button>
     <!-- <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script> -->
 </form>
