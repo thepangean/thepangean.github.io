@@ -25,6 +25,9 @@
         </article>
     {% endif %}
 {% endfor %}
+
+{% if counter > 0 %}
 <div class="see-more">
   <a href="{{site.baseurl}}tag/{{ section_select }}">More...</a>
 </div>
+{% endif %}

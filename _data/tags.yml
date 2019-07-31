@@ -50,8 +50,8 @@ economics:
 #   section: True
 
 # COLUMNS
-Harshita:
-  name: Harshita
+harshita:
+  name: harshita
   title: Harshita
   description: This is Harshita's column.
   cover: False

@@ -34,6 +34,28 @@ logo: 'assets/images/logo.png'
 
 <br>
 <br>
+
+{% if site.data.tags[page.tag].column %}
+
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+
+      {% assign section_select = page.tag %}
+
+      <div class="post-feed-main">
+          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+          {%  include post-card-main.html %}
+      </div>
+
+      <div class="post-feed-column">
+          {% include post-card-column-columnist.html %}
+      </div>
+
+    </div>
+</main>
+
+{% endif %}
+
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">

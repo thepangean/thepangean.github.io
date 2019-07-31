@@ -1,0 +1,29 @@
+{% assign counter = 0 %}
+{% for post in site.posts %}
+    {% if post.tags contains site.data.tags[section_select].name and counter < 5 %}
+        {% assign counter = counter | plus:1 %}
+        {% if counter > 1 %}
+          <article class="post-card-column {{ page.class }} no-image">
+            <div class="post-card-content">
+              <a class="post-card-content-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+                <header class="post-card-header">
+                  {% if post.tags.size > 0 %}
+                  {% for tag in post.tags %}
+                  {% unless site.data.tags[tag].hidden %}
+                  <span class="post-card-tags">{{ tag | capitalize }}</span>
+                  {% endunless %}
+                  {% endfor %}
+                  {% endif %}
+
+                  <h2 class="post-card-title-column">{{ post.title }}</h2>
+                </header>
+
+              </a>
+              <footer class="post-card-meta">
+                {% include multiple-authors.html %}
+              </footer>
+            </div>
+          </article>
+        {% endif %}
+    {% endif %}
+{% endfor %}
