@@ -2,7 +2,7 @@
 {% for post in site.posts %}
     {% if post.tags contains site.data.tags[section_select].name and post.tags contains site.data.tags.featured.name %}
         {% assign counter = counter | plus:1 %}
-        {% if counter < 5 %}
+        {% if counter < 8 %}
           <article class="post-card-column {{ page.class }} no-image">
             <div class="post-card-content">
               <a class="post-card-content-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
@@ -19,9 +19,12 @@
                 </header>
 
               </a>
-              <footer class="post-card-meta">
-                {% include multiple-authors.html %}
-              </footer>
+              {% assign author_array = site.data.tags[page.tag].author | split: " "  %}
+              {% unless author_array.size == 1 %}
+                  <footer class="post-card-meta">
+                    {% include multiple-authors.html %}
+                  </footer>
+              {% endunless %}
             </div>
           </article>
         {% endif %}

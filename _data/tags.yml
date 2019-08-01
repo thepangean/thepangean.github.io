@@ -56,10 +56,11 @@ economics:
 # COLUMNS
 test:
   name: test
-  title: Test
-  description: This is a test column.
+  title: Column Title
+  description: This is the column description.
   cover: False
   column: True
+  author: kheeran.naidu
   hidden: True
 
 # SPORTS

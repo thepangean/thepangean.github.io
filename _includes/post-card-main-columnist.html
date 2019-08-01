@@ -31,9 +31,12 @@
                     <!-- <p>{{ post.content | strip_html | truncatewords: 150, "" }}...</p> -->
                   </section>
                 </a>
-                <footer class="post-card-meta">
-                  {% include multiple-authors.html %}
-                </footer>
+                {% assign author_array = site.data.tags[page.tag].author | split: " "  %}
+                {% unless author_array.size == 1 %}
+                    <footer class="post-card-meta">
+                      {% include multiple-authors.html %}
+                    </footer>
+                {% endunless %}
               </div>
             </article>
         {% endif %}
