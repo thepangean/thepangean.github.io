@@ -45,10 +45,12 @@ logo: 'assets/images/logo.png'
 
       <div class="post-feed-main">
           <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card-main.html %}
+          {%  include post-card-main-columnist.html %}
       </div>
 
-      <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2> </h2></a>
+      <div class="title-column">
+          <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>Featured</h2></a>
+      </div>
 
       <div class="post-feed-column">
           {% include post-card-column-columnist.html %}
@@ -62,6 +64,11 @@ logo: 'assets/images/logo.png'
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
+        {% if site.data.tags[page.tag].column %}
+            <div class="title">
+              <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2>Latest</h2></a>
+            </div>
+        {% endif %}
         <div class="post-feed" style="width:100%">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             {%  include post-card.html %}

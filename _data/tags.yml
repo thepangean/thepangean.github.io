@@ -16,6 +16,10 @@ main:
   name: main
   title: Main
   hidden: True
+featured:
+  name: featured
+  title: Featured
+  hidden: True
 
 #VISIBLE
 culture:

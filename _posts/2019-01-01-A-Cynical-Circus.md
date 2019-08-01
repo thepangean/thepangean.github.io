@@ -5,7 +5,7 @@ cover: TheGreatestShowman.jpg
 navigation: True
 title: A Cynical Circus
 date: 2019-01-01
-tags: test culture
+tags: test featured culture
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/3/30/The_Greatest_Showman_Japan_Premiere_Red_Carpet-_Hugh_Jackman_%2838435517950%29.jpg

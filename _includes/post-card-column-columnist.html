@@ -1,8 +1,8 @@
 {% assign counter = 0 %}
 {% for post in site.posts %}
-    {% if post.tags contains site.data.tags[section_select].name and counter < 5 %}
+    {% if post.tags contains site.data.tags[section_select].name and post.tags contains site.data.tags.featured.name %}
         {% assign counter = counter | plus:1 %}
-        {% if counter > 1 %}
+        {% if counter < 5 %}
           <article class="post-card-column {{ page.class }} no-image">
             <div class="post-card-content">
               <a class="post-card-content-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">

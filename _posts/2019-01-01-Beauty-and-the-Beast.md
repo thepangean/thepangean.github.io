@@ -4,7 +4,7 @@ current: post
 cover: Indian_Woman_with_bindi.jpg
 navigation: True
 title: Beauty and the Beast
-date: 2018-01-01
+date: 2019-01-01
 tags: test society
 class: post-template
 subclass: 'post tag-speeches'
