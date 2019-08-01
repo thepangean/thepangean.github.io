@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/featured/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-08-01T11:34:46+00:00</updated>
+  <updated>2019-08-01T12:48:58+00:00</updated>
   <id>/tag/featured/feed.xml</id>
 
   
@@ -418,6 +418,81 @@
 
       
         <summary type="html">Greatest Showman Betrays Barnum’s Legacy</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Test</title>
+      <link href="/test" rel="alternate" type="text/html" title="Test" />
+      <published>2018-01-01T00:00:00+00:00</published>
+      <updated>2018-01-01T00:00:00+00:00</updated>
+      <id>/test</id>
+      <content type="html" xml:base="/test">&lt;p&gt;This is test page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="test" />
+      
+        <category term="featured" />
+      
+
+      
+        <summary type="html">This is test page</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Caption Image</title>
+      <link href="/photo-caption" rel="alternate" type="text/html" title="Caption Image" />
+      <published>2018-01-01T00:00:00+00:00</published>
+      <updated>2018-01-01T00:00:00+00:00</updated>
+      <id>/photo-caption</id>
+      <content type="html" xml:base="/photo-caption">&lt;div class=&quot;caption&quot; style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot;&gt;&lt;img src=&quot;assets/images//Mario-Draghi.jpg&quot; style=&quot;width:100%&quot; /&gt;&lt;/a&gt;&lt;b&gt;Country:&lt;/b&gt; Italy &lt;br /&gt;
+&lt;b&gt;Education:&lt;/b&gt; La Sapienza University, Massachusetts Institute of Technology&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="sports" />
+      
+        <category term="test" />
+      
+        <category term="featured" />
+      
+
+      
+        <summary type="html">Country: Italy Education: La Sapienza University, Massachusetts Institute of Technology</summary>
       
 
       
