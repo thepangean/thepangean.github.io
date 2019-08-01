@@ -50,10 +50,10 @@ economics:
 #   section: True
 
 # COLUMNS
-harshita:
-  name: harshita
-  title: Harshita
-  description: This is Harshita's column.
+test:
+  name: test
+  title: Test
+  description: This is a test column.
   cover: False
   column: True
   hidden: True

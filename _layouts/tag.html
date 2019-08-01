@@ -32,9 +32,6 @@ logo: 'assets/images/logo.png'
     </div>
 </main>
 
-<br>
-<br>
-
 {% if site.data.tags[page.tag].column %}
 
 <main id="site-main" class="site-main outer" role="main">
@@ -42,10 +39,16 @@ logo: 'assets/images/logo.png'
 
       {% assign section_select = page.tag %}
 
+      <div class="site-header-content" style="padding: 4vw 2vw; min-height: 100px; max-height: 450px;">
+        <h2 class="author-bio">{{ site.data.tags[page.tag].description }}</h2>
+      </div>
+
       <div class="post-feed-main">
           <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
           {%  include post-card-main.html %}
       </div>
+
+      <a href="{{site.baseurl}}tag/{{ section_select }}" style="color:#15171A"><h2> </h2></a>
 
       <div class="post-feed-column">
           {% include post-card-column-columnist.html %}

@@ -5,12 +5,12 @@ navigation: True
 class: post-template
 
 title: "Caption Image"
-author: img
-cover: False
-tags: sports
+author: kheeran.naidu
+cover: pending.png
+tags: sports test
 pic1: Mario-Draghi.jpg
-date: 2019-06-04 21:22
-link:
+date: 2018-01-01
+link: /
 ---
 
 <div class="caption" style="text-align: left"><a href="javascript:void(0)" ><img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}" style="width:100%"/></a><b>Country:</b> Italy <br>
