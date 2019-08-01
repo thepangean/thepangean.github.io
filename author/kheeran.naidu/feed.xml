@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/kheeran.naidu/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-07-31T23:26:47+00:00</updated>
+  <updated>2019-08-01T11:04:23+00:00</updated>
   <id>/author/kheeran.naidu/feed.xml</id>
 
   
@@ -120,5 +120,218 @@
   
   
 
+  
+    <entry>
+      <title type="html">Caption Image</title>
+      <link href="/photo-caption" rel="alternate" type="text/html" title="Caption Image" />
+      <published>2018-01-01T00:00:00+00:00</published>
+      <updated>2018-01-01T00:00:00+00:00</updated>
+      <id>/photo-caption</id>
+      <content type="html" xml:base="/photo-caption">&lt;div class=&quot;caption&quot; style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot;&gt;&lt;img src=&quot;assets/images//Mario-Draghi.jpg&quot; style=&quot;width:100%&quot; /&gt;&lt;/a&gt;&lt;b&gt;Country:&lt;/b&gt; Italy &lt;br /&gt;
+&lt;b&gt;Education:&lt;/b&gt; La Sapienza University, Massachusetts Institute of Technology&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="sports" />
+      
+        <category term="test" />
+      
+
+      
+        <summary type="html">Country: Italy Education: La Sapienza University, Massachusetts Institute of Technology</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Table</title>
+      <link href="/table" rel="alternate" type="text/html" title="Table" />
+      <published>2018-01-01T00:00:00+00:00</published>
+      <updated>2018-01-01T00:00:00+00:00</updated>
+      <id>/table</id>
+      <content type="html" xml:base="/table">&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Manager&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;UEFA Champions League Finals &lt;span style=&quot;color:green&quot;&gt;win&lt;/span&gt;/&lt;span style=&quot;color:red&quot;&gt;loss&lt;/span&gt; record (year)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;CL semi-finals reached&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;CL quarter-finals reached&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;Number of seasons managed in CL&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;CL win percentage (%)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Luis Enrique&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;1-0 (&lt;span style=&quot;color:green&quot;&gt;15&lt;/span&gt;)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;3&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;3&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;73&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Jupp Heynckes&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;2 -1 (&lt;span style=&quot;color:green&quot;&gt;98&lt;/span&gt;, &lt;span style=&quot;color:red&quot;&gt;12&lt;/span&gt;, &lt;span style=&quot;color:green&quot;&gt;13&lt;/span&gt;) &lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;4&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;4&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;4&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;70&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Zinedine Zidane&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;3-0 (&lt;span style=&quot;color:green&quot;&gt;16&lt;/span&gt;, &lt;span style=&quot;color:green&quot;&gt;17&lt;/span&gt;, &lt;span style=&quot;color:green&quot;&gt;18&lt;/span&gt;)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;3&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;3&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;4&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;70&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Pep Guardiola&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;2-0 (&lt;span style=&quot;color:green&quot;&gt;09&lt;/span&gt;, &lt;span style=&quot;color:green&quot;&gt;11&lt;/span&gt;)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;7&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;9&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;10&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;61&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Louis Van Gaal&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;1-2 (&lt;span style=&quot;color:green&quot;&gt;95&lt;/span&gt;, &lt;span style=&quot;color:red&quot;&gt;96&lt;/span&gt;, 10)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;5&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;6&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;10&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;60&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Diego Simeone&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;0-2 (&lt;span style=&quot;color:red&quot;&gt;14&lt;/span&gt;, &lt;span style=&quot;color:red&quot;&gt;16&lt;/span&gt;)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;3&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;4&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;6&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;56&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Carlo Ancelotti&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;3-1 (&lt;span style=&quot;color:green&quot;&gt;03&lt;/span&gt;, &lt;span style=&quot;color:red&quot;&gt;05&lt;/span&gt;, &lt;span style=&quot;color:green&quot;&gt;07&lt;/span&gt;, &lt;span style=&quot;color:green&quot;&gt;14&lt;/span&gt;)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;8&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;12&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;17&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;55&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Sir Alex Ferguson&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;2-2 (&lt;span style=&quot;color:green&quot;&gt;99&lt;/span&gt;, &lt;span style=&quot;color:green&quot;&gt;08&lt;/span&gt;, &lt;span style=&quot;color:red&quot;&gt;09&lt;/span&gt;, &lt;span style=&quot;color:green&quot;&gt;11&lt;/span&gt;)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;7&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;12&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;19&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;54&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;José Mourinho&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;2-0 (&lt;span style=&quot;color:green&quot;&gt;04&lt;/span&gt;, &lt;span style=&quot;color:green&quot;&gt;10&lt;/span&gt;)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;8&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;8&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;16&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;53&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Jürgen Klopp&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;0-2 (&lt;span style=&quot;color:green&quot;&gt;13&lt;/span&gt;, &lt;span style=&quot;color:green&quot;&gt;18&lt;/span&gt;)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;3*&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;4&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;6&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;51&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Arsène Wenger&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;0-1 (&lt;span style=&quot;color:green&quot;&gt;06&lt;/span&gt;)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;3&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;7&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;20&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;47&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="test" />
+      
+
+      
+        <summary type="html">Manager UEFA Champions League Finals win/loss record (year) CL semi-finals reached CL quarter-finals reached Number of seasons managed in CL CL win percentage (%)</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Test</title>
+      <link href="/test" rel="alternate" type="text/html" title="Test" />
+      <published>2018-01-01T00:00:00+00:00</published>
+      <updated>2018-01-01T00:00:00+00:00</updated>
+      <id>/test</id>
+      <content type="html" xml:base="/test">&lt;p&gt;This is test page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="test" />
+      
+
+      
+        <summary type="html">This is test page</summary>
+      
+
+      
+      
+    </entry>
   
 </feed>
