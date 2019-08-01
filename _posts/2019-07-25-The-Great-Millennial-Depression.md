@@ -47,7 +47,7 @@ People have asked these for long and today, Millennials are convinced that nothi
 
 
 
-If you think I am right, well then, congratulations, you are a nihilist. It is highly likely that you are a Millennial too. Turns out, the term nihilism has a very simple meaning. It is the rejection of all religious and moral principles. Nihilists believe that life has absolutely no meaning and yet humans keep seeking a way to give it some meaning, some purpose, but eventually die and are forgotten. In Tyler Durden’s *immortal* words: “We are the middle children of history, man. No purpose or place. We have no Great War, No Great Depression. Our Great War’s a spiritual war… Our Great Depression is our Lives.” Nihilism is hot today. The great success of Bojack Horseman, Rick and Morty, Hazel’s response to Augustus’ confession of the fear of oblivion and so on bear testimony to this very fact.
+If you think I am right, well then, congratulations, you are a nihilist. It is highly likely that you are a Millennial too. Turns out, the term nihilism has a very simple meaning. It is the rejection of all religious and moral principles. Nihilists believe that life has absolutely no meaning and yet humans keep seeking a way to give it some meaning, some purpose, but eventually die and are forgotten. In Tyler Durden’s *immortal* words: “We are the middle children of history, man. No purpose or place. We have no Great War, No Great Depression. Our Great War’s a spiritual war… Our Great Depression is our Lives.” Nihilism is hot today. The great success of *BoJack Horseman, Rick and Morty, Hazel’s response to Augustus’ confession of the fear of oblivion* and so on bear testimony to this very fact.
 
 
 
