@@ -11,6 +11,7 @@ tags: culture
 date: 2019-08-02 23:45
 link: https://pmcvariety.files.wordpress.com/2017/05/hermione-harry-potter.jpg
 ---
+
 Raise your hand if you remember the *Frozen* fever that gripped Hollywood - and
 pretty much the rest of the world too - in the fall of 2013. If you remember the
 glittering reviews and the innumerable times ‘*shattered the glass ceiling*’,

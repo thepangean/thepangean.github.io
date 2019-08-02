@@ -11,6 +11,7 @@ tags: economics
 date: 2019-08-02 23:50
 link: https://www.artrabbit.com/events/fisher-capitalist-realism
 ---
+
 The Mayan calendar had prophesied that the world would end in 2012. Various
 scientists have predicted that life on Earth will end after an asteroid hits the
 planet. All these forecasts seem more or less acceptable to the general
