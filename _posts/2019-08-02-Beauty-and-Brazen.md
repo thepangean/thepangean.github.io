@@ -4,128 +4,106 @@ current: post
 navigation: True
 class: post-template
 
-title: "Beauty And Brazen: The World Of Berserk"
-author: udayon.sen
-cover: Berserk_2016_anime_key_art.jpg
-tags: culture
-date: 2019-08-02 23:40
-link: "https://upload.wikimedia.org/wikipedia/en/3/33/Berserk_2016_anime_key_art.jpg"
+title: "Only I Exist"
+author: namya.tewari
+cover: solipsism.jpg
+tags: society
+date: 2019-08-01 11:45
+link: https://www.flickr.com/photos/marieswartz/3369400712
 ---
+Questions have been the very heart and soul of philosophy and, unlike any other
+discipline, it has raised more questions than it has answered. The dire
+intellectual need to discern the abstract, in the form of reality and truth,
+consumes all thinkers alike. They all seek answers that spring from an objective
+source to bring an end to the seemingly perpetual quest for knowledge. However,
+it is not that simple. Philosophy, over the years, has gotten mired down in
+countless irrefutable hypotheses, thriving on the body of possibilities and
+reason. This is especially true of metaphysical discussions, which have resulted
+in the blossoming of unconventional, at times, bizarre theories to explain
+reality.
 
-"No matter how strong, for a human to fight a monster means he has submerged his
-humanity and transformed himself into a greater monster." – Schierke in
-*Berserk.*
+What is *real*? One way to grasp reality amounts to the way you understand the
+world external to you. But what if that understanding is faulty? Take, for
+instance, the understanding of the earth as a flat disc. Today we can ‘claim to
+know’ that the earth is spherical, yet in those times the supposed axiom of the
+earth being flat was the foundational truth on which the early peoples developed
+an understanding of other concepts and ideas. This is disconcerting, because
+there’s a pretty high possibility of us assuming a false belief as an
+irrefutable fact, because although there are proofs to make claims, science per
+se isn’t perfect, just workable. 
 
-Friedrich Nietzsche was a philosopher who was well beyond the comprehension of
-other philosophers of his time or even those of modern times. He had, to say the
-least, an interesting childhood, which transformed him into what he was as an
-adult, and also metamorphosed him into a lunatic during the later stages of his
-life. His biography largely signifies what it is to be a human dangerously close
-to the **Truth** and yet so far away. This is what makes his works all the more
-interesting and true gems in the realm of literary masterpieces. Little did he
-know how much he was going to inspire a certain mangaka named Kentaro Miura to
-script a saga. This saga is Miura’s visualisation of the struggle Nietzsche
-refers to as the journey of a man to defy his limits and be, what he considered
-to be, the future of humanity, *Ubermensch*, roughly translated to 'Over Man'.
-Thus begins the journey of *Berserk* and its protagonist, the most bad\*rse
-anime/manga character in history, *Guts*.
+Let us now go even further to understand the concept of matter that we *assume*
+to be real. As Bertrand Russell discussed in his *Problems of Philosophy*,
+whatever we perceive is the mere appearance of an object, as opposed to its
+reality. The surface of an apple that is seen with the naked eye is very
+different when viewed under the microscope, its colour varies with the changing
+source of light too. In short, what your perception leads you into believing is
+real is actually nothing but the appearance of the apple, in varying degrees of
+magnification. If this is the case, then the existence of the apple becomes
+questionable. Does an *actual* apple exist at all? 
 
-*Berserk* is a story which encompasses the journey of an individual, against the
-very flow of his fate. Causality plays an integral part in the tale. The story
-is clear on how a man is bound by his fate and whether he likes it or not, fate
-*will* overtake him and he *will* be entwined with his future, with what is
-already pre-decided for him. It is a brutal reminder that our free will is not
-always free.
+For some, it does not. A philosopher named Bishop Berkeley, for instance, argued
+in favour of *immaterialism* – that rather than being a form of matter, an apple
+in actuality is the amalgamation of several qualities which cannot exist
+independent of the mind. You can test this, try defining an apple devoid of its
+qualities and properties. It is almost impossible to do so. So are the qualities
+(of the objects) that we perceive in the universe, are they created by our
+imagination or do they exist as a comprehensive whole contained in an underlying
+substratum called matter? This is the starting point of the idea of ‘solipsism.’
 
-Nietzsche was a sceptic about causality and his views are well illustrated in
-*Twilight of the Idols*, where he referred to causality as the cause of
-humankind’s general inability to accept the unknown. Humans are always yearning
-to explain the 'logic and reason' behind events. Nietzsche calls this the cause
-behind ‘The Four Great Errors’; arguing that causes are reimagined in order to
-support the reason for our existence. Nietzsche denied in *Twilight* that free
-will is free at all and rather argued that it is a method by which theologians
-exert their control over humanity. The invention of a human free will, Nietzsche
-thought, was rooted in a human drive to punish and judge.
+Solipsism revolves around the idea that only I exist and weave the fabric of my
+reality. The *certainty* I can ascribe to my experience is limited to my *own*
+existence and thoughts, everything else in this world, including the existence
+of this article, is doubtable. This may seem very absurd to hear, at first, but
+it's a possibility that is hard to deny.
 
-*Berserk* challenges the very concept of faith or judgement through a
-protagonist who faces the vicious current of fate and still goes on defying it,
-at every turn. Guts was born from the corpse of his dead mother, who had been
-hanged. He was found by a mercenary and his wife, who then took care of him.
-When his adoptive mother passes away, his adoptive father tries to kill him.
-Guts is forced to escape the mercenary camp and the only family he has known, to
-survive in the wild.
+The empirical experiences one goes through forms an essential part of their own
+subjective reality. One can, in no way validate the experience of anybody else
+(egocentric predicament). One’s understanding of the apple is theirs alone and
+cannot be grasped by anyone else. The comprehension of all that is external to
+their consciousness is beyond their ability.
 
-Ironic though it may be, our protagonist, Guts ends up joining another mercenary
-group that was under the leadership of a charming leader called Griffith. He
-falls in love with a female soldier named Casca. Several events take place, and
-the 'causality' of events ultimately leads to a betrayal, whereby Griffith
-sacrifices all the members of his group in order to gain power.
+Thus, your thoughts and ideas are the only undisputed and obvious entities that
+exist. This is to say that all humans have their own psychological conceptions
+whose understanding is forbidden to others. And so, we cannot be certain of the
+independent existence of other bodies and minds.
 
-The sacrificial event, commonly referred to as *Eclipse*, is a momentous image
-of Nietzsche’s views on human struggle. Guts helplessly watches his comrades get
-killed and devoured by monsters and is forced to watch the love of his life get
-violated by the same person he once considered to be his friend, Griffith. He
-does eventually find his way out of the situation but not without sustaining
-several scars of his own.
+The theory of solipsism has subtly remained embedded in other philosophical
+ideas. One such idea was propounded by Rene Descartes’ principle of “*Cogito,
+ergo sum*” (I think, therefore I am). Descartes was convinced that he was being
+deceived, by an evil genius, into believing some essentially flawed concepts as
+true. Maintaining that every thought is dubitable, he cleansed his mind of all
+distortions and came up with the most irrefutable, indubitable truth (as the
+basic frame of reference to understand all the other truths)- “I think therefore
+I am.” 
 
-Guts’ story is a struggle of achieving the unimaginable. Nietzsche in, arguably
-his most interesting piece of work, *Thus Spoke Zarathustra* introduced the
-concept of the ‘Overman’. He discusses how we are spiritually and
-philosophically entwined with the struggles of our mind and overcoming them is
-an integral part of one’s journey. He discusses man’s journey in three steps:
-The Camel, The Lion and The Child.
+Solipsism takes this idea of *Cogito* way too seriously. Nothing but the mind is
+true for the solipsist. While Descartes did believe in rationality and
+mathematics as a means to search for truth, for the solipsist (metaphysically
+and epistemologically) such conceptions are your own inventions, something you
+make up in your head, bereft of any independent existence (here your
+consciousness shall assume the place of Descartes’ demon). One can understand it
+as a perpetual state of hallucination, characterised by vivid details. If you
+are a solipsist, then whatever you experience, this article, your friends,
+family, nature, all the coolest things in the world are actually an invention of
+your own! An understanding of the world devoid of the ego is impossible.
 
-The Camel is the first step of one’s journey. The Camel yearns to gain the
-knowledge of the *Dragon* (the essence of the ultimate knowledge) and therefore
-listens to whatever everyone says and acts on it, without listening to himself.
-As Guts put it himself, “One who does something he hates just because he is told
-to...is called an errand boy.” This is the nature of the Camel.
+However fascinating it may sound, solipsism has some dire outcomes, when
+accepted as a lifestyle choice. It possesses the potential to throw the world
+into utter chaos. Since everything that one sees around them is a creation of
+their imagination, they would have all the power of calling the shots and
+asserting their dominance over the entire world around them. Morality and ethics
+would lose their credibility and an individual’s will would determine the fate
+of all that is around them. Or else, it could make a person abnegate everything,
+despairing about the loneliness they experience every second of their existence,
+since they have no proof of the existence of any other. Either way, solipsism
+could inflict more harm than good.
 
-When the Camel finally sees how futile it is to lose one’s own will to others’
-demands and begins to challenge himself is when the transformation to become a
-Lion takes place. The Lion is a symbol of aggression and rage against the system
-in order to challenge the themes which are generally considered rightful. The
-Lion challenges concepts of right and wrong and is a passive aggressor, most of
-the time presenting his views against the system, whilst remaining within the
-system himself.
-
-That is until the final transition to being a Child takes place. According to
-Nietzsche, this is the final transition, when the Lion transcends into a being
-who is above the constraints of society, and is therefore powerful enough to
-struggle and overcome. I believe this is how Kentaro Miura too visualises Guts’
-transition, whose change from a person who fought for no reason and wanted to
-integrate with society to someone who is ready to challenge everyone else who
-defies his goal, which is to protect the person closest to him. Guts is the very
-epitome of the Overman.
-
-A very interesting philosophy of Nietzsche is presented in the dynamics of the
-Higher Man and the Common. According to Nietzsche, all company is bad company,
-unless it is the company of the equal. Nietzsche stressed on the philosophy of a
-society being divided into two parts; the Higher Man and the Common Man.
-Nietzsche says that it is very difficult for either of them to understand the
-other, however, the Common Man places his trust in the Higher Man as a part of
-this ambition. *Berserk*, in the same manner, brings about the reference of
-Higher Man, which is Griffith. The men, who are led by Griffith, do not
-understand him completely and Griffith, in the same manner, does not understand
-the wants of his own men. The only thing that mattered was Griffith’s goal, the
-light of which is "strong enough for every one of them to bring together all
-their goals and dreams as one."
-
-Nietzsche once said, “There have been two great narcotics in the history of
-Europe. Christianity and Alcohol.” He saw religion as a restriction to
-resentment and envy, which he believed to be the driving source of one’s true
-goals in life. He saw religion as a way for Common Men to cling to their beliefs
-and demonise and ostracise whatever they could not gain. This symbolism has been
-highlighted in *Berserk*, where we are informed of the existence of a
-monotheistic religion, termed as the *Holy See*, whose ideals bear similarity to
-Christianity. The greatest proponents of the Holy See were hideous creatures who
-could go to any lengths in order to protect their faith (duh much). Kentaro
-Miura, yet again, portrays the meanings of resentment and struggling against all
-odds, through Guts.
-
-*Berserk* has given us a character whom we all can understand, someone who is
-all too human; made up of faults like the rest of us, truly embodying the spirit
-of a fighter. *Berserk*, in its own uncanny ways, could be discussed and
-deliberated upon as a testament of Nietzsche’s greatest influences, all compiled
-under a single saga: a struggle of one who is always destined to be the ‘Higher
-Man’, despite not being from the nobility. 
+Difficult to refute, solipsism continues to haunt the imagination of humankind.
+However, rejecting the theory altogether wouldn’t be right either, given the
+crucial questions it raises on reality and the foundations of epistemological
+speculations. The question of solipsism has stirred minds and propelled
+philosophy from a state of certainty to that of unpredictability, thereby adding
+profundity and beauty to the subject. And as long as such ingenious thoughts
+continue to flow in the body of philosophy, the answer to this problem, along
+with all problems, I believe, is not too far away.
