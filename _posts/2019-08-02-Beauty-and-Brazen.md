@@ -9,7 +9,7 @@ author: udayon.sen
 cover: Berserk_2016_anime_key_art.jpg
 tags: culture
 date: 2019-08-02 23:40
-link: https://upload.wikimedia.org/wikipedia/en/3/33/Berserk_2016_anime_key_art.jpg
+link: "https://upload.wikimedia.org/wikipedia/en/3/33/Berserk_2016_anime_key_art.jpg"
 ---
 
 "No matter how strong, for a human to fight a monster means he has submerged his
