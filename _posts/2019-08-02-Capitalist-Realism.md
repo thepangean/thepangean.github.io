@@ -9,7 +9,7 @@ author: aanandi.arjun
 cover: capitalist-realism.jpg
 tags: economics
 date: 2019-08-02
-link: https://www.artrabbit.com/events/fisher-capitalist-realism
+link: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Signac_-_Portrait_de_F%C3%A9lix_F%C3%A9n%C3%A9on.jpg/962px-Signac_-_Portrait_de_F%C3%A9lix_F%C3%A9n%C3%A9on.jpg
 ---
 
 The Mayan calendar had prophesied that the world would end in 2012. Various
