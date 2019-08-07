@@ -30,8 +30,7 @@ irreplaceable to us and has killed any sort of hope for a new system to take its
 place. The narrative says that though we may not live in a condition of perfect
 ‘Goodness’, we must be grateful that we are saved from the ultimate ‘Evil’. 
 
-Capitalism is vehement in the criticism of any alternatives that may be present
-- while things may not be ideal, the alternatives are much worse. Here, it draws
+Capitalism is vehement in the criticism of any alternatives that may be present - while things may not be ideal, the alternatives are much worse. Here, it draws
 power by painting contrasts between democracies and dictatorships, between civil
 liberties and stark inequality - where one is shown to be a lesser evil, even if
 reality may speak differently. The bombing of thousands of innocents in Syria is
