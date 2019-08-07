@@ -15,7 +15,7 @@ The first of The Pangean's *pubcasts* is with [Dr Miranda Mowbray](https://www.l
 
 In this podcast, [Harsh Tiwari](https://thepangean.com/author/harsh.tiwari/) and [Reuben Pritchard](https://thepangean.com/author/reuben.pritchard/) sit down with Dr Miranda Mowbray and, over lunch and a couple of pints, discuss some pressing matters surrounding the age of technology. Listen below to part 1 of the full uncut recording or skip ahead to the following topics of interest:
 
-0. *Introduction* (<a href="javascript:void(0)" onclick="setTime(0)">00:00</a>),
+0. *Introduction* (<a href="javascript:void(0)" onclick="setTime(0)">00:0 0</a>),
 1. *Technology as a replacement for human interaction* (<a href="javascript:void(0)" onclick="setTime(40)">00:40</a>),
 2. *Technology in the army and the workplace* (<a href="javascript:void(0)" onclick="setTime(1183)">19:43</a>), or
 3. *The accessibility of technology* (<a href="javascript:void(0)" onclick="setTime(2123)">35:23</a>).
