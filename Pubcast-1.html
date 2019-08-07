@@ -244,14 +244,30 @@ into the {body} of the default.hbs template -->
                 <div class="kg-card-markdown">
                     <p>The first of The Pangean’s <em>pubcasts</em> is with <a href="https://www.linkedin.com/in/mirandamowbray/">Dr Miranda Mowbray</a>, a Lecturer in Computer Science at the University of Bristol. After having graduated from the University of Cambridge and completing her PhD in Mathematics at Queen Mary University of London, Dr Mowbray gained several years of experience in industry and is now pursuing research into data science for cybersecurity, and ethics for big data.</p>
 
-<p>In this podcast, <a href="https://thepangean.com/author/harsh.tiwari/">Harsh Tiwari</a> and <a href="https://thepangean.com/author/reuben.pritchard/">Reuben Pritchard</a> sit down with Dr Miranda Mowbray and, over lunch and a couple of pints, discuss topics ranging from <em>technology in the army and the workplace</em> to <em>the accessibility of technology</em>. Listen below for the full uncut recording.</p>
+<p>In this podcast, <a href="https://thepangean.com/author/harsh.tiwari/">Harsh Tiwari</a> and <a href="https://thepangean.com/author/reuben.pritchard/">Reuben Pritchard</a> sit down with Dr Miranda Mowbray and, over lunch and a couple of pints, discuss some pressing matters surrounding the age of technology. Listen below to part 1 of the full uncut recording or skip ahead to the following topics of interest:</p>
+
+<ol>
+  <li><em>Introduction</em> (<a href="javascript:void(0)" onclick="setTime(0)">00:00</a>),</li>
+  <li><em>Technology as a replacement for human interaction</em> (<a href="javascript:void(0)" onclick="setTime(40)">00:40</a>),</li>
+  <li><em>Technology in the army and the workplace</em> (<a href="javascript:void(0)" onclick="setTime(1183)">19:43</a>), or</li>
+  <li><em>The accessibility of technology</em> (<a href="javascript:void(0)" onclick="setTime(2127)">35:27</a>).</li>
+</ol>
 
 <figure>
-    <audio controls="" controlsList="nodownload" src="/assets/audio/Podcast1-final.mp3">
+    <audio id="pubcast-1" controls="" controlsList="nodownload" src="/assets/audio/Podcast1-final.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
 </figure>
+
+<script type="text/javascript">
+    var aud = document.getElementById("pubcast-1");
+    function setTime(x) {
+      aud.currentTime = x;
+    }
+
+</script>
+
 
                 </div>
             </section>
