@@ -89,6 +89,18 @@ sumayee.barman:
   twitter: False
   cover: sumayee-cover.jpg
 
+devyani.arora:
+  username: devyani.arora
+  name: Devyani Arora
+  location: Delhi
+  positions: Contributor
+  bio: I am a nineteen-year-old student in Delhi University, pursuing bachelor’s in commerce. You will find me having an existential crisis almost every two days and listening to The Local Train on loop.
+  picture: devyani.jpg
+  facebook: False
+  twitter: False
+  cover: devyani-cover.jpg
+  sports: False
+
 yashna.arora:
   username: yashna.arora
   name: Yashna Arora
