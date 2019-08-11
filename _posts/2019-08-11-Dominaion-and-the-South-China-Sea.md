@@ -9,7 +9,7 @@ author: gurleen.kaur
 cover: navy-ship.jpg
 pic1: South_China_Sea_claims_map.jpg
 tags: policy
-date: 2019-08-10
+date: 2019-08-11
 link: https://cdn1.i-scmp.com/sites/default/files/styles/1200x800/public/images/methode/2019/02/19/761fdce8-2e6d-11e9-80ef-0255f1ad860b_image_hires_092316.JPG?itok=wE16uTrM&v=1550539400
 ---
 
