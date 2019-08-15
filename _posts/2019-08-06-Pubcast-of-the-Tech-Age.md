@@ -18,7 +18,7 @@ In this podcast, [Harsh Tiwari](https://thepangean.com/author/harsh.tiwari/) and
 0. *Introduction* (<a href="javascript:void(0)" onclick="setTime(0)">00:00</a>),
 1. *Technology as a replacement for human interaction* (<a href="javascript:void(0)" onclick="setTime(60)">01:00</a>),
 2. *Technology in business and politics* (<a href="javascript:void(0)" onclick="setTime(1203)">20:03</a>), or
-3. *The accessibility of technology* (<a href="javascript:void(0)" onclick="setTime(2143)">35:43</a>).
+3. *The accessibility of technology* (<a href="javascript:void(0)" onclick="setTime(2140)">35:40</a>).
 
 <figure>
     <audio id="pubcast-1"
