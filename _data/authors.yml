@@ -464,6 +464,40 @@ andrew.mark:
   cover: andrew-cover.jpg
   sports: True
 
+gavin.olson:
+  username: gavin.olson
+  name: Gavin Olson
+  location: Pleasant Hill, CA (Home); Daytona Beach, FL (Univ)
+  positions: Contributor
+  bio: I am a sophomore at Embry-Riddle Aeronautical University studying Global Conflicts with a minor in Russian and Broadcast Media. I am a die hard fan of pretty much every sport, and love to write about them!
+  picture: gavin-olson.jpg
+  facebook: False
+  twitter: False
+  cover: gavin-olson-cover.jpg
+  sports: True
+
+oyeshi.ganguly:
+  username: oyeshi.ganguly
+  name: Oyeshi Ganguly
+  location: Kolkata
+  positions: Contributor
+  bio: An undergraduate student of International Relations at Jadavpur University. Interests range from the Beatles to Manto and everything in between. Travel enthusiast. A philatelist. Harbours an unquenchable curiosity towards everything under the sun.
+  picture: oyeshi-ganguly.jpg
+  facebook: oyeshi.ganguly.18
+  twitter: False
+  cover: oyeshi-ganguly-cover.jpg
+
+ritisha.gupta:
+  username: ritisha.gupta
+  name: Ritisha Gupta
+  location: Delhi
+  positions: Contributor
+  bio: Adarsh Agarwal is an undergraduate Economics student at the University of Delhi, and aspires to become a recognisable name in the world of academia.
+  picture: ritisha-gupta.jpg
+  facebook: False
+  twitter: False
+  cover: ritisha-gupta-cover.jpg
+
 adarsh.agarwal:
   username: adarsh.agarwal
   name: Adarsh Agarwal
