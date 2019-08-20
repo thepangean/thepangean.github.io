@@ -59,7 +59,7 @@ ali.abdi:
   username: ali.abdi
   name: Ali Abdi
   location: Brighton
-  positions: Co-Editor
+  positions: editor
   bio: Politics student at the University of Sussex writing about football
   picture: ali.jpg
   facebook:
@@ -258,18 +258,6 @@ unnati.jain:
   twitter:
   cover: unnati-cover.jpg
 
-jacob.jones:
-  username: jacob.jones
-  name: Jacob Jones
-  location: Tucson, Arizona
-  positions: Contributor
-  bio: I’m from Sacramento, California. I currently attend the University of Arizona as a History major. I’m a diehard fan of the Philadelphia Eagles, New York Yankees, and Sacramento Kings.
-  picture: jacob.jpg
-  facebook: False
-  twitter: False
-  cover: jacob-cover.jpg
-  sports: True
-
 riya.kaul:
   username: riya.kaul
   name: Riya Kaul
@@ -361,18 +349,6 @@ gavin.olson:
   cover: gavin-olson-cover.jpg
   sports: True
 
-tyler.pesavento:
-  username: tyler.pesavento
-  name: Tyler Pesavento
-  location: San Jose, California
-  positions: Contributor
-  bio: Currently studying broadcast journalism at the University of Arizona. Coming from the Bay Area, I have had an interest in all major American sports.
-  picture: tyler.jpg
-  facebook: tylerpesavento
-  twitter: False
-  cover: tyler-cover.jpg
-  sports: True
-
 abhishek.sancheti:
   username: abhishek.sancheti
   name: Abhishek Sancheti
@@ -441,18 +417,6 @@ swarnima.tewary:
   url: thepinkflora.com
   url_full: http://thepinkflora.com
 
-sam.tanberg:
-  username: sam.tanberg
-  name: Sam Tanberg
-  location: Tuscon, Arizona
-  positions: Contributor
-  bio: University of Arizona student from Northern California. Big baseball fan (Go Red Sox), love basketball and football as well.
-  picture: sam.png
-  facebook: samtanberg16
-  twitter: False
-  cover: sam-cover.jpg
-  sports: True
-
 namya.tewari:
   username: namya.tewari
   name: Namya Tewari
@@ -485,18 +449,6 @@ udayon.sen:
   facebook: False
   twitter: False
   cover: udayon-cover.jpg
-
-andrew.mark:
-  username: andrew.mark
-  name: Andrew Mark
-  location:
-  positions: Contributor
-  bio: A contributor at The Pangean
-  picture: #andrew.jpg
-  facebook: False
-  twitter: False
-  cover: andrew-cover.jpg
-  sports: True
 
 adarsh.agarwal:
   username: adarsh.agarwal
@@ -531,6 +483,42 @@ morgan.black:
   twitter: False
   cover: morgan-cover.jpg
 
+jacob.jones:
+  username: jacob.jones
+  name: Jacob Jones
+  location: Tucson, Arizona
+  positions: Guest Contributor
+  bio: I’m from Sacramento, California. I currently attend the University of Arizona as a History major. I’m a diehard fan of the Philadelphia Eagles, New York Yankees, and Sacramento Kings.
+  picture: jacob.jpg
+  facebook: False
+  twitter: False
+  cover: jacob-cover.jpg
+  sports: True
+
+andrew.mark:
+  username: andrew.mark
+  name: Andrew Mark
+  location:
+  positions: Guest Contributor
+  bio: A contributor at The Pangean
+  picture: #andrew.jpg
+  facebook: False
+  twitter: False
+  cover: andrew-cover.jpg
+  sports: True
+
+tyler.pesavento:
+  username: tyler.pesavento
+  name: Tyler Pesavento
+  location: San Jose, California
+  positions: Guest Contributor
+  bio: Currently studying broadcast journalism at the University of Arizona. Coming from the Bay Area, I have had an interest in all major American sports.
+  picture: tyler.jpg
+  facebook: tylerpesavento
+  twitter: False
+  cover: tyler-cover.jpg
+  sports: True
+
 reuben.pritchard:
   username: reuben.pritchard
   name: Reuben Pritchard
@@ -552,6 +540,18 @@ shivang.singh:
   facebook: shivang.singh.1213
   twitter: shivangsingh98
   cover: shivang-cover.jpg
+
+sam.tanberg:
+  username: sam.tanberg
+  name: Sam Tanberg
+  location: Tuscon, Arizona
+  positions: Guest Contributor
+  bio: University of Arizona student from Northern California. Big baseball fan (Go Red Sox), love basketball and football as well.
+  picture: sam.png
+  facebook: samtanberg16
+  twitter: False
+  cover: sam-cover.jpg
+  sports: True
 
 troy.worden:
   username: troy.worden
@@ -597,3 +597,4 @@ olly.bowes:
 #   facebook: False
 #   twitter: False
 #   cover: aryaman-cover.jpg
+#   sports: True
