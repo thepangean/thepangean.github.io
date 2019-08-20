@@ -7,8 +7,8 @@ class: post-template
 title: "A Drunk Parable of The Tech Age"
 author: the.pangean
 cover: tech-globe.jpg
-tags:
-date: 2019-08-06
+tags: podcast, society
+date: 2019-08-21
 link: https://pixabay.com/illustrations/globe-earth-world-planet-global-3949480/
 ---
 The first of The Pangean's *pubcasts* is with [Dr Miranda Mowbray](https://www.linkedin.com/in/mirandamowbray/), a Lecturer in Computer Science at the University of Bristol. After having graduated from the University of Cambridge and completing her PhD in Mathematics at Queen Mary University of London, Dr Mowbray gained several years of experience in industry and is now pursuing research into data science for cybersecurity, and ethics for big data.
