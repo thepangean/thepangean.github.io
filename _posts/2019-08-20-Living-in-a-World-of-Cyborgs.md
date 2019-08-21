@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "What is it like to live in a world of Cyborgs?"
+title: "What is it Like to Live in a World of Cyborgs?"
 author: oindrila.ghosh
 cover: electric-warior.jpg
 tags: society
