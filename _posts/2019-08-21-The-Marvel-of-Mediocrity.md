@@ -16,7 +16,7 @@ author: aritra.gupta
 
 You might contest this by speaking of war-torn Syrians or the muddle of mental health, but Gen Y and Gen Z are sufferers of the worst kind of affliction; the affliction of *mediocrity*. What makes this affliction so bad is its non-threatening nature. And I beg your pardon, we are not sufferers of this affliction, we are its prisoners. But what has made us prisoners? And why is this such a big issue?
 
-Tales from the West
+**Tales from the West**
 
 The West has always had an influence, directly or indirectly, over the entire world. We have adopted many of their cultural idiosyncrasies and even live them out everyday, without consciously realising it. One such Western quirk we’ve embraced is *individualism*. I am not claiming that the West holds prerogative of it, but they are the ones to have so earnestly sermonised the concept of individualism. Western literature preaches the purpose and value of individual worth; how the world is every individual’s oyster. To permeate the consciousness with a sense of personal worth, they even went a step ahead and materialised it through architecture, giving almost every member of the family a room of their own. Think of the sense of autonomy and powerfulness you feel when you sit in your room, sip coffee or whatever, and ask for nudes. You feel the illusion of having control over your life and that of others.
 
