@@ -7,7 +7,7 @@ class: post-template
 title: "A Drunk Parable of The Tech Age"
 author: the.pangean
 cover: tech-globe.jpg
-tags: podcast, society
+tags: society
 date: 2019-08-21
 link: https://pixabay.com/illustrations/globe-earth-world-planet-global-3949480/
 ---
