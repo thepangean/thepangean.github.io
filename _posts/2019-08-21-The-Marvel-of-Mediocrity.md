@@ -8,8 +8,7 @@ date: 2019-08-21
 tags: society
 class: post-template
 subclass: 'post tag-speeches'
-link:
-https://pixabay.com/es/photos/tv-hombre-ver-habitaci%C3%B3n-oficina-3774381/
+link: https://pixabay.com/es/photos/tv-hombre-ver-habitaci%C3%B3n-oficina-3774381/
 author: aritra.gupta
 ---
 **A prisoner’s affliction**
