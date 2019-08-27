@@ -7,10 +7,14 @@ class: post-template
 title: "How Will Arsenal’s New Signings Fit In?"
 author: samuel.hogan
 cover: emirates-stadium.jpg
-pic1: Arsenal-lineup-1.jpg
-pic2: Arsenal-lineup-2.jpg
-pic3: Arsenal-lineup-3.jpg
-pic4: Arsenal-lineup-4.jpg
+pic1: Arsenal-lineup-01.jpg
+pic2: Arsenal-lineup-02.jpg
+pic3: Arsenal-lineup-03.jpg
+pic4: Arsenal-lineup-11.jpg
+pic5: Arsenal-lineup-12.jpg
+pic6: Arsenal-lineup-13.jpg
+pic7: Arsenal-lineup-21.jpg
+pic8: Arsenal-lineup-31.jpg
 tags: sports football
 date: 2019-08-27
 link: https://pixabay.com/es/photos/emirates-stadium-londres-arsenal-1416679/
@@ -87,7 +91,11 @@ football at Real Betis in the 2016/17 season and should contribute to some much
 needed technical support in the centre of the park, giving Arsenal a ball
 carrying outlet from deep to evade pressure. 
 
-<div class="caption" style="text-align: left"><a href="https://www.buildlineup.com/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}" style="width:100%"/></a></div>
+<div class="caption" style="text-align: left">
+<a href="https://www.buildlineup.com/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}" style="width:100%"/></a>
+<a href="https://www.buildlineup.com/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic2 }}" style="width:100%"/></a>
+<a href="https://www.buildlineup.com/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic3 }}" style="width:100%"/></a>
+</div>
 
 Ceballos’ immense skill set and versatility means he is capable as a deep-lying
 playmaker, a tireless box-to-box CM, or in the number 10 role. Given Ramsey’s
@@ -134,7 +142,11 @@ an ideal situation for a player new to the Premier League so it’ll be up to
 Emery to manage his team rotations and come up with a fluid attack to get the
 best out of all his star forwards. 
 
-<div class="caption" style="text-align: left"><a href="https://www.buildlineup.com/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic2 }}" style="width:100%"/></a></div>
+<div class="caption" style="text-align: left">
+<a href="https://www.buildlineup.com/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic4 }}" style="width:100%"/></a>
+<a href="https://www.buildlineup.com/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic5 }}" style="width:100%"/></a>
+<a href="https://www.buildlineup.com/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic6 }}" style="width:100%"/></a>
+</div>
 
 **Kieran Tierney**
 
@@ -161,7 +173,7 @@ Hector Bellerin on the opposite flank, with the Scot being the more reserved,
 technically proficient of the pair whilst Bellerin utilises his athleticism to
 make off ball runs and try and get in behind the opposition’s defence. 
 
-<div class="caption" style="text-align: left"><a href="https://www.buildlineup.com/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic3 }}" style="width:100%"/></a></div>
+<div class="caption" style="text-align: left"><a href="https://www.buildlineup.com/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic7 }}" style="width:100%"/></a></div>
 
 **David Luiz**
 
@@ -176,7 +188,7 @@ veterans such as Jens Lehmann and Gilberto Silva. Luiz will likely form an
 experienced central defensive partnership with Sokratis, replacing Laurent
 Koscielny after the Frenchman’s 9 year residency at the club came to an end. 
 
-<div class="caption" style="text-align: left"><a href="https://www.buildlineup.com/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic4 }}" style="width:100%"/></a></div>
+<div class="caption" style="text-align: left"><a href="https://www.buildlineup.com/" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic8 }}" style="width:100%"/></a></div>
 
 Luiz entered the Premier League the same year Koscielny did, with both rightly
 considered error-prone during their formative years in England before becoming
