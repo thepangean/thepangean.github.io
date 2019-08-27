@@ -12,7 +12,7 @@ pic2: Arsenal-lineup-2.jpg
 pic3: Arsenal-lineup-3.jpg
 pic4: Arsenal-lineup-4.jpg
 tags: sports football
-date: 2019-08-28
+date: 2019-08-27
 link: https://pixabay.com/es/photos/emirates-stadium-londres-arsenal-1416679/
 ---
 Since the appointment of ex-Arsenal midfielder Edu as the club’s technical
