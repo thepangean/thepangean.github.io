@@ -5,7 +5,7 @@ cover: town.jpg
 navigation: True
 title: "‘What Do You Believe?’ How Ideology Will Shape the Culture Wars of the 21st Century"
 date: 2019-08-28
-tags: culture
+tags: society
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/7/7e/Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg
