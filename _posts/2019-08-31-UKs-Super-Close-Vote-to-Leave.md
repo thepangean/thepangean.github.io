@@ -9,7 +9,7 @@ author: sailesh.buchasia unnati.jain
 cover: 5149.jpg
 tags: policy
 date: 2019-08-31 01:00
-link: thepangean.com
+link: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Europawahl_mit_Urne_-_radial_%2833442065018%29.jpg/1280px-Europawahl_mit_Urne_-_radial_%2833442065018%29.jpg
 ---
 It was preposterous to observe the twist of events when back in the 2009 data
 speech, the former Prime Minister of the United Kingdom, David Cameron,
