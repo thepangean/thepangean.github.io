@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
+cover: 5149.jpg
 navigation: True
 class: post-template
-
 title: "51.9% to 48.1%- UK’s Super-close Vote to Leave: Legitimate or Not?"
 author: sailesh.buchasia unnati.jain
 cover:
