@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: mundane.jpg
 navigation: True
-title: "How Hayao Miyazaki Sees The Romance in The Mundane"
+title: "How Hayao Miyazaki Sees The Beauty in The Mundane"
 date: 2019-09-05
 tags: culture
 class: post-template
