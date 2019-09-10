@@ -196,7 +196,7 @@ ritisha.gupta:
   name: Ritisha Gupta
   location: Delhi
   positions: Contributor
-  bio: A Political Science student from Delhi University. Hoping to make a difference, one step at a time. 
+  bio: A Political Science student from Delhi University. Hoping to make a difference, one step at a time.
   picture: ritisha-gupta.jpg
   facebook: False
   twitter: False
@@ -404,19 +404,6 @@ reema.singh:
   twitter: False
   cover: reema-cover.jpg
 
-swarnima.tewary:
-  username: swarnima.tewary
-  name: Swarnima Swastika Tewary
-  location: Kolkata, India.
-  positions: Contributor
-  bio: Independent researcher associated with IPSA. I am a passionate reader of ancient Indian scriptures & everything that falls in between & beyond. I live by & for Nature so when I'm not reading I'm out there in the garden living that magical life!
-  picture: swarnima.jpg
-  facebook: Flowerstruckswasti
-  twitter: False
-  cover: swarnima-cover.jpg
-  url: thepinkflora.com
-  url_full: http://thepinkflora.com
-
 namya.tewari:
   username: namya.tewari
   name: Namya Tewari
@@ -552,6 +539,19 @@ sam.tanberg:
   twitter: False
   cover: sam-cover.jpg
   sports: True
+
+swarnima.tewary:
+  username: swarnima.tewary
+  name: Swarnima Swastika Tewary
+  location: Kolkata, India.
+  positions: Guest Contributor
+  bio: Independent researcher associated with IPSA. I am a passionate reader of ancient Indian scriptures & everything that falls in between & beyond. I live by & for Nature so when I'm not reading I'm out there in the garden living that magical life!
+  picture: swarnima.jpg
+  facebook: Flowerstruckswasti
+  twitter: False
+  cover: swarnima-cover.jpg
+  url: thepinkflora.com
+  url_full: http://thepinkflora.com
 
 troy.worden:
   username: troy.worden
