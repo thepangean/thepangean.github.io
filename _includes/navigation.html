@@ -1,13 +1,30 @@
 <ul class="nav" role="menu">
     <li class="nav-home" role="menuitem"><a href="{{site.baseurl}}">Home</a></li>
     <li class="nav-about" role="menuitem"><a href="{{site.baseurl}}about">About</a></li>
-    {% for tag in site.data.tags %}
-    {% unless tag[1].sports or tag[1].hidden %}
-    {% assign section_select = tag[1].name %}
-    <li class="nav" role="menuitem"><a href="{{site.baseurl}}tag/{{ section_select }}">{{ site.data.tags[section_select]title}}</a></li>
-    {% endunless %}
-    {% endfor %}
+    <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-sections')">Sections &#9660</a></li>
+    <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-campaigns')">Campaigns &#9660</a></li>
+    <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-columns')">Columns &#9660</a></li>
     <li class="nav-contributors" role="menuitem"><a href="{{site.baseurl}}our-team">Our Team</a></li>
     <li class="nav-sports" role="menuitem"><a href="{{site.baseurl}}sports">{{ site.data.tags.sports.title}} Site</a></li>
-
 </ul>
+
+<script type="text/javascript">
+  function toggle_dropdown(name_id) {
+    var dropdown = document.getElementById(name_id);
+    var element_ids = ['dropdown-sections', 'dropdown-campaigns', 'dropdown-columns'];
+    var element_id;
+
+    for (element_id of element_ids) {
+      if (element_id !== name_id) {
+        var x = document.getElementById(element_id);
+        x.style.display = "none";
+      }
+    };
+
+    if (dropdown.style.display === "none") {
+      dropdown.style.display = "flex";
+    } else {
+      dropdown.style.display = "none";
+    };
+  }
+</script>
