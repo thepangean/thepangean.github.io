@@ -494,6 +494,17 @@ andrew.mark:
   cover: andrew-cover.jpg
   sports: True
 
+ayantik.nath:
+  username: ayantik.nath
+  name: Ayantika Nath
+  location: Kolkata
+  positions: Guest Contributor
+  bio: Post Grad student at JUDE. Working towards living in a home in the hills, taking detours on the way.
+  picture: ayantika.jpg
+  facebook: False
+  twitter: False
+  cover: ayantika-cover.jpg
+
 tyler.pesavento:
   username: tyler.pesavento
   name: Tyler Pesavento
