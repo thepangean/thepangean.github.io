@@ -8,8 +8,7 @@ date: 2019-09-19
 tags: society
 class: post-template
 subclass: 'post tag-speeches'
-link:
-https://pixabay.com/es/illustrations/retro-ama-de-casa-vintage-collage-1254131/
+link: https://pixabay.com/es/illustrations/retro-ama-de-casa-vintage-collage-1254131/
 author: ayantika.nath
 ---
 If you've cringed at the Mother's Day wishes that flooded social media a few weeks ago, which were basically variations of ‘she is the world's smartest, strongest punching bag’, (go Leslie Knope!) you'll probably see a valid point in what I have to discuss.
