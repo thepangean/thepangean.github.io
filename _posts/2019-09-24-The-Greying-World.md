@@ -8,7 +8,7 @@ date: 2019-09-24
 tags: policy
 class: post-template
 subclass: 'post tag-speeches'
-link: https://pixabay.com/es/illustrations/mano-bola-se-enfrenta-a-mundo-1592415/
+link: "https://pixabay.com/es/illustrations/mano-bola-se-enfrenta-a-mundo-1592415/"
 author: gurleen.kaur
 ---
 In his Independence Day address to the Indian nation, Prime Minister Narendra Modi flagged the challenges posed by population explosion. He suggested that keeping a small family was patriotism in the truest sense. Surely, this had to do with the UN forecast of India overtaking China as the most populous country by 2027. Thus, an analysis of the demographic trends would be essential to understand the issue in-depth.
