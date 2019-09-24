@@ -1,5 +1,5 @@
 <ul class="nav" role="menu">
-    <li class="nav-home" role="menuitem"><a href="{{site.baseurl}}">Home</a></li>
+    <li id="site_nav_firstitem" class="nav-home" role="menuitem"><a href="{{site.baseurl}}">Home</a></li>
     <li class="nav-about" role="menuitem"><a href="{{site.baseurl}}about">About</a></li>
     <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-sections')">Sections &#9660</a></li>
     <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-campaigns')">Campaigns &#9660</a></li>
@@ -11,6 +11,10 @@
 <script type="text/javascript">
   function toggle_dropdown(name_id) {
     var dropdown = document.getElementById(name_id);
+    var offset_left = (event.target.getBoundingClientRect().left - document.getElementById("site_nav_firstitem").getBoundingClientRect().left);
+
+    console.log (offset_left + "px");
+
     var element_ids = ['dropdown-sections', 'dropdown-campaigns', 'dropdown-columns'];
     var element_id;
 
@@ -21,8 +25,9 @@
       }
     };
 
-    if (dropdown.style.display === "none") {
-      dropdown.style.display = "flex";
+    if (dropdown.style.display == "none") {
+      dropdown.style.display = "block";
+      dropdown.style.marginLeft = (offset_left + "px");
     } else {
       dropdown.style.display = "none";
     };

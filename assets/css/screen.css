@@ -316,6 +316,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .nav-dropdown {
+    display: none;
     box-shadow: 1px 1px 3px 1px var(--lightgrey);
     border-radius: 10px;
 }
