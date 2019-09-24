@@ -54,6 +54,7 @@ economics:
 #   section: True
 
 # COLUMNS
+
 test:
   name: test
   title: Column Title
@@ -61,6 +62,15 @@ test:
   cover: False
   column: True
   author: kheeran.naidu
+  hidden: True
+
+harshita-column:
+  name: harshita-column
+  title: From the Horse's Mouth
+  description: If you're looking for something akin to eccentric concepts from the world of self-concocted reality, you're at the right station.
+  cover: False
+  column: True
+  author: harshita.jain
   hidden: True
 
 # SPORTS
