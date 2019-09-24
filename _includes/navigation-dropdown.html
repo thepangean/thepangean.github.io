@@ -1,0 +1,26 @@
+<ul id="dropdown-sections" class="nav nav-dropdown" role="menu" style="display: none;">
+  {% for tag in site.data.tags %}
+  {% unless tag[1].sports or tag[1].hidden %}
+  {% assign section_select = tag[1].name %}
+  <li class="nav" role="menuitem"><a href="{{site.baseurl}}tag/{{ section_select }}">{{ site.data.tags[section_select]title}}</a></li>
+  {% endunless %}
+  {% endfor %}
+</ul>
+
+<ul id="dropdown-campaigns" class="nav nav-dropdown" role="menu" style="display: none;">
+  {% for tag in site.data.tags %}
+  {% if tag[1].campaign %}
+  {% assign section_select = tag[1].name %}
+  <li class="nav" role="menuitem"><a href="{{site.baseurl}}tag/{{ section_select }}">{{ site.data.tags[section_select]title}}</a></li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+<ul id="dropdown-columns" class="nav nav-dropdown" role="menu" style="display: none;">
+  {% for tag in site.data.tags %}
+  {% if tag[1].column %}
+  {% assign section_select = tag[1].name %}
+  <li class="nav" role="menuitem"><a href="{{site.baseurl}}tag/{{ section_select }}">{{ site.data.tags[section_select]title}}</a></li>
+  {% endif %}
+  {% endfor %}
+</ul>
