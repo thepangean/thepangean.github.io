@@ -250,7 +250,8 @@ body {
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
     margin-right: 10px;
-    padding-bottom: 80px;
+    padding: 10px;
+    /* padding-bottom: 80px; */
     letter-spacing: 0.4px;
     white-space: nowrap;
 
@@ -289,7 +290,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 .nav {
     display: flex;
-    margin: 0 0 0 -12px;
+    margin: 0 0 0 0px;
     padding: 0;
     list-style: none;
 }
@@ -312,6 +313,12 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .nav li a:hover {
     text-decoration: none;
     opacity: 1;
+}
+
+.nav-dropdown {
+    display: none;
+    box-shadow: 1px 1px 3px 1px var(--lightgrey);
+    border-radius: 10px;
 }
 
 .site-nav-right {

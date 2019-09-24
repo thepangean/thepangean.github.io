@@ -177,55 +177,38 @@
                 <ul class="nav" role="menu">
     <li class="nav-home" role="menuitem"><a href="/">Home</a></li>
     <li class="nav-about" role="menuitem"><a href="/about">About</a></li>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <li class="nav" role="menuitem"><a href="/tag/culture">Culture</a></li>
-    
-    
-    
-    
-    <li class="nav" role="menuitem"><a href="/tag/society">Society</a></li>
-    
-    
-    
-    
-    <li class="nav" role="menuitem"><a href="/tag/policy">Policy</a></li>
-    
-    
-    
-    
-    <li class="nav" role="menuitem"><a href="/tag/economics">Economics</a></li>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-sections')">Sections &#9660</a></li>
+    <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-columns')">Columns &#9660</a></li>
+    <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-campaigns')">Campaigns &#9660</a></li>
     <li class="nav-contributors" role="menuitem"><a href="/our-team">Our Team</a></li>
     <li class="nav-sports" role="menuitem"><a href="/sports">Sports Site</a></li>
-
 </ul>
+
+<script type="text/javascript">
+  function toggle_dropdown(name_id) {
+    var dropdown = document.getElementById(name_id);
+    var offset_left = (event.target.getBoundingClientRect().left - document.getElementById("site_nav_dropdown_left").getBoundingClientRect().left);
+
+    console.log (offset_left + "px");
+
+    var element_ids = ['dropdown-sections', 'dropdown-campaigns', 'dropdown-columns'];
+    var element_id;
+
+    for (element_id of element_ids) {
+      if (element_id !== name_id) {
+        var x = document.getElementById(element_id);
+        x.style.display = "none";
+      }
+    };
+
+    if (dropdown.style.display == "none") {
+      dropdown.style.display = "block";
+      dropdown.style.marginLeft = (offset_left + "px");
+    } else {
+      dropdown.style.display = "none";
+    };
+  }
+</script>
 
             
         
@@ -245,6 +228,139 @@
             <a class="subscribe-button" href="#subscribe">Subscribe</a>
         
     </div>
+</nav>
+
+<nav class="site-nav" style="height: 100%">
+  <div id="site_nav_dropdown_left" class="site-nav-left">
+      
+          <ul id="dropdown-sections" class="nav nav-dropdown" role="menu" style="display: none;">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="nav" role="menuitem"><a href="/tag/culture">Culture</a></li>
+  
+  
+  
+  
+  <li class="nav" role="menuitem"><a href="/tag/society">Society</a></li>
+  
+  
+  
+  
+  <li class="nav" role="menuitem"><a href="/tag/policy">Policy</a></li>
+  
+  
+  
+  
+  <li class="nav" role="menuitem"><a href="/tag/economics">Economics</a></li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</ul>
+
+<ul id="dropdown-campaigns" class="nav nav-dropdown" role="menu" style="display: none;">
+  
+  
+  
+  
+  
+  
+  
+  <li class="nav" role="menuitem"><a href="/tag/millennial">Millennial Campaign</a></li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</ul>
+
+<ul id="dropdown-columns" class="nav nav-dropdown" role="menu" style="display: none;">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="nav" role="menuitem"><a href="/tag/harshita-column">From the Horse's Mouth</a></li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</ul>
+
+      
+  </div>
 </nav>
 
             <div class="site-header-content">

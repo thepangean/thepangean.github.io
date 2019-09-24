@@ -136,55 +136,38 @@
                 <ul class="nav" role="menu">
     <li class="nav-home" role="menuitem"><a href="/">Home</a></li>
     <li class="nav-about" role="menuitem"><a href="/about">About</a></li>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <li class="nav" role="menuitem"><a href="/tag/culture">Culture</a></li>
-    
-    
-    
-    
-    <li class="nav" role="menuitem"><a href="/tag/society">Society</a></li>
-    
-    
-    
-    
-    <li class="nav" role="menuitem"><a href="/tag/policy">Policy</a></li>
-    
-    
-    
-    
-    <li class="nav" role="menuitem"><a href="/tag/economics">Economics</a></li>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-sections')">Sections &#9660</a></li>
+    <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-columns')">Columns &#9660</a></li>
+    <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-campaigns')">Campaigns &#9660</a></li>
     <li class="nav-contributors" role="menuitem"><a href="/our-team">Our Team</a></li>
     <li class="nav-sports" role="menuitem"><a href="/sports">Sports Site</a></li>
-
 </ul>
+
+<script type="text/javascript">
+  function toggle_dropdown(name_id) {
+    var dropdown = document.getElementById(name_id);
+    var offset_left = (event.target.getBoundingClientRect().left - document.getElementById("site_nav_dropdown_left").getBoundingClientRect().left);
+
+    console.log (offset_left + "px");
+
+    var element_ids = ['dropdown-sections', 'dropdown-campaigns', 'dropdown-columns'];
+    var element_id;
+
+    for (element_id of element_ids) {
+      if (element_id !== name_id) {
+        var x = document.getElementById(element_id);
+        x.style.display = "none";
+      }
+    };
+
+    if (dropdown.style.display == "none") {
+      dropdown.style.display = "block";
+      dropdown.style.marginLeft = (offset_left + "px");
+    } else {
+      dropdown.style.display = "none";
+    };
+  }
+</script>
 
             
         
@@ -206,6 +189,139 @@
     </div>
 </nav>
 
+<nav class="site-nav" style="height: 100%">
+  <div id="site_nav_dropdown_left" class="site-nav-left">
+      
+          <ul id="dropdown-sections" class="nav nav-dropdown" role="menu" style="display: none;">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="nav" role="menuitem"><a href="/tag/culture">Culture</a></li>
+  
+  
+  
+  
+  <li class="nav" role="menuitem"><a href="/tag/society">Society</a></li>
+  
+  
+  
+  
+  <li class="nav" role="menuitem"><a href="/tag/policy">Policy</a></li>
+  
+  
+  
+  
+  <li class="nav" role="menuitem"><a href="/tag/economics">Economics</a></li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</ul>
+
+<ul id="dropdown-campaigns" class="nav nav-dropdown" role="menu" style="display: none;">
+  
+  
+  
+  
+  
+  
+  
+  <li class="nav" role="menuitem"><a href="/tag/millennial">Millennial Campaign</a></li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</ul>
+
+<ul id="dropdown-columns" class="nav nav-dropdown" role="menu" style="display: none;">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="nav" role="menuitem"><a href="/tag/harshita-column">From the Horse's Mouth</a></li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</ul>
+
+      
+  </div>
+</nav>
+
     </div>
 </header>
 <!-- tag -->
@@ -216,1087 +332,9 @@
         <article class="post-full  no-image">
 
             <header class="post-full-header">
-              <h1 class="site-title">Column Title</h1>
+              <h1 class="site-title"></h1>
             </header>
         </article>
-    </div>
-</main>
-
-
-
-<main id="site-main-2" class="site-main outer" role="main">
-    <div class="inner">
-
-      
-
-      <div class="site-header-content" style="padding: 4vw 2vw; min-height: 100px; max-height: 450px;">
-        <h2 class="author-bio">This is the column description.</h2>
-      </div>
-
-      <div class="post-feed-main">
-          <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-        
-            
-            <article class="post-card-noshadowhover tag-template">
-              
-              <a class="post-card-image-link" href="/Market-and-politics">
-                <div class="post-card-image-main" style="background-image: url(/assets/images/Mall_culture_jakarta36.jpg)"></div>
-              </a>
-              
-              <div class="post-card-content">
-                <a class="post-card-content-link" href="/Market-and-politics">
-                  <header class="post-card-header">
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    <span class="post-card-tags">Economics</span>
-                    
-                    
-                    
-                    
-
-                    <h2 class="post-card-title">Market and Politics: The New Separation</h2>
-                  </header>
-                  <section class="post-card-excerpt">
-                    <p class="truncate" style="-webkit-line-clamp: 10;">The system of production established in the 1920’s, Fordism, entailed mass standardization of goods for societies that were increasingly headed towards urbanization. The demand was for consumer durables that were cheap and reliable, such as televisions and refrigerators. The market, therefore, was run by a few oligopolistic firms and consumers were used to waiting for a long time before getting the goods they had ordered. This period involved the initiation of assembly lines in production. Factories employed unskilled workers who were regarded as a cog in the machine within the capitalist mode of production.
-
-By the time the 70’s rolled around, many workers in industrialized economies refused to subject themselves to alienation under the Taylorist factory regime, demanding shorter working hours and a higher pay. Another setback to capitalist accumulation was posed by the changing products market. In the West, basic needs had largely been covered by this time and the market for standardized consumer durables was undergoing a secular saturation. What resulted was a restructuring of the production process, and the product lines. Capital responded by re-engineering its products and making them less standardized.
-
-Products had become differentiated and customized to cater to the preferences of the smallest groups of potential customers. Like never before, markets allowed customers to pay attention to their individual wants, thereby boosting the move towards customization. The two decades of 1980’s and 1990’s ushered in a period of new consumerism. As products got closer to satisfying idiosyncratic preferences, customers became more willing to work harder or borrow to attain the purchasing power required to acquire them. The growth of the industry for luxury goods, which included perfumes, watches and fashion, followed an identical pattern. Global food chains like McDonald’s incorporated aspects of local cuisines in their menus for different countries. Marketing, on one hand, discovered the commercially untapped wants, and on the other hand, it developed consumer wants. When consumer desires exceeded income, upscale emulation resulted in increasing levels of indebtedness and decreased savings. This marked a transition of markets from those that satisfied needs to those that satisfied wants.
-
-By developing market niches, commercialized diversification allowed the individual to differentiate himself from some social groups and at the same time associate with others, conveying a desire for upward social mobility. The act of shopping is a way of socializing with others. Moreover, specific kinds of clothing and brands can be used to create a sense of group membership. In fact, rejecting consumer brands in itself establishes quasi-group identity.
-
-What differentiates this from traditional social integration is that this is voluntary. In well-developed post-Fordist markets, collective identities can be formed through a purchase and abandoned without much ado. In one sense, this signifies liberation from the identity associated with one’s family, community and nation, which the individual is born into and does not have much choice in. It also means that social ties have become much more fragile and weaker as individuals shift identities and desert them as per their convenience. Market forces in this sense writhed their way deeper into social life under a capitalist mode of production. Social media acts as another mode to form these voluntary ties. Twitter, Facebook, Instagram and the likes allow for the formation of a community of followers who interact with each other. Companies use this to further their individualized marketing. Celebrities use it to promote their works and stay relevant. Politicians use it to prevent the increasing weakening of traditional party organizations.
-
-Markets that seek to cater to the idiosyncrasies of consumers have resulted in the development of a political system best described as “politainment”. Since purchasing power in affluent societies allow the average citizens to get what they want, their interest in the political process begins to fade as there is no vested interest. Participation in traditional politics no longer seems worthwhile. Although people continue to follow the news and pay emphasis on being informed, politics is gradually turning into a form of entertainment, and the citizen is made a spectator.
-
-As we move forward, we find ourselves diverting from a vision for social and economic progress to an overemphasis on individual political decisions. Politics, in effect is becoming de-contextualized. Political participation becomes like an act of consumption, something that can be abandoned or replaced if it ceases to be exciting, much like the T-shirt you bought a few months ago. A consequence is that the public begins to perceive politics as a cumulation of antics resulting from a game of power grabbing. What becomes the focus are the scandals, the petty statements made by opposing sides against each other and representatives focus on managing their appearances rather than serving the public interest.
-
-An argument for a separation
-
-From what has been discussed, it is evident that goods aren’t merely for consumption, but also a status symbol. Underlying consumer behaviour is a desire for emulation and differentiation. In advanced industrial societies, consumption of a good serves a dual purpose: It should allow the consumer to distinguish himself or herself from other social groups and classes, while simultaneously allowing for the retention of a sense of individuality.
-
-This affects the allocation of resources between the public and private sphere. Government goods, those produced by government authorities, are designed to be standardized to ensure a sense of equality among those who consume them. In doing so, they fail to serve the purpose of status differentiation. Their inability to allow the consumer to derive a personal status benefit causes government goods to suffer in cases where the consumer is the decision maker.
-
-Once it became well accepted that only private firms could satisfy expectations of the consumer for more customized products, the private sector began to be seen as inherently more superior to the public sector. The public sector reforms of the 90’s followed suit. They involved privatisation of government industries that produced consumer goods, decentralisation of government activities, the use of private producers to sell government produced goods and, a change in the mix of government activities, with a greater focus towards education and healthcare. Formerly public functions moved to the private sphere and even in mixed governments, the balance shifted in favour of the private sector.
-
-The role of politics, regardless of how romanticised it may seem in today’s day and age, is the maintenance of social order and parity. Political communities are built on the idea of accepting a collective identity rather than focusing on one’s individuality. They do not allow for the flexibility of choice as in the markets of highly industrialized economies.
-
-The employment of a democratic procedure entails that one must accept decisions that they don’t personally prefer, even if they aren’t optimal from an individual’s perspective. In its essence, Politics cannot cater to hedonistic individual desires. Rather, it assesses them to form a general idea that supersedes an individual’s wants. Similarly, social goods cannot be diversified at the rate of customization in the consumer market. As a result they will always seem unfavourable in comparison to private goods. Eventually, the incentive to contribute to the provision of public goods and civil services will dry up. Moreover, paying taxes for financing government activities without having prior knowledge of how they are to be used is in contrast to any other market purchase. This decline in interest in collective projects by people with sufficient purchasing power will ensue an increase in tax resistance.
-
-In a shift from public to private consumption, those who continue to depend on public provisions will also get affected. In commercial markets that effectively oust the poorer segments, the only effective means to promote their requirements is their power to affect the electoral outcome. When the political system is starved of legitimacy and financial resources, the lower classes will refrain from voting and even symbolically participating in the political process; Consequently, the state’s ability to ensure public order will slowly evaporate. The reorganization of social life under capitalism, culminates today in a dual crisis of the global financial system and the creation of a ‘minimalist’ democracy.
-</p>
-                    <!-- <p>The system of production established in the 1920’s, Fordism, entailed mass standardization of goods for societies that were increasingly headed towards urbanization. The demand was for consumer durables that were cheap and reliable, such as televisions and refrigerators. The market, therefore, was run by a few oligopolistic firms and consumers were used to waiting for a long time before getting the goods they had ordered. This period involved the initiation of assembly lines in production. Factories employed unskilled workers who were regarded as a cog in the machine within the capitalist mode of production. By the time the 70’s rolled around, many workers in industrialized economies refused to subject themselves to alienation under the Taylorist factory regime, demanding shorter working hours and a higher pay. Another setback to capitalist accumulation was posed by the changing products market. In the West, basic needs had largely been covered by this time and...</p> -->
-                  </section>
-                </a>
-                
-                
-              </div>
-            </article>
-        
-    
-
-    
-
-    
-        
-    
-
-    
-        
-    
-
-    
-
-    
-        
-    
-
-    
-        
-    
-
-    
-        
-    
-
-    
-
-    
-
-    
-        
-    
-
-
-      </div>
-
-      <div class="title-column">
-          <a href="/tag/test" style="color:#15171A"><h2>Featured</h2></a>
-      </div>
-
-      <div class="post-feed-column">
-          
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-        
-        
-          <article class="post-card-column tag-template no-image">
-            <div class="post-card-content">
-              <a class="post-card-content-link" href="/Market-and-politics">
-                <header class="post-card-header">
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  <span class="post-card-tags">Economics</span>
-                  
-                  
-                  
-
-                  <h2 class="post-card-title-column">Market and Politics: The New Separation</h2>
-                </header>
-
-              </a>
-              
-              
-            </div>
-          </article>
-        
-    
-
-    
-
-    
-        
-        
-          <article class="post-card-column tag-template no-image">
-            <div class="post-card-content">
-              <a class="post-card-content-link" href="/Is-Hollywood-the-Perfect-Fit-for-Superstar-Bryce-Harper">
-                <header class="post-card-header">
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  <span class="post-card-tags">Baseball</span>
-                  
-                  
-                  
-                  
-                  
-
-                  <h2 class="post-card-title-column">Is Hollywood the Perfect Fit for Superstar Bryce Harper?</h2>
-                </header>
-
-              </a>
-              
-              
-            </div>
-          </article>
-        
-    
-
-    
-        
-        
-          <article class="post-card-column tag-template no-image">
-            <div class="post-card-content">
-              <a class="post-card-content-link" href="/Chasing-Inflation">
-                <header class="post-card-header">
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  <span class="post-card-tags">Economics</span>
-                  
-                  
-                  
-
-                  <h2 class="post-card-title-column">Chasing Inflation</h2>
-                </header>
-
-              </a>
-              
-              
-            </div>
-          </article>
-        
-    
-
-    
-
-    
-        
-        
-          <article class="post-card-column tag-template no-image">
-            <div class="post-card-content">
-              <a class="post-card-content-link" href="/A-House-Divided-The-Secret-Civil-War-of-the-Catholic-Church">
-                <header class="post-card-header">
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  <span class="post-card-tags">Society</span>
-                  
-                  
-                  
-
-                  <h2 class="post-card-title-column">A House Divided: The Secret Civil War of the Catholic Church</h2>
-                </header>
-
-              </a>
-              
-              
-            </div>
-          </article>
-        
-    
-
-    
-        
-        
-          <article class="post-card-column tag-template no-image">
-            <div class="post-card-content">
-              <a class="post-card-content-link" href="/A-Cynical-Circus">
-                <header class="post-card-header">
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  <span class="post-card-tags">Culture</span>
-                  
-                  
-                  
-
-                  <h2 class="post-card-title-column">A Cynical Circus</h2>
-                </header>
-
-              </a>
-              
-              
-            </div>
-          </article>
-        
-    
-
-    
-        
-        
-          <article class="post-card-column tag-template no-image">
-            <div class="post-card-content">
-              <a class="post-card-content-link" href="/test">
-                <header class="post-card-header">
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-
-                  <h2 class="post-card-title-column">Test</h2>
-                </header>
-
-              </a>
-              
-              
-            </div>
-          </article>
-        
-    
-
-    
-
-    
-
-    
-        
-        
-          <article class="post-card-column tag-template no-image">
-            <div class="post-card-content">
-              <a class="post-card-content-link" href="/photo-caption">
-                <header class="post-card-header">
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-
-                  <h2 class="post-card-title-column">Caption Image</h2>
-                </header>
-
-              </a>
-              
-              
-            </div>
-          </article>
-        
-    
-
-
-      </div>
-
     </div>
 </main>
 
@@ -1305,10 +343,6 @@ In a shift from public to private consumption, those who continue to depend on p
 <!-- The main content area -->
 <main id="site-main-3" class="site-main outer" role="main">
     <div class="inner">
-        
-            <div class="title">
-              <a href="/tag/test" style="color:#15171A"><h2>Latest</h2></a>
-            </div>
         
         <div class="post-feed" style="width:100%">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
@@ -1324,6 +358,10 @@ In a shift from public to private consumption, those who continue to depend on p
                 <header class="post-card-header">
                     
                         
+                          
+                            
+                               <span class="post-card-tags"></span>
+                            
                           
                         
                           
@@ -1345,6 +383,236 @@ In a shift from public to private consumption, those who continue to depend on p
 
             
             
+                <footer class="post-card-meta">
+                  <!-- NOT HACKY ANYMORE!!! -->
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        
+        <img class="author-profile-image" src="/assets/images/reema.jpg" alt="Reema Singh" />
+        
+        <span class="post-card-author">
+            <a href="/author/reema.singh/">Reema Singh</a>
+
+        </span>
+        <br>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- This is a very hacky method to adding a second author -->
+<!-- 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+ -->
+
+                </footer>
+            
         </div>
     </article>
 
@@ -1359,6 +627,10 @@ In a shift from public to private consumption, those who continue to depend on p
                 <header class="post-card-header">
                     
                         
+                          
+                            
+                               <span class="post-card-tags"></span>
+                            
                           
                         
                           
@@ -1384,6 +656,236 @@ In a shift from public to private consumption, those who continue to depend on p
 
             
             
+                <footer class="post-card-meta">
+                  <!-- NOT HACKY ANYMORE!!! -->
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        
+        <img class="author-profile-image" src="/assets/images/sam.png" alt="Sam Tanberg" />
+        
+        <span class="post-card-author">
+            <a href="/author/sam.tanberg/">Sam Tanberg</a>
+
+        </span>
+        <br>
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- This is a very hacky method to adding a second author -->
+<!-- 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+ -->
+
+                </footer>
+            
         </div>
     </article>
 
@@ -1398,6 +900,10 @@ In a shift from public to private consumption, those who continue to depend on p
                 <header class="post-card-header">
                     
                         
+                          
+                            
+                               <span class="post-card-tags"></span>
+                            
                           
                         
                           
@@ -1419,6 +925,236 @@ In a shift from public to private consumption, those who continue to depend on p
 
             
             
+                <footer class="post-card-meta">
+                  <!-- NOT HACKY ANYMORE!!! -->
+
+
+    
+
+    
+
+    
+        
+        <img class="author-profile-image" src="/assets/images/tushar.jpg" alt="Vidyarthi" />
+        
+        <span class="post-card-author">
+            <a href="/author/tushar.singh/">Vidyarthi</a>
+
+        </span>
+        <br>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- This is a very hacky method to adding a second author -->
+<!-- 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+ -->
+
+                </footer>
+            
         </div>
     </article>
 
@@ -1433,6 +1169,10 @@ In a shift from public to private consumption, those who continue to depend on p
                 <header class="post-card-header">
                     
                         
+                          
+                            
+                               <span class="post-card-tags"></span>
+                            
                           
                         
                           
@@ -1452,6 +1192,236 @@ In a shift from public to private consumption, those who continue to depend on p
 
             
             
+                <footer class="post-card-meta">
+                  <!-- NOT HACKY ANYMORE!!! -->
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        
+        <img class="author-profile-image" src="/assets/images/stuti.jpg" alt="Stuti Gupta" />
+        
+        <span class="post-card-author">
+            <a href="/author/stuti.gupta/">Stuti Gupta</a>
+
+        </span>
+        <br>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- This is a very hacky method to adding a second author -->
+<!-- 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+ -->
+
+                </footer>
+            
         </div>
     </article>
 
@@ -1466,6 +1436,10 @@ In a shift from public to private consumption, those who continue to depend on p
                 <header class="post-card-header">
                     
                         
+                          
+                            
+                               <span class="post-card-tags"></span>
+                            
                           
                         
                           
@@ -1487,6 +1461,234 @@ In a shift from public to private consumption, those who continue to depend on p
 
             
             
+                <footer class="post-card-meta">
+                  <!-- NOT HACKY ANYMORE!!! -->
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        
+        <span class="post-card-author">
+            <a href="/author/soham.gupta/">Soham Gupta</a>
+
+        </span>
+        <br>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- This is a very hacky method to adding a second author -->
+<!-- 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+ -->
+
+                </footer>
+            
         </div>
     </article>
 
@@ -1501,6 +1703,10 @@ In a shift from public to private consumption, those who continue to depend on p
                 <header class="post-card-header">
                     
                         
+                          
+                            
+                               <span class="post-card-tags"></span>
+                            
                           
                         
                           
@@ -1522,6 +1728,234 @@ In a shift from public to private consumption, those who continue to depend on p
 
             
             
+                <footer class="post-card-meta">
+                  <!-- NOT HACKY ANYMORE!!! -->
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        
+        <span class="post-card-author">
+            <a href="/author/olly.bowes/">Olly Bowes</a>
+
+        </span>
+        <br>
+    
+
+
+
+
+<!-- This is a very hacky method to adding a second author -->
+<!-- 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+ -->
+
+                </footer>
+            
         </div>
     </article>
 
@@ -1536,6 +1970,10 @@ In a shift from public to private consumption, those who continue to depend on p
                 <header class="post-card-header">
                     
                         
+                          
+                            
+                               <span class="post-card-tags"></span>
+                            
                           
                         
                           
@@ -1552,6 +1990,236 @@ In a shift from public to private consumption, those who continue to depend on p
 
             
             
+                <footer class="post-card-meta">
+                  <!-- NOT HACKY ANYMORE!!! -->
+
+
+    
+
+    
+        
+        <img class="author-profile-image" src="/assets/images/kheeran.jpg" alt="Kheeran Naidu" />
+        
+        <span class="post-card-author">
+            <a href="/author/kheeran.naidu/">Kheeran Naidu</a>
+
+        </span>
+        <br>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- This is a very hacky method to adding a second author -->
+<!-- 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+ -->
+
+                </footer>
+            
         </div>
     </article>
 
@@ -1567,6 +2235,10 @@ In a shift from public to private consumption, those who continue to depend on p
                     
                         
                           
+                            
+                                <span class="post-card-tags"></span>
+                            
+                          
                         
                     
 
@@ -1578,6 +2250,236 @@ In a shift from public to private consumption, those who continue to depend on p
             </a>
 
             
+            
+                <footer class="post-card-meta">
+                  <!-- NOT HACKY ANYMORE!!! -->
+
+
+    
+
+    
+        
+        <img class="author-profile-image" src="/assets/images/kheeran.jpg" alt="Kheeran Naidu" />
+        
+        <span class="post-card-author">
+            <a href="/author/kheeran.naidu/">Kheeran Naidu</a>
+
+        </span>
+        <br>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- This is a very hacky method to adding a second author -->
+<!-- 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+ -->
+
+                </footer>
             
         </div>
     </article>
@@ -1594,6 +2496,10 @@ In a shift from public to private consumption, those who continue to depend on p
                     
                         
                           
+                            
+                                <span class="post-card-tags"></span>
+                            
+                          
                         
                     
 
@@ -1605,6 +2511,236 @@ In a shift from public to private consumption, those who continue to depend on p
             </a>
 
             
+            
+                <footer class="post-card-meta">
+                  <!-- NOT HACKY ANYMORE!!! -->
+
+
+    
+
+    
+        
+        <img class="author-profile-image" src="/assets/images/kheeran.jpg" alt="Kheeran Naidu" />
+        
+        <span class="post-card-author">
+            <a href="/author/kheeran.naidu/">Kheeran Naidu</a>
+
+        </span>
+        <br>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- This is a very hacky method to adding a second author -->
+<!-- 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+ -->
+
+                </footer>
             
         </div>
     </article>
@@ -1623,6 +2759,10 @@ In a shift from public to private consumption, those who continue to depend on p
                           
                         
                           
+                            
+                               <span class="post-card-tags"></span>
+                            
+                          
                         
                           
                         
@@ -1638,6 +2778,236 @@ Education: La Sapienza University, Massachusetts Institute of Technology
             </a>
 
             
+            
+                <footer class="post-card-meta">
+                  <!-- NOT HACKY ANYMORE!!! -->
+
+
+    
+
+    
+        
+        <img class="author-profile-image" src="/assets/images/kheeran.jpg" alt="Kheeran Naidu" />
+        
+        <span class="post-card-author">
+            <a href="/author/kheeran.naidu/">Kheeran Naidu</a>
+
+        </span>
+        <br>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- This is a very hacky method to adding a second author -->
+<!-- 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+ -->
+
+                </footer>
             
         </div>
     </article>
@@ -1657,21 +3027,6 @@ Education: La Sapienza University, Massachusetts Institute of Technology
             
             
             
-            
-            <section class="author-card">
-              
-              <img class="author-profile-image" src="/assets/images/kheeran.jpg" alt="kheeran.naidu" />
-              
-              <section class="author-card-content">
-                <h4 class="author-card-name"><a href="/author/kheeran.naidu">Kheeran Naidu</a></h4>
-                
-                <p class="truncate">A technology innovator who is currently pursuing a MEng in Mathematics and Computer Science at the University of Bristol.</p>
-                
-              </section>
-            </section>
-            <!-- <div class="post-full-footer-right">
-              <a class="author-card-button" href="/author/">Read <br>More</a>
-            </div> -->
             
             
             
