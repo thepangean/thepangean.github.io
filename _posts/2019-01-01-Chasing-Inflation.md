@@ -7,7 +7,7 @@ class: post-template
 title: Chasing Inflation
 author: tushar.singh
 cover: Help_Your_OPA_Fight_Inflation_NARA.jpg
-tags: test featured economics
+tags: economics
 date: 2019-01-01
 link: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%22Help_Your_OPA_Fight_Inflation%22_-_NARA_-_514468.tif/lossy-page1-705px-%22Help_Your_OPA_Fight_Inflation%22_-_NARA_-_514468.tif.jpg
 ---

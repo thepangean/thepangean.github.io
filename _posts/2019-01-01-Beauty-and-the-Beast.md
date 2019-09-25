@@ -5,7 +5,7 @@ cover: Indian_Woman_with_bindi.jpg
 navigation: True
 title: Beauty and the Beast
 date: 2019-01-01
-tags: test society
+tags: society
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/3/38/Indian_Woman_with_bindi.jpg

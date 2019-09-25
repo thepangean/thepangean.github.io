@@ -64,8 +64,8 @@ economics:
 #   author: kheeran.naidu
 #   hidden: True
 
-harshita-column:
-  name: harshita-column
+from-the-horses-mouth:
+  name: from-the-horses-mouth
   title: From the Horse's Mouth
   description: If you're looking for something akin to eccentric concepts from the world of self-concocted reality, you're at the right station.
   cover: False

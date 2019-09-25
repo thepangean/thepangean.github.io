@@ -5,7 +5,7 @@ cover: 800px-Interior_of_St_Andrews_Catholic_Church_in_Roanoke_Virginia.jpg
 navigation: True
 title: "A House Divided: The Secret Civil War of the Catholic Church"
 date: 2019-01-01
-tags: test featured society
+tags: society
 class: post-template
 subclass: 'post tag-speeches'
 link: "https://upload.wikimedia.org/wikipedia/commons/7/75/Interior_of_St_Andrew%27s_Catholic_Church_in_Roanoke%2C_Virginia.jpg"
