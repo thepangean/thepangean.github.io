@@ -952,7 +952,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 
 /* Sourced from https://css-tricks.com/snippets/css/drop-caps/ */
-.kg-card-markdown > p:first-of-type::first-letter {
+.first-letter > p:first-of-type::first-letter {
   float: left;
   font-family: Georgia;
   font-size: 75px;
