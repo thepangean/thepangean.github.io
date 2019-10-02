@@ -59,7 +59,7 @@ into the {body} of the default.hbs template -->
             {% endif %}
 
             <section class="post-full-content">
-                <div class="kg-card-markdown">
+                <div class="kg-card-markdown {% unless page.disable-first-letter %}first-letter{% endunless %}">
                     {{ content }}
                 </div>
             </section>
