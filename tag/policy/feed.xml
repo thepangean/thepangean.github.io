@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/policy/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-10-06T18:49:45+00:00</updated>
+  <updated>2019-10-08T23:52:03+00:00</updated>
   <id>/tag/policy/feed.xml</id>
 
   
@@ -127,11 +127,161 @@
     
       
     
+      
+    
   
 
   
   
 
+  
+    <entry>
+      <title type="html">The Bright Side of Sharing Our Data</title>
+      <link href="/The-Bright-Side-of-Sharing-our-Data" rel="alternate" type="text/html" title="The Bright Side of Sharing Our Data" />
+      <published>2019-10-08T00:00:00+00:00</published>
+      <updated>2019-10-08T00:00:00+00:00</updated>
+      <id>/The-Bright-Side-of-Sharing-our-Data</id>
+      <content type="html" xml:base="/The-Bright-Side-of-Sharing-our-Data">&lt;p&gt;In recent times, there has been a wave of anger towards companies which use
+individual data without his or her knowledge. Campaigns like #OwnYourData,
+#MEGA and most recently, the movie documentary &lt;em&gt;The Great Hack&lt;/em&gt; have brought
+the issue to the limelight.&lt;/p&gt;
+
+&lt;p&gt;In this article, I won’t argue that there is no malicious use of personal data,
+I would like to show that though there are some cases where data is used for
+&lt;em&gt;‘nefarious’&lt;/em&gt; -  I quote nefarious because it is subjective to each individual -
+purposes on a whole, the tool known as &lt;em&gt;data analytics&lt;/em&gt; has brought far more
+benefits than harm to society. Fake news and data analytics are separate tools
+which though used simultaneously need to be separated. Whilst data analytics is
+instrumental in the distribution of fake news, it is not the cause of it.
+Gossiping, fear mongering and rumours have been used long before data analytics
+even existed. Though I must add that fake news is completely illegal and should
+never be condoned. Now that I have set the stage, let’s dive right into this
+hidden world of data analytics.&lt;/p&gt;
+
+&lt;div class=&quot;caption&quot; style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;assets/images//data-sharing-fb-avi.png&quot; style=&quot;width:100%&quot; /&gt; An example of the ads section on Facebook.&lt;/div&gt;
+
+&lt;p&gt;Facebook- A name that triggers a whole array of feelings for everyone. A tool
+for communicating, connecting and gathering for like-minded people or long-lost
+friends, or  a tool to gather our personal data, process it and sell it to the
+highest bidder. Not many of us know that we can ourselves see if Facebook is
+being &lt;em&gt;‘mischievous’&lt;/em&gt; with us. Open the ads section under settings to see where
+your data has been used. So let’s say Spotify received your data from Facebook,
+based on that, they would be able to provide you with music that will most
+likely fit your taste. It seems trivial but in this day and age where content is
+being created at an exponentially increasing rate, it would be impossible to go
+through everything to find something we like. To put perspective on that,
+&lt;a href=&quot;https://www.businessofapps.com/data/youtube-statistics/#4&quot;&gt;YouTube is estimated to upload 500 hours of content every minute. That
+essentially means that a lifetime of content is uploaded every 2
+days.&lt;/a&gt; It may be
+online shopping, holiday booking, travel planning and they all have one goal… to
+make our lives easier so we continue using their platforms. In the case of
+Facebook, we have a friend that ensures that we get the best options to choose
+from.&lt;/p&gt;
+
+&lt;p&gt;Arguably, Spotify, YouTube and Facebook are luxury goods, however this is also
+prevalent in healthcare. Let’s dive into a hospital to see how data is changing
+the way we work. Most hospitals, nowadays, have some sort of digital
+ticketing/queuing system which still requires you to wait for hours for your
+treatment. With the increased amount of data and software as a Service Business
+Intelligence (SaaS BI) tool, hospitals will be able to predict the busiest parts
+of the day and staff accordingly to deal with these peaks. This will allow
+hospitals to handle more patients more effectively and hence save more lives in
+the long run. After getting into your appointment, doctors would be able to have
+a full view of your entire medical history, if it was shared. This will, in
+turn, allow them to better understand your history which saves time and provides
+a more accurate diagnosis. These are two very simple examples which only can
+work effectively when medical data is shared.&lt;/p&gt;
+
+&lt;p&gt;A third and less obvious example; &lt;em&gt;what if the medical data was given to
+insurance companies?&lt;/em&gt; The fear is that with access to medical data, we will be
+charged additionally for all the problems they will find out about. But I argue
+differently. With more data available using analytical tools, insurance
+companies would be able to better personalize insurance offers which could
+actually lead to cheaper premiums due to the removal of unnecessary coverage. On
+top of that, insurance companies will be able to better reward people for taking
+steps to maintain good health. Lastly, with access to medical data, insurers
+will be able to better identify insurance fraud leading to more applicants being
+able to claim insurance when required. There is always a risk that some
+companies will implement some unfair practices leading to increased premiums.
+However, with the growing digital economy and a multitude of options, these
+companies are likely to be outcompeted in the free market, making them
+unsustainable in the long run. Whilst this is something that will arise in the
+future, let’s look at it in a very contemporary context - data analytics in
+Political Campaigns.&lt;/p&gt;
+
+&lt;p&gt;Before diving into the data analytics of campaigning, I want to highlight that a
+campaign is defined as ‘a planned group of especially political, business, or
+military activities that are intended to achieve a particular aim&lt;em&gt;.’ &lt;/em&gt; In the
+case of political campaigns, the focus is to convince those who are on the fence
+to support your party. Long before the infamy of Cambridge Analytica,
+campaigners have been collecting polling data to decide how to target their
+campaigns. So why are we suddenly so afraid? Well, mostly it is thanks to our
+favourite six-inch toy that we never stop playing with. Due to advancements in
+smartphone technology, we are becoming far more connected to the internet, which
+in turn leads to more data collected on us. This was the cost of a &lt;em&gt;‘free’&lt;/em&gt;
+internet. The free internet came with the major benefit of allowing everyone a
+chance of getting access. That meant that companies needed a different way to
+make money online, hence the rise of data collection. Initially, starting out as
+a harmless tool to provide advertisers with the attention of relevant
+potential-customers. It has now evolved into a behemoth that not only provides
+the things we may like but also tries to shift our preferences ever so slightly.
+Doesn’t seem so bad, but these subtle nudges to shift our opinions slowly push
+us further and further down the extreme path we are on - which is proven by the
+increased polarization (shown in multiple studies
+&lt;a href=&quot;https://web.stanford.edu/~gentzkow/research/PolarizationIn2016.pdf&quot;&gt;[1]&lt;/a&gt;
+&lt;a href=&quot;https://www.apsanet.org/portals/54/Files/Task%20Force%20Reports/Chapter2Mansbridge.pdf&quot;&gt;[2]&lt;/a&gt;
+&lt;a href=&quot;https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2019-03/Polarisation_and_the_news_media_in_Europe.pdf&quot;&gt;[3]&lt;/a&gt;
+&lt;a href=&quot;https://www.pnas.org/content/115/37/9216&quot;&gt;[4]&lt;/a&gt;) around the world.&lt;/p&gt;
+
+&lt;blockquote&gt;
+“Donald Trump’s 2016 digital campaign director claimed to have run 5.9 million
+visual ads on Facebook, in contrast to Hillary Clinton’s 66,000”- The Great
+Hack.
+&lt;/blockquote&gt;
+
+&lt;p&gt;This statement made at the end of &lt;em&gt;The Great Hack&lt;/em&gt; further highlights
+that this negative opinion on data analytics is also due to some tactics of fear
+mongering and misrepresentation of information&lt;em&gt;.&lt;/em&gt; Without any context, it seems
+like Donald Trump paid to win an election. Then you consider the fact that in
+total Hillary Clinton spent &lt;a href=&quot;https://www.washingtonpost.com/graphics/politics/2016-election/campaign-finance/?noredirect=on&quot;&gt;1.4 Billion compared to Trump’s 957.6
+Million&lt;/a&gt;
+on their respective campaigns. The main reason Trump spent more on online ads
+was that his fundraising had lagged behind Hillary Clinton, so he had missed out
+on the opportunity to spend on TV ads.&lt;/p&gt;
+
+&lt;p&gt;There are so many examples of data being used to make our lives better, but at
+the end of the day, data analytics is just a tool. In the hands of the right
+person, it could bring unprecedented benefits to society. If we go down the
+extreme path of fearing the tool, we have lots to lose. That being said, I still
+highly recommend everyone to find out what is happening with your data.
+Knowledge is power, and we can learn a lot about ourselves from the way our data
+is being used.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Avinash Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="policy" />
+      
+
+      
+        <summary type="html">In recent times, there has been a wave of anger towards companies which use individual data without his or her knowledge. Campaigns like #OwnYourData, #MEGA and most recently, the movie documentary The Great Hack have brought the issue to the limelight. In this article, I won’t argue that there is no malicious use of personal data, I would like to show that though there are some cases where data is used for ‘nefarious’ -  I quote nefarious because it is subjective to each individual - purposes on a whole, the tool known as data analytics has brought far more benefits than harm to society. Fake news and data analytics are separate tools which though used simultaneously need to be separated. Whilst data analytics is instrumental in the distribution of fake news, it is not the cause of it. Gossiping, fear mongering and rumours have been used long before data analytics even existed. Though I must add that fake news is completely illegal and should never be condoned. Now that I have set the stage, let’s dive right into this hidden world of data analytics. An example of the ads section on Facebook. Facebook- A name that triggers a whole array of feelings for everyone. A tool for communicating, connecting and gathering for like-minded people or long-lost friends, or  a tool to gather our personal data, process it and sell it to the highest bidder. Not many of us know that we can ourselves see if Facebook is being ‘mischievous’ with us. Open the ads section under settings to see where your data has been used. So let’s say Spotify received your data from Facebook, based on that, they would be able to provide you with music that will most likely fit your taste. It seems trivial but in this day and age where content is being created at an exponentially increasing rate, it would be impossible to go through everything to find something we like. To put perspective on that, YouTube is estimated to upload 500 hours of content every minute. That essentially means that a lifetime of content is uploaded every 2 days. It may be online shopping, holiday booking, travel planning and they all have one goal… to make our lives easier so we continue using their platforms. In the case of Facebook, we have a friend that ensures that we get the best options to choose from. Arguably, Spotify, YouTube and Facebook are luxury goods, however this is also prevalent in healthcare. Let’s dive into a hospital to see how data is changing the way we work. Most hospitals, nowadays, have some sort of digital ticketing/queuing system which still requires you to wait for hours for your treatment. With the increased amount of data and software as a Service Business Intelligence (SaaS BI) tool, hospitals will be able to predict the busiest parts of the day and staff accordingly to deal with these peaks. This will allow hospitals to handle more patients more effectively and hence save more lives in the long run. After getting into your appointment, doctors would be able to have a full view of your entire medical history, if it was shared. This will, in turn, allow them to better understand your history which saves time and provides a more accurate diagnosis. These are two very simple examples which only can work effectively when medical data is shared. A third and less obvious example; what if the medical data was given to insurance companies? The fear is that with access to medical data, we will be charged additionally for all the problems they will find out about. But I argue differently. With more data available using analytical tools, insurance companies would be able to better personalize insurance offers which could actually lead to cheaper premiums due to the removal of unnecessary coverage. On top of that, insurance companies will be able to better reward people for taking steps to maintain good health. Lastly, with access to medical data, insurers will be able to better identify insurance fraud leading to more applicants being able to claim insurance when required. There is always a risk that some companies will implement some unfair practices leading to increased premiums. However, with the growing digital economy and a multitude of options, these companies are likely to be outcompeted in the free market, making them unsustainable in the long run. Whilst this is something that will arise in the future, let’s look at it in a very contemporary context - data analytics in Political Campaigns. Before diving into the data analytics of campaigning, I want to highlight that a campaign is defined as ‘a planned group of especially political, business, or military activities that are intended to achieve a particular aim.’  In the case of political campaigns, the focus is to convince those who are on the fence to support your party. Long before the infamy of Cambridge Analytica, campaigners have been collecting polling data to decide how to target their campaigns. So why are we suddenly so afraid? Well, mostly it is thanks to our favourite six-inch toy that we never stop playing with. Due to advancements in smartphone technology, we are becoming far more connected to the internet, which in turn leads to more data collected on us. This was the cost of a ‘free’ internet. The free internet came with the major benefit of allowing everyone a chance of getting access. That meant that companies needed a different way to make money online, hence the rise of data collection. Initially, starting out as a harmless tool to provide advertisers with the attention of relevant potential-customers. It has now evolved into a behemoth that not only provides the things we may like but also tries to shift our preferences ever so slightly. Doesn’t seem so bad, but these subtle nudges to shift our opinions slowly push us further and further down the extreme path we are on - which is proven by the increased polarization (shown in multiple studies [1] [2] [3] [4]) around the world. “Donald Trump’s 2016 digital campaign director claimed to have run 5.9 million visual ads on Facebook, in contrast to Hillary Clinton’s 66,000”- The Great Hack. This statement made at the end of The Great Hack further highlights that this negative opinion on data analytics is also due to some tactics of fear mongering and misrepresentation of information. Without any context, it seems like Donald Trump paid to win an election. Then you consider the fact that in total Hillary Clinton spent 1.4 Billion compared to Trump’s 957.6 Million on their respective campaigns. The main reason Trump spent more on online ads was that his fundraising had lagged behind Hillary Clinton, so he had missed out on the opportunity to spend on TV ads. There are so many examples of data being used to make our lives better, but at the end of the day, data analytics is just a tool. In the hands of the right person, it could bring unprecedented benefits to society. If we go down the extreme path of fearing the tool, we have lots to lose. That being said, I still highly recommend everyone to find out what is happening with your data. Knowledge is power, and we can learn a lot about ourselves from the way our data is being used.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">The Greying World: An Opportunity for India</title>
@@ -954,215 +1104,6 @@ Sea dispute would be something to watch out for.&lt;/p&gt;</content>
 
       
         <summary type="html">“Education is the most powerful weapon which you can use to change the world.” These words of Nelson Mandela capture the importance of obtaining an education for every individual across any generation. Millennials, too, recognise the importance of getting educated. In fact, according to the Pew Research Center, they are the most educated generation yet. However, the major impediment that comes in their way of entering the formal schooling system and, later, higher education is limited availability of finance.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Portuguese Drug Decriminalisation – Has it Worked?</title>
-      <link href="/Portuguese-Drug-Decriminalisation" rel="alternate" type="text/html" title="Portuguese Drug Decriminalisation – Has it Worked?" />
-      <published>2019-07-10T16:00:00+00:00</published>
-      <updated>2019-07-10T16:00:00+00:00</updated>
-      <id>/Portuguese-Drug-Decriminalisation</id>
-      <content type="html" xml:base="/Portuguese-Drug-Decriminalisation">&lt;p&gt;In 2001, Portugal became a global leader in the war against drugs when it
-decriminalised the possession and consumption of all illegal substances. When
-this topic comes up in conversation, most people (especially those from the UK
-and the US) are rather shocked when they find out. Two obvious questions then
-arise. Firstly, how and why could a traditionally conservative country, tucked
-away at the edge of Europe, just decriminalise all drugs? The second question
-is, of course, did it work?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Background to this article&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This article is inspired by a university project that I completed whilst
-spending 5 months in Lisbon. The interviews referenced are personal interviews
-that I completed in April, 2019. Some have been translated from Portuguese to
-English. The three interviews I will reference are of the following people:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;João Santa Maria&lt;/em&gt; – Peer mediator in the NGO IN-Mouraria – a harm reduction
-centre for drug users.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Brendan Hughes&lt;/em&gt; – Principal Scientist and expert in Drug Legislation at the
-European Monitoring Centre for Drugs and Drug Addiction.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;João Goulão&lt;/em&gt; – Director of SICAD, the government department for Intervention
-on Addictive Behaviours and Dependencies, and the architect for Portugal’s drug
-policy. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The History&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Portugal’s decision to decriminalise drugs cannot be understood without first
-looking at the recent history of the country. From 1933 to 1974, Portugal was
-under the rule of the Estado Novo regime, a right-wing, Catholic, authoritarian
-government led by Antonio Salazar. If this name sounds familiar, it’s because it
-was the inspiration behind Salazar Slytherin, as J.K. Rowling used to live and
-teach in Porto. Portugal was shut off from the outside world, with its only
-neighbouring country Spain under a similarly restrictive right-wing
-dictatorship, so Portugal “missed out on the experimentation and mind-expanding
-culture of the 1960s.” &lt;/p&gt;
-
-&lt;p&gt;When the colonial troops came back from Africa, they brought cannabis with them;
-soon after, heroin entered the country. As João Santa Maria explains, “freedom
-gave us the right to do whatever we wanted.” However, there would be
-consequences to this liberty. By the end of the 90s, heroin addiction, HIV and
-Hepatitis C had ravaged the country. In truth, nobody quite knows how many
-people were addicted, but it’s estimated that 1 in 10 people were using heroin,
-1 in 100 were battling heroin addiction, and HIV rates reached a high of 104.2
-new cases per million in 2000. To put that into context, the current HIV rate is
-4.2 per million. One of the most important things to understand is that heroin
-use was not limited to a certain class of people. Bankers, lawyers, doctors,
-teachers; João Goulão remembers how everybody seemed to know a heroin addict. &lt;/p&gt;
-
-&lt;p&gt;Thus, implementing wide-scale change and challenging the social norms of a drug
-policy was a far more realistic and achievable task in Portugal than it would be
-in the UK or the US today. Furthermore, the policy was not a result of left-wing
-liberalisation, as some people might assume. The motivation, as explained, was a
-response to a health crisis, not an ideological movement. In 2001, the new
-decriminalisation law was implemented and although there have been some small
-alterations, it essentially remains the same to this day.&lt;/p&gt;
-
-&lt;p&gt;At this point, it is important to address exactly what decriminalisation
-actually means. Brendan Hughes has made a very useful video
-(&lt;a href=&quot;http://www.youtube.com/watch?v9NKhpujqOXc&quot;&gt;www.youtube.com/watch?v9NKhpujqOXc&lt;/a&gt;)
-which I highly recommend watching. To explain it briefly, decriminalisation is
-&lt;strong&gt;not&lt;/strong&gt; the same as legalisation. In the diagram below, taken from Hughes’
-video, the red dots indicated illegal activity, and the green dots, legal
-activity. Decriminalisation, or a non-criminal offence, does not pass the line
-from criminal to legal. It simply becomes an administrative offence, rather than
-a criminal one. For example, bad parking is not a criminal offence, but may
-still be fined and punished. The same can be said for the possession and
-consumption of illegal substances in Portugal.&lt;/p&gt;
-
-&lt;div class=&quot;caption&quot; style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot;&gt;&lt;img src=&quot;assets/images//drug-decriminalisation.png&quot; style=&quot;width:100%&quot; /&gt;&lt;/a&gt;&lt;b&gt;Image result for drug decriminalisation explained&lt;/b&gt;&lt;/div&gt;
-
-&lt;p&gt;One of the main issues with decriminalisation in Portugal, and across the world,
-is that the general public does not seem to understand what it entails. In
-Lisbon, this is not helped by the fact that tourist areas are filled with ‘drug
-dealers’, who offer unsuspecting tourists cannabis, hashish and cocaine. The
-drugs are almost always fake (which is why the police do not intervene), but
-this gives visitors the impression that drugs are legal in Portugal which
-definitely muddies the water. Another issue is that the concept of
-decriminalisation has become incredibly and dangerously politicised. Here is an
-extract from my interview with Brendan, wherein he concisely details the issues
-with decriminalisation:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Brendan Hughes: “From what I see, a chunk of it is to with this horrible word
-decriminalisation, which evokes so many feelings in different people, despite
-the fact that most of them don’t actually know what it is or what it means. They
-imagine it to mean something, and therefore either they are greatly in favour of
-what they think it means, or they are greatly against. So, they are in favour
-because it means people don’t get criminal records, or people get treated and
-treated as humans, and they have dignity, and you take the drug users away from
-contact with the police or the criminal justice system. And people are against
-it because they think that it takes away the threat, and it suggests somehow
-society considers that this offence isn’t particularly that bad after all and
-therefore it will encourage a bunch of other people to do it - those are the
-main arguments. And because neither of them are fully correct - but again,
-people don’t really seem to talk so much about the facts.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Me: “And, you know, that decriminalisation doesn’t lead to increased use.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Brendan Hughes: “It doesn’t. We don’t know! It doesn’t lead to anything
-predictable.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Me: “It’s not about liberalisation. And I guess I think some people think that
-it’s a left-wing policy.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Brendan Hughes: “And that’s what I say. People think it’s a badge, and it’s
-either a badge of achievement to say that you’ve done it, or it’s a badge of
-achievement to say that you’ve resisted it, when neither side really sees the
-full picture.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;(Extract from my interview with Brendan Hughes).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Results&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Beyond the politics, what have been the quantifiable outcomes of the policy?
-Well, it is not a simple answer. Statistically speaking, Portugal has
-dramatically improved. HIV rates have plummeted, overall drug use is down,
-though Hepatitis C and problem drug use are still an issue. If you are caught
-with an illegal substance, you are either fined, given a warning, or sent to a
-commission. These commissions have the mantra of ‘treatment before punishment’,
-and the vast majority of cases are dismissed. If you are a drug addict, then
-there is no possibility of a fine, only treatment.&lt;/p&gt;
-
-&lt;p&gt;In terms of policing, the local authorities rarely bother anybody on the street,
-and it is extremely common to smell cannabis at any time of the day. The
-attitude towards drug addicts has also improved, and heroin-assisted treatment
-centres, in Lisbon, are finally about to open, having been promised for over two
-years. The improvements listed above definitely qualify as drastic progress, in
-comparison to where Portugal was in the 80s and the 90s, yet it would be an
-oversimplification to credit all of this to decriminalisation. João Goulão has
-detailed how they could have done the whole policy without decriminalisation,
-and still put in place the social services and commissions that exist today. In
-fact, there is definitely a symbolic element to Portuguese decriminalisation;
-allowing the Portuguese population the freedoms that they had so badly missed
-for the majority of the 20th century. &lt;/p&gt;
-
-&lt;p&gt;Yet, upon speaking to various street teams involved with drug use, homelessness
-and other issues, I discovered that there is definitely the feeling that the
-policy did not go far enough; some believe that legalisation and regulation are
-the only solutions. Financing, from the state and local governments, has
-dwindled, and drug users still feel punished purely for being drug users. Though
-people are more accepting, Santa Maria notes that, “although they support our
-work, they don’t want to deal with it on their own doorstep”. When I asked João
-Goulão about these complaints, he responded in an empathetic but pragmatic way.
-It is clear that he cares about how his policy is perceived by those it affects,
-but being an activist and being a politician are two separate things; in charge
-of a delicate political balancing act, it is a tricky task to please
-politicians, the public and drug users all at the same time.&lt;/p&gt;
-
-&lt;p&gt;The global trend towards cannabis legalisation is also causing problems. Part of
-the basis for the entire Portuguese policy is that there is no such thing as
-‘hard’ drugs and ‘soft’ drugs; all of them are treated as equal. However, with
-other countries starting to legalise cannabis, this creates a sticky situation
-for the Portuguese. It would be very difficult, if not impossible, to justify
-the legalisation of cannabis; if all drugs are equally ‘good’ or ‘bad’, then if
-you legalise one, you must legalise them all.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Looking ahead - Is Portugal an example to follow?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;As I stated earlier, it is hard to label the policy in a binary sense of ‘it
-works’ or ‘it does not work’. That said, I find it difficult not to see the
-Portuguese policy as progress in the right direction. There are clearly some
-issues, but these generally take the form of improvements that need to be made,
-rather than fundamental problems of the policy itself. As more and more
-countries start to think about and implement similar policies, the Portuguese
-2001 legislation is still relevant nearly twenty years later. Whether or not it
-serves as an example or model for other countries is debatable. Drug policy is
-very nuanced, and each individual country has its own idiosyncrasies and culture
-that would affect whether decriminalisation would work. To try and imitate the
-Portuguese success by replicating them would not work; the policy was reacting
-to a specific situation at a specific time. However, using the Portuguese as an
-inspiration of alternative policymaking, and thus reviewing our own beliefs
-about drug and drug policy could be a way forward. Too often, we follow the
-dogma that we have been taught by friends, family, politicians, looking for an
-easy, ‘one size fits all’ answer to the very difficult question of drug policy.
-The Portuguese have shown us that there is another way, and maybe we should take
-note.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Daniel Harris</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="policy" />
-      
-
-      
-        <summary type="html">In 2001, Portugal became a global leader in the war against drugs when it decriminalised the possession and consumption of all illegal substances. When this topic comes up in conversation, most people (especially those from the UK and the US) are rather shocked when they find out. Two obvious questions then arise. Firstly, how and why could a traditionally conservative country, tucked away at the edge of Europe, just decriminalise all drugs? The second question is, of course, did it work? Background to this article This article is inspired by a university project that I completed whilst spending 5 months in Lisbon. The interviews referenced are personal interviews that I completed in April, 2019. Some have been translated from Portuguese to English. The three interviews I will reference are of the following people: João Santa Maria – Peer mediator in the NGO IN-Mouraria – a harm reduction centre for drug users. Brendan Hughes – Principal Scientist and expert in Drug Legislation at the European Monitoring Centre for Drugs and Drug Addiction. João Goulão – Director of SICAD, the government department for Intervention on Addictive Behaviours and Dependencies, and the architect for Portugal’s drug policy.  The History Portugal’s decision to decriminalise drugs cannot be understood without first looking at the recent history of the country. From 1933 to 1974, Portugal was under the rule of the Estado Novo regime, a right-wing, Catholic, authoritarian government led by Antonio Salazar. If this name sounds familiar, it’s because it was the inspiration behind Salazar Slytherin, as J.K. Rowling used to live and teach in Porto. Portugal was shut off from the outside world, with its only neighbouring country Spain under a similarly restrictive right-wing dictatorship, so Portugal “missed out on the experimentation and mind-expanding culture of the 1960s.”  When the colonial troops came back from Africa, they brought cannabis with them; soon after, heroin entered the country. As João Santa Maria explains, “freedom gave us the right to do whatever we wanted.” However, there would be consequences to this liberty. By the end of the 90s, heroin addiction, HIV and Hepatitis C had ravaged the country. In truth, nobody quite knows how many people were addicted, but it’s estimated that 1 in 10 people were using heroin, 1 in 100 were battling heroin addiction, and HIV rates reached a high of 104.2 new cases per million in 2000. To put that into context, the current HIV rate is 4.2 per million. One of the most important things to understand is that heroin use was not limited to a certain class of people. Bankers, lawyers, doctors, teachers; João Goulão remembers how everybody seemed to know a heroin addict.  Thus, implementing wide-scale change and challenging the social norms of a drug policy was a far more realistic and achievable task in Portugal than it would be in the UK or the US today. Furthermore, the policy was not a result of left-wing liberalisation, as some people might assume. The motivation, as explained, was a response to a health crisis, not an ideological movement. In 2001, the new decriminalisation law was implemented and although there have been some small alterations, it essentially remains the same to this day. At this point, it is important to address exactly what decriminalisation actually means. Brendan Hughes has made a very useful video (www.youtube.com/watch?v9NKhpujqOXc) which I highly recommend watching. To explain it briefly, decriminalisation is not the same as legalisation. In the diagram below, taken from Hughes’ video, the red dots indicated illegal activity, and the green dots, legal activity. Decriminalisation, or a non-criminal offence, does not pass the line from criminal to legal. It simply becomes an administrative offence, rather than a criminal one. For example, bad parking is not a criminal offence, but may still be fined and punished. The same can be said for the possession and consumption of illegal substances in Portugal. Image result for drug decriminalisation explained One of the main issues with decriminalisation in Portugal, and across the world, is that the general public does not seem to understand what it entails. In Lisbon, this is not helped by the fact that tourist areas are filled with ‘drug dealers’, who offer unsuspecting tourists cannabis, hashish and cocaine. The drugs are almost always fake (which is why the police do not intervene), but this gives visitors the impression that drugs are legal in Portugal which definitely muddies the water. Another issue is that the concept of decriminalisation has become incredibly and dangerously politicised. Here is an extract from my interview with Brendan, wherein he concisely details the issues with decriminalisation: Brendan Hughes: “From what I see, a chunk of it is to with this horrible word decriminalisation, which evokes so many feelings in different people, despite the fact that most of them don’t actually know what it is or what it means. They imagine it to mean something, and therefore either they are greatly in favour of what they think it means, or they are greatly against. So, they are in favour because it means people don’t get criminal records, or people get treated and treated as humans, and they have dignity, and you take the drug users away from contact with the police or the criminal justice system. And people are against it because they think that it takes away the threat, and it suggests somehow society considers that this offence isn’t particularly that bad after all and therefore it will encourage a bunch of other people to do it - those are the main arguments. And because neither of them are fully correct - but again, people don’t really seem to talk so much about the facts.” Me: “And, you know, that decriminalisation doesn’t lead to increased use.” Brendan Hughes: “It doesn’t. We don’t know! It doesn’t lead to anything predictable.” Me: “It’s not about liberalisation. And I guess I think some people think that it’s a left-wing policy.” Brendan Hughes: “And that’s what I say. People think it’s a badge, and it’s either a badge of achievement to say that you’ve done it, or it’s a badge of achievement to say that you’ve resisted it, when neither side really sees the full picture.” (Extract from my interview with Brendan Hughes). The Results Beyond the politics, what have been the quantifiable outcomes of the policy? Well, it is not a simple answer. Statistically speaking, Portugal has dramatically improved. HIV rates have plummeted, overall drug use is down, though Hepatitis C and problem drug use are still an issue. If you are caught with an illegal substance, you are either fined, given a warning, or sent to a commission. These commissions have the mantra of ‘treatment before punishment’, and the vast majority of cases are dismissed. If you are a drug addict, then there is no possibility of a fine, only treatment. In terms of policing, the local authorities rarely bother anybody on the street, and it is extremely common to smell cannabis at any time of the day. The attitude towards drug addicts has also improved, and heroin-assisted treatment centres, in Lisbon, are finally about to open, having been promised for over two years. The improvements listed above definitely qualify as drastic progress, in comparison to where Portugal was in the 80s and the 90s, yet it would be an oversimplification to credit all of this to decriminalisation. João Goulão has detailed how they could have done the whole policy without decriminalisation, and still put in place the social services and commissions that exist today. In fact, there is definitely a symbolic element to Portuguese decriminalisation; allowing the Portuguese population the freedoms that they had so badly missed for the majority of the 20th century.  Yet, upon speaking to various street teams involved with drug use, homelessness and other issues, I discovered that there is definitely the feeling that the policy did not go far enough; some believe that legalisation and regulation are the only solutions. Financing, from the state and local governments, has dwindled, and drug users still feel punished purely for being drug users. Though people are more accepting, Santa Maria notes that, “although they support our work, they don’t want to deal with it on their own doorstep”. When I asked João Goulão about these complaints, he responded in an empathetic but pragmatic way. It is clear that he cares about how his policy is perceived by those it affects, but being an activist and being a politician are two separate things; in charge of a delicate political balancing act, it is a tricky task to please politicians, the public and drug users all at the same time. The global trend towards cannabis legalisation is also causing problems. Part of the basis for the entire Portuguese policy is that there is no such thing as ‘hard’ drugs and ‘soft’ drugs; all of them are treated as equal. However, with other countries starting to legalise cannabis, this creates a sticky situation for the Portuguese. It would be very difficult, if not impossible, to justify the legalisation of cannabis; if all drugs are equally ‘good’ or ‘bad’, then if you legalise one, you must legalise them all. Looking ahead - Is Portugal an example to follow? As I stated earlier, it is hard to label the policy in a binary sense of ‘it works’ or ‘it does not work’. That said, I find it difficult not to see the Portuguese policy as progress in the right direction. There are clearly some issues, but these generally take the form of improvements that need to be made, rather than fundamental problems of the policy itself. As more and more countries start to think about and implement similar policies, the Portuguese 2001 legislation is still relevant nearly twenty years later. Whether or not it serves as an example or model for other countries is debatable. Drug policy is very nuanced, and each individual country has its own idiosyncrasies and culture that would affect whether decriminalisation would work. To try and imitate the Portuguese success by replicating them would not work; the policy was reacting to a specific situation at a specific time. However, using the Portuguese as an inspiration of alternative policymaking, and thus reviewing our own beliefs about drug and drug policy could be a way forward. Too often, we follow the dogma that we have been taught by friends, family, politicians, looking for an easy, ‘one size fits all’ answer to the very difficult question of drug policy. The Portuguese have shown us that there is another way, and maybe we should take note.</summary>
       
 
       
