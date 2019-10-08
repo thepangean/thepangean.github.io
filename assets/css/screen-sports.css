@@ -1026,7 +1026,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .post-full-content img,
 .post-full-content video {
     display: block;
-    margin: 1.5em auto;
+    margin: 0.7em auto;
     max-width: 1040px;
 }
 @media (max-width: 1040px) {

@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "A Drunk Parable of The Tech Age"
-author: the.pangean
+author: harsh.tiwari reuben.pritchard
 cover: tech-globe.jpg
 tags: society
 date: 2019-08-21

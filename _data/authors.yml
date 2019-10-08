@@ -337,6 +337,17 @@ shohan.mukherjee:
   twitter: False
   cover: shohan-cover.jpg
 
+avinash.naidu:
+  username: avinash.naidu
+  name: Avinash Naidu
+  location: Kuala Lumpur, Malaysia
+  positions: Contributor
+  bio: Digitization. A word feared by most business owners in Malaysia. I founded JTK Technologies to push Digital Automation in the virtually untouched Malaysian SME market using previous experience in the transformation of Maxis Mobile Sdn Bhd.
+  picture: avinash.jpg
+  facebook: False
+  twitter: False
+  cover: avinash-cover.jpg
+
 gavin.olson:
   username: gavin.olson
   name: Gavin Olson
@@ -521,8 +532,8 @@ reuben.pritchard:
   username: reuben.pritchard
   name: Reuben Pritchard
   location:
-  positions: Guest Contributor
-  bio: Over-privileged English f***wit. You'll love me when I'm dead.
+  positions: Contributor
+  bio: Over-privileged Englishman. You'll love me when I'm dead.
   picture: reuben.png
   facebook: False
   twitter: False
