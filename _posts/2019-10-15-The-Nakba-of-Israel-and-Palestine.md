@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: ispal.jpg
+cover: israelpal.jpg
 navigation: True
 title: "The Nakba of Israel and Palestine"
 date: 2019-10-15
