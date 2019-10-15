@@ -8,7 +8,7 @@ date: 2019-10-15
 tags: policy
 class: post-template
 subclass: 'post tag-speeches'
-link: https://www.flickr.com/photos/yaged/6940529043/in/photolist-bzj2tR-wy1Zb-24QYePY-2fF8ZtL-27Kfs9E-9FsPuh-28LmBio-dfmzf4-259bQJc-bBzxd6-27sQGXn-dfmFwy-9Fswfm-9Fta5m-9FsFwJ-2ey5TCW-rvy9QT-4Tm7FZ-rvypg6-229G4wE-5E7TWR-4jkwGD-oiypH2-6d8g3D-6d7rYT-6d8hP2-czjP8-6dbFwW-6d8EDk-6d7dVk-6dbEQm-24UEicF-6dctvN-GLTD8Q-nyjhTx-nqwR9z-6dcSf1-9FpRgK-24QYd6N-6d8PSR-dfkFKz-wy2Xx-6dbCQL-nbZ931-6dbjsu-229G1Sw-bbJFxK-9KFjsc-9c9qax-nyjugc
+link: https://pixabay.com/es/photos/israel-palestina-pared-3387065/
 author: devyani.arora
 ---
 In 2014, Rihanna, Zayn Malik, and Coldplay found themselves in the media limelight for posting pro-Palestinian tweets. As #freePalestine and #freedomforpalestine started trending, their popularity in Israel fell. We can attribute this to the conflict between Israel and Palestine. The Israel-Palestinian conflict is one of the world’s longest-running and most controversial conflicts. Today, over 7 million Palestinians identify themselves as refugees, with Israelis continuing to settle in the territory that Palestinians claim as their own.
