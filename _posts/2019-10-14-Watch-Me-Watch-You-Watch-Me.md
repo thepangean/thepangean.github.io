@@ -10,6 +10,7 @@ cover: social-media-world.png
 tags: society
 date: 2019-10-14
 link: "https://cdn.pixabay.com/photo/2016/05/20/17/17/social-media-1405601_960_720.png"
+disable-first-letter: False
 ---
 Most of us in some way, shape or form love social media. We spend hours
 scrolling through content, liking and commenting as we go along. All of our
