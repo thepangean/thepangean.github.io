@@ -152,7 +152,7 @@ sacrificed at the altar of Nehru’s all-India outlook.” 
 
 The sentiments did not, however, die with the failure of the plan to unify
 Bengal in 1947. The Brihot Bangla or Bishal Bangla Movement (Greater Bengal
-Movement) is a nationalist political ideology which seeks to unite all Bangali
+Movement) is a nationalist political ideology which seeks to unite all bangali
 speaking regions of today’s India, Bangladesh and Myanmar into a single nation.
 If I am to draw an analogy (although it is very difficult to find one for it is
 as unique as it can possibly get), I would say that it is like Kurdistan. The
