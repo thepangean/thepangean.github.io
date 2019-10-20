@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "What makes Bengal Bangla?"
+title: "What Makes Bengal Bangla?"
 author: oindrila.ghosh
 cover: pending.png
 tags: society
