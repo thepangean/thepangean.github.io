@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "A Carnage, with its Fangs upon History"
+title: "A Carnage, with its Fangs Upon History"
 author: oyeshi.ganguly
 cover: pending.png
 tags: policy
