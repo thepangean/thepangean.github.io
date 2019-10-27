@@ -6,10 +6,10 @@ class: post-template
 
 title: "A Carnage, with its Fangs Upon History"
 author: oyeshi.ganguly
-cover: pending.png
+cover: Sikh_pogrom_of_1984.jpg
 tags: policy
 date: 2019-10-15
-link: thepangean.com
+link: https://upload.wikimedia.org/wikipedia/commons/4/4d/Sikh_pogrom_of_1984.jpg
 disable-first-letter: True
 ---
 **A retrospection on the eve of the 35th anniversary of the Anti-Sikh riots:

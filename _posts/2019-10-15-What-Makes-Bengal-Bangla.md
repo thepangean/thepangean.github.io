@@ -6,10 +6,10 @@ class: post-template
 
 title: "What Makes Bengal Bangla?"
 author: oindrila.ghosh
-cover: pending.png
+cover: 394_baul-singers-sml.jpg
 tags: society
 date: 2019-10-15
-link: thepangean.com
+link: https://upload.wikimedia.org/wikipedia/commons/7/7c/394_baul-singers-sml.jpg
 disable-first-letter: False
 ---
 This year, on our (India’s) Independence Day, a group of my friends were talking
