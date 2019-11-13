@@ -534,7 +534,7 @@ reuben.pritchard:
   username: reuben.pritchard
   name: Reuben Pritchard
   location:
-  positions: Contributor
+  positions: Guest Contributor
   bio: Over-privileged Englishman. You'll love me when I'm dead.
   picture: reuben.jpg
   facebook: False
@@ -576,6 +576,17 @@ swarnima.tewary:
   cover: swarnima-cover.jpg
   url: thepinkflora.com
   url_full: http://thepinkflora.com
+ 
+sam.valk:
+  username: sam.valk
+  name: Sam Valk
+  location: Cincinnati
+  positions: Guest Contributor
+  bio: A 23 year old thinker with the political acumen and hair of an octogenarian
+  picture: sam.valk.jpeg
+  facebook: samuel.vandervalk.1
+  twitter: False
+  cover: sam.valk-cover.jpg
 
 troy.worden:
   username: troy.worden
