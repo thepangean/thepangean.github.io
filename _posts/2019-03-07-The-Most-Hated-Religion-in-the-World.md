@@ -7,7 +7,7 @@ class: post-template
 title: "The Most Hated Religion in the World"
 author: soham.gupta
 cover: Lady_of_Perpetual_Help.jpg
-tags: society
+tags: trending society
 date: 2019-03-07 04:00
 link: https://upload.wikimedia.org/wikipedia/commons/d/df/Tuam_Cathedral_of_the_Assumption_Our_Lady_of_Perpetual_Help_Icon_2009_09_14.jpg
 ---

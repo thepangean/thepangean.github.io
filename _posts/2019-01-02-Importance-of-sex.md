@@ -7,7 +7,7 @@ class: post-template
 title: "Editorial: On The Importance of Sex"
 author: harsh.tiwari
 cover: importance-of-sex.jpg
-tags: society trending
+tags: trending society
 date: 2019-01-02
 link: https://upload.wikimedia.org/wikipedia/commons/2/2d/Et_nous_aussi_nous_serons_meres_Lequeu.jpg
 ---
