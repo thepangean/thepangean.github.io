@@ -16,7 +16,7 @@ The second of The Pangean’s pubcasts is with Mr Achyut Chandra, an MSME busine
 
 1. *Part I* - an on-ground overview of what is going wrong with the Indian economy, i.e. the current slowdown, and a brief overview of the state of the MSME sector, in particular (<a href="javascript:void(0)" onclick="setTime(0)">00:00</a>)
 
-2. *Part II* - a vision for India's economy, including a broad roadmap for future prosperity and for unleashing the potential of India’s small businesses (<a href="javascript:void(0)" onclick="setTime(2243)">37:23</a>)
+2. *Part II* - a vision for India's economy, including a broad roadmap for future prosperity and for unleashing the potential of India’s small businesses (<a href="javascript:void(0)" onclick="setTime(2246)">37:26</a>)
 
 <figure>
     <audio id="pubcast-2"
