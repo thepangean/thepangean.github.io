@@ -9,7 +9,7 @@ author: samuel.hogan
 cover: parissaintgermain.jpg
 pic1: parissaintgermain-1.jpg
 pic2: parissaintgermain-2.jpg
-tags: sports football
+tags: sports football headline
 date: 2019-11-18
 link: "https://pixabay.com/photos/football-soccer-europe-uefa-2697825/"
 ---
