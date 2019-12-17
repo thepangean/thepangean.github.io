@@ -46,12 +46,13 @@ economics:
   description: False
   cover: False
   section: True
-# conscience:
-#   name: conscience
-#   title: Conscience
-#   description: False
-#   cover: False
-#   section: True
+
+conscience:
+  name: conscience
+  title: Conscience
+  description: False
+  cover: False
+  section: True
 
 # COLUMNS
 
