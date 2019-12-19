@@ -362,6 +362,19 @@ gavin.olson:
   cover: gavin-olson-cover.jpg
   sports: True
 
+tom.perrett:
+  username: tom.perrett
+  name: Tom Perrett
+  location: Bristol
+  positions: Contributor
+  bio: I write about politics, history and current affairs from a socialist perspective. My writing has covered a variety of topics, from the American opioid crisis to the Libertarian to Fascist Pipeline. My intellectual influences include Eric Hobsbawm, Emma Goldman and Murray Bookchin.
+  picture: 
+  facebook: thomas.perrett.3
+  twitter: tomperrett97
+  cover:
+  url: medium.com/@thomas.perrett97
+  url_full: https://medium.com/@thomas.perrett97
+
 abhishek.sancheti:
   username: abhishek.sancheti
   name: Abhishek Sancheti
@@ -576,7 +589,7 @@ swarnima.tewary:
   cover: swarnima-cover.jpg
   url: thepinkflora.com
   url_full: http://thepinkflora.com
- 
+
 sam.valk:
   username: sam.valk
   name: Sam Valk
