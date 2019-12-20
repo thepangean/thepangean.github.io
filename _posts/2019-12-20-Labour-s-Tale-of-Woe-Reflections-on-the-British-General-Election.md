@@ -6,10 +6,10 @@ class: post-template
 
 title: "Labour's Tale of Woe: Reflections on the British General Election"
 author: tom.perrett
-cover:
+cover: jcorbyn.jpg
 tags: society
 date: 2019-12-20
-link: ""
+link: "https://commons.wikimedia.org/wiki/File:Jeremy-Corbyn-Chatham-House.jpg"
 ---
 In last Thursday’s British general election, the Conservative Party won a resounding majority of 356 seats to Labour’s 203, in what proved to be the Labour Party’s worst election defeat since 1935. The Conservatives saw significant gains in Britain’s Leave-voting constituencies in the North East and the Midlands, as Boris Johnson’s promise to ‘get Brexit done’ clearly resonated with many voters in traditional Labour strongholds. The certainty of an exit from the EU, coupled with the SNP gaining 13 seats in Scotland including that of the Liberal Democrat leader Jo Swinson, has also left many contemplating the future of the Union and the probability of a Scottish secession. But the most striking aspect of the election was the collapse of the Labour Party, which lost 59 seats from their 2017 results.
 
