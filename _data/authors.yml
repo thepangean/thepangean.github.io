@@ -22,17 +22,6 @@ kheeran.naidu:
   twitter: False
   cover: kheeran-cover.jpg
 
-tushar.singh:
-  username: tushar.singh
-  name: Vidyarthi
-  location: Delhi, India
-  positions: Partner, Editor
-  bio: Actually Tushar Singh. He is studying Economics at Delhi University.
-  picture: tushar.jpg
-  facebook: False
-  twitter: dtusharsingh
-  cover: tushar-cover.jpg
-
 harsh.tiwari:
   username: harsh.tiwari
   name: Harsh Tiwari
@@ -337,19 +326,6 @@ shohan.mukherjee:
   twitter: False
   cover: shohan-cover.jpg
 
-avinash.naidu:
-  username: avinash.naidu
-  name: Avinash Naidu
-  location: Kuala Lumpur
-  positions: Contributor
-  bio: I grew up wanting to be a Chiropractor, Studied Statistics and then worked in IT. A curious mind always looking for a new adventure. Currently starting my own solutions company to increase the take up rate of automation in Malaysia.
-  picture: avinash.jpg
-  facebook: avinash.naidu.735
-  twitter: False
-  url:
-  url_full:
-  cover: avinash-cover.jpg
-
 gavin.olson:
   username: gavin.olson
   name: Gavin Olson
@@ -361,19 +337,6 @@ gavin.olson:
   twitter: False
   cover: gavin-olson-cover.jpg
   sports: True
-
-tom.perrett:
-  username: tom.perrett
-  name: Tom Perrett
-  location: Bristol
-  positions: Contributor
-  bio: I write about politics, history and current affairs from a socialist perspective. My writing has covered a variety of topics, from the American opioid crisis to the Libertarian to Fascist Pipeline. My intellectual influences include Eric Hobsbawm, Emma Goldman and Murray Bookchin.
-  picture: 
-  facebook: thomas.perrett.3
-  twitter: tomperrett97
-  cover:
-  url: medium.com/@thomas.perrett97
-  url_full: https://medium.com/@thomas.perrett97
 
 abhishek.sancheti:
   username: abhishek.sancheti
@@ -520,6 +483,19 @@ andrew.mark:
   cover: andrew-cover.jpg
   sports: True
 
+avinash.naidu:
+  username: avinash.naidu
+  name: Avinash Naidu
+  location: Kuala Lumpur
+  positions: Contributor
+  bio: I grew up wanting to be a Chiropractor, Studied Statistics and then worked in IT. A curious mind always looking for a new adventure. Currently starting my own solutions company to increase the take up rate of automation in Malaysia.
+  picture: avinash.jpg
+  facebook: avinash.naidu.735
+  twitter: False
+  url:
+  url_full:
+  cover: avinash-cover.jpg
+
 ayantika.nath:
   username: ayantika.nath
   name: Ayantika Nath
@@ -530,6 +506,19 @@ ayantika.nath:
   facebook: False
   twitter: False
   cover: ayantika-cover.jpg
+
+tom.perrett:
+  username: tom.perrett
+  name: Tom Perrett
+  location: Bristol
+  positions: Guest Contributor
+  bio: I write about politics, history and current affairs from a socialist perspective. My writing has covered a variety of topics, from the American opioid crisis to the Libertarian to Fascist Pipeline. My intellectual influences include Eric Hobsbawm, Emma Goldman and Murray Bookchin.
+  picture: tom-perrett.png
+  facebook: thomas.perrett.3
+  twitter: tomperrett97
+  cover: tom-perrett-cover.png
+  url: medium.com/@thomas.perrett97
+  url_full: https://medium.com/@thomas.perrett97
 
 tyler.pesavento:
   username: tyler.pesavento
@@ -564,6 +553,17 @@ shivang.singh:
   facebook: shivang.singh.1213
   twitter: shivangsingh98
   cover: shivang-cover.jpg
+
+tushar.singh:
+  username: tushar.singh
+  name: Vidyarthi
+  location: Delhi, India
+  positions: Guest Contributor #ex-{Partner, Editor}
+  bio: Actually Tushar Singh. He is studying Economics at Delhi University.
+  picture: tushar.jpg
+  facebook: False
+  twitter: dtusharsingh
+  cover: tushar-cover.jpg
 
 sam.tanberg:
   username: sam.tanberg
