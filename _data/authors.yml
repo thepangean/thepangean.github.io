@@ -269,6 +269,18 @@ gurleen.kaur:
   twitter: False
   cover: gurleen-cover.jpg
 
+aric.kirsten:
+  username: aric.kirsten
+  name: Aric Kirsten
+  location: Tucson, Arizona
+  positions: Contributor # ex-Co-Editor
+  bio: Currently a senior at The University of Arizona, studying sports management with a minor in computer science. Sports are my pride and joy, especially basketball and football!
+  picture: aric.jpg
+  facebook: aric.kirsten
+  twitter: Arickrw3
+  cover: aric-cover.jpg
+  sports: True
+
 kartik.kundeti:
   username: kartik.kundeti
   name: Kartik Balaji Kundeti
@@ -426,6 +438,18 @@ udayon.sen:
   twitter: False
   cover: udayon-cover.jpg
 
+aryaman.tewari:
+  username: aryaman.tewari
+  name: Aryaman Tewari
+  location: New Delhi, India
+  positions: Contributor # ex-Editor
+  bio: You'll usually find me either over at the local ground, or at the chess club. Currently, I'm trying to make the most of life in Delhi University. Coming to other interests, it'd be gothic music, Ruskin Bond and reading about the African Lion.
+  picture: aryaman.jpg
+  facebook: False
+  twitter: False
+  cover: aryaman-cover.jpg
+  sports: True
+
 adarsh.agarwal:
   username: adarsh.agarwal
   name: Adarsh Agarwal
@@ -487,7 +511,7 @@ avinash.naidu:
   username: avinash.naidu
   name: Avinash Naidu
   location: Kuala Lumpur
-  positions: Contributor
+  positions: Guest Contributor
   bio: I grew up wanting to be a Chiropractor, Studied Statistics and then worked in IT. A curious mind always looking for a new adventure. Currently starting my own solutions company to increase the take up rate of automation in Malaysia.
   picture: avinash.jpg
   facebook: avinash.naidu.735
@@ -622,27 +646,3 @@ olly.bowes:
   facebook: False
   twitter: False
   cover: olly-cover.jpg
-
-# aric.kirsten:
-#   username: aric.kirsten
-#   name: Aric Kirsten
-#   location: Tucson, Arizona
-#   positions: Co-Editor (Left)
-#   bio: Currently a senior at The University of Arizona, studying sports management with a minor in computer science. Sports are my pride and joy, especially basketball and football!
-#   picture: aric.jpg
-#   facebook: aric.kirsten
-#   twitter: Arickrw3
-#   cover: aric-cover.jpg
-#   sports: True
-
-# aryaman.tewari:
-#   username: aryaman.tewari
-#   name: Aryaman Tewari
-#   location: New Delhi, India
-#   positions: Editor (Let go)
-#   bio: You'll usually find me either over at the local ground, or at the chess club. Currently, I'm trying to make the most of life in Delhi University. Coming to other interests, it'd be gothic music, Ruskin Bond and reading about the African Lion.
-#   picture: aryaman.jpg
-#   facebook: False
-#   twitter: False
-#   cover: aryaman-cover.jpg
-#   sports: True
