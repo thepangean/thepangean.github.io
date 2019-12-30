@@ -6,10 +6,10 @@ class: post-template
 
 title: "Here’s to Feeling Good All The Time!"
 author: harshita.jain
-cover:
-tags: from-the-horses-mouth
+cover: feelgood.jpg
+tags: from-the-horses-mouth headline
 date: 2019-11-22
-link: ""
+link: "https://www.goodfreephotos.com/people/woman-laughing-in-orange-flowers.jpg.php"
 ---
 If you were to walk through my door today, I’d only welcome you with a question: Are you happy? I’m no Dr. Phil, it’s not so much as to check on your well-being (well, not completely), it is mostly to comprehend how happiness became the most important thing ever. Personally, I’ve come to a conclusion. Happiness is overrated and way too popular. Happiness is that jock in high school that everybody crushes on, but no one knows how to talk to. I can put a million researches here explaining how it all works: the biology, physiology, and all of the rest. But, why are we so attracted to the concept? What is this constant desire to be happy? And, pressure!
 
