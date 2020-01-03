@@ -5,7 +5,7 @@ cover: wildcard.jpg
 navigation: True
 title: "The End of the Wildcard Era"
 date: 2020-01-03
-tags: sports american football headline
+tags: sports american-football headline
 class: post-template
 subclass: 'post tag-speeches'
 link: https://www.flickr.com/photos/brookward/48740734392/in/photolist-2hg41ew-2hQRZZX-2hPZUDT-2hPndjW-2hPuBdU-2hQ3kXt-2hPKVim-2hQ3p6g-2hPQy4A-2hPFp8D-2hPvGEt-2hPqEC5-2gPZF1b-2hQ4vyL-2hPPYtQ-2hPEqRE-2hPxH9P-2hPmWos-2hQ1MyZ-2hQ1YKK-2hPyNjD-2hPDXnT-2hPhfxd-2hPLHhq-2hPvEy9-2hPD9TV-2hQeWCT-2hPZJoY-2hPRez5-2hQbykn-2hPQ6zo-2hPE6UG-2hPphKz-2hPBHGX-2hPYBjV-2hPNsqF-2hPqhda-2hPR9tT-2hPvsJN-2hPCTkY-2hQ3adX-2hPNKns-2hPUJXr-2hPKWyb-2hPwWTQ-2hPByGT-2hPyv7q-2hPobNG-2hPvyg7-2hPnvG1
