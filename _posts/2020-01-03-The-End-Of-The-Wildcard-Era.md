@@ -51,7 +51,7 @@ Even the 2011 Giants Super Bowl run had a similar storyline to 2019. The Giants 
 
   
 
-This may be the main reason the NFL would have for changing the playoff seeding. It is a sport and league rich with history and unbelievable stories, which shouldn’t allow an underachieving team to sneak into home-field advantage and ride that momentum to the Super Bowl. If the NFL ever does change this format, we could have many amazing underdog stories. Teams like the Seahawks wouldn’t be hosting the first round of the playoffs while fans remain in disbelief that a 9-7 Eagles team is hosting wildcard weekend.
+This may be the main reason the NFL would have for changing the playoff seeding. It is a sport and league rich with history and unbelievable stories, which shouldn’t allow an underachieving team to sneak into home-field advantage and ride that momentum to the Super Bowl. If the NFL ever does change this format, we could have many amazing underdog stories. Teams like the Seahawks wouldn’t be on the road for the first round of the playoffs while fans remain in disbelief that a 9-7 Eagles team is hosting wildcard weekend.
 
   
 NFL Standings on FOX Sports: [https://www.foxsports.com/nfl/standings](https://www.foxsports.com/nfl/standings)
