@@ -19,7 +19,7 @@ We’ve seen it twice in recent history, the New York Giants were an underdog te
 
   
 
-One matchup indicates the time of the wildcard is over, or at least on the path to being adjusted. The Philadelphia Eagles will be hosting the Seattle Seahawks on wildcard Saturday. You might be wondering why this matchup is so special. The powerhouse Seahawks are 11-5 on the season, while the Eagles are only 9-7. Why does a lesser team have the right to home-field advantage in the first round of the playoffs? The answer is simple; divisional winners will always host a wildcard team.
+One matchup indicates the time of the wildcard is over, or at least on the path to being adjusted. The Philadelphia Eagles will be hosting the Seattle Seahawks on wildcard Sunday. You might be wondering why this matchup is so special. The powerhouse Seahawks are 11-5 on the season, while the Eagles are only 9-7. Why does a lesser team have the right to home-field advantage in the first round of the playoffs? The answer is simple; divisional winners will always host a wildcard team.
 
   
 
