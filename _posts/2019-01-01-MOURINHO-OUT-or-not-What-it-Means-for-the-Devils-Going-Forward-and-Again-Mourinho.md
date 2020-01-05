@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: JoseMourinho.jpg
 navigation: True
-title: "MOURINHO OUT: What it Means for the Devils Going Forward and Again, Mourinho."
+title: "Mourinho Out: What it Means for United Going Forward"
 date: 2019-01-01
 tags: sports football
 class: post-template
