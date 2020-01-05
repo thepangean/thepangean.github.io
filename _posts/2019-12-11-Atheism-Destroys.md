@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: julyrev.jpg
 navigation: True
-title: "Atheism Destroys Science and Progress. Here’s How. (Opinion Piece)"
+title: "Atheism Destroys Science and Progress. Here’s How."
 date: 2019-12-11
 tags: society
 class: post-template
