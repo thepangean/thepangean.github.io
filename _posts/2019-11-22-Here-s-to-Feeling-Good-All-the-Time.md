@@ -7,7 +7,7 @@ class: post-template
 title: "Here’s to Feeling Good All The Time!"
 author: harshita.jain
 cover: feelgood.jpg
-tags: from-the-horses-mouth headline
+tags: from-the-horses-mouth featured
 date: 2019-11-22
 link: "https://www.goodfreephotos.com/people/woman-laughing-in-orange-flowers.jpg.php"
 ---
