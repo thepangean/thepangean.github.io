@@ -112,3 +112,9 @@ mma:
   description: False
   cover: False
   sports: True
+extreme-sports:
+  name: extreme-sports
+  title: Extreme Sports
+  description: False
+  cover: False
+  sports: True
