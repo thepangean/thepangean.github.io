@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: prot.jpg
 navigation: True
-title: "'Televising a Revolution: How Fiction Animates Reality"
+title: "Televising a Revolution: How Fiction Animates Reality"
 date: 2020-01-16
 tags: society
 class: post-template
