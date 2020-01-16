@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: philippines.jpg
 navigation: True
-title: "'Encounter  Killings'- Delivering  Justice  or  instances  of  Culpable  Homicide?"
+title: "'Encounter  Killings'- Delivering  Justice  or  Instances  of  Culpable  Homicide?"
 date: 2020-01-16
 tags: policy
 class: post-template
