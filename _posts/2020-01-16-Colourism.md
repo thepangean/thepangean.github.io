@@ -8,8 +8,8 @@ date: 2020-01-16
 tags: trending society
 class: post-template
 subclass: 'post tag-speeches'
-link:
-author:
+link: ""
+author: Nat
 ---
 Colourism is a term increasingly mentioned in recent, modern racial discourse and is enjoying some much-needed attention during the current political climate. Colourism, by definition, is the “prejudice or discrimination against individuals with a dark skin tone, typically among people of the same ethnic or racial group” (*Oxford English Dictionary*); but does this mean that this problem is something that is in fact conceived, and perpetuated, by black communities?
 
