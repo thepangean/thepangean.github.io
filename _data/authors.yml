@@ -350,6 +350,17 @@ gavin.olson:
   cover: gavin-olson-cover.jpg
   sports: True
 
+alex.omidvar:
+  username: alex.omidvar
+  name: Alex Omidvar
+  location: Oxford, UK
+  positions: Contributor
+  bio: Alex is a CEO at Omidvar.co.uk. Outside his job, he is a proficient writer, speaker, consultant, leader and student who studies Philosophy at the University of Oxford. He also runs ‘The Oxford Logos’ a YouTube channel designed for free discourse.
+  picture: alex-omidvar.jpg
+  facebook: False
+  twitter: False
+  cover: alex-omidvar-cover.jpg
+
 abhishek.sancheti:
   username: abhishek.sancheti
   name: Abhishek Sancheti
