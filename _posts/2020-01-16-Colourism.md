@@ -5,7 +5,7 @@ cover: colourism1.jpg
 navigation: True
 title: "Colourism: An Introduction"
 date: 2020-01-16
-tags: trending society
+tags: society
 class: post-template
 subclass: 'post tag-speeches'
 link: ""
