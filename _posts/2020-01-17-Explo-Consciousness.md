@@ -46,4 +46,4 @@ Now the question is, do you prefer a life full of indoctrination and culturally 
 
 Therefore, true enlightenment is a lifestyle and not a destination; true enlightenment is the process of constant death and rebirth of the self and what we refer to as the psychedelic experience does just that!
 
-<div class="caption" style="text-align: left;"><img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}" style="display:inline; text-align: left; width:100%"/><em>I want to dedicate this piece to the great Terrence McKenna whose ideas have helped me integrate my psychedelic experiences!</em></div>
+<div class="caption" style="text-align: left;"><img src="assets/images/{{ site.baseurl }}{{ page.pic2 }}" style="display:inline; text-align: left; width:100%"/><em>I want to dedicate this piece to the great Terrence McKenna whose ideas have helped me integrate my psychedelic experiences!</em></div>
