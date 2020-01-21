@@ -8,7 +8,7 @@ date: 2020-01-20
 tags: sports football headline
 class: post-template
 subclass: 'post tag-speeches'
-link: https://commons.wikimedia.org/wiki/File:Mauricio_Pochettino_2016.jpg
+link: https://commons.wikimedia.org/wiki/File:Pochettino_2012.jpg
 author: samuel.hogan
 ---
 Mauricio Pochettino’s 5 year spell in charge of Tottenham Hotspur came to an end last month after he was sacked by chairman Daniel Levy. As one of Europe’s most highly rated managers, this came as somewhat of a surprise and it’s left the football world waiting to see what his next move will be.
