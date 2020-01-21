@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: poch2.jpg
+cover: poch3.jpg
 navigation: True
 title: "Mauricio Pochettino’s Next Move"
 date: 2020-01-20
