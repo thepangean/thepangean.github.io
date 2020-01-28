@@ -8,7 +8,7 @@ title: "Women are Under-represented? Not News."
 author: devyani.arora
 cover: Henry_Fonda_and_Bette_Davis_in_Jezebel_trailer.jpg
 tags: society
-date: 2020-01-27
+date: 2020-01-28
 link: "https://upload.wikimedia.org/wikipedia/commons/8/81/Henry_Fonda_and_Bette_Davis_in_Jezebel_trailer.jpg"
 ---
 *"I only go to a movie if it satisfies three basic requirements. One, it has to have at least two women in it, who, two, talk to each other about, three, something besides a man."*
