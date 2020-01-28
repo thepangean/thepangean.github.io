@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: klsummit.jpg
 navigation: True
-title: "Kaula Lampur Summit: A Move for Unity in the Islamic World?"
+title: "Kuala Lumpur Summit: A Move for Unity in the Islamic World?"
 date: 2020-01-28
 tags: trending policy
 class: post-template
