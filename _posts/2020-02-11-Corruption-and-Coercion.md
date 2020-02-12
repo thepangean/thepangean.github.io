@@ -3,12 +3,12 @@ layout: post
 current: post
 cover: digitalsilk.jpg
 navigation: True
-title: "Russia Heralds a New Dawn: Power to the People or the Lurking Shadow of a Dictatorial Regime?"
+title: "Corruption and Coercion on the Digital Silk Road"
 date: 2020-02-11
 tags: policy
 class: post-template
 subclass: 'post tag-speeches'
-link: 
+link:
 author: tom.perrett
 ---
 The squalid conditions of the Xinjiang region of Northwestern China, in which Uighur Muslims, Khazakhs and Uzbeks are forced to surrender DNA and blood samples, remain a stark reminder of the extent to which civil liberties can be assailed in the name of 'counter-terrorism'. 47-year old Bakitali Nur, a fruit and vegetable exporter from Khargos, [told *Time* magazine](https://time.com/5735411/china-surveillance-privacy-issues/) that he and seven other inmates were forced to sit still on plastic stools for seventeen consecutive hours as their movements were monitored by security cameras. In Xinjiang, 2.5 million citizens have their whereabouts tracked by CCTV whilst being subjected to a punitive social credit system that discourages behaviour not approved of by the Chinese State.
