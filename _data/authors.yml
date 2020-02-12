@@ -33,6 +33,19 @@ harsh.tiwari:
   twitter: realHarshTiwari
   cover: harsh-cover.jpg
 
+alex.madajian:
+  username: alex.madajian
+  name: Alex Madajian
+  location: Washington DC
+  positions: Partner
+  bio: Alex Madajian self-taught learner and a bibliophile.  After deciding California wasn't big enough, he resettled in the DC area.  He has worked as a journalist on Capital hill and now is a weekly contributor "The Fourth Estate"
+  picture: alex-madajian.png
+  facebook: profile.php?id=100010515005951
+  twitter: alexmadajian
+  cover: alex-madajian-cover.jpg
+  url_full: https://www.youtube.com/channel/UCYhQKbas7neeJk1dNSLkTtQ
+  url: https://www.youtube.com/channel/UCYhQKbas7neeJk1dNSLkTtQ
+
 atreyi.bhaumik:
   username: atreyi.bhaumik
   name: Atreyi Bhaumik
@@ -55,6 +68,17 @@ ali.abdi:
   twitter: 1882aii
   cover: ali-cover.jpg
   sports: True
+
+manya.manushi:
+  username: manya.manushi
+  name: Manya Manushi
+  location: Delhi, India
+  positions: Editor
+  bio: Possessing unbridled enthusiasm to work tirelessly, Manya Manushi knows how to do the task assigned to her with an ever-smiling face. Always ecstatic, she believes that life is a continuous process of learning, exploring and growing.
+  picture: manya.jpg
+  facebook: manya.manushi
+  twitter: ManushiManya
+  cover: manya-cover.jpg
 
 stephen.mcandrew:
   username: stephen.mcandrew
@@ -315,17 +339,6 @@ pranav.manie:
   cover: pranav-manie-cover.jpg
   url_full: https://theotherweblog.wordpress.com
   url: https://theotherweblog.wordpress.com
-
-manya.manushi:
-  username: manya.manushi
-  name: Manya Manushi
-  location: Delhi, India
-  positions: Contributor
-  bio: Possessing unbridled enthusiasm to work tirelessly, Manya Manushi knows how to do the task assigned to her with an ever-smiling face. Always ecstatic, she believes that life is a continuous process of learning, exploring and growing.
-  picture: manya.jpg
-  facebook: manya.manushi
-  twitter: ManushiManya
-  cover: manya-cover.jpg
 
 shohan.mukherjee:
   username: shohan.mukherjee
