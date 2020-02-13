@@ -13,7 +13,8 @@ link: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Moscow_05-2012_
 disable-first-letter: True
 ---
 <blockquote>
-"I truly believe that it is time to introduce certain changes to our country's main law." -Vladimir Putin, January 2020
+<em>"I truly believe that it is time to introduce certain changes to our country's main law."</em> 
+-Vladimir Putin, January 2020
 </blockquote>
 
 On January 15, 2020, the Russian Government headed by Prime Minister Dmitry Medvedev resigned en masse, immediately after the State of the Union address. Within six hours of Medvedev's resignation, Putin offered the post to Mikhail Mishutshin who had formerly been the head of the Russian Tax Service. It is of significance that the governmental revamp has been preceded by a proposed nationwide referendum on constitutional changes which will ensure the shift of the balance of power from Putin's successor (the future Russian President) to the Parliament and the newly-appointed Prime Minister, even though Putin has limited the term of the Russian President to two terms. All 432 legislators in the Duma, the lower house of the Russian Parliament, have approved of the amendments.
