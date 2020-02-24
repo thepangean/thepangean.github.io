@@ -8,7 +8,7 @@ title: "Who Should Be England’s Centre Forward At Euro 2020?"
 author: samuel.hogan
 cover: Harry_Kane_35805453874.jpg
 tags: sports football
-date: 2020-02-24
+date: 2020-02-23
 link: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Harry_Kane_%2835805453874%29.jpg/640px-Harry_Kane_%2835805453874%29.jpg"
 disable-first-letter: False
 ---
