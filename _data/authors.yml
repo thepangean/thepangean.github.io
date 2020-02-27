@@ -102,6 +102,18 @@ sumayee.barman:
   twitter: False
   cover: sumayee-cover.jpg
 
+vidhi.arora:
+  username: vidhi.arora
+  name: Vidhi Arora
+  location: Delhi
+  positions: Contributor
+  bio:
+  picture:
+  facebook: False
+  twitter: False
+  cover:
+  sports: False
+
 devyani.arora:
   username: devyani.arora
   name: Devyani Arora
@@ -162,13 +174,13 @@ sanjana.chandaliya:
 sarbesh.chaudhury:
   username: sarbesh.chaudhury
   name: Sarbesh Chaudhury
-  location:
+  location: Kolkata
   positions: Contributor
-  bio:
-  picture:
+  bio: I am a first year law student pursuing BBA-LL.B. from Jindal Global Law School (2019-2024), with a keen interest in law, corporate finance, films and fiction, Indian classical music and Indian mythology.
+  picture: sarbesh.jpg
   facebook: False
   twitter: False
-  cover: False
+  cover: sarbesh-cover.jpg
 
 aritra.gupta:
   username: aritra.gupta
@@ -180,6 +192,18 @@ aritra.gupta:
   facebook: False
   twitter: False
   cover: aritra-cover.jpg
+
+sparsh.gupta:
+  username: sparsh.gupta
+  name: Sparsh Gupta
+  location: Delhi
+  positions: Contributor
+  bio:
+  picture:
+  facebook: False
+  twitter: False
+  cover:
+  sports: False
 
 james.eakin:
   username: james.eakin
@@ -384,6 +408,18 @@ alex.omidvar:
   facebook: False
   twitter: False
   cover: alex-omidvar-cover.jpg
+
+ankita.punjani:
+  username: ankita.punjani
+  name: Ankita Punjani
+  location: New Delhi
+  positions: Contributor
+  bio:
+  picture:
+  facebook: False
+  twitter: False
+  cover:
+  sports: False
 
 abhishek.sancheti:
   username: abhishek.sancheti
