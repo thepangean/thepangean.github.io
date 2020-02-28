@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "Word Hard, Poach Harder"
+title: "Work Hard, Poach Harder"
 author: vidhi.arora
 cover: Amazon_Monopoly.png
 tags: policy
