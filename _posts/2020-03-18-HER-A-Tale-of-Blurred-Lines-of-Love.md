@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "HER: A Tale of Blurred Lines of Love"
-author: poorvi
+author: poorvi.gupta
 cover: HER-a-tale-of-blurred-lines.jpeg
 tags: culture
 date: 2020-03-12
