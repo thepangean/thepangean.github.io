@@ -193,6 +193,17 @@ aritra.gupta:
   twitter: False
   cover: aritra-cover.jpg
 
+poorvi.gupta:
+  username: poorvi.gupta
+  name: Poorvi Gupta
+  location: Delhi, India.
+  positions: Contributor
+  bio: A struggling student at Delhi University, pursuing Economics honours. You’ll find me mostly hibernating, during while I read and write. I love everything old, be it books, music or buildings.
+  picture: poorvi-gupta.jpg
+  facebook: False
+  twitter: False
+  cover: poorvi-gupta-cover.jpg
+
 sparsh.gupta:
   username: sparsh.gupta
   name: Sparsh Gupta
