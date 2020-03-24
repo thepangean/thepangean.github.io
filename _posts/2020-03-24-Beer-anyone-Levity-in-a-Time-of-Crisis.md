@@ -9,7 +9,7 @@ author: harshita.jain
 cover: levity-in-a-time-of-crisis.png
 tags: from-the-horses-mouth trending featured
 date: 2020-03-24
-link:
+link: ""
 disable-first-letter: False
 ---
 If one were to tell me that I’d be receiving an impromptu holiday which may last anywhere between 10 days to the end of time (my personal time, friends) - I’d be elated, ecstatic, even. However, the very backing of the same would be resulting in deaths around the world and would be the reason for self-quarantining? Not as idealistic. While COVID-19 is no secret, and there is plenty known as well as unknown about this global pandemic, what has increasingly caught on like wildfire is the machinery related to the meme-making and the subsequent jokes that have flown in. While everyone is apprehensive about the unknown, the at-homeness has led to coping with the situation in any fashion we can. But, why humour? And what version of it is deemed appropriate?
