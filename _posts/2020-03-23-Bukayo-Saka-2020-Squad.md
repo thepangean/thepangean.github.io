@@ -39,14 +39,14 @@ Back in 2014, the thought of Luke Shaw being an afterthought for Euro 2020 would
 
 <table >
   <tr>
-    <th ></th>
-    <th >Tackles/90</th>
-    <th >Key Passes/90</th>
-    <th >Interceptions/90</th>
-    <th >Passes Completed/90</th>
-    <th >Dribbles Completed/90</th>
-    <th >Dribbled Past/90</th>
-    <th >England Caps</th>
+    <td ></td>
+    <td >Tackles/90</td>
+    <td >Key Passes/90</td>
+    <td >Interceptions/90</td>
+    <td >Passes Completed/90</td>
+    <td >Dribbles Completed/90</td>
+    <td >Dribbled Past/90</td>
+    <td >England Caps</td>
   </tr>
   <tr>
     <td >Ben Chilwell</td>
