@@ -73,6 +73,7 @@
                     <a href="{{ site.baseurl }}">Latest Posts</a>
                     {% if site.facebook %}<a href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">Facebook</a>{% endif %}
                     {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">Twitter</a>{% endif %}
+                     <a href="{{ site.baseurl }}privacy/">Privacy Policy</a>
                 </nav>
             </div>
         </footer>
@@ -147,14 +148,13 @@
           });
         }
       });
-
-
     </script>
 
     {% if paginator.total_pages > site.paginate %}
     <script>
         var maxPages = parseInt('{{ paginator.total_pages }}');
     </script>
+
     <script src="{{ site.baseurl }}assets/js/infinitescroll.js"></script>
     {% endif %}
 
