@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/sports/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-03-25T20:36:55+00:00</updated>
+  <updated>2020-03-26T20:40:47+00:00</updated>
   <id>/tag/sports/feed.xml</id>
 
   
@@ -177,86 +177,79 @@
 
 &lt;p&gt;Back in 2014, the thought of Luke Shaw being an afterthought for Euro 2020 would have been laughable, but a rough five and a half year stint at Old Trafford has meant he is currently just that. Shaw has featured just twice for England in the last four years but still represents a solid option for Southgate, especially since having proven himself to be competent in a back-three in recent weeks.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;style type=&quot;text/css&quot;&amp;gt;
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-&amp;lt;/style&amp;gt;
-&amp;lt;table class=&quot;tg&quot;&amp;gt;
-  &amp;lt;tr&amp;gt;
-    &amp;lt;th class=&quot;tg-0lax&quot;&amp;gt;&amp;lt;/th&amp;gt;
-    &amp;lt;th class=&quot;tg-0lax&quot;&amp;gt;Tackles/90&amp;lt;/th&amp;gt;
-    &amp;lt;th class=&quot;tg-0lax&quot;&amp;gt;Key Passes/90&amp;lt;/th&amp;gt;
-    &amp;lt;th class=&quot;tg-0lax&quot;&amp;gt;Interceptions/90&amp;lt;/th&amp;gt;
-    &amp;lt;th class=&quot;tg-0lax&quot;&amp;gt;Passes Completed/90&amp;lt;/th&amp;gt;
-    &amp;lt;th class=&quot;tg-0lax&quot;&amp;gt;Dribbles Completed/90&amp;lt;/th&amp;gt;
-    &amp;lt;th class=&quot;tg-0lax&quot;&amp;gt;Dribbled Past/90&amp;lt;/th&amp;gt;
-    &amp;lt;th class=&quot;tg-0lax&quot;&amp;gt;England Caps&amp;lt;/th&amp;gt;
-  &amp;lt;/tr&amp;gt;
-  &amp;lt;tr&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;Ben Chilwell&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.6&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.1&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.1&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;58.4&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;0.6&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;0.9&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;11&amp;lt;/td&amp;gt;
-  &amp;lt;/tr&amp;gt;
-  &amp;lt;tr&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;Danny Rose&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.8&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;0.7&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.1&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;45.3&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;0.7&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;0.9&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;29&amp;lt;/td&amp;gt;
-  &amp;lt;/tr&amp;gt;
-  &amp;lt;tr&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;Bukayo Saka&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;&amp;lt;span style=&quot;font-weight:bold&quot;&amp;gt;2.1&amp;lt;/span&amp;gt;&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.4&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;0.6&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;36.0&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-1wig&quot;&amp;gt;3.1&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.0&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;0&amp;lt;/td&amp;gt;
-  &amp;lt;/tr&amp;gt;
-  &amp;lt;tr&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;Luke Shaw&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.9&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.4&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-1wig&quot;&amp;gt;1.3&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-1wig&quot;&amp;gt;60.4&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.1&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-1wig&quot;&amp;gt;0.7&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;8&amp;lt;/td&amp;gt;
-  &amp;lt;/tr&amp;gt;
-  &amp;lt;tr&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;Brandon Williams&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.6&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;0.9&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-1wig&quot;&amp;gt;1.3&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;49.9&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.8&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.5&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;0&amp;lt;/td&amp;gt;
-  &amp;lt;/tr&amp;gt;
-  &amp;lt;tr&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;Ashley Young&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.3&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-1wig&quot;&amp;gt;1.7&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.1&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;49.4&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.1&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-0lax&quot;&amp;gt;1.0&amp;lt;/td&amp;gt;
-    &amp;lt;td class=&quot;tg-1wig&quot;&amp;gt;39&amp;lt;/td&amp;gt;
-  &amp;lt;/tr&amp;gt;
-&amp;lt;/table&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;Tackles/90&lt;/td&gt;
+    &lt;td&gt;Key Passes/90&lt;/td&gt;
+    &lt;td&gt;Interceptions/90&lt;/td&gt;
+    &lt;td&gt;Passes Completed/90&lt;/td&gt;
+    &lt;td&gt;Dribbles Completed/90&lt;/td&gt;
+    &lt;td&gt;Dribbled Past/90&lt;/td&gt;
+    &lt;td&gt;England Caps&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Ben Chilwell&lt;/td&gt;
+    &lt;td&gt;1.6&lt;/td&gt;
+    &lt;td&gt;1.1&lt;/td&gt;
+    &lt;td&gt;1.1&lt;/td&gt;
+    &lt;td&gt;58.4&lt;/td&gt;
+    &lt;td&gt;0.6&lt;/td&gt;
+    &lt;td&gt;0.9&lt;/td&gt;
+    &lt;td&gt;11&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Danny Rose&lt;/td&gt;
+    &lt;td&gt;1.8&lt;/td&gt;
+    &lt;td&gt;0.7&lt;/td&gt;
+    &lt;td&gt;1.1&lt;/td&gt;
+    &lt;td&gt;45.3&lt;/td&gt;
+    &lt;td&gt;0.7&lt;/td&gt;
+    &lt;td&gt;0.9&lt;/td&gt;
+    &lt;td&gt;29&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Bukayo Saka&lt;/td&gt;
+    &lt;td&gt;&lt;span style=&quot;font-weight:bold&quot;&gt;2.1&lt;/span&gt;&lt;/td&gt;
+    &lt;td&gt;1.4&lt;/td&gt;
+    &lt;td&gt;0.6&lt;/td&gt;
+    &lt;td&gt;36.0&lt;/td&gt;
+    &lt;td&gt;3.1&lt;/td&gt;
+    &lt;td&gt;1.0&lt;/td&gt;
+    &lt;td&gt;0&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Luke Shaw&lt;/td&gt;
+    &lt;td&gt;1.9&lt;/td&gt;
+    &lt;td&gt;1.4&lt;/td&gt;
+    &lt;td&gt;1.3&lt;/td&gt;
+    &lt;td&gt;60.4&lt;/td&gt;
+    &lt;td&gt;1.1&lt;/td&gt;
+    &lt;td&gt;0.7&lt;/td&gt;
+    &lt;td&gt;8&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Brandon Williams&lt;/td&gt;
+    &lt;td&gt;1.6&lt;/td&gt;
+    &lt;td&gt;0.9&lt;/td&gt;
+    &lt;td&gt;1.3&lt;/td&gt;
+    &lt;td&gt;49.9&lt;/td&gt;
+    &lt;td&gt;1.8&lt;/td&gt;
+    &lt;td&gt;1.5&lt;/td&gt;
+    &lt;td&gt;0&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Ashley Young&lt;/td&gt;
+    &lt;td&gt;1.3&lt;/td&gt;
+    &lt;td&gt;1.7&lt;/td&gt;
+    &lt;td&gt;1.1&lt;/td&gt;
+    &lt;td&gt;49.4&lt;/td&gt;
+    &lt;td&gt;1.1&lt;/td&gt;
+    &lt;td&gt;1.0&lt;/td&gt;
+    &lt;td&gt;39&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
 &lt;p&gt;*Stats from all competitions in the 2019/20 season (&lt;a href=&quot;https://www.whoscored.com/&quot;&gt;www.whoscored.com/&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;Taking someone of Bukayo Saka’s age and inexperience to a major tournament wouldn’t be unprecedented for England with the likes of Michael Owen and Wayne Rooney famously capturing the world’s attention as 18-year-olds in 1998 and 2004 respectively. Whilst it would be outlandish to claim Saka is on par with those two, Marcus Rashford, Theo Walcott and Shaw have also gone to major tournaments as teenagers and even though they didn’t make a significant impact it provided the (then) youngsters with a great experience moving forward. Rashford looks on his way to becoming a key-player for England and this would have likely been the case for Walcott and Shaw had injuries not derailed their progress. Walcott’s hat-trick as a 19-year-old in Zagreb against a tricky Croatia side serves as an example of how getting youngsters integrated into the international set-up can benefit their progress on the big stage in the following years.&lt;/p&gt;

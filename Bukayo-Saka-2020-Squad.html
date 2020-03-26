@@ -220,7 +220,7 @@ into the {body} of the default.hbs template -->
             
         </div>
         
-            <a class="subscribe-button" href="#subscribe">Subscribe</a>
+            <a id="nav-subscribe-button" class="subscribe-button" href="#subscribe">Subscribe</a>
         
     </div>
 </nav>
@@ -431,86 +431,79 @@ into the {body} of the default.hbs template -->
 
 <p>Back in 2014, the thought of Luke Shaw being an afterthought for Euro 2020 would have been laughable, but a rough five and a half year stint at Old Trafford has meant he is currently just that. Shaw has featured just twice for England in the last four years but still represents a solid option for Southgate, especially since having proven himself to be competent in a back-three in recent weeks.</p>
 
-<pre><code class="language-markup">&lt;style type="text/css"&gt;
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-&lt;/style&gt;
-&lt;table class="tg"&gt;
-  &lt;tr&gt;
-    &lt;th class="tg-0lax"&gt;&lt;/th&gt;
-    &lt;th class="tg-0lax"&gt;Tackles/90&lt;/th&gt;
-    &lt;th class="tg-0lax"&gt;Key Passes/90&lt;/th&gt;
-    &lt;th class="tg-0lax"&gt;Interceptions/90&lt;/th&gt;
-    &lt;th class="tg-0lax"&gt;Passes Completed/90&lt;/th&gt;
-    &lt;th class="tg-0lax"&gt;Dribbles Completed/90&lt;/th&gt;
-    &lt;th class="tg-0lax"&gt;Dribbled Past/90&lt;/th&gt;
-    &lt;th class="tg-0lax"&gt;England Caps&lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class="tg-0lax"&gt;Ben Chilwell&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.6&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.1&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.1&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;58.4&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;0.6&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;0.9&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;11&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class="tg-0lax"&gt;Danny Rose&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.8&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;0.7&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.1&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;45.3&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;0.7&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;0.9&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;29&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class="tg-0lax"&gt;Bukayo Saka&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;&lt;span style="font-weight:bold"&gt;2.1&lt;/span&gt;&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.4&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;0.6&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;36.0&lt;/td&gt;
-    &lt;td class="tg-1wig"&gt;3.1&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.0&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;0&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class="tg-0lax"&gt;Luke Shaw&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.9&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.4&lt;/td&gt;
-    &lt;td class="tg-1wig"&gt;1.3&lt;/td&gt;
-    &lt;td class="tg-1wig"&gt;60.4&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.1&lt;/td&gt;
-    &lt;td class="tg-1wig"&gt;0.7&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;8&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class="tg-0lax"&gt;Brandon Williams&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.6&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;0.9&lt;/td&gt;
-    &lt;td class="tg-1wig"&gt;1.3&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;49.9&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.8&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.5&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;0&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class="tg-0lax"&gt;Ashley Young&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.3&lt;/td&gt;
-    &lt;td class="tg-1wig"&gt;1.7&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.1&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;49.4&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.1&lt;/td&gt;
-    &lt;td class="tg-0lax"&gt;1.0&lt;/td&gt;
-    &lt;td class="tg-1wig"&gt;39&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-</code></pre>
+<table>
+  <tr>
+    <td></td>
+    <td>Tackles/90</td>
+    <td>Key Passes/90</td>
+    <td>Interceptions/90</td>
+    <td>Passes Completed/90</td>
+    <td>Dribbles Completed/90</td>
+    <td>Dribbled Past/90</td>
+    <td>England Caps</td>
+  </tr>
+  <tr>
+    <td>Ben Chilwell</td>
+    <td>1.6</td>
+    <td>1.1</td>
+    <td>1.1</td>
+    <td>58.4</td>
+    <td>0.6</td>
+    <td>0.9</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Danny Rose</td>
+    <td>1.8</td>
+    <td>0.7</td>
+    <td>1.1</td>
+    <td>45.3</td>
+    <td>0.7</td>
+    <td>0.9</td>
+    <td>29</td>
+  </tr>
+  <tr>
+    <td>Bukayo Saka</td>
+    <td><span style="font-weight:bold">2.1</span></td>
+    <td>1.4</td>
+    <td>0.6</td>
+    <td>36.0</td>
+    <td>3.1</td>
+    <td>1.0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Luke Shaw</td>
+    <td>1.9</td>
+    <td>1.4</td>
+    <td>1.3</td>
+    <td>60.4</td>
+    <td>1.1</td>
+    <td>0.7</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>Brandon Williams</td>
+    <td>1.6</td>
+    <td>0.9</td>
+    <td>1.3</td>
+    <td>49.9</td>
+    <td>1.8</td>
+    <td>1.5</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Ashley Young</td>
+    <td>1.3</td>
+    <td>1.7</td>
+    <td>1.1</td>
+    <td>49.4</td>
+    <td>1.1</td>
+    <td>1.0</td>
+    <td>39</td>
+  </tr>
+</table>
+
 <p>*Stats from all competitions in the 2019/20 season (<a href="https://www.whoscored.com/">www.whoscored.com/</a>)</p>
 
 <p>Taking someone of Bukayo Saka’s age and inexperience to a major tournament wouldn’t be unprecedented for England with the likes of Michael Owen and Wayne Rooney famously capturing the world’s attention as 18-year-olds in 1998 and 2004 respectively. Whilst it would be outlandish to claim Saka is on par with those two, Marcus Rashford, Theo Walcott and Shaw have also gone to major tournaments as teenagers and even though they didn’t make a significant impact it provided the (then) youngsters with a great experience moving forward. Rashford looks on his way to becoming a key-player for England and this would have likely been the case for Walcott and Shaw had injuries not derailed their progress. Walcott’s hat-trick as a 19-year-old in Zagreb against a tricky Croatia side serves as an example of how getting youngsters integrated into the international set-up can benefit their progress on the big stage in the following years.</p>
@@ -578,6 +571,8 @@ into the {body} of the default.hbs template -->
                     
                 
                     
+                
+                    
                         <section class="author-card">
                             
                                 <img class="author-profile-image" src="/assets/images/samuel-hogan.jpg" alt="samuel.hogan" />
@@ -592,8 +587,6 @@ into the {body} of the default.hbs template -->
                         <!-- <div class="post-full-footer-right">
                             <a class="author-card-button" href="/author/samuel.hogan">Read <br>More</a>
                         </div> -->
-                    
-                
                     
                 
                     
@@ -2104,6 +2097,7 @@ into the {body} of the default.hbs template -->
                     <a href="/">Latest Posts</a>
                     <a href="https://facebook.com/thepangean" target="_blank" rel="noopener">Facebook</a>
                     <a href="https://twitter.com/thepangean" target="_blank" rel="noopener">Twitter</a>
+                     <a href="/privacy/">Privacy Policy</a>
                 </nav>
             </div>
         </footer>
@@ -2187,8 +2181,6 @@ into the {body} of the default.hbs template -->
           });
         }
       });
-
-
     </script>
 
     
