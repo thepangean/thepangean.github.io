@@ -80,6 +80,19 @@ manya.manushi:
   twitter: ManushiManya
   cover: manya-cover.jpg
 
+tom.perrett:
+  username: tom.perrett
+  name: Tom Perrett
+  location: Bristol
+  positions: Editor
+  bio: I write about politics, history and current affairs from a socialist perspective. My writing has covered a variety of topics, from the American opioid crisis to the Libertarian to Fascist Pipeline. My intellectual influences include Eric Hobsbawm, Emma Goldman and Murray Bookchin.
+  picture: tom-perrett.png
+  facebook: thomas.perrett.3
+  twitter: tomperrett97
+  cover: tom-perrett-cover.png
+  url: medium.com/@thomas.perrett97
+  url_full: https://medium.com/@thomas.perrett97
+
 stephen.mcandrew:
   username: stephen.mcandrew
   name: Stephen McAndrew
@@ -612,19 +625,6 @@ ayantika.nath:
   facebook: False
   twitter: False
   cover: ayantika-cover.jpg
-
-tom.perrett:
-  username: tom.perrett
-  name: Tom Perrett
-  location: Bristol
-  positions: Guest Contributor
-  bio: I write about politics, history and current affairs from a socialist perspective. My writing has covered a variety of topics, from the American opioid crisis to the Libertarian to Fascist Pipeline. My intellectual influences include Eric Hobsbawm, Emma Goldman and Murray Bookchin.
-  picture: tom-perrett.png
-  facebook: thomas.perrett.3
-  twitter: tomperrett97
-  cover: tom-perrett-cover.png
-  url: medium.com/@thomas.perrett97
-  url_full: https://medium.com/@thomas.perrett97
 
 tyler.pesavento:
   username: tyler.pesavento
