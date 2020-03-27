@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: swift.jpg
 navigation: True
-title: "The Art, the Artisan and the Investor"
+title: "The Art, the Artist and the Investor"
 date: 2020-03-25
 tags: economics
 class: post-template
@@ -13,25 +13,25 @@ author: riya.kaul
 ---
 Creativity has its own timeline, and art can only blossom through experience and patience. It takes its own sweet time getting through to people letting the art ripen naturally, instead of spoon-feeding its patrons, and is usually a mark of the artist’s authenticity. Take Van Gogh or Kafka, for instance, with both dying in ignorance of the ingenuity of their works. Their patience, or rather underconfidence, eventually led to the posthumous recognition, capitalised on by whoever could claim to ignite the inspiration, rendering their lives analogous to a sad art film, that yet still, managed to inspire people further. But not every artist wants to make a sad art film of their lives. It isn’t simply about the lack of patience or existence of confidence to market their work, it is, quite often, about *survival*. Putting all stakes in an industry that isn’t entirely welcoming to new works due to their abstract nature is certainly a dicey choice for one’s career. Looking for popular platforms that can get you eyeballs is only natural.
 
-  
+
 
 These platforms are the ones that claim to ‘discover’ the artists, and subsequently, capitalise on the lifetime of earnings through their artwork. Take the music industry, for example. Artists still make their music, but that is not exactly how they make their money. The commercialisation of the records by label companies has been in place for decades now. Singers would only get a proportion of the sales revenue generated when new music would be released, which is only fair. Associating a famous record label’s name with the music of a new artist is a high-risk position to take business-wise, and hence it's only natural to expect higher returns. Labels own master recordings, the copyrights associated and the back catalogues of artists. These assets are owned to compensate them in exchange for the risks taken by the platform in financing the artists’ careers.
 
-  
+
 
 While in the 80's & 90's, the transparency of record deals wasn't exactly crystal clear, both record labels and the singers managed to make good money because their primary source of revenue was the literal sale of the songs via CDs, vinyl records, etc. Currently, the music sales revenue, though growing, in absolute terms, by nearly $1 billion per year, is only about 60% of what it was in 1999. The industry took its major hit post the year 2000 when internet services began illegally offering easy access to the free download of music. The advent of pirated downloading of music drove down the record sales and seemingly marked a Malthusian-style prophecy of the end of the commercialised and profitable era. That was until the streaming platforms stepped in. Although a third of the global music listeners still pirate their music (as per a report by the International Federation of Phonographic Industry), a massive rise in legal streaming platforms like Spotify, Apple Music and Tidal seems to have curbed the illegal consumption of music. And while the revenues and the contract transparency is on the rise, the monetary credit accrued to the actual artists has fallen with the steepening of the industry’s growth trajectory. Private equity (PE) players have stepped in to invest in the record labels, adding complicated layers to the revenue distribution model, and thus, leaving even lower residual amount that goes to the singers. Now, how do these big-money investors in PE corporates that, at the very least, expect consistency in their returns, align themselves with an industry that has its own volatile timeline? They *undershare*.
 
-  
+
 
 The labels now provide to the artists a platform, and that’s nearly all. An estimate suggests that an average artist gets around one-tenth of a cent per play of an associated song on Spotify. The streaming platform generally takes up 15-30% of the revenue generated, and then a major chunk is instantly slashed off in the name of the record label. At this point, less than 40% of the revenue remains before singers, songwriters or publishers. The final average payout is dependent on how much ownership of the master recordings and the compositions the artists can exert. To put it into perspective, a star as big as Beyoncé makes only 10% of her money through music sales. One would think that music tours and concerts ought to make up for the deficiencies, but they’re simply a marketing programme, an attempt to keep the artists relevant, which becomes evident once you realise that rarely do any of the global or national level tour revenues ever break-even. The artists are paid only a proportional royalty of any other public performance not financed by the label, but by talk-shows or award shows. The payment structure often leaves the singers earning off of advertisements and endorsements, robbing them of their ‘authenticity’ tag.
 
-  
+
 
 In fact, the highest-paid pop-artist in 2017, Diddy, who made the money from his Cirac vodka deal, hadn’t even released an album in over 7 years.
 
-  
+
 
 So while the streaming platforms aren’t exactly killing the music industry, they’re still skewed in favour of the private equity players, and hence are the primary drivers of the aggregate growth recorded in the revenues, dwarfing the ability of the actual artists to exert any influence. However, some of the bigger names are now coming out against the unregulated PE influence in the industry. Recently Big Machine Records, which owned the rights to the music catalogue of all of Taylor Swift’s past albums, except for *Lover*, was sold out for $300-$350 Million, to Scooter Braun’s Ithaca Holdings, disallowing Swift to perform her own songs at the AMAs, and leading to a highly publicised feud between the two. The sale was backed by the renowned Carlyle Group, that was already facing backlash for its indirect stake in defence contractors who had actively supplied weapons to fund the bombings in Yemen by Saudi Arabia, and now came under the heat of the fans as well as Alexandria Ocasio Cortez and Elizabeth Warren. While the matter remains unresolved, it is likely that this time the artist might register a victory, since Swift has threatened to re-record her past albums. The victory would put her in the rare company of the few major-label artists like Metallica, Janet Jackson and Jay-Z to gain control of the assets associated with their music. The outcome of the lawsuit pursued by EDM artist Martin Garrix against the label Spinnin’ Records has also brought some good news, with Garrix being given the rights and masters to some of his biggest hits.
 
-  
+
 The investors are constantly innovating to capitalise on the gains of the music industry, with some even experimenting with removal of ownership exclusivity and opening song rights for public offerings. An Initial Song Offering (ISO) was made for Drake’s *Jodeci Freestyle*, wherein 10% of the copyright stake was available for public purchase to the top 100 subscribers, with Ethereum based payments. While such innovations are in the interest of the public and allow them to channelise their savings towards better investment options, it needs to be realised that the lack of tangibility of both the output and most of the inputs of this industry is an important consideration in the face of the financial innovations that should follow. Therefore, the battle between rights and arts will continue for an indefinite period, as long as we, as a corporate, wouldn't stop patronising the creative skills of the people involved in this field.
