@@ -69,6 +69,17 @@ ali.abdi:
   cover: ali-cover.jpg
   sports: True
 
+amrit.chadha:
+  username: amrit.chadha
+  name: Amrit Chadha
+  location: New Delhi
+  positions: Editor
+  bio: I am an avid reader mostly of non-fiction and business related books. I am also a finance enthusiast. I am a person who tightly holds values taught to him. Furthermore, reading about and watching sports form a crucial part of my identity.
+  picture: amrit-chadha.jpg
+  facebook:
+  twitter:
+  cover: amrit-chadha-cover.jpg
+
 manya.manushi:
   username: manya.manushi
   name: Manya Manushi
