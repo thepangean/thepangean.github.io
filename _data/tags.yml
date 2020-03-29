@@ -7,6 +7,7 @@ headline:
   name: headline
   title: Headline
   hidden: True
+  sports: True
 millennial:
   name: millennial
   title: Millennial Campaign
