@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: jail.jpg
 navigation: True
-title: "'What are They Really Trying to Prevent?"
+title: "What are They Really Trying to Prevent?"
 date: 2020-04-02
 tags: policy
 class: post-template
