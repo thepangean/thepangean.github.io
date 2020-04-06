@@ -8,7 +8,7 @@ date: 2020-04-02
 tags: trending economics
 class: post-template
 subclass: 'post tag-speeches'
-link: https://search.creativecommons.org/photos/3d92b2c7-248a-4dc9-b963-1421cf518a7c
+link: https://upload.wikimedia.org/wikipedia/commons/9/91/Estatesgeneral.jpg
 author: tom.perrett
 --- 
 The background to the French Revolution chronicles the decline of the once-powerful State, beset by a multitude of economic and social problems. Chief among these issues were: a bourgeoning national debt brought on by the cost of war, the increasing antagonisms between an unproductive class of nepotistic oligarchs and an impoverished mass of peasants and small artisans, and the increasing irrelevance of the country in comparison to other, more economically dynamic states. The United States in the 21st Century bears striking similarities to the pre-revolutionary France, as discontent with stagnating wages and widening inequality reaches a fever pitch as the 2020 election draws nearer. This is the first of two articles examining the economic and political similarities between them, at a volatile time in the history of both nations.
