@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: bezos.jpg
+cover: estatesgeneral.jpg
 navigation: True
 title: "Echoes of the Estates-General: A Comparison between Ancient Regime France and 21st Century America (Part I)"
 date: 2020-04-02
