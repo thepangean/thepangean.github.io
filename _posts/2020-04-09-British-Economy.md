@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: beconomy.jpg
+cover: becononmy.jpg
 navigation: True
 title: "What is Wrong with Britain’s Economy?"
 date: 2020-04-09
