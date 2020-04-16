@@ -9,7 +9,7 @@ tags: trending culture
 class: post-template
 subclass: 'post tag-speeches'
 link: https://en.m.wikipedia.org/wiki/Easter#/media/File%3AResurrection_(24).jpg
-author: alex.omidvar
+author: soham.gupta
 ---
 Everyone has a worldview. This might seem like a controversial assumption, given that many would deny having any concrete belief system of sorts, but I think the claim is warranted. No one truly acts neutrally – however implicitly, they have beliefs and assumptions that drive their day-to-day actions. These assumptions might be unnoticed even by the ones who hold to them, but they are there, working subtly behind the shadows. There might be someone, for example, who says he is disinterested in philosophy and religion, but if he lives in a secular godless manner, then you know that he is living as if God does not exist – and if he is living as if God does not exist, then clearly he has a belief, deep down in his subconscious, that the idea of God is not worth taking seriously, or, at the very least, that there is no good reason to live as if God does exist.
 
