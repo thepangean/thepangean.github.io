@@ -421,6 +421,17 @@ shohan.mukherjee:
   twitter: False
   cover: shohan-cover.jpg
 
+aarushi.mittal:
+  username: aarushi.mittal
+  name: Aarushi Mittal
+  location: Delhi
+  positions: Contributor
+  bio: A student at Delhi University, trying to keep herself afloat the many insignificant hurdles of life. An old-soul, I find solace in books, music, shows and movies of every kind. Now and then, you’ll find me questioning everything.
+  picture: aarushi.mittal.jpg
+  facebook: aarushi.mittal.560
+  twitter: False
+  cover: aarushi.mittal-cover.jpg
+
 gavin.olson:
   username: gavin.olson
   name: Gavin Olson
@@ -528,10 +539,10 @@ soham.gupta:
   location:
   positions: Contributor
   bio: I believe that the relentless pursuit of truth is the most exalted goal a person could possibly strive for. And the truth, as far as I have experienced it, has only made me zealous for the greater glory of God.
-  picture: soham.jpg
+  picture:
   facebook: False
   twitter: False
-  cover: soham-cover.jpg
+  cover:
 
 udayon.sen:
   username: udayon.sen
@@ -588,6 +599,17 @@ morgan.black:
   facebook: False
   twitter: False
   cover: morgan-cover.jpg
+
+debanjan.dhar:
+  username: debanjan.dhar
+  name: Debanjan Dhar
+  location: Kolkata, India
+  positions: Guest Contributor
+  bio: Xavier Dolan obsessive. Birdwatcher of all things cinema and writes to make sense of it. Keeps delaying responses which mess everything . Thinks of cakes all day . Studies English at Jadavpur University.
+  picture: debanjan-dhar.jpg
+  facebook: debanjan.dhar
+  twitter: False
+  cover: debanjan-dhar-cover.jpg
 
 jacob.jones:
   username: jacob.jones
