@@ -9,7 +9,7 @@ tags: economics
 class: post-template
 subclass: 'post tag-speeches'
 link: https://indiaincgroup.com/indian-economy-is-just-getting-warmed-up/
-author: riya.kaur
+author: riya.kaul
 ---
 The growth projections for 2020-21 are in, and to hardly anyone's surprise, it does not look good. It is during times like these, that the age-old ‘Growth vs Welfare’ debates are resurrected. However, as the pandemic curves around the globe get close to flattening themselves, it is only pragmatic to acknowledge that once we pass these anomalistic times, both variables will once again walk hand in hand. The ones monitoring the movements of these variables have assigned a downward revision to the targeted estimates. The recovery speculated to be V-shaped, will lead us through a phase of growth rates as low as -3%, as projected by the IMF, under the assumption that the pandemic fades by the second half of 2020. Governments, too politically motivated, cannot engage in conducting indirect bail-outs just yet, in the increasingly left sympathising world. So, the Central Banks around the globe have stepped in to stretch their balance sheets as usual. Besides the regular rate cuts, nations like the US, where rates have reached the zero base, have resorted to heterodox ways of stimulating the stock markets. The indices, taking mixed signals from the $4 trillion QE influx, and the climbing unemployment rate, close to 8%, have managed to rally against the odds. Other nations follow the lead as they ease out withdrawal norms, EMI payments, etc., attempting to bring a disequilibrium to the trade-off between consumption expenditure and investing.
 
