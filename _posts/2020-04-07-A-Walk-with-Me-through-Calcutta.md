@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "A Walk with Me, through Calcutta"
+title: "A Walk with Me, Through Calcutta"
 author: poorvi.gupta
 cover: Victoria_memorial_at_night.jpg
 tags: culture
