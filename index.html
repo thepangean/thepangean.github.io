@@ -71,6 +71,15 @@ into the {body} of the default.hbs template -->
 
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function(){
+    wait(1000);
     document.getElementById('nav-subscribe-button').click();
   });
+
+  function wait(ms){
+   var start = new Date().getTime();
+   var end = start;
+   while(end < start + ms) {
+     end = new Date().getTime();
+  }
+}
 </script>

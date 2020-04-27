@@ -105,6 +105,25 @@ into the {body} of the default.hbs template -->
                 </section>
             {% endif %}
 
+
+
+            <div id="survey" class="subscribe-overlay" style="top:0.5vh">
+                <a class="subscribe-overlay-close" href="#"></a>
+                <div id="survey_overlay" class="subscribe-overlay-content">
+                    {% if site.logo %}
+                        <!-- <img class="subscribe-overlay-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" /> -->
+                    {% endif %}
+                    <h3 class="subscribe-overlay-title">We would love your help!</h3>
+                    <p class="subscribe-overlay-description">Please, if at all possible, take 5 minutes (or less) to fill out this survey so we can gain insight on how to better cater to your needs: <br><br><a href="/survey/" target="_blank"><button value="Subscrib">Survey 2020</button></a></p>
+                </div>
+                <div id="survey_overlay-thanks" class="subscribe-overlay-content" style="display:none">
+                    {% if site.logo %}
+                        <img class="subscribe-overlay-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" />
+                    {% endif %}
+                    <h1 class="subscribe-overlay-title">Thank you for subscribing!</h1>
+                </div>
+            </div>
+
             <footer class="post-full-footer">
               <div class="post-footnote">
                 The Pangean does not condemn or condone any of the views of its contributors. It only gives them the space to think and write without hindrance.
@@ -218,3 +237,19 @@ into the {body} of the default.hbs template -->
 <!-- /post -->
 
 <!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
+
+
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function(){
+    wait(5000);
+    window.location.href = '#survey'
+  });
+
+  function wait(ms){
+   var start = new Date().getTime();
+   var end = start;
+   while(end < start + ms) {
+     end = new Date().getTime();
+  }
+}
+</script>
