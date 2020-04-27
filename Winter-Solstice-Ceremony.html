@@ -594,6 +594,25 @@ into the {body} of the default.hbs template -->
                 </section>
             
 
+
+
+            <div id="survey" class="subscribe-overlay" style="top:0.5vh">
+                <a class="subscribe-overlay-close" href="#"></a>
+                <div id="survey_overlay" class="subscribe-overlay-content">
+                    
+                        <!-- <img class="subscribe-overlay-logo" src="/assets/images/blog-icon.png" alt="The Pangean" /> -->
+                    
+                    <h3 class="subscribe-overlay-title">We would love your help!</h3>
+                    <p class="subscribe-overlay-description">Please, if at all possible, take 5 minutes (or less) to fill out this survey so we can gain insight on how to better cater to your needs: <br><br><a href="/survey/" target="_blank"><button value="Subscrib">Survey 2020</button></a></p>
+                </div>
+                <div id="survey_overlay-thanks" class="subscribe-overlay-content" style="display:none">
+                    
+                        <img class="subscribe-overlay-logo" src="/assets/images/blog-icon.png" alt="The Pangean" />
+                    
+                    <h1 class="subscribe-overlay-title">Thank you for subscribing!</h1>
+                </div>
+            </div>
+
             <footer class="post-full-footer">
               <div class="post-footnote">
                 The Pangean does not condemn or condone any of the views of its contributors. It only gives them the space to think and write without hindrance.
@@ -2143,6 +2162,22 @@ into the {body} of the default.hbs template -->
 <!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
 
 
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function(){
+    wait(5000);
+    window.location.href = '#survey'
+  });
+
+  function wait(ms){
+   var start = new Date().getTime();
+   var end = start;
+   while(end < start + ms) {
+     end = new Date().getTime();
+  }
+}
+</script>
+
+
         <!-- Previous/next page links - displayed on every page -->
         
 
@@ -2193,6 +2228,20 @@ into the {body} of the default.hbs template -->
             </div>
         </div>
     
+
+    <div id="agreement" class="agreement-overlay">
+        <a class="agreement-overlay-close" href="#"></a>
+        <div id="agreement_overlay" class="agreement-overlay-content">
+            <h1 class="agreement-overlay-title">Agreement to The Pangean</h1>
+            <p class="agreement-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered straight to your inbox</p>
+        </div>
+        <div id="agreement_overlay-thanks" class="agreement-overlay-content" style="display:none">
+            
+                <img class="agreement-overlay-logo" src="/assets/images/blog-icon.png" alt="The Pangean" />
+            
+            <h1 class="agreement-overlay-title">Thank you for subscribing!</h1>
+        </div>
+    </div>
 
     <!-- highlight.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
