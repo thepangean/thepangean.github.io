@@ -2039,7 +2039,7 @@ Usage (In Ghost editor):
 .subscribe-overlay-title {
     display: inline-block;
     margin: 0 0 10px 0;
-    font-size: 6rem;
+    font-size: 4rem;
     line-height: 1.15em;
 }
 
@@ -2047,7 +2047,7 @@ Usage (In Ghost editor):
     margin: 0 auto 50px;
     max-width: 650px;
     font-family: 'post_body_font';
-    font-size: 3rem;
+    font-size: 2rem;
     line-height: 1.3em;
     font-weight: 300;
     opacity: 0.8;
@@ -2071,7 +2071,7 @@ Usage (In Ghost editor):
     width: 100%;
     border: none;
     color: var(--midgrey);
-    font-size: 2rem;
+    font-size: 1.7rem;
     line-height: 1em;
     font-weight: normal;
     letter-spacing: 0.5px;
@@ -2155,6 +2155,194 @@ Usage (In Ghost editor):
     cursor: default;
 }
 
+@media (max-width: 650px) {
+  .subscribe-overlay-title {
+      font-size: 3rem;
+  }
+
+  .subscribe-overlay-description {
+      font-size: 1.5rem;
+  }
+  .subscribe-overlay .subscribe-email {
+      font-size: 1.3rem;
+  }
+  .subscribe-overlay button {
+      font-size: 1.3rem;
+  }
+}
+
+
+/* 10.5 Privacy Policy and T&C overvaly box */
+
+.agreement-overlay {
+    position: fixed;
+    top: 70vh;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 10000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--midgrey);
+    opacity: 0;
+    transition: opacity 200ms ease-in;
+    pointer-events: none;
+
+    backdrop-filter: blur(3px);
+}
+
+.slideup, .slidedown {
+    max-height: 0;
+    overflow-y: hidden;
+    -webkit-transition: max-height 0.8s ease-in-out;
+    -moz-transition: max-height 0.8s ease-in-out;
+    -o-transition: max-height 0.8s ease-in-out;
+    transition: max-height 0.8s ease-in-out;
+}
+.slidedown {
+    max-height: 70vh;
+}
+
+.agreement-overlay:target {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.agreement-overlay-content {
+    position: relative;
+    z-index: 9999;
+    margin: 0 0 5vw 0;
+    padding: 4vw;
+    color: #fff;
+    text-align: center;
+}
+
+.agreement-overlay-logo {
+    position: fixed;
+    top: 23px;
+    left: 30px;
+    height: 30px;
+}
+
+.agreement-overlay-title {
+    display: inline-block;
+    margin: 0 0 10px 0;
+    font-size: 4rem;
+    line-height: 1.15em;
+}
+
+.agreement-overlay-description {
+    margin: 0 auto 50px;
+    max-width: 650px;
+    font-family: 'post_body_font';
+    font-size: 2rem;
+    line-height: 1.3em;
+    font-weight: 300;
+    opacity: 0.8;
+}
+
+.agreement-overlay form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 500px;
+}
+
+.agreement-overlay .form-group {
+    flex-grow: 1;
+}
+
+.agreement-overlay .agreement-email {
+    display: block;
+    padding: 14px 20px;
+    width: 100%;
+    border: none;
+    color: var(--midgrey);
+    font-size: 1.7rem;
+    line-height: 1em;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+    user-select: text;
+    border-radius: 8px;
+    transition: border-color 0.15s linear;
+
+    -webkit-appearance: none;
+}
+
+.agreement-email:focus {
+    outline: 0;
+    border-color: color(var(--lightgrey) l(-2%));
+}
+
+.agreement-overlay button {
+    display: inline-block;
+    margin: 0 0 0 15px;
+    padding: 0 25px;
+    height: 52px;
+    outline: none;
+    color: #fff;
+    font-size: 1.7rem;
+    line-height: 37px;
+    font-weight: 400;
+    text-align: center;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.1);
+    background: linear-gradient(
+    color(var(--blue) whiteness(+7%)),
+    color(var(--blue) lightness(-7%) saturation(-10%)) 60%,
+    color(var(--blue) lightness(-7%) saturation(-10%)) 90%,
+    color(var(--blue) lightness(-4%) saturation(-10%))
+    );
+    border-radius: 8px;
+    box-shadow: 0 0 0 1px inset rgba(0,0,0,0.14);
+
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+.agreement-overlay button:active,
+.agreement-overlay button:focus {
+    background: color(var(--blue) lightness(-9%) saturation(-10%));
+}
+
+.agreement-overlay-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+}
+
+.agreement-overlay-close:before {
+    content: "";
+    position: absolute;
+    top: 40px;
+    right: 25px;
+    display: block;
+    width: 30px;
+    height: 2px;
+    background: #fff;
+    opacity: 0.8;
+    transform: rotate(45deg);
+}
+
+.agreement-overlay-close:after {
+    content: "";
+    position: absolute;
+    top: 40px;
+    right: 25px;
+    display: block;
+    width: 30px;
+    height: 2px;
+    background: #fff;
+    opacity: 0.8;
+    transform: rotate(-45deg);
+}
+
+.agreement-overlay-close:hover {
+    cursor: default;
+}
 
 /* 11. Site Footer
 /* ---------------------------------------------------------- */
