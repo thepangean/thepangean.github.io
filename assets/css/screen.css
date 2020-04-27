@@ -2023,7 +2023,7 @@ Usage (In Ghost editor):
 .subscribe-overlay-content {
     position: relative;
     z-index: 9999;
-    margin: 0 0 5vw 0;
+    margin: 6vw 0 5vw 0;
     padding: 4vw;
     color: #fff;
     text-align: center;
@@ -2118,7 +2118,7 @@ Usage (In Ghost editor):
 
 .subscribe-overlay-close {
     position: absolute;
-    top: 0;
+    top: 6vh;
     right: 0;
     bottom: 0;
     left: 0;
