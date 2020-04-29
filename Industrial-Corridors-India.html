@@ -683,13 +683,13 @@ Corridors project will take on new heights.  </p>
 
 
             <div id="survey" class="subscribe-overlay" style="top:0.5vh">
-                <a class="subscribe-overlay-close" href="#"></a>
+                <a class="subscribe-overlay-close" onclick="removeElement('survey')"></a>
                 <div id="survey_overlay" class="subscribe-overlay-content">
                     
                         <!-- <img class="subscribe-overlay-logo" src="/assets/images/blog-icon.png" alt="The Pangean" /> -->
                     
                     <h3 class="subscribe-overlay-title">We would love your help!</h3>
-                    <p class="subscribe-overlay-description">Please, if at all possible, take 5 minutes (or less) to fill out this survey so we can gain insight on how to better cater to your needs: <br><br><a href="/survey/" target="_blank"><button value="Subscrib">Survey 2020</button></a></p>
+                    <p class="subscribe-overlay-description">Please, if at all possible, take 5 minutes (or less) to fill out this survey so we can gain insight on how to better cater to your needs: <br><br><a href="/survey/" target="_blank"><button value="Subscribe"><strong style="color:white">Survey 2020</strong></button></a></p>
                 </div>
                 <div id="survey_overlay-thanks" class="subscribe-overlay-content" style="display:none">
                     
@@ -2274,18 +2274,26 @@ Corridors project will take on new heights.  </p>
 
 
 <script type="text/javascript">
-  document.addEventListener("DOMContentLoaded", function(){
-    wait(5000);
-    window.location.href = '#survey'
-  });
+  window.onscroll = function() {
+    var d = document.documentElement;
+    var offset = d.scrollTop + window.innerHeight;
+    var height = d.offsetHeight;
 
-  function wait(ms){
-   var start = new Date().getTime();
-   var end = start;
-   while(end < start + ms) {
-     end = new Date().getTime();
+    console.log('offset = ' + offset);
+    console.log('height = ' + height);
+
+    if (offset >= height - 2000) {
+      window.location.href = '#survey'
+      console.log('At the bottom');
+    }
+  };
+
+  function removeElement(elementId) {
+    // Removes an element from the document
+    var element = document.getElementById(elementId);
+    element.parentNode.removeChild(element);
   }
-}
+
 </script>
 
 
@@ -2313,7 +2321,7 @@ Corridors project will take on new heights.  </p>
     <!-- The big email subscribe modal content -->
     
         <div id="subscribe" class="subscribe-overlay">
-            <a class="subscribe-overlay-close" href="#"></a>
+            <a class="subscribe-overlay-close" onclick="removeElement('subscribe')"></a>
             <div id="subscribe_overlay" class="subscribe-overlay-content">
                 
                     <!-- <img class="subscribe-overlay-logo" src="/assets/images/blog-icon.png" alt="The Pangean" /> -->
@@ -2401,6 +2409,12 @@ Corridors project will take on new heights.  </p>
           });
         }
       });
+      function removeElement(elementId) {
+        // Removes an element from the document
+        var element = document.getElementById(elementId);
+        element.parentNode.removeChild(element);
+      }
+
     </script>
 
     
