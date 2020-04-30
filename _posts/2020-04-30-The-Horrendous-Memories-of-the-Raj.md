@@ -5,7 +5,7 @@ cover: colonialindia.jpg
 navigation: True
 title: "The Horrendous Memories of the Raj: Colonial Rule and the Indian Economy"
 date: 2020-04-30
-tags: policy
+tags: economics
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/0/06/SE_004648.jpg
