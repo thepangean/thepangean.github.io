@@ -5,7 +5,7 @@ cover: japanmapflag.jpg
 navigation: True
 title: "Japan: Testing the Limits of Pandemic Economics"
 date: 2020-04-30
-tags: trending policy
+tags: trending economics
 class: post-template
 subclass: 'post tag-speeches'
 link: https://pixabay.com/es/illustrations/jap%C3%B3n-japon%C3%A9s-mapa-bandera-rojo-112722/
