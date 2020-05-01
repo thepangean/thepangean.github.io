@@ -5,7 +5,7 @@ cover: LaborNote.jpg
 navigation: True
 title: "Quality or Quantity?"
 date: 2020-05-01
-tags: policy
+tags: economics
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/c/c7/LaborNote.JPG
