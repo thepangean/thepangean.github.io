@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/economics/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-05-07T15:57:08+00:00</updated>
+  <updated>2020-05-07T16:01:02+00:00</updated>
   <id>/tag/economics/feed.xml</id>
 
   
@@ -168,6 +168,69 @@
   
   
 
+  
+    <entry>
+      <title type="html">The Rational Pirates</title>
+      <link href="/The-Rational-Pirates" rel="alternate" type="text/html" title="The Rational Pirates" />
+      <published>2020-05-07T00:00:00+00:00</published>
+      <updated>2020-05-07T00:00:00+00:00</updated>
+      <id>/The-Rational-Pirates</id>
+      <content type="html" xml:base="/The-Rational-Pirates">&lt;p&gt;So today while watching videos on YouTube, (which is what I am usually doing almost every second while I am not busy) I came across a brilliant riddle. I clicked on the video and found out that it involved game theory and behavioural economics, and that really fascinated me. I wanted to share the riddle with you, and try to explain and help you better understand the concept of game theory. First of all, you need to know what game theory actually means. Simply kept, game theory is a theoretical structure for understanding social situations among competing players. In some respects, game theory is the science of ‘strategic play’, or at least the optimal decision-making of competing players in a situation.&lt;/p&gt;
+
+&lt;p&gt;Now, I would like to share the riddle with you and try to explain the solution and how game theory can help us in various situations:&lt;/p&gt;
+
+&lt;p&gt;It’s a good day to be a pirate. Andrew and his 4 mates, Brandon, Christian, David and Edmund have struck gold, a chest with 100 coins. But now, they must divide up the treasure according to the pirate code. The code is as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;As the captain, Andrew gets to propose first about how to distribute the coins. Then, each pirate including Andrew himself gets to vote either ‘yes’ or ‘no’. If the vote passes, or if there is a tie, the coins are divided according to the plan proposed by Andrew, but if the majority votes ‘no’, Andrew must walk the plank into the deep sea and Brandon becomes the captain. Then, Brandon gets to propose a new distribution and all remaining pirates would vote again. If his plan is rejected, he walks the plank too and Christian takes his place. This process repeats with the captain’s hat moving to David and then to Edmund until either a proposal is accepted or there is only one pirate left.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Each pirate’s primary objective is to stay alive while getting as much gold as possible. But since they are pirates, none of them trust each other so they can’t really collaborate in advance.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If anyone thinks they will end up with the same amount of gold in two different scenarios, they will vote to make the captain walk the plank just for fun.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finally, each pirate is excellent at logical thinking and knows that the other pirates are too.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The question here is, what distribution should Andrew propose to make sure he lives and gets as much gold as possible?&lt;/p&gt;
+
+&lt;p&gt;If we follow our intuition, it seems like Andrew should try to bribe other pirates with most of the gold to increase the chances of his plan being accepted or maybe to propose a distribution like 40-30-20-10-0 or any other combination for that matter and hope for the best, but it turns out Andrew can do much better than that. Let’s have a look at the solution!&lt;/p&gt;
+
+&lt;p&gt;Like you know, the pirates know each other to be top-notch logicians. So, when each one votes, they won’t just be thinking about the current proposal but about all the possible outcomes down the line. Moreover, because the rank order is known in advance, each one of them can accurately predict how others would vote in any situation and adjust their own votes accordingly. Since Edmund is last, he has the most outcomes to consider so let us start by following his thought process. He would reason out by working backward from the last possible scenario with only him and David remaining. David would obviously propose to keep all the gold and Edmund’s one vote would not be enough to override it. So, Edmund wants to avoid this situation at all costs. Now, we move to the previous decision point with three pirates left and Christian making the proposal. Everyone knows that if he is outvoted, the decision shifts to David who would then get all the gold while Edmund gets nothing. So to secure Edmund’s vote, Christian only needs to offer slightly more than nothing, that is, one coin. Since this ensures his support, Christian doesn’t need to offer David anything at all. What if there were 4 pirates? As captain, Brandon would still only need one other vote for his plan to pass. He knows that David wouldn’t want the decision to pass to Christian so he would offer David one coin for his support with nothing for Christian or Edmund. Going forward with other possible scenarios, now we’re back at the initial vote with all 5 pirates standing. Having considered all the other scenarios, Andrew knows that if he goes overboard, the decision comes down to Brandon which would be bad news for Christian and Edmund, so he offers one coin each to them, thus, keeping 98 for himself. Brandon and David vote ‘no’, but Christian and Edmund grudgingly vote ‘yes’, knowing that the alternative would be worse for them.&lt;/p&gt;
+
+&lt;p&gt;The pirate game involves some amusing concepts from game theory. One is the concept of ‘common knowledge’ where each person is aware of what the others know and uses this to predict their reasoning and final distribution. Had it been the case where the pirates didn’t know the intellectual capabilities of each other, the situation would flip altogether and there would have been no accurate solution to the riddle but fortunately that wasn’t the case. This is a classic example of ‘Nash-equilibrium’, where each player knows every other player’s strategy and chooses them accordingly. Even though it may lead to a worse outcome for everyone than cooperating would, no individual player can benefit by changing their strategy. So, it seems like Andrew gets to keep most of the gold coins (98 to be precise) and the other pirates might need to find better ways to use those impressive logic skills.&lt;/p&gt;
+
+&lt;p&gt;The whole intention behind this article was to explain to you how a simple concept of game theory can help you gain more in life. The example here was not an appropriate one for you to relate to in real life (unless you obviously decide to become a pirate) but there are several other instances in which it might help you. The decision involving whether to go for a movie or a concert with your friends also involves game theory where we know what the other person wants and we try to manipulate the final result so as to do what we want. Also, in financial markets, the decision to invest in a certain bond or a stock after having all the relevant information about the company involves game theory as well. By investing in the company, you become a player and what the company does with that investment determines your gain or loss. These are just some cases where you can utilise game theory, the scope of it is wide-ranging and unexplored, and left for you to discover. As the British writer Charles Lamb rightly said, “Man is a gaming animal. He must always be trying to get better in something or other.”&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Manav Gupta</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="economics" />
+      
+
+      
+        <summary type="html">So today while watching videos on YouTube, (which is what I am usually doing almost every second while I am not busy) I came across a brilliant riddle. I clicked on the video and found out that it involved game theory and behavioural economics, and that really fascinated me. I wanted to share the riddle with you, and try to explain and help you better understand the concept of game theory. First of all, you need to know what game theory actually means. Simply kept, game theory is a theoretical structure for understanding social situations among competing players. In some respects, game theory is the science of ‘strategic play’, or at least the optimal decision-making of competing players in a situation.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Economy Incarcerated</title>
@@ -627,60 +690,6 @@
 
       
         <summary type="html">Creativity has its own timeline, and art can only blossom through experience and patience. It takes its own sweet time getting through to people letting the art ripen naturally, instead of spoon-feeding its patrons, and is usually a mark of the artist’s authenticity. Take Van Gogh or Kafka, for instance, with both dying in ignorance of the ingenuity of their works. Their patience, or rather underconfidence, eventually led to the posthumous recognition, capitalised on by whoever could claim to ignite the inspiration, rendering their lives analogous to a sad art film, that yet still, managed to inspire people further. But not every artist wants to make a sad art film of their lives. It isn’t simply about the lack of patience or existence of confidence to market their work, it is, quite often, about survival. Putting all stakes in an industry that isn’t entirely welcoming to new works due to their abstract nature is certainly a dicey choice for one’s career. Looking for popular platforms that can get you eyeballs is only natural.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">India will become a $5 Trillion Economy – Attainable or a Pipe Dream?</title>
-      <link href="/India-will-become-a-5-Trillion-Economy" rel="alternate" type="text/html" title="India will become a $5 Trillion Economy – Attainable or a Pipe Dream?" />
-      <published>2020-02-26T00:00:00+00:00</published>
-      <updated>2020-02-26T00:00:00+00:00</updated>
-      <id>/India-will-become-a-5-Trillion-Economy</id>
-      <content type="html" xml:base="/India-will-become-a-5-Trillion-Economy">&lt;p&gt;&lt;strong&gt;India will become a $5 Trillion Economy – Attainable or a Pipe Dream?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;India, a behemoth economy with a great civilisation, heritage and the immense possibility of creating global influence, has been attaining the status of being one of the most formidable nations in recent times. In accordance with the latest GDP estimates, India is exhibited as the fifth-largest economy in the world with a nominal GDP of $2.9 trillion. The Modi-led government has set an exalted yet magnificent objective of seeing India maturing into a ‘Five Trillion Dollar’ economy by the end of the ‘Modi 2.0 era’.&lt;/p&gt;
-
-&lt;p&gt;This goal might seem a little intimidating or a bridge too far, but the fact is that every developing nation needs an ambitious target so that every sector, company and all other essential stakeholders align themselves and put emphasis on reaching it. Before we examine the attainability of this ambition, let us know how much of a growth rate and GDP value would be required for the target. With inflation of 3.5% and keeping rupee depreciation under check, a nominal growth of 11.5% is paramount for realising the 5 trillion mark to reap a real growth rate of about 8-9%. Sustaining such a significant rate of growth is very challenging for any economy and substantially arduous for India owing to its high unemployment rate of 6.1%, additionally over three hundred thousand people have lost their jobs due to the crumbling auto sector coupled with growth rate hovering around just 5% in the April-June quarter.&lt;/p&gt;
-
-&lt;p&gt;However, since Independence, India has become a $2 trillion nation and within the last five years, it has added a feather of $1 trillion to its cap of GDP value. Therefore, acquiring that 5 trillion mark seems pretty practical. India has shown a fairly robust and persistent record of healthy growth drivers and the recent leapfrogging of 23 notches to rank 77th in the Ease of Doing Business index paves the way for reaching that goal. While no one can deny the reality that certain industries are facing downswing or recessionary conditions, there exist many sectors like IT and BPO service exports which are doing exceedingly well amidst the low global growth of 3.2%.&lt;/p&gt;
-
-&lt;p&gt;Another question is the possibility to expand at 9%. Well, it is conceivable and other countries have made it possible. For instance, Russia developed exponentially between the 1950’s and 1970’s at over 10% per annum. Even China (in the early 1990’s) and USA (1965-1975) are a testimony to the fact that growth over 10% is plausible. To accomplish this grand vision, every Indian state must demonstrate healthy signs of progress and this is seemingly true for the BIMARU states (Bihar, MP, Rajasthan and UP). In 2017-18, Bihar outran other states by displaying 11.3% growth, which was way above the overall economic growth of 6.7%. In fact, all but one of these ‘poor BIMARU states’, grew more than the national average implying enhanced law and order conditions and business-amiable government. Thus, the likelihood of unleashing the potential of every state is apparently pretty high.&lt;/p&gt;
-
-&lt;p&gt;Furthermore, India’s stable inflation rate (around 3%) and low global inflationary trends is a favourable situation for the country. If the rupee-dollar foreign exchange rate is also maintained and the rupee does not depreciate considerably, achieving the target is credible. The government is set to pump in $1.4 trillion for infrastructure investments to make developments in highways, railways, airports, power sectors, etc. Funding will also be backed by international players. For example, the UAE will invest $75 billion and the Abu Dhabi Investment Authority (ADIA) will supposedly spend $1 trillion for boosting the Indian infrastructure sector.&lt;/p&gt;
-
-&lt;p&gt;At the same time, in order to become a 5 trillion economy, India needs to make remarkable structural and sectoral moderations and initiate various reforms. Reforms like the latest corporate tax cuts (from 35% to 25%) proved fruitful for the economy as the stock market reacted positively, strengthening exports and enticing investors. With the ongoing economic tussle between the US and China, MNCs are on the lookout for a substitute manufacturing hub. Currently, holding just 2% of the global trade market share, India can reap the benefits of this war by minimising trade barriers and leveraging such opportunities by upgrading trade value chains. In fact, the manufacturing sector has the capability to absorb surplus labour from the agricultural or any informal sector.&lt;/p&gt;
-
-&lt;p&gt;The service sector has been on the rise lately with a contribution of up to 56.5% of GDP but employing only 30% of people. With automation around the corner and chances of loss in jobs in export-intensive IT sector, development of expertise in IoT, AI, Machine Learning, etc. will definitely boost the economy. Even the travel and tourism sector with 10% GDP share, providing 40 million jobs, can grow manifold by project-driven investments in medical tourism, tourist safety and budget hotels. Healthcare sector also calls for overall transformation as over 100 million workers would be desired globally in the coming years. Service and industry sectors have the greatest possibilities of value additions, and, therefore, skilled labour and strategic investments would assist heavily in economic expansion. Along with this, various land reforms would be necessary to facilitate growth. Major Indian cities, such as Bangalore, Mumbai have high potential to become global hubs, hence, tactical budget allocations and investments can boost the overall economy.&lt;/p&gt;
-
-&lt;p&gt;The focus should also be placed on establishing environment-friendly ways as it is an impediment to the 5 trillion economy dream. According to the World Bank report, environmental degradation costs India $80 billion per year. To tackle this, the creation of green jobs and community development through various already existing organisations can be done. Environmental or carbon taxes prove advantageous. Also, cutting down on oil imports can serve the dual purpose of opening up a ₹400 billion domestic market in the aviation sector whilst simultaneously mitigating environmental pollution by the usage of biofuels. According to the Union Road &amp;amp; Transport Minister, Nitin Gadkari, his Ministry is already taking crucial steps in this regard. Investments would entail a demand boost, creation of capacity, the introduction of new technologies, generation of jobs and enhanced labour productivity.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Bottom Line&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;India cannot prosper if certain states and sectors (like the construction sector) with high untapped potential do not start developing. In fact, state-wise spending must grow. The government’s $5 trillion goal is definitely ambitious but this intent can only be executed through a concrete plan of action. All that is required is a target-based approach, meticulous elimination of all the policy shortcomings and unclogging stalled projects. The aspiration to fulfil the quest with sustained growth can open up employment for over a million young people. A more balanced approach towards development and making sure that the government is able to run a clean, harmonious and efficient mechanism is all that will take to make the dream come alive.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Sparsh Gupta</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="economics" />
-      
-
-      
-        <summary type="html">India will become a $5 Trillion Economy – Attainable or a Pipe Dream?</summary>
       
 
       
