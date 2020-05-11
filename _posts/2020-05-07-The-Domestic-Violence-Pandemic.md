@@ -9,7 +9,7 @@ tags: trending society
 class: post-template
 subclass: 'post tag-speeches'
 link: https://www.freepik.com/premium-photo/stressed-unhappy-crying-woman-victim-fear-suffering-from-female-domestic-violence_7390709.htm#page=1&query=domestic%20violence&position=8
-author: oindrilla.ghosh
+author: oindrila.ghosh
 ---
 Domestic violence is among the most common forms of crime. Very often, it is not even seen as a serious issue in various countries. Diverse cultures around the world have normalised intimate partner violence and some even encourage it in certain scenarios. The lack of proper action against perpetrators has left millions of victims around the globe hopeless, and the number of cases keeps rising every year. In the absence of effective preventive measures and relief facilities, the matter can only be expected to get worse as the years pass by.
 
