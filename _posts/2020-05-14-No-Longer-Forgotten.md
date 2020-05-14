@@ -44,7 +44,7 @@ South Korea’s first democratically elected President, Roh Tae-woo launched a d
 
 
 
-In 1998, the 'Sunshine Policy', or as it is formally known, the* *'Comprehensive Engagement Policy towards North Korea'* *was announced by the then President of South Korea, Rho Moo-hyun. The policy aimed at loosening containment on North Korea, embracing North Korea, and eventually making the North Korean government denuclearise itself. The objectives of the Sunshine Policy were more specific and substantial than any of the previous policies towards North Korea.
+In 1998, the 'Sunshine Policy', or as it is formally known, the 'Comprehensive Engagement Policy towards North Korea' was announced by the then President of South Korea, Rho Moo-hyun. The policy aimed at loosening containment on North Korea, embracing North Korea, and eventually making the North Korean government denuclearise itself. The objectives of the Sunshine Policy were more specific and substantial than any of the previous policies towards North Korea.
 
 
 
