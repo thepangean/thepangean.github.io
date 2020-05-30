@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: whitewall.jpg
+cover: whitewall1.jpg
 navigation: True
 title: "A Minimalist Manifesto"
 date: 2020-05-28
