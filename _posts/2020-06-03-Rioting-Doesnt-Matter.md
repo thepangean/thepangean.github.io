@@ -15,9 +15,7 @@ To anyone with any concern for humanity, what has happened in America should be 
 
   
 
-Clearly, the situation is dire. Those on America's Right have broadly issued boilerplate condemnations of the incident of police brutality, of course, but with no acknowledgement of the systemic oppression of Black people in America. And in classic American conservative fashion, they have condemned the retributive violence with evident dog whistles like those calling for "law and order" to be restored. The liberals, well, have been liberals, making boilerplate condemnations of systemic oppression without any real commitment towards an actual solution. As usual, they have been busy
-
-'turning people's heads' to bring attention to the problem by changing their profile pictures. In complete contrast, the leftists have been rejoicing; to them this is the beginning of a revolution that is going to end the hegemony of the ruling class in America and fulfill Marx's prophecy.
+Clearly, the situation is dire. Those on America's Right have broadly issued boilerplate condemnations of the incident of police brutality, of course, but with no acknowledgement of the systemic oppression of Black people in America. And in classic American conservative fashion, they have condemned the retributive violence with evident dog whistles like those calling for "law and order" to be restored. The liberals, well, have been liberals, making boilerplate condemnations of systemic oppression without any real commitment towards an actual solution. As usual, they have been busy 'turning people's heads' to bring attention to the problem by changing their profile pictures. In complete contrast, the leftists have been rejoicing; to them this is the beginning of a revolution that is going to end the hegemony of the ruling class in America and fulfill Marx's prophecy.
 
   
 
