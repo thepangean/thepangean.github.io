@@ -410,6 +410,30 @@ aric.kirsten:
   cover: aric-cover.jpg
   sports: True
 
+hareneshkaran.kirubakaran:
+  username: hareneshkaran.kirubakaran
+  name: Hareneshkaran Kirubakaran
+  location: Kuala Lumpur
+  positions: Contributor
+  bio: Medical student with a passion in research and ethics. In my spare time, I captain a hockey team and umpire matches, alongside the occasional tutoring session that I conduct. I try to do my part for society through volunteering and fundraising.
+  picture: hareneshkaran-kirubakaran.jpg
+  facebook: False
+  twitter: False
+  cover: hareneshkaran-kirubakaran-cover.jpg
+  sports: False
+
+kabir.kochar:
+  username: kabir.kochar
+  name: Kabir Singh Kochar
+  location: Panipat
+  positions: Contributor
+  bio: A happy go lucky person, I am someone who believes in memories more than photographs. Penning my thoughts is my favourite form of expression and nothing interests me more than sports and conspiracies.
+  picture: kabir-kochar.jpg
+  facebook: False
+  twitter: False
+  cover: kabir-kochar-cover.jpg
+  sports: False
+
 kartik.kundeti:
   username: kartik.kundeti
   name: Kartik Balaji Kundeti
@@ -501,6 +525,31 @@ ankita.punjani:
   twitter: False
   cover:
   sports: False
+
+sanya.puri:
+  username: sanya.puri
+  name: Sanya Puri
+  location: New Delhi
+  positions: Contributor
+  bio: "Reader, traveller, writing enthusiast: a few words that describe me. I like to look at things from an 'out of the box' perspective and I am someone who is always up for a challenge."
+  picture: sanya-puri.png
+  facebook: False
+  twitter: False
+  cover: sanya-puri-cover.png
+  sports: False
+
+himanshi.saini:
+  username: himanshi.saini
+  name: Himanshi Saini
+  location: New Delhi
+  positions: Contributor
+  bio: A final year Journalism undergraduate from University of Delhi. Combining my knowledge of journalism with my keen interest in film making, I aspire to bring a change in our society. I write, draw and shoot films on various issues.
+  picture: himanshi-saini.jpg
+  facebook: HimanshiSaini
+  twitter: Himanshisaini27
+  cover: himanshi-saini-cover.jpg
+  url: https://www.youtube.com/channel/UCeuOTBA5T7c_WlyHzDCyr-g
+  url_full: https://www.youtube.com/channel/UCeuOTBA5T7c_WlyHzDCyr-g
 
 abhishek.sancheti:
   username: abhishek.sancheti
