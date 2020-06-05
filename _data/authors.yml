@@ -867,3 +867,14 @@ olly.bowes:
   facebook: False
   twitter: False
   cover: olly-cover.jpg
+
+guest.contributor:
+  username: guest.contributor
+  name: Guest Contributor
+  location:
+  positions:
+  bio:
+  picture: #olly.jpg
+  facebook: False
+  twitter: False
+  cover:

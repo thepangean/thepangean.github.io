@@ -9,7 +9,7 @@ tags: culture
 class: post-template
 subclass: 'post tag-speeches'
 link: https://en.m.wikipedia.org/wiki/Satyajit_Ray#/media/File%3ASatyajit_Ray_in_New_York_(cropped).jpg
-author: guest.guest
+author: guest.contributor
 ---
 *"Not to have seen the cinema of Ray means existing in the world without seeing the sun or the moon"*- Akira Kurosawa.
 
@@ -33,7 +33,7 @@ Satyajit Ray single-handedly created such an impact that it inspires generation 
 
 Belated Happy Birthday Manikda. May you always show us the ray of hope!
 
-  
+
 
 -**Satyaki Paul**
 
