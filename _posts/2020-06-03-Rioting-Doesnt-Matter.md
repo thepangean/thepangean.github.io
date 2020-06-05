@@ -5,7 +5,7 @@ cover: blm.jpg
 navigation: True
 title: "Rioting Doesn't Matter, Nothing Does"
 date: 2020-06-03
-tags: society
+tags: trending society
 class: post-template
 subclass: 'post tag-speeches'
 link: https://commons.wikimedia.org/wiki/File:Black_Lives_Matter_protest_against_St._Paul_police_brutality_(21552673186).jpg
