@@ -698,23 +698,7 @@ from the European Union.</p>
             
 
 
-
-            <div id="survey" class="subscribe-overlay" style="top:0.5vh">
-                <a class="subscribe-overlay-close" onclick="removeElement('survey')"></a>
-                <div id="survey_overlay" class="subscribe-overlay-content">
-                    
-                        <!-- <img class="subscribe-overlay-logo" src="/assets/images/blog-icon.png" alt="The Pangean" /> -->
-                    
-                    <h3 class="subscribe-overlay-title">We would love your help!</h3>
-                    <p class="subscribe-overlay-description">Please, if at all possible, take 5 minutes (or less) to fill out this survey so we can gain insight on how to better cater to your needs: <br><br><a href="/survey/" target="_blank"><button value="Subscribe"><strong style="color:white">Survey 2020</strong></button></a></p>
-                </div>
-                <div id="survey_overlay-thanks" class="subscribe-overlay-content" style="display:none">
-                    
-                        <img class="subscribe-overlay-logo" src="/assets/images/blog-icon.png" alt="The Pangean" />
-                    
-                    <h1 class="subscribe-overlay-title">Thank you for subscribing!</h1>
-                </div>
-            </div>
+            
 
             <footer class="post-full-footer">
               <div class="post-footnote">
@@ -763,6 +747,8 @@ from the European Union.</p>
                                             <li><a href="/Vultures-2020">‘Vultures’ 2020</a></li>
                                         
                                     
+                                  
+                                
                                   
                                 
                                   
@@ -2579,29 +2565,6 @@ from the European Union.</p>
 
 <!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
 
-
-<script type="text/javascript">
-  window.onscroll = function() {
-    var d = document.documentElement;
-    var offset = d.scrollTop + window.innerHeight;
-    var height = d.offsetHeight;
-
-    console.log('offset = ' + offset);
-    console.log('height = ' + height);
-
-    if (offset >= height - 2000) {
-      window.location.href = '#survey'
-      console.log('At the bottom');
-    }
-  };
-
-  function removeElement(elementId) {
-    // Removes an element from the document
-    var element = document.getElementById(elementId);
-    element.parentNode.removeChild(element);
-  }
-
-</script>
 
 
         <!-- Previous/next page links - displayed on every page -->
