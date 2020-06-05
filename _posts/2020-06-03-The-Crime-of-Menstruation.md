@@ -5,7 +5,7 @@ cover: protestf.jpg
 navigation: True
 title: "The Crime of Menstruation"
 date: 2020-06-03
-tags: society
+tags: trending society
 class: post-template
 subclass: 'post tag-speeches'
 link: https://www.flickr.com/photos/gtzecosan/17074816074/in/album-72157626959211983/
