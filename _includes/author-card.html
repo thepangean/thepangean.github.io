@@ -1,7 +1,7 @@
 {% include issports.html %}
 {% if issports %}
       {% for author in site.data.authors %}
-          {% if author[1].sports %}
+          {% if author[1].sports and author[1].guest != True %}
                 <article class="post-card {{ page.class }}{% unless author[1].picture %} no-image{% endunless %}">
                     {% if author[1].picture %}
                         <a class="post-card-image-link" href="{{ site.baseurl }}author/{{ author[1].username }}">
@@ -33,7 +33,7 @@
       {% endfor %}
 {% else %}
       {% for author in site.data.authors %}
-          {% unless author[1].sports %}
+          {% unless author[1].sports or author[1].guest %}
                 <article class="post-card {{ page.class }}{% unless author[1].picture %} no-image{% endunless %}">
                     {% if author[1].picture %}
                         <a class="post-card-image-link" href="{{ site.baseurl }}author/{{ author[1].username }}">

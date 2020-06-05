@@ -33,19 +33,6 @@ harsh.tiwari:
   twitter: realHarshTiwari
   cover: harsh-cover.jpg
 
-alex.madajian:
-  username: alex.madajian
-  name: Alex Madajian
-  location: Washington DC
-  positions: Partner
-  bio: Alex Madajian self-taught learner and a bibliophile.  After deciding California wasn't big enough, he resettled in the DC area.  He has worked as a journalist on Capital hill and now is a weekly contributor "The Fourth Estate"
-  picture: alex-madajian.png
-  facebook: profile.php?id=100010515005951
-  twitter: alexmadajian
-  cover: alex-madajian-cover.jpg
-  url_full: https://www.youtube.com/channel/UCYhQKbas7neeJk1dNSLkTtQ
-  url: https://www.youtube.com/channel/UCYhQKbas7neeJk1dNSLkTtQ
-
 atreyi.bhaumik:
   username: atreyi.bhaumik
   name: Atreyi Bhaumik
@@ -104,17 +91,6 @@ tom.perrett:
   url: medium.com/@thomas.perrett97
   url_full: https://medium.com/@thomas.perrett97
 
-stephen.mcandrew:
-  username: stephen.mcandrew
-  name: Stephen McAndrew
-  location: Leeds
-  positions: Associate Editor
-  bio: Third year politics, philosophy and economics student at the University of Leeds, staying on to study an MSc in economics next year.
-  picture: stephen-mc.jpg
-  facebook: False
-  twitter: CrippliedTurkey
-  cover: stephen-mc-cover.jpg
-
 sumayee.barman:
   username: sumayee.barman
   name: Sumayee Roy Barman
@@ -172,6 +148,7 @@ jacob.benabou:
   twitter: False
   cover: jacob-benabou-cover.jpg
   sports: True
+  guest: True
 
 sailesh.buchasia:
   username: sailesh.buchasia
@@ -514,18 +491,6 @@ alex.omidvar:
   twitter: False
   cover: alex-omidvar-cover.jpg
 
-ankita.punjani:
-  username: ankita.punjani
-  name: Ankita Punjani
-  location: New Delhi
-  positions: Contributor
-  bio:
-  picture:
-  facebook: False
-  twitter: False
-  cover:
-  sports: False
-
 sanya.puri:
   username: sanya.puri
   name: Sanya Puri
@@ -650,16 +615,17 @@ soham.gupta:
   twitter: False
   cover:
 
-udayon.sen:
-  username: udayon.sen
-  name: Udayon Sen
-  location:
+ankita.punjani:
+  username: ankita.punjani
+  name: Ankita Punjani
+  location: New Delhi
   positions: Contributor
-  bio: Udayon Sen is an aspiring polymath who adores Michael Stevens but certainly has better hair than him (hopefully). He studies Computer Engineering, along with every other course he can study, just to accumulate enough for himself to spread the word.
-  picture: #udayon.jpg
+  bio:
+  picture:
   facebook: False
   twitter: False
-  cover: udayon-cover.jpg
+  cover:
+  sports: False
 
 aryaman.tewari:
   username: aryaman.tewari
@@ -683,6 +649,7 @@ adarsh.agarwal:
   facebook: False
   twitter: False
   cover: adarsh-cover.jpg
+  guest: True
 
 aanandi.arjun:
   username: aanandi.arjun
@@ -694,6 +661,7 @@ aanandi.arjun:
   facebook: False
   twitter: False
   cover: aanandi-arjun-cover.jpg
+  guest: True
 
 morgan.black:
   username: morgan.black
@@ -705,6 +673,7 @@ morgan.black:
   facebook: False
   twitter: False
   cover: morgan-cover.jpg
+  guest: True
 
 debanjan.dhar:
   username: debanjan.dhar
@@ -716,6 +685,7 @@ debanjan.dhar:
   facebook: debanjan.dhar
   twitter: False
   cover: debanjan-dhar-cover.jpg
+  guest: True
 
 jacob.jones:
   username: jacob.jones
@@ -728,6 +698,21 @@ jacob.jones:
   twitter: False
   cover: jacob-cover.jpg
   sports: True
+  guest: True
+
+alex.madajian:
+  username: alex.madajian
+  name: Alex Madajian
+  location: Washington DC
+  positions: Guest Contributor
+  bio: Alex Madajian self-taught learner and a bibliophile.  After deciding California wasn't big enough, he resettled in the DC area.  He has worked as a journalist on Capital hill and now is a weekly contributor "The Fourth Estate"
+  picture: alex-madajian.png
+  facebook: profile.php?id=100010515005951
+  twitter: alexmadajian
+  cover: alex-madajian-cover.jpg
+  url_full: https://www.youtube.com/channel/UCYhQKbas7neeJk1dNSLkTtQ
+  url: https://www.youtube.com/channel/UCYhQKbas7neeJk1dNSLkTtQ
+  guest: True
 
 andrew.mark:
   username: andrew.mark
@@ -740,6 +725,19 @@ andrew.mark:
   twitter: False
   cover: andrew-cover.jpg
   sports: True
+  guest: True
+
+stephen.mcandrew:
+  username: stephen.mcandrew
+  name: Stephen McAndrew
+  location: Leeds
+  positions: Guest Contibutor
+  bio: Third year politics, philosophy and economics student at the University of Leeds, staying on to study an MSc in economics next year.
+  picture: stephen-mc.jpg
+  facebook: False
+  twitter: CrippliedTurkey
+  cover: stephen-mc-cover.jpg
+  guest: True
 
 avinash.naidu:
   username: avinash.naidu
@@ -753,6 +751,7 @@ avinash.naidu:
   url:
   url_full:
   cover: avinash-cover.jpg
+  guest: True
 
 ayantika.nath:
   username: ayantika.nath
@@ -764,6 +763,7 @@ ayantika.nath:
   facebook: False
   twitter: False
   cover: ayantika-cover.jpg
+  guest: True
 
 tyler.pesavento:
   username: tyler.pesavento
@@ -776,6 +776,7 @@ tyler.pesavento:
   twitter: False
   cover: tyler-cover.jpg
   sports: True
+  guest: True
 
 reuben.pritchard:
   username: reuben.pritchard
@@ -787,6 +788,19 @@ reuben.pritchard:
   facebook: False
   twitter: False
   cover: reuben-cover.jpg
+  guest: True
+
+udayon.sen:
+  username: udayon.sen
+  name: Udayon Sen
+  location:
+  positions: Guest Contributor
+  bio: Udayon Sen is an aspiring polymath who adores Michael Stevens but certainly has better hair than him (hopefully). He studies Computer Engineering, along with every other course he can study, just to accumulate enough for himself to spread the word.
+  picture: #udayon.jpg
+  facebook: False
+  twitter: False
+  cover: udayon-cover.jpg
+  guest: True
 
 shivang.singh:
   username: shivang.singh
@@ -798,6 +812,7 @@ shivang.singh:
   facebook: shivang.singh.1213
   twitter: shivangsingh98
   cover: shivang-cover.jpg
+  guest: True
 
 tushar.singh:
   username: tushar.singh
@@ -809,6 +824,7 @@ tushar.singh:
   facebook: False
   twitter: dtusharsingh
   cover: tushar-cover.jpg
+  guest: True
 
 sam.tanberg:
   username: sam.tanberg
@@ -821,6 +837,7 @@ sam.tanberg:
   twitter: False
   cover: sam-cover.jpg
   sports: True
+  guest: True
 
 swarnima.tewary:
   username: swarnima.tewary
@@ -834,6 +851,7 @@ swarnima.tewary:
   cover: swarnima-cover.jpg
   url: thepinkflora.com
   url_full: http://thepinkflora.com
+  guest: True
 
 sam.valk:
   username: sam.valk
@@ -845,6 +863,7 @@ sam.valk:
   facebook: samuel.vandervalk.1
   twitter: False
   cover: sam.valk-cover.jpg
+  guest: True
 
 troy.worden:
   username: troy.worden
@@ -856,6 +875,7 @@ troy.worden:
   facebook: False
   twitter: False
   cover: troy-cover.jpg
+  guest: True
 
 olly.bowes:
   username: olly.bowes
@@ -867,6 +887,7 @@ olly.bowes:
   facebook: False
   twitter: False
   cover: olly-cover.jpg
+  guest: True
 
 guest.contributor:
   username: guest.contributor
@@ -878,3 +899,4 @@ guest.contributor:
   facebook: False
   twitter: False
   cover:
+  guest: True
