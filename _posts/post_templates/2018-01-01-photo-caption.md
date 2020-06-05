@@ -17,5 +17,5 @@ link: /
 
 <div class="caption" style="text-align: left"><img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}" style="width:100%"/></div>
 
-<div class="caption" style="text-align: left"><a href={{ page.link1 }} target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}" style="width:100%"/></a><b>Country:</b> Italy <br>
+<div class="caption" style="text-align: left"><a href="{{ page.link1 }}" target="_blank"><img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}" style="width:100%"/></a><b>Country:</b> Italy <br>
 <b>Education:</b> La Sapienza University, Massachusetts Institute of Technology</div>
