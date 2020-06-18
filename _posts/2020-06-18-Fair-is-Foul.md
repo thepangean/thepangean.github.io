@@ -1,0 +1,41 @@
+---
+layout: post
+current: post
+cover: marines.jpg
+navigation: True
+title: "Fair is Foul, Foul is Fair: Afghanistan's War Within"
+date: 2020-06-18
+tags: trending policy
+class: post-template
+subclass: 'post tag-speeches'
+link: https://upload.wikimedia.org/wikipedia/commons/2/23/U.S._Marines_humping_in_Afghanistan%2C_November_2001.jpg
+author: oyeshi.ganguly
+---
+*“When Daesh came to our area, they killed a lot of people because they said we would have helped the Taliban. But now the Taliban have returned and they are saying we helped the Daesh."*
+
+-   Masooma, resident of the Aqsa Area of Darzab (as stated in a *Reuters* report)
+    
+
+Masooma's desperate predicament is a perfect one-liner to highlight the political chaos of present-day Afghanistan.
+
+On May 12, 2020, a crowd of gunmen stormed the Doctors Without Borders (Médecins Sans Frontières) administered maternity clinic at Dashti Barchi, in the western part of the capital of Afghanistan, Kabul, leaving 24 people dead including two new-born babies. The attack drew condemnation from nations across the globe, with the Amnesty International South Asia, regarding them as “The unconscionable war crimes in Afghanistan targeting a maternity hospital and a funeral, must awaken the world to the horrors civilians continue to face.” ISIL (the Islamic State of Iraq and the Levant) had claimed responsibility for the barbaric attack.
+
+About two months prior to the attack on the hospital, on March 25, 2020, assassins raided the Gurdwara Har Rai Saheb in Kabul, Afghanistan killing 25 Sikh worshippers. ISIL subsequently stated its explicit support for the bloodbath.
+
+These two subsequent events can be said to have been a part of the broader picture in the spectrum of Afghanistan's war within its frontiers. These attacks are examples from the series of ongoing battles for supremacy between ISIL and the Taliban in their bid to exercise supremacy and dominance over the nation. Its significance is further highlighted as they come within months of the US-Taliban peace deal in February at Doha ending their 18-year long conflict, the roots of which can be traced back to the immediate aftermath of 9/11 and the global war on terror. However, the deal came with a resounding foreboding by the US President Donald Trump, who announced that “If bad things happen, we will go back with a force like no one's ever seen”. Mike Pompeo, US Secretary of State had made it clear to the militant group to “keep your [their] promises to cut ties with al-Qaeda”. It is interesting to note, a UN Assistance Mission in Afghanistan report (May 2020) had said that since the signing of the peace deal, civil casualties caused by the Afghan government and the Taliban-ISIL conflicts have escalated by more than a quarter when compared with the same month in 2019.
+
+The Background
+
+The Taliban-ISIL conflict is a phrase used to denote an ongoing armed conflict between the factions of ISIL in Afghanistan, besides counting those within its ambit, groups affiliated with ISIL, and splintered factions of the Taliban, generally opposed to the primary power loci in the central Taliban organisational hierarchy. The conflict may have been said to have begun on November 11, 2015, when fighting began between assailants who were loyal to Akhtar Mansoor, the new Taliban leader, and Mullah Mansoor Dadullah, who exhibited a tilt in favour of the pro-ISIL faction. This fragment received enormous aid from ISIL, including arms and men from Chechnya and Uzbekistan. The turf war ended with the triumph of Mansoor's faction over that of Dadullah. More than 100 lives on both sides were lost in Southern Afghanistan, as reported by the provincial director of security in Kabul’s Arghandab district. The next year was marked by Muhammad Rasul leading the ISIL faction against the Mansoor loyalists. However, the war escalated from the month of April in 2017 onwards and gained international attention, with the ISIL capturing drug dealers who had been reportedly selling opium in the Jowzjan province. The drug pedlars had alleged Taliban connections. The connections came to light, with the clashes erupting between groups of the Taliban and the ISIL faction to ensure the forcible release of the three drug dealers, who were paying 10 million Afghanis to the Taliban to clinch a deal.
+
+May 24 marked the largest clash between the two hostile entities near the border shared between Afghanistan and Iran. It had been sparked off by an attack on the ISIL camp by the Taliban, who had agreed not to enter into armed struggle prior to mutual dialogue. An ISIL commander had reportedly told NBC News that the Taliban was entering into a coordinated alliance with the Iranian Military and receiving generous support from them. Fidai Mahaz, also known as the Sacrifice Front, led by Mullah Najibullah, a Taliban splinter group had been strongly opposed to the Taliban-Iran nexus, claiming that the Taliban had received $3 million in cash, 3,000 arms and 40 trucks and ammunition from the Iran government to wage a war against ISIL. The Iranian government implied that they were concerned about the steady gain of territory by ISIL and their increasing status in Afghanistan affected the regional security of Iran; 2018 marked by the Battle of Darzab, in which the Taliban and the Islamic State, in the Khorasan province, engaged in conflict for hegemony over the Darzab district in the Jowzjan province.
+
+During the June talks between the Russian government and the Taliban, the US criticised the Russian position of extending support to the Taliban to defeat ISIL as they believed it granted legitimacy to the Taliban, discrediting the recognised Afghan government. The resultant fighting left 3,500-7,000 civilians homeless and thousands dead on either side. However, by early August, ISIL’s hold was reduced to two villages, with most ISIL fighters pleading for clemency and protection from the Afghan government against the Taliban. The US-Taliban negotiation in 2018 echoed the Taliban’s plea to end US airstrikes as well as to provide support to combat splinter groups and ISIL. Last year marked heavy clashes at Kunar, with ISIL circulating photos of weapons captured from the Taliban, followed by a video of the fighters renewing their oath to Abu Bakr al-Baghdadi criticising the prospect of US-Taliban peace talks. Further, on October 1, ISIL claimed to have killed 20 Taliban soldiers in Tora Bora.
+
+What lies ahead?
+
+A deeper dig into the causes of conflict between ISIL and the Taliban go beyond the primary causes for the fight to secure more land in accordance with Dabiq, the Islamic State manifesto, since ideology and long term objectives between the two differ strongly. ISIL (or ISIS in the broader spectrum) aims at establishing an Islamic Caliphate worldwide, while the Taliban aims to secure an Islamic State, ruled by Quranic law or their own interpretation of the Shariat. Hence, there can be increasing speculation about the future of Afghanistan, post the US-Afghan peace talks.
+
+The US-Afghan peace deal may result in ironical consequences which might include an increase in the membership of ISIL, as a major chunk of the Taliban foot soldiers who would be dissatisfied with the peace negotiations might join ISIL. It might have a significant impact on the Southeast Asian nations too, with many nations including India eyeing the Taliban with suspicion as a terrorist group and refusing to engage in bilateral or multilateral talks with obvious specifics towards its stand on the Kashmir issue.
+
+The question lingers whether a civil war is imminent in Afghan soil in the decades to come if ISIL strengthens itself or if it is an improbability, or whether a war with obvious outcomes is going to ensue, now that US assistance may help the Taliban in their war against ISIL. The world meanwhile grapples with the timeless words of the three witches in *Macbeth*, “Fair is Foul, Foul is Fair”, as US special envoy Zalmay Khalilzad defends the Taliban and their efforts to achieve “peace”, the same Taliban with whom they waged an 18-year long battle. So in diplomacy, fair or foul whichever you choose, (that is if you don't consider them to be the two sides of the same coin), the great gamble for Afghanistan proceeds between ISIL, Taliban, and the United States.
