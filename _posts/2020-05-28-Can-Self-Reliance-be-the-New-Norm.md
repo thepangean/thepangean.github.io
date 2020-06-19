@@ -8,7 +8,7 @@ date: 2020-05-28
 tags: economics
 class: post-template
 subclass: 'post tag-speeches'
-link: 1920px-thumbnail.jpg
+link: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Prime_Minister%2C_Shri_Narendra_Modi_delivering_his_speech_at_the_valedictory_function_of_the_National_Law_Day_celebrations%2C_in_New_Delhi_on_November_26%2C_2017.jpg/1920px-thumbnail.jpg
 author: kartik.kundeti
 ---
 “To stand on one’s own feet” is how 10th-grade economics teachers sum up the concept of self-reliance. The thinking behind India’s advocacy for this concept is premised upon the scars of colonialism. However, with the liberalisation of the Indian economy by the Narasimha Rao-led government, the concept had practically faded away from Indian public policy discourse. 29 years later, with Indian Prime Minister Narendra Modi calling upon Indians to ‘be vocal for local’ and emphasising self-reliance, it seems to be taking the centre-stage once again.
