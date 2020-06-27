@@ -183,38 +183,16 @@ sarbesh.chaudhury:
   twitter: False
   cover: sarbesh-cover.jpg
 
-aritra.gupta:
-  username: aritra.gupta
-  name: Aritra Dutta Gupta
-  location: Kolkata, India.
+aryaman.dhiman:
+  username: aryaman.dhiman
+  name: Aryaman Dhiman
+  location: Chandigarh
   positions: Contributor
-  bio: A nincompoop with an absurdly designed life.
-  picture: aritra.jpg
+  bio: I am an undergraduate student at Shri Ram College of Commerce. Over the years, my interests have jumped ship between art, theater, and sports, but my love for religious and historical research remains unchanged.
+  picture: aryaman-dhiman.png
   facebook: False
   twitter: False
-  cover: aritra-cover.jpg
-
-poorvi.gupta:
-  username: poorvi.gupta
-  name: Poorvi Gupta
-  location: Delhi, India.
-  positions: Contributor
-  bio: A struggling student at Delhi University, pursuing Economics honours. You’ll find me mostly hibernating, during while I read and write. I love everything old, be it books, music or buildings.
-  picture: poorvi-gupta.jpg
-  facebook: False
-  twitter: False
-  cover: poorvi-gupta-cover.jpg
-
-sparsh.gupta:
-  username: sparsh.gupta
-  name: Sparsh Gupta
-  location: Delhi
-  positions: Contributor
-  bio: A low-key individual, harbouring an unquenchable curiosity towards everything under the sun.
-  picture: sparsh-gupta.jpg
-  facebook: False
-  twitter: False
-  cover: sparsh-gupta-cover.jpg
+  cover: aryaman-dhiman-cover.jpg
   sports: False
 
 james.eakin:
@@ -228,6 +206,19 @@ james.eakin:
   twitter: False
   cover: james-eakin-cover.jpg
   sports: True
+
+nishaanth.elango:
+  username: nishaanth.elango
+  name: Nishaanth Elango
+  location: London, UK
+  positions: Contributor
+  bio: The meaning of life is whatever you ascribe it to be. After two beers, the meaning of life is to asdfghjklwhere is my hat
+  picture: nishaanth-elango.jpg
+  facebook: nishaanth.elango
+  twitter: False
+  cover: nishaanth-elango-cover.jpg
+  url: https://www.linkedin.com/in/nishaanth-elango/
+  url_full: https://www.linkedin.com/in/nishaanth-elango/
 
 oyeshi.ganguly:
   username: oyeshi.ganguly
@@ -264,6 +255,17 @@ saachi.ghosh:
   url: https://passiwitty.wordpress.com/
   url_full: https://passiwitty.wordpress.com/
 
+aritra.gupta:
+  username: aritra.gupta
+  name: Aritra Dutta Gupta
+  location: Kolkata, India.
+  positions: Contributor
+  bio: A nincompoop with an absurdly designed life.
+  picture: aritra.jpg
+  facebook: False
+  twitter: False
+  cover: aritra-cover.jpg
+
 manav.gupta:
   username: manav.gupta
   name: Manav Gupta
@@ -275,6 +277,17 @@ manav.gupta:
   twitter: False
   cover: manav-gupta-cover.jpg
 
+poorvi.gupta:
+  username: poorvi.gupta
+  name: Poorvi Gupta
+  location: Delhi, India.
+  positions: Contributor
+  bio: A struggling student at Delhi University, pursuing Economics honours. You’ll find me mostly hibernating, during while I read and write. I love everything old, be it books, music or buildings.
+  picture: poorvi-gupta.jpg
+  facebook: False
+  twitter: False
+  cover: poorvi-gupta-cover.jpg
+
 ritisha.gupta:
   username: ritisha.gupta
   name: Ritisha Gupta
@@ -285,6 +298,18 @@ ritisha.gupta:
   facebook: False
   twitter: False
   cover: ritisha-gupta-cover.jpg
+
+sparsh.gupta:
+  username: sparsh.gupta
+  name: Sparsh Gupta
+  location: Delhi
+  positions: Contributor
+  bio: A low-key individual, harbouring an unquenchable curiosity towards everything under the sun.
+  picture: sparsh-gupta.jpg
+  facebook: False
+  twitter: False
+  cover: sparsh-gupta-cover.jpg
+  sports: False
 
 stuti.gupta:
   username: stuti.gupta
@@ -352,6 +377,17 @@ kashish.jindal:
   facebook:
   twitter:
   cover: kashish-jindal-cover.jpg
+
+aniba.junaid:
+  username: aniba.junaid
+  name: Aniba Junaid
+  location: Kolkata
+  positions: Contributor
+  bio: Aniba Junaid is currently an undergraduate student of Political Science at Loreto College, Kolkata, India. She enjoys writing about Indian politics, culture, women and matters that affect one and all.
+  picture: aniba-junaid.jpg
+  facebook: aniba.junaid
+  twitter: Aniba_Junaid
+  cover: aniba-junaid-cover.jpg
 
 riya.kaul:
   username: riya.kaul
@@ -592,6 +628,17 @@ reema.singh:
   facebook: reemasingh13
   twitter: False
   cover: reema-cover.jpg
+
+tanisha.sukhija:
+  username: tanisha.sukhija
+  name: Tanisha Sukhija
+  location: New Delhi
+  positions: Contributor
+  bio: A student at University of Delhi, currently pursuing a major in  Economics with a keen interest in the fields of public policy and finance.
+  picture: tanisha-sukhija.jpeg
+  facebook: False
+  twitter: False
+  cover: tanisha-sukhija-cover.jpg
 
 namya.tewari:
   username: namya.tewari
