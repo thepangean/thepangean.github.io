@@ -9,7 +9,7 @@ tags: economics
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/9/93/Prime_Minister_Narendra_Modi_meeting_with_President_Xi_Jinping%2C_2016.jpg
-author: riya.kaur
+author: riya.kaul
 ---
 As the world battles the wrath and economic standstill that has emanated from the COVID-19 pandemic, geopolitical tensions have soared in East Asia along the non-delineated borders of India and China. The altercations that ensued between the two nations, along the historically peaceful region of the Galwan River Valley, peaked in mid-June when China attempted to unilaterally change the status quo by violating the sovereignty of the Line of Actual Control (LAC). While the LAC, unlike the Line of Control (LoC) between India and Pakistan, remains non-demarcated and hasn’t been internationally agreed upon, it has ironically sustained relative peace. However, the 2020 skirmishes resulted in 20 casualties on the Indian side while China is said to have lost an unconfirmed number, despite the clash being restrained with no use of bullets.
 
