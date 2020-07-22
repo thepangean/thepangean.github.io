@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: putinwc.jpg
 navigation: True
-title: "Economic Indicator 007"
+title: "Football for Global Influence"
 date: 2020-07-22
 tags: trending economics
 class: post-template
