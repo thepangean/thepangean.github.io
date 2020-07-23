@@ -11,7 +11,7 @@ abstract: "Git is a way to store, back up and organise your code. It is one of t
 ---
 # Introduction to Git #
 
-This is adapted from the [tutorial](https://cssbristol.co.uk/tutorials/git/) for University of Bristol CS students to reflect what will be expected at The Pangean. 
+This is adapted from [this tutorial](https://cssbristol.co.uk/tutorials/git/) (normally for University of Bristol CS students) to reflect what will be expected at The Pangean. 
 
 ## Why Git?
 
