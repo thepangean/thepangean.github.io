@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/tutorial/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-07-22T20:12:45+00:00</updated>
+  <updated>2020-07-23T15:06:53+00:00</updated>
   <id>/tag/tutorial/feed.xml</id>
 
   
@@ -199,7 +199,7 @@
       <id>/git-tutorial</id>
       <content type="html" xml:base="/git-tutorial">&lt;h1 id=&quot;introduction-to-git&quot;&gt;Introduction to Git&lt;/h1&gt;
 
-&lt;p&gt;This is adapted from the &lt;a href=&quot;https://cssbristol.co.uk/tutorials/git/&quot;&gt;tutorial&lt;/a&gt; for University of Bristol CS students to reflect what will be expected at The Pangean.&lt;/p&gt;
+&lt;p&gt;This is adapted from &lt;a href=&quot;https://cssbristol.co.uk/tutorials/git/&quot;&gt;this tutorial&lt;/a&gt; (normally for University of Bristol CS students) to reflect what will be expected at The Pangean.&lt;/p&gt;
 
 &lt;h2 id=&quot;why-git&quot;&gt;Why Git?&lt;/h2&gt;
 
