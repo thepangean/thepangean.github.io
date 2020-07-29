@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: afterlife.jpg
 navigation: True
-title: "Amongst The Living: Review of the TV Series *After Life*"
+title: "Amongst The Living: Review of the TV Series 'After Life'"
 date: 2020-07-22
 tags: culture
 class: post-template
