@@ -6,10 +6,10 @@ class: post-template
 
 title: "The ‘Bhakt’ and The Bhakti"
 author: swarnima.tewary
-cover: Morning_Aarti_of_the_Ganges,_ghats_of_Varanasi.jpg
+cover: Morning_Aarti_of_the_Ganges_ghats_of_Varanasi.jpg
 tags: culture
 date: 2019-03-21 11:01
-link: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Morning_Aarti_of_the_Ganges%2C_ghats_of_Varanasi.jpg/512px-Morning_Aarti_of_the_Ganges%2C_ghats_of_Varanasi.jpg
+link: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Morning_Aarti_of_the_Ganges%2C_ghats_of_Varanasi.jpg/512px-Morning_Aarti_of_the_Ganges%2C_ghats_of_Varanasi.jpg"
 ---
 There comes a time in history when a nation as a whole needs to stop, take a
 step back, reflect and re-examine its assumptions and perceptions about
