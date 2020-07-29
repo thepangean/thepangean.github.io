@@ -13,6 +13,11 @@ date: 2018-01-01
 link: /
 ---
 
+
+<!-- SYNTAX for EUAN -->
+
+[![some files](/assets/images/git-tutorial/files.png)](https://www.google.com/)
+
 <div class="caption" style="text-align: left;"><img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}" style="display:inline; text-align: left; width:40%"/><img src="assets/images/{{ site.baseurl }}{{ page.pic2 }}" style="display:inline; margin-left:10%; text-align: left; width:40%"/></div>
 
 <div class="caption" style="text-align: left"><img src="assets/images/{{ site.baseurl }}{{ page.pic1 }}" style="width:100%"/></div>
