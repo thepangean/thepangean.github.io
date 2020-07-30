@@ -8,7 +8,7 @@ date: 2020-07-09
 tags: economics
 class: post-template
 subclass: 'post tag-speeches'
-link: https://p1.pxfuel.com/preview/839/280/30/rupee-indian-india-money-bank-note-bill.jpg
+link: "https://p1.pxfuel.com/preview/839/280/30/rupee-indian-india-money-bank-note-bill.jpg"
 author: vanshika.sighroha
 ---
 As the number of COVID-19 cases continue to burgeon around the globe, most countries are experiencing an unprecedented slowdown with a shrinkage in economic activities. The already prevailing global slowdown in the pre-corona months has fused with the present-day scenario, resulting in an economic jolt. The ‘Great Lockdown’ as the IMF calls it, will give birth to economies with lowered interest rates and public debts reaching record levels.
