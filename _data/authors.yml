@@ -207,18 +207,18 @@ james.eakin:
   cover: james-eakin-cover.jpg
   sports: True
 
-nishaanth.elango:
-  username: nishaanth.elango
-  name: Nishaanth Elango
-  location: London, UK
-  positions: Contributor
-  bio: The meaning of life is whatever you ascribe it to be. After two beers, the meaning of life is to asdfghjklwhere is my hat
-  picture: nishaanth-elango.jpg
-  facebook: nishaanth.elango
-  twitter: False
-  cover: nishaanth-elango-cover.jpg
-  url: https://www.linkedin.com/in/nishaanth-elango/
-  url_full: https://www.linkedin.com/in/nishaanth-elango/
+# nishaanth.elango:
+#   username: nishaanth.elango
+#   name: Nishaanth Elango
+#   location: London, UK
+#   positions: Contributor
+#   bio: The meaning of life is whatever you ascribe it to be. After two beers, the meaning of life is to asdfghjklwhere is my hat
+#   picture: nishaanth-elango.jpg
+#   facebook: nishaanth.elango
+#   twitter: False
+#   cover: nishaanth-elango-cover.jpg
+#   url: https://www.linkedin.com/in/nishaanth-elango/
+#   url_full: https://www.linkedin.com/in/nishaanth-elango/
 
 oyeshi.ganguly:
   username: oyeshi.ganguly
@@ -254,6 +254,17 @@ saachi.ghosh:
   cover: saachi-ghosh-cover.jpg
   url: https://passiwitty.wordpress.com/
   url_full: https://passiwitty.wordpress.com/
+
+mehul.goyal:
+  username: mehul.goyal
+  name: Mehul Goyal
+  location: New Delhi, India.
+  positions: Contributor
+  bio: A proud intuitive empath surrounding myself with positive things and a meaningful career. I like bringing people together and that’s what landed me to pursue a bachelor's degree in Management Studies(BMS) at Delhi University.
+  picture: mehul-goyal.jpg
+  facebook: mehul.goyal99
+  twitter: mehul_goyal19
+  cover: mehul-goyal-cover.jpg
 
 aritra.gupta:
   username: aritra.gupta
@@ -389,6 +400,17 @@ aniba.junaid:
   twitter: Aniba_Junaid
   cover: aniba-junaid-cover.jpg
 
+aditya.khandelwal:
+  username: aditya.khandelwal
+  name: Aditya Khandelwal
+  location: Gorakhpur, India
+  positions: Contributor
+  bio: A happy person with the desire to enchant everyone with a smile. Pursuing Bachelors of Commerce from Hindu College. In his free time, you can find him reviewing new gadgets or cars.
+  picture: aditya-khandelwal.jpeg
+  facebook: False
+  twitter: False
+  cover: aditya-khandelwal-cover.jpg
+
 riya.kaul:
   username: riya.kaul
   name: Riya Kaul
@@ -423,17 +445,17 @@ aric.kirsten:
   cover: aric-cover.jpg
   sports: True
 
-hareneshkaran.kirubakaran:
-  username: hareneshkaran.kirubakaran
-  name: Hareneshkaran Kirubakaran
-  location: Kuala Lumpur
-  positions: Contributor
-  bio: Medical student with a passion in research and ethics. In my spare time, I captain a hockey team and umpire matches, alongside the occasional tutoring session that I conduct. I try to do my part for society through volunteering and fundraising.
-  picture: hareneshkaran-kirubakaran.jpg
-  facebook: False
-  twitter: False
-  cover: hareneshkaran-kirubakaran-cover.jpg
-  sports: False
+# hareneshkaran.kirubakaran:
+#   username: hareneshkaran.kirubakaran
+#   name: Hareneshkaran Kirubakaran
+#   location: Kuala Lumpur
+#   positions: Contributor
+#   bio: Medical student with a passion in research and ethics. In my spare time, I captain a hockey team and umpire matches, alongside the occasional tutoring session that I conduct. I try to do my part for society through volunteering and fundraising.
+#   picture: hareneshkaran-kirubakaran.jpg
+#   facebook: False
+#   twitter: False
+#   cover: hareneshkaran-kirubakaran-cover.jpg
+#   sports: False
 
 kabir.kochar:
   username: kabir.kochar
@@ -446,6 +468,17 @@ kabir.kochar:
   twitter: False
   cover: kabir-kochar-cover.jpg
   sports: False
+
+rachit.kumar:
+  username: rachit.kumar
+  name: Rachit Kumar
+  location: New Delhi, India
+  positions: Contributor
+  bio: Rachit Kumar is a student of Kirori Mal College,DU. Currently pursuing B.Com(Hons). He has a very keen interest in finance and loves to research about stock market whole day. He is also passionate towards Photography.
+  picture: rachit-kumar.jpg
+  facebook: rachitkd007
+  twitter: rachitkdogra
+  cover: rachit-kumar-cover.jpg
 
 kartik.kundeti:
   username: kartik.kundeti
@@ -585,6 +618,17 @@ sritama.sen:
   twitter: False
   cover: sritama-sen-cover.jpg
 
+cherry.sharma:
+  username: cherry.sharma
+  name: Cherry Sharma
+  location: Noida, India
+  positions: Contributor
+  bio: I'm a Third-year student of Economics studying at Indraprastha College for Women, University of Delhi. I love to do policy and financial research and prepare reports for them. I am also preparing to pursue Economics at the Post Graduation level.
+  picture: cherry-sharma.jpeg
+  facebook: cherry.sharma.56211
+  twitter: CherryS94612782
+  cover: hrishita-sharma-cover.jpg
+
 hrishita.sharma:
   username: hrishita.sharma
   name: Hrishita Sharma
@@ -607,16 +651,16 @@ ishi.shrivastava:
   twitter: False
   cover: ishi-shrivastava-cover.jpeg
 
-vanshika.sighroha:
-  username: vanshika.sighroha
-  name: Vanshika Sighroha
-  location: Dwarka
+ananya.singh:
+  username: ananya.singh
+  name: Ananya Singh
+  location: Gurgaon, India
   positions: Contributor
-  bio: A woman with opinions and confidence to voice them out freely, I am currently pursuing my majors in Economics.  With a love for food, books and movies, I also love to write and further expand my horizon. I find my solace in travelling and good music!
-  picture: vanshika-sighroha.jpg
-  facebook: vanshikasighroha
+  bio: An Economics student trying to make sense of the world! Extremely fun & talkative but only if I like you ;)
+  picture: ananya-singh.jpeg
+  facebook: False
   twitter: False
-  cover: vanshika-sighroha-cover.jpg
+  cover: ananya-singh-cover.jpg
 
 reema.singh:
   username: reema.singh
@@ -628,6 +672,17 @@ reema.singh:
   facebook: reemasingh13
   twitter: False
   cover: reema-cover.jpg
+
+vanshika.sighroha:
+  username: vanshika.sighroha
+  name: Vanshika Sighroha
+  location: Dwarka
+  positions: Contributor
+  bio: A woman with opinions and confidence to voice them out freely, I am currently pursuing my majors in Economics.  With a love for food, books and movies, I also love to write and further expand my horizon. I find my solace in travelling and good music!
+  picture: vanshika-sighroha.jpg
+  facebook: vanshikasighroha
+  twitter: False
+  cover: vanshika-sighroha-cover.jpg
 
 tanisha.sukhija:
   username: tanisha.sukhija
