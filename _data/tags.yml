@@ -23,6 +23,12 @@ featured:
   hidden: True
 
 #VISIBLE
+business-finance:
+  name: business-finance
+  title: Business and Finance
+  description: False
+  cover: False
+  section: True
 culture:
   name: culture
   title: Culture
