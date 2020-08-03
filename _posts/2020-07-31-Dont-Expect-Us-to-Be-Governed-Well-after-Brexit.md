@@ -3,12 +3,12 @@ layout: post
 current: post
 cover: HOP.jpg
 navigation: True
-title: "Don't Expect To Be Governed Well After Brexit"
+title: "Don't Expect Us to Be Governed Well after Brexit"
 date: 2020-07-31
 tags: policy
 class: post-template
 subclass: 'post tag-speeches'
-link: https://upload.wikimedia.org/wikipedia/commons/4/4c/British_Houses_of_Parliament.jpg
+link: "https://upload.wikimedia.org/wikipedia/commons/4/4c/British_Houses_of_Parliament.jpg"
 author: .
 ---
 It’s time to start talking about Brexit again. I hear you sigh. And don’t worry, I share your weariness. The reason we have to bring it up, put simply, is that the UK is barely any closer to leaving the European Union than it was in 2018, or even 2016. All changes up to this point have been symbolic, throwaway gestures. A hopelessly vague withdrawal agreement means that Britain is still under the jurisdiction of the Court of Justice of the European Union, and all of the regulations of the Customs Union remain in place on our shores.
@@ -29,6 +29,6 @@ All of this leads to the conclusion that Britain’s governing class lacks the r
 
 -**Thomas Leeman**
 
-  
+
 
 *Thomas Leeman is a Politics and Spanish graduate of the University of Bristol with a keen interest in European and US politics. His pearls of good humour don’t merely fall from trees.*
