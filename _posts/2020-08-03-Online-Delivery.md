@@ -7,8 +7,8 @@ class: post-template
 title: "Online Delivery: Adjusting to The New Normal"
 author: mehul.goyal
 cover: amazon-locker-image.jpg
-tags: business-finance
-date: 2020-08-03
+tags: trending business-finance
+date: 2020-08-04 10:55
 link: "https://live.staticflickr.com/2845/10320101173_d9d71bd41c_b.jpg"
 disable-first-letter: False
 ---
