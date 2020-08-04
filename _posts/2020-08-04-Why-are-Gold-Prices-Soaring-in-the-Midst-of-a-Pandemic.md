@@ -8,7 +8,7 @@ title: "Why are Gold Prices Soaring in the Midst of a Pandemic?"
 author: rachit.kumar
 cover: gold-is-money-gold-bar-shop-gold-money.jpg
 tags: trending business-finance
-date: 2020-08-04
+date: 2020-08-04T10:45:00Z
 link: "https://c1.wallpaperflare.com/preview/424/316/834/gold-is-money-gold-bar-shop-gold-money.jpg"
 disable-first-letter: False
 ---

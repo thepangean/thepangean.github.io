@@ -8,7 +8,7 @@ title: "Online Delivery: Adjusting to The New Normal"
 author: mehul.goyal
 cover: amazon-locker-image.jpg
 tags: trending business-finance
-date: 2020-08-04
+date: 2020-08-04T11:00:00Z
 link: "https://live.staticflickr.com/2845/10320101173_d9d71bd41c_b.jpg"
 disable-first-letter: False
 ---
