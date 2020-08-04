@@ -8,7 +8,7 @@ title: "When The Faithful Prince Backfired!"
 author: ananya.singh
 cover: RatanTata.jpg
 tags: business-finance
-date: 2020-08-04T10:30:00Z
+date: 2020-08-03
 link: "https://upload.wikimedia.org/wikipedia/commons/1/10/RatanTata.jpg"
 disable-first-letter: False
 ---
