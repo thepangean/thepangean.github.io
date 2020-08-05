@@ -8,16 +8,17 @@ date: 2020-07-22
 tags: policy
 class: post-template
 subclass: 'post tag-speeches'
-link: https://live.staticflickr.com/65535/50022301656_07b39bf01a_b.jpg
-author: .
----   
+link: "https://live.staticflickr.com/65535/50022301656_07b39bf01a_b.jpg"
+author: guest
+---
+
 When Americans vote in November, they should be made to answer another question after casting their vote for President. Do you, in your heart of hearts, believe that either Donald Trump or Joe Biden can make the United States a better country for the people who live there?
 
-  
+
 
 I’m not sure how honestly the electorate would answer this question, short of installing lie detectors in the voting booths. But I know how I would vote if I were American. I don’t think either of them could improve the country. And then, if it came out that eighty percent of the country agreed, any pretence of a mandate that the victorious candidate might have hoped to claim would have evaporated long before he raises his right hand on the steps of the Capitol next January. This would be a cathartic moment because neither man deserves to hold the office of President of the United States.
 
-  
+
 
 I don’t know why anyone has bothered reading John Bolton’s new book. It was already obvious to anyone neither blind nor deaf that Donald Trump is unfit for the Presidency, and he has demonstrated this beyond reproach in the past months. Nothing about his response to the coronavirus is surprising, from the hubris to the ineptitude and the self-aggrandisement. Little else needs to be said regarding the incumbent.
 
@@ -27,7 +28,7 @@ While Biden might be more seasoned than his opponent, there’s the small issue 
 
 So, Trump can’t run the White House, and Biden can’t run the country. Upon seeing this, you will realise that the whole election is an expensive (and possibly rather violent) farce. Under these circumstances, the best thing you can do, if you are American, is to not legitimise this sham by refusing to take part in the election process. The scenario of a confidence vote which I set out at the start of the article is a nice idea, but it’s not going to happen. Democrats and Republicans both stand to lose far too much from it, or from a “none of the above” option on the ballot paper. If the state won’t budge on allowing the electorate to register their dissatisfaction at election time, then the American public must take it upon themselves to do this, and stay at home. Sorry, but voting for some third-party chump who barely knows where Albany is, let alone [Aleppo](https://www.youtube.com/watch?v=pcj8yJk87cs), isn’t going to cut it.
 
-  
+
 
 I have heard all of the pro-voting arguments before. *“Voting is a privilege which people living under tyranny don’t have”*, people say. This is nonsense; many people living without freedom can vote, and they get in serious trouble if they don’t. North Korea holds parliamentary elections. Vladimir Putin is an elected politician, but the citizens under his control can’t contest his dubious victories every six years.
 
@@ -39,6 +40,6 @@ Our governments have been desperate for us to stay at home for months. I doubt t
 
 -**Thomas Leeman**
 
-  
+
 
 *Thomas Leeman is a Politics and Spanish graduate of the University of Bristol with a keen interest in European and US politics. His pearls of good humour don’t merely fall from trees.*
