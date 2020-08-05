@@ -991,9 +991,9 @@ olly.bowes:
   cover: olly-cover.jpg
   guest: True
 
-guest.contributor:
-  username: guest.contributor
-  name: Guest Contributor
+guest:
+  username: guest
+  name: Guest
   location:
   positions:
   bio:
