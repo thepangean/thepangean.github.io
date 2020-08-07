@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "What We Misunderstand about Eastern Europe’s 'Populists'?"
+title: "What We Misunderstand about Eastern Europe’s 'Populists'"
 author: guest
 cover:
 tags: policy
