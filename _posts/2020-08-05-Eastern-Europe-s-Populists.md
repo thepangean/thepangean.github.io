@@ -6,7 +6,7 @@ class: post-template
 
 title: "What We Misunderstand about Eastern Europe’s 'Populists'"
 author: guest
-cover:
+cover: populist1.jpg
 tags: policy
 date: 2020-08-05T000
 link: ""
