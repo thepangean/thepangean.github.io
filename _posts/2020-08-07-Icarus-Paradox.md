@@ -5,7 +5,7 @@ cover: icarus.jpg
 navigation: True
 title: "Icarus Paradox: Why Successful Ventures Fail?"
 date: 2020-08-07
-tags: policy
+tags: business-finance
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/b/b9/Gowy-icaro-prado.jpg 
