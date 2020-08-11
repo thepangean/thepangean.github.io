@@ -5,7 +5,7 @@ cover: antigay.jpg
 navigation: True
 title: "God's Homophobia will Die and We will Kill It"
 date: 2020-08-11
-tags: trending culture
+tags: trending society
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/b/b4/Anti_gay_San_Francisco.jpg
