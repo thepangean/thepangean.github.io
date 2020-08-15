@@ -24,6 +24,9 @@
             {% if site.twitter %}
                 <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% if issports %}{% include twitter-sports.html %}{% else %}{% include twitter.html %}{% endif %}</a>
             {% endif %}
+            {% if site.instagram %}
+                <a class="social-link social-link-ig" href="https://www.instagram.com/{{ site.instagram }}" target="_blank" rel="noopener">{% if issports %}{% include instagram-sports.html %}{% else %}{% include instagram.html %}{% endif %}</a>
+            {% endif %}
         </div>
         {% if site.subscribers %}
             <a id="nav-subscribe-button" class="subscribe-button" href="#subscribe">Subscribe</a>
