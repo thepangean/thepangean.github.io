@@ -9,7 +9,7 @@ author: shivang.singh
 cover: urbanpoverty.jpg
 tags: economics
 date: 2019-03-08 23:45
-link: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buchenwald_Slave_Laborers_Liberation.jpg/947px-Buchenwald_Slave_Laborers_Liberation.jpg
+link: 
 ---
 <em>A guide to its effective implementation…</em>
 
