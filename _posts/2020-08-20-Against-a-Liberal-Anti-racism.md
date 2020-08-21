@@ -5,7 +5,7 @@ cover: jamestownburning.jpg
 navigation: True
 title: "Against a Liberal Anti-racism"
 date: 2020-08-20
-tags: society
+tags: trending society
 class: post-template
 subclass: 'post tag-speeches'
 link: https://en.wikipedia.org/wiki/Bacon%27s_Rebellion#/media/File:The_Burning_of_Jamestown.jpg
