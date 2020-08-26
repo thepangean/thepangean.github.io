@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/economics/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-08-26T18:38:54+00:00</updated>
+  <updated>2020-08-26T18:44:51+00:00</updated>
   <id>/tag/economics/feed.xml</id>
 
   
@@ -245,6 +245,58 @@
 
       
         <summary type="html">Norway is a wonderful country that has time and time again been used as the poster child for a socialist-capitalist mixed economy done right. Norway has several times been compared to that child in our school who is absolutely tremendous at each and everything. The country boasts a GDP per capita of $81,995, one of the highest in the world, only falling behind Switzerland and a select group of micronations. The country has a robust trade surplus, exports of $106 billion, compared to imports of $84.8 billion, one of the highest national life expectancies at 81.8 years, an extremely skilled workforce with one of the highest proportion of university graduates at 42% of any country in the world, an extremely low unemployment rate of 0.41%, and international recognition as a place where it is very easy to do business.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Emmanuel Farhi’s Safety Trap</title>
+      <link href="/Emmanuel-Farhi-Safety-Trap" rel="alternate" type="text/html" title="Emmanuel Farhi’s Safety Trap" />
+      <published>2020-08-26T00:00:00+00:00</published>
+      <updated>2020-08-26T00:00:00+00:00</updated>
+      <id>/Emmanuel-Farhi-Safety-Trap</id>
+      <content type="html" xml:base="/Emmanuel-Farhi-Safety-Trap">&lt;p&gt;Emmanuel Farhi, considered by many to be the brightest economist of his generation, passed away in July 2020, aged only 41. Farhi, a PhD from Massachusetts Institute of Technology (MIT) and amongst the youngest to receive tenure as Professor at Harvard University, was known to challenge traditional economic concepts that people would often take as given. Take, for example, one of his most cited works,  &lt;em&gt;The Safe Asset Shortage Conundrum&lt;/em&gt;, written on safe assets and the lack thereof, in 2008 with Ricardo Caballero of MIT and Pierre-Oliver Gourinchas of UC Berkeley. This paper augmented Keynes’ classical theory of the ‘Liquidity Trap’ and developed it to suit the modern connotation of capital markets, and is more relevant now than ever.&lt;/p&gt;
+
+&lt;p&gt;The world seemed to have reasonably recovered from the short run curable shocks of the Great Financial Crisis of 2008 by 2018-19, when many first-world nations, including the world’s de-facto economic capital, the US, were considered to have achieved ‘full employment’. There was, however, something anomalistic about this status, when despite high productivity, inflation seemed suppressed. This &lt;a href=&quot;https://thepangean.com/Inflation-Dead-Or-Dormant&quot;&gt;dormant status of inflation&lt;/a&gt;, often explained by the unorthodox policy measures taken for recovery, has evidently trickled into the prolonged COVID-19 induced recession. Monetary policy as a tool might appear crippled at this point, with nominal rates reaching their zero levels bound in most first-world economies.&lt;/p&gt;
+
+&lt;p&gt;Conventional jargon would explain the situation as follows: what has basically happened in this liquidity trap is the flattening of our LM curve (a curve showing the relationship between real output and interest rates in the money market), a consequence of a high ‘h’ (which is the proportion of change in money demand, when the interest rates change by a percent). In classical (Keynesian) economic sense though, the policy decision is to change the money supply first, and the interest rate change is a consequence of that. Once a decision to increase the money supply, in hopes to revive demand, is implemented, it is accompanied by an equal increase in money demand in order for the market to equilibrate. Money demand, without an increase in income levels, can only rise if the interest rate moves down. But in case of a high ‘h’, a negligible downward movement of rates should be able to compensate for the money demand increase. Coming back to the real world, where money demand is adjusted by moving the nominal interest rates, such a scenario would render the monetary policy useless, once the zero levels bound of interest rates is reached.&lt;/p&gt;
+
+&lt;p&gt;The conventional solution to this dilemma, as given by Keynes in &lt;em&gt;The General Theory of Employment, Interest and Money&lt;/em&gt; was to make gracious use of fiscal policy in a targeted manner. But as concerns of deficit consolidation popped up, economists at the Fed came up with other heterodox mutations of conventional monetary policy to tackle the issue. It wasn’t until Farhi’s paper on ‘Safety Traps’ was published that the policymakers found a more logical chain of response to the problem. A certain category of assets, often considered immune in periods of depressed market spirits, is called ‘Safe Assets’. During recessions, their markets evidently boom leading to price hikes and consequent fall in the yields. But the yields have a lower bound of zero percent, beyond which they cannot fall, and therefore prices cannot rise. This situation of people acting in private interest, leading to a net consequence of a market failure is a classic example of ‘Fallacy of Composition’. This happens since the asset market does not equilibrate in response to the high demand. And due to nominal rigidities, this equilibrium manifests in the form of output reduction. The output during recessionary periods is entirely demand determined, and the 0-yield on the safe assets is not low enough to encourage agents to move towards consumption.&lt;/p&gt;
+
+&lt;p&gt;Typically the solutions offered to do away with this complication include negative interest rates, forward guidance, quantitative easing, etc. However, in his paper, Farhi accounted for the fact that the market rates do not uniformly equilibrate across all assets, and a certain risk premium remains attached to equity assets, while the safe ones get to zero. This tends to dilute the policy impact.&lt;/p&gt;
+
+&lt;p&gt;What we want as our end result, is that despite the high ‘Safe Asset’ demand, we generate enough supply to ensure the yields do not get to zero and there is some scope to utilise the monetary policy. This sudden paucity of safe assets is often attributed to a savings glut, accumulation of reserves by the emerging markets, and to the fact that many assets which shaped the housing market bubble were once considered safe, but were not so at all.&lt;/p&gt;
+
+&lt;p&gt;One popular policy response which was an attempt to untie the hands of monetary policy, but failed to an extent was ‘Quantitative Easing’, which allowed the Fed to pump up the market with fresh money supply while purchasing bonds in return. This measure would not revive demand to its potential if safe assets are the ones being purchased in its return. This is because a proportion of the newly printed money will look for more safe assets, which have now shrunk in supply! Instead, soaking up the risky assets in return for the newly printed money, while simultaneously issuing newer safety assets is the proper way to go about quantitative easing.&lt;/p&gt;
+
+&lt;p&gt;Forward guidance, by ensuring to keep the future rates low was also said to work, because, if the Government’s word on the policy is reliable, lower future yields will imply higher future asset prices, creating current demand for the assets. When the self-fulfilling prophecy works out, the wealth effect naturally generates demand. However, Farhi’s paper found out the misconceptions associated with the effectiveness of this policy. If assets are seen in terms of the two designated classes, then it is likely that the risky assets, with a positive risk premium, will dissipate the impact of anticipated lower rates, and the effect will not trickle to revive the output market. However, one measure that is likely to render the monetary policy free is creating a very high inflation target, which would then allow the economy to run on an output-inducing negative real rate while being on the 0-nominal rate. But then again, this has its long-run ramifications.&lt;/p&gt;
+
+&lt;p&gt;The existence of a high-risk premium is concrete evidence for the existence of a ‘safety trap’, rather than a liquidity trap. It is indicative of the fact that people are rushing towards safe assets, while equity returns remain stable and decoupled from the economic situation, as is the current case. A fiscal policy response by issuing sovereign bonds to address the scarcity of safe assets is now being encouraged with the popularisation of the ‘Modern Monetary Theory’, though Farhi considered the US’ role as the world’s banker to be unsustainable due to higher issuance of sovereign bonds leading many to question their debt levels.&lt;/p&gt;
+
+&lt;p&gt;While this paper played an instrumental role in forwarding the scope of the monetary policies of the first world countries, Emmanuel Farhi’s other papers are just as revolutionary, if not as cited. In another one of his works, &lt;em&gt;Dealing with the Trilemma: Optimal Capital Controls with Fixed Exchange Rates&lt;/em&gt; he challenged the ‘Impossible Trinity’ by providing partial capital controls as a solution for emerging markets battling the exchange rate volatility. His research is a perfect amalgamation of academia and policy solutions, and he truly believed that research only made sense when it could be put in real service towards progress. Safe to say that the world of academics and research was in for a shock on his passing on the 23rd of July, 2020. Gita Gopinath, a fellow colleague at Harvard, poignantly wrote, &lt;em&gt;“Imagine the loss to economics if Samuelson had died at the age of 41, that is what we have lost with Emmanuel’s passing”&lt;/em&gt;. His best was truly yet to be seen.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Riya Kaul</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="economics" />
+      
+
+      
+        <summary type="html">Emmanuel Farhi, considered by many to be the brightest economist of his generation, passed away in July 2020, aged only 41. Farhi, a PhD from Massachusetts Institute of Technology (MIT) and amongst the youngest to receive tenure as Professor at Harvard University, was known to challenge traditional economic concepts that people would often take as given. Take, for example, one of his most cited works, The Safe Asset Shortage Conundrum, written on safe assets and the lack thereof, in 2008 with Ricardo Caballero of MIT and Pierre-Oliver Gourinchas of UC Berkeley. This paper augmented Keynes’ classical theory of the ‘Liquidity Trap’ and developed it to suit the modern connotation of capital markets, and is more relevant now than ever.</summary>
       
 
       
@@ -701,54 +753,6 @@
 
       
         <summary type="html">Modern Monetary Theory (MMT) is an unconventional economic theory that has been gaining traction recently. Though the theory has been in development for many years now, the coronavirus pandemic sparked a debate about the usefulness of the theory in the real world. So, this might be the right time to know what the theory is about and what are the implications of it. For better understanding, let us try to contrast this with conventional economic theory.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">India-China Feud: To Boycott or Not?</title>
-      <link href="/India-China-Feud" rel="alternate" type="text/html" title="India-China Feud: To Boycott or Not?" />
-      <published>2020-07-16T00:00:00+00:00</published>
-      <updated>2020-07-16T00:00:00+00:00</updated>
-      <id>/India-China-Feud</id>
-      <content type="html" xml:base="/India-China-Feud">&lt;p&gt;As the world battles the wrath and economic standstill that has emanated from the COVID-19 pandemic, geopolitical tensions have soared in East Asia along the non-delineated borders of India and China. The altercations that ensued between the two nations, along the historically peaceful region of the Galwan River Valley, peaked in mid-June when China attempted to unilaterally change the status quo by violating the sovereignty of the Line of Actual Control (LAC). While the LAC, unlike the Line of Control (LoC) between India and Pakistan, remains non-demarcated and hasn’t been internationally agreed upon, it has ironically sustained relative peace. However, the 2020 skirmishes resulted in 20 casualties on the Indian side while China is said to have lost an unconfirmed number, despite the clash being restrained with no use of bullets.&lt;/p&gt;
-
-&lt;p&gt;China has been globally targeted for its neocolonialist approach over the past decade, be it through cheque-book diplomacy as in the case of Sri Lanka, or through blatant expansionist policies, as in the current scenario. When India refused to participate in the first Belt and Road Initiative summit in May 2017, it practically refused to fall for the former approach and became a hindrance to China’s grand geopolitical strategy, resulting in the orchestrated Doklam standoff that followed a month later, in June 2017.&lt;/p&gt;
-
-&lt;p&gt;This bears weak resemblance to the current scenario, wherein the export consignment of faulty medical equipment by nationalised Chinese pharmaceutical companies and the possibility of COVID-19 being an engineered bioweapon has turned global sentiments against the Chinese economy in general. As a consequence, global investment portfolio rebalancing is expected. Additionally, many major MNCs realised that they had put too many eggs in one basket, and are looking to move their production units to South Asia, where India stands waiting in anticipation with lucrative policies. This speculation has prevailed since the US-China trade war began but has been concretised over the past quarter, leading many to believe that this was as much of motivation behind the violation of the de-facto border as the local territorial integrity. While peace is the prioritised goal, the primary objective for India remains to restore the status quo ante, leading to prolonged conflict. Since both nuclear powers ascribe to the ‘no first use’ policy, the dispute has permeated into the economic foreground leading to calls for a strategic boycott.&lt;/p&gt;
-
-&lt;p&gt;The discord comes at an opportune time for China, as India closes to the peak of COVID-19 and faces a fragile and vulnerable state of affairs. The financial markets have rallied temporarily, and have, since February, gone through the Denial-FOMO (fear of missing out) cycle identified by Robert Shiller in the American markets, which can be loosely extrapolated to fit the Indian scenario. Once again, the stock market appears to be considerably decoupled from the state of the economy which is said to be headed towards depression. In such a situation, the escalation of bilateral tensions with a nation that accounts for over 16% of total imports and 9% of total exports of India is seemingly not a viable course of action. Although, as proclaimed by many, the boycott, if successful, will not be entirely harmless, and ironically, this is the best time to put it to action.&lt;/p&gt;
-
-&lt;p&gt;India majorly imports organic chemicals and electrical machinery from China to be used as raw materials in the Indian industries. Both can be procured from separate sources, at slightly higher prices, which might interfere with pharmaceutical price control regulations in case of organic chemicals. But hiking import duties on non-essentials is definitely a doable move at this juncture when the fall in imports is much larger than the fall in exports due to slowdown in industrial activity.&lt;/p&gt;
-
-&lt;p&gt;However, as the nation proceeds to unlock and the economic cycle initiates, it is unlikely that businesses will be able to afford the switch and diversify their supply chains. Ideally, the graph of the India-China trade balance mapped as a function of the timeline since the initiation of a (successful) boycott should take a familiar tilted J-shape, with the curve beginning in the negative-Y (deficit for India) threshold. The initial crater of the J-curve is owed to the inelasticity of demand, and the deficits might worsen when the economy reopens and imports rise from their current low levels. Eventually, as the demand revives, and (if and only if) the businesses remain encouraged to diversify their supply chains, the boycott may be considered successful.&lt;/p&gt;
-
-&lt;p&gt;However, the argument remains that this will be more of a diplomatic win rather than an economic one. In order to play this strategically and move towards what Indian Prime Minister Narendra Modi calls an &lt;em&gt;‘Atma Nirbhar’&lt;/em&gt; (self-dependent) India, free of import dependence, one must play for the long haul. China became the world’s factory because of its extremely cheap wages, but it managed to remain so despite the 8,500% wage increase since the past 30 years, solely due to its simplified policy framework. Chapter - 6, Volume - 1 of the Indian Economic Survey 2020, elaborates poignantly how China fairs better than India in virtually all the parameters of the Ease of Doing Business Index by the World Bank. The complications involved in acquiring construction permits, licenses, and the magnitude of applicable rules and statutory laws for manufacturing are quite overwhelming for any business to venture into India. Although there have been underrated reforms like the Insolvency and Bankruptcy Code of 2016 that have been revolutionary in disciplining the attitude of businesses towards their sources of finance, we still need a major revamping of the legal system of the nation in order to strengthen contract enforcement.&lt;/p&gt;
-
-&lt;p&gt;Another pertinent question that we need to ask ourselves is that even if the global economy permits, are we ready to become net exporters even in the long run? India’s growth story has always been driven by local consumption power, which is also skewed towards import-intensive goods. That leaves little room for domestic savings, leaving us prying for FDI, and that demand is honoured since India is a favourable destination during prosperous periods owing to the lucrative emerging market grade returns. A country can have either a net current account surplus or a capital account surplus, we face the latter case. China faces the former, by its choice. It even resorted to the old currency devaluation tactic back in 2019, when the trade war with the US began to frustrate the officials with threats of taking away the current account surplus. This surplus is precious to China due to the grand strategy of foreign capital investment it has undertaken under its neocolonialist approach. But India cannot steal both the FDI and the exports of China, that would go against macroeconomic fundamentals. This is practically why many have opposed the idea of a boycott and called for more government focus on rearing natural competition while reaping the advantages of smooth FDI. It is eventually up to the government to prioritise and strike an ideal balance between diplomatic and economic victories, which may not go hand in hand in the short run.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Riya Kaul</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="economics" />
-      
-
-      
-        <summary type="html">As the world battles the wrath and economic standstill that has emanated from the COVID-19 pandemic, geopolitical tensions have soared in East Asia along the non-delineated borders of India and China. The altercations that ensued between the two nations, along the historically peaceful region of the Galwan River Valley, peaked in mid-June when China attempted to unilaterally change the status quo by violating the sovereignty of the Line of Actual Control (LAC). While the LAC, unlike the Line of Control (LoC) between India and Pakistan, remains non-demarcated and hasn’t been internationally agreed upon, it has ironically sustained relative peace. However, the 2020 skirmishes resulted in 20 casualties on the Indian side while China is said to have lost an unconfirmed number, despite the clash being restrained with no use of bullets.</summary>
       
 
       

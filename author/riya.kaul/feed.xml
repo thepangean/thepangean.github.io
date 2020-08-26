@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/riya.kaul/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-08-26T18:38:54+00:00</updated>
+  <updated>2020-08-26T18:44:51+00:00</updated>
   <id>/author/riya.kaul/feed.xml</id>
 
   
@@ -202,6 +202,58 @@
   
   
 
+  
+    <entry>
+      <title type="html">Emmanuel Farhi’s Safety Trap</title>
+      <link href="/Emmanuel-Farhi-Safety-Trap" rel="alternate" type="text/html" title="Emmanuel Farhi’s Safety Trap" />
+      <published>2020-08-26T00:00:00+00:00</published>
+      <updated>2020-08-26T00:00:00+00:00</updated>
+      <id>/Emmanuel-Farhi-Safety-Trap</id>
+      <content type="html" xml:base="/Emmanuel-Farhi-Safety-Trap">&lt;p&gt;Emmanuel Farhi, considered by many to be the brightest economist of his generation, passed away in July 2020, aged only 41. Farhi, a PhD from Massachusetts Institute of Technology (MIT) and amongst the youngest to receive tenure as Professor at Harvard University, was known to challenge traditional economic concepts that people would often take as given. Take, for example, one of his most cited works,  &lt;em&gt;The Safe Asset Shortage Conundrum&lt;/em&gt;, written on safe assets and the lack thereof, in 2008 with Ricardo Caballero of MIT and Pierre-Oliver Gourinchas of UC Berkeley. This paper augmented Keynes’ classical theory of the ‘Liquidity Trap’ and developed it to suit the modern connotation of capital markets, and is more relevant now than ever.&lt;/p&gt;
+
+&lt;p&gt;The world seemed to have reasonably recovered from the short run curable shocks of the Great Financial Crisis of 2008 by 2018-19, when many first-world nations, including the world’s de-facto economic capital, the US, were considered to have achieved ‘full employment’. There was, however, something anomalistic about this status, when despite high productivity, inflation seemed suppressed. This &lt;a href=&quot;https://thepangean.com/Inflation-Dead-Or-Dormant&quot;&gt;dormant status of inflation&lt;/a&gt;, often explained by the unorthodox policy measures taken for recovery, has evidently trickled into the prolonged COVID-19 induced recession. Monetary policy as a tool might appear crippled at this point, with nominal rates reaching their zero levels bound in most first-world economies.&lt;/p&gt;
+
+&lt;p&gt;Conventional jargon would explain the situation as follows: what has basically happened in this liquidity trap is the flattening of our LM curve (a curve showing the relationship between real output and interest rates in the money market), a consequence of a high ‘h’ (which is the proportion of change in money demand, when the interest rates change by a percent). In classical (Keynesian) economic sense though, the policy decision is to change the money supply first, and the interest rate change is a consequence of that. Once a decision to increase the money supply, in hopes to revive demand, is implemented, it is accompanied by an equal increase in money demand in order for the market to equilibrate. Money demand, without an increase in income levels, can only rise if the interest rate moves down. But in case of a high ‘h’, a negligible downward movement of rates should be able to compensate for the money demand increase. Coming back to the real world, where money demand is adjusted by moving the nominal interest rates, such a scenario would render the monetary policy useless, once the zero levels bound of interest rates is reached.&lt;/p&gt;
+
+&lt;p&gt;The conventional solution to this dilemma, as given by Keynes in &lt;em&gt;The General Theory of Employment, Interest and Money&lt;/em&gt; was to make gracious use of fiscal policy in a targeted manner. But as concerns of deficit consolidation popped up, economists at the Fed came up with other heterodox mutations of conventional monetary policy to tackle the issue. It wasn’t until Farhi’s paper on ‘Safety Traps’ was published that the policymakers found a more logical chain of response to the problem. A certain category of assets, often considered immune in periods of depressed market spirits, is called ‘Safe Assets’. During recessions, their markets evidently boom leading to price hikes and consequent fall in the yields. But the yields have a lower bound of zero percent, beyond which they cannot fall, and therefore prices cannot rise. This situation of people acting in private interest, leading to a net consequence of a market failure is a classic example of ‘Fallacy of Composition’. This happens since the asset market does not equilibrate in response to the high demand. And due to nominal rigidities, this equilibrium manifests in the form of output reduction. The output during recessionary periods is entirely demand determined, and the 0-yield on the safe assets is not low enough to encourage agents to move towards consumption.&lt;/p&gt;
+
+&lt;p&gt;Typically the solutions offered to do away with this complication include negative interest rates, forward guidance, quantitative easing, etc. However, in his paper, Farhi accounted for the fact that the market rates do not uniformly equilibrate across all assets, and a certain risk premium remains attached to equity assets, while the safe ones get to zero. This tends to dilute the policy impact.&lt;/p&gt;
+
+&lt;p&gt;What we want as our end result, is that despite the high ‘Safe Asset’ demand, we generate enough supply to ensure the yields do not get to zero and there is some scope to utilise the monetary policy. This sudden paucity of safe assets is often attributed to a savings glut, accumulation of reserves by the emerging markets, and to the fact that many assets which shaped the housing market bubble were once considered safe, but were not so at all.&lt;/p&gt;
+
+&lt;p&gt;One popular policy response which was an attempt to untie the hands of monetary policy, but failed to an extent was ‘Quantitative Easing’, which allowed the Fed to pump up the market with fresh money supply while purchasing bonds in return. This measure would not revive demand to its potential if safe assets are the ones being purchased in its return. This is because a proportion of the newly printed money will look for more safe assets, which have now shrunk in supply! Instead, soaking up the risky assets in return for the newly printed money, while simultaneously issuing newer safety assets is the proper way to go about quantitative easing.&lt;/p&gt;
+
+&lt;p&gt;Forward guidance, by ensuring to keep the future rates low was also said to work, because, if the Government’s word on the policy is reliable, lower future yields will imply higher future asset prices, creating current demand for the assets. When the self-fulfilling prophecy works out, the wealth effect naturally generates demand. However, Farhi’s paper found out the misconceptions associated with the effectiveness of this policy. If assets are seen in terms of the two designated classes, then it is likely that the risky assets, with a positive risk premium, will dissipate the impact of anticipated lower rates, and the effect will not trickle to revive the output market. However, one measure that is likely to render the monetary policy free is creating a very high inflation target, which would then allow the economy to run on an output-inducing negative real rate while being on the 0-nominal rate. But then again, this has its long-run ramifications.&lt;/p&gt;
+
+&lt;p&gt;The existence of a high-risk premium is concrete evidence for the existence of a ‘safety trap’, rather than a liquidity trap. It is indicative of the fact that people are rushing towards safe assets, while equity returns remain stable and decoupled from the economic situation, as is the current case. A fiscal policy response by issuing sovereign bonds to address the scarcity of safe assets is now being encouraged with the popularisation of the ‘Modern Monetary Theory’, though Farhi considered the US’ role as the world’s banker to be unsustainable due to higher issuance of sovereign bonds leading many to question their debt levels.&lt;/p&gt;
+
+&lt;p&gt;While this paper played an instrumental role in forwarding the scope of the monetary policies of the first world countries, Emmanuel Farhi’s other papers are just as revolutionary, if not as cited. In another one of his works, &lt;em&gt;Dealing with the Trilemma: Optimal Capital Controls with Fixed Exchange Rates&lt;/em&gt; he challenged the ‘Impossible Trinity’ by providing partial capital controls as a solution for emerging markets battling the exchange rate volatility. His research is a perfect amalgamation of academia and policy solutions, and he truly believed that research only made sense when it could be put in real service towards progress. Safe to say that the world of academics and research was in for a shock on his passing on the 23rd of July, 2020. Gita Gopinath, a fellow colleague at Harvard, poignantly wrote, &lt;em&gt;“Imagine the loss to economics if Samuelson had died at the age of 41, that is what we have lost with Emmanuel’s passing”&lt;/em&gt;. His best was truly yet to be seen.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Riya Kaul</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="economics" />
+      
+
+      
+        <summary type="html">Emmanuel Farhi, considered by many to be the brightest economist of his generation, passed away in July 2020, aged only 41. Farhi, a PhD from Massachusetts Institute of Technology (MIT) and amongst the youngest to receive tenure as Professor at Harvard University, was known to challenge traditional economic concepts that people would often take as given. Take, for example, one of his most cited works, The Safe Asset Shortage Conundrum, written on safe assets and the lack thereof, in 2008 with Ricardo Caballero of MIT and Pierre-Oliver Gourinchas of UC Berkeley. This paper augmented Keynes’ classical theory of the ‘Liquidity Trap’ and developed it to suit the modern connotation of capital markets, and is more relevant now than ever.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">India-China Feud: To Boycott or Not?</title>
@@ -826,52 +878,6 @@ for capital is faithful to none.&lt;/p&gt;</content>
 
       
         <summary type="html">CHINA</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Inflation - Dead Or Dormant?</title>
-      <link href="/Inflation-Dead-Or-Dormant" rel="alternate" type="text/html" title="Inflation - Dead Or Dormant?" />
-      <published>2019-05-31T00:00:00+00:00</published>
-      <updated>2019-05-31T00:00:00+00:00</updated>
-      <id>/Inflation-Dead-Or-Dormant</id>
-      <content type="html" xml:base="/Inflation-Dead-Or-Dormant">&lt;p&gt;The US Federal Reserve, in its recent Open Market Operations Committee Meeting, chose an ambiguous stance by leaving the federal funds rate unchanged at the range of 2.25-2.5%, much to the dismay of the markets and the Government, who long awaited a rate cut. As the growth rates declined across Europe, China and US in Q1 2019, the Fed was expected to finally move away from the rate hikes, which were also offsetting the fiscal concessions provided by the US government.&lt;/p&gt;
-
-&lt;p&gt;This monetary tightening began in late 2015, as an attempt to counter the inflation that was expected in the aftermath of using heterodox mutations like Quantitative Easing (QE) to recover demand in the largest Post-War Recession of 2008. While the Fiscal Policy has become increasingly pro-cyclical in the recent (Trump) years, the hawkish Monetary Policy attempts to counter the inflation that is already locked far behind its 2% benchmark, which has resulted in the Trump’s disapproval of Jerome Powell (thus, the threats of replacing him with political cronies like Herman Cain). The low expected inflation has not only caused the recessionary air to resurface but has also invited wild justifications for credibility restoration. Fed’s Loretta Mester recently went as far as to claim that the economy has finally reached its equilibrium in her (neo)classic defense of the recent speculations.&lt;/p&gt;
-
-&lt;p&gt;But none of the justifications explained why inflation is globally stifled for the developed economies despite the rising-but-low rates. The observation remains that the Monetary Policy is losing grip over the rate of inflation. Prices are no longer as sensitive to the interest rates as they used to be, thus, explaining the recent surge in various financial forums pronouncing inflation dead, attributing it mainly to technological advancements. In times of prosperity, inflation is high due to the increased productivity and employment, which gives the workforce the ability to bargain for greater wages, that will push up the costs and then the prices. With improved technology and reduced labour intensity, the ability of the workers to demand greater wages during an upswing has declined. Additionally, the prophecy paradox, that embodies the self-fulfilling nature of expectations in economics, comes to play. The general level of expected inflation in the markets is low which is seen to be taking its effect on the actual figures, and though these expectations are being publicized as a reflective of the credibility of the Fed, they certainly don’t go in tandem with the economic or the fiscal cycle.&lt;/p&gt;
-
-&lt;p&gt;However, the major setback has been taken by the theory of the Phillips curve, which describes the inverse relationship between inflation and unemployment via the cost-wage spiral. This relation was violated once back in the 70s when stagflation hit the American economy. It was chiefly blamed at the rising oil prices, when in fact it was the abolition of Bretton Woods by Nixon that took a toll on the economy. Though its collapse provided the US with a monetary policy that extended beyond the clasp of the Special Drawing Rights, it immediately resulted in inflation which was previously limited to the $35/ounce gold peg. In order to tackle the inflation, the government bought in price controls which reduced the profitability of businesses, and ended up in large scale layoffs. But this direct relation had helped Milton Friedman in developing a long run perspective to the theory, and concluding that in the long run, the Phillips curve is vertical. In the short-run, however, there is sufficient scope for monetary policy to smooth out fluctuations around the independent pathway of potential output by affecting cyclical unemployment and price levels.&lt;/p&gt;
-
-&lt;p&gt;The curve has currently flattened, and this relation is no longer as strong for the developed economies as it used to be, considering how unemployment is presently at 3.9% in the USA, below its natural rate that stands at 4%, but inflation has shown no signs of a revival. A similar pattern had been witnessed right before the tech bubble had burst. This flattening of the curve is possibly a structural problem, not amenable to macroeconomic measures and it reduces the capability of the Central Banks to reach their inflation targets. But if the theory still survives, it could only mean that the Fed anticipates a pending risk for the inflation to resurface, for which the rate hikes, under the alias of a ‘friendly normalisation’, are being pursued. Perhaps inflation is not dead, but dormant and potentially on a rise, although it is ‘inflation targeting’ that might be officially dead.&lt;/p&gt;
-
-&lt;p&gt;In fact, this inflation-interest rate relation, which is hardly ever questioned, was never a strong one, to begin with. J.Stiglitz asserts &lt;em&gt;“this rudimentary method is based on a weak economic theory and little empirical evidence…and there is no reason to believe that, whatever the source of inflation, the best solution is to raise interest rates.”&lt;/em&gt; The Central Banks have been over-relying on the Monetary Policy for every minor inconvenience as if it is a panacea for the dearth of aggregate demand. And why not? It’s the easiest way out, 2008 stands witness. But that is if we remain unreasonably adamant on the “In the long run, we’re all dead” approach. While the Fiscal Policy, despite its implementation imperfections, attempts to systematically address the economic issues at their core, the monetary policy has been globally reduced to an interest fluctuation switch, whose volatility takes its toll on its own ability. It is an important but overexploited tool that was ideally supposed to address the Dual Mandate on both price stability and employment issues through a suitable policy mix, but there seems to be no coordination among the fiscal and the monetary policy. The past few centuries stand witness to the fact that no monetary system has stood firm for over 50 years, citing the changes that the monetary policy faced in 1913, 1933, 1945 and 1971. And considering its ageing ability to address inflation, people have already started coming up with alternatives to the existing system, the most prominent one being the Modern Monetary Theory (MMT).&lt;/p&gt;
-
-&lt;p&gt;Once a fringe economic model, MMT stems out of the monetary theory of Marx, which later seems to have influenced Keynes, and is nowadays gaining mainstream attention, such as being proposed for financing the Green New Deal by Alexandria Ocasio-Cortez. It basically states that a country with its own currency can simply pay off its debt by printing more currency. The idea would seem questionable even to a layman, but this is only true if the debt is denominated in the domestic currency, which though is not the case for most of the nations, it’s certainly applicable for the USA as an advantage of USD being the major global reserve currency. This theory is often criticised for its utter disregard for the size of the deficits and the impact on inflation, but it does address these issues by manipulating the revenue side. Additionally, being a brain-child of the left doesn’t imply that it will not be accepted by the right since it can just as easily help in financing tax cuts. Major investors such as Ray Dalio, who feed off of capitalism, have stated that something like MMT will inevitably be replacing the Central Banks. In fact, MMT appears to be the only way to elude the burgeoning debt and the declining credibility of the Fed. It will help finance the fiscal profligacy every US government has inherited from its fear of lobbyists, be it progressive or conservative. Either way, it might ameliorate the system after the hawks have devoured what’s left of their monetary policy.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Riya Kaul</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="economics" />
-      
-
-      
-        <summary type="html">The US Federal Reserve, in its recent Open Market Operations Committee Meeting, chose an ambiguous stance by leaving the federal funds rate unchanged at the range of 2.25-2.5%, much to the dismay of the markets and the Government, who long awaited a rate cut. As the growth rates declined across Europe, China and US in Q1 2019, the Fed was expected to finally move away from the rate hikes, which were also offsetting the fiscal concessions provided by the US government.</summary>
       
 
       
