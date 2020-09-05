@@ -11,7 +11,7 @@ subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/d/d2/Vladimir_Putin_FIFA_World_Cup_Trophy_Tour_kick-off_ceremony.jpg
 author: manav.gupta
 ---
-I have a big question for all the football fans reading this article. What does Schalke 04, Red Star Belgrade, and Zenit have in common? I believe it’s difficult to answer this question so let me give you a hint: it’s something printed on their jerseys. Still didn’t get it? It’s the ‘Gazprom’ logo on their jerseys. From being on the jerseys of major football teams from various countries in Europe, it also features on the sidelines and advertisements during games.
+I have a big question for all the football fans reading this article. What do Schalke 04, Red Star Belgrade, and Zenit have in common? I believe it’s difficult to answer this question so let me give you a hint: it’s something printed on their jerseys. Still didn’t get it? It’s the ‘Gazprom’ logo on their jerseys. From being on the jerseys of major football teams from various countries in Europe, it also features on the sidelines and advertisements during games.
 
 The logo belongs to Gazprom, a Russian natural gas company. Logo sponsorships are normal in football. Teams make money offering jersey spaces to sponsors selling things like credit cards, cars and cell phones but Gazprom isn’t like most sponsors, i.e. private companies with products that football fans can buy. Instead, it’s a company owned by the Russian government that makes money selling natural gas to foreign countries. Yet, it’s everywhere in European football. So, if football fans can’t buy what they are selling, why is Gazprom spending millions to sponsor football games? The answer is part of a larger story that’s changing the sport of football.
 
