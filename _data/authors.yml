@@ -126,7 +126,7 @@ srisreyas.sundaresan:
   cover: srisreyas-sundaresan-cover.jpg
   url: https://soundcloud.com/srisreyas-sundaresan
   url_full: https://soundcloud.com/srisreyas-sundaresan
-  
+
 vidhi.arora:
   username: vidhi.arora
   name: Vidhi Arora
@@ -435,6 +435,17 @@ rishi.kant:
   facebook: False
   twitter: RishiKant98
   cover: rishi-kant-cover.jpg
+
+khushi.kaul:
+  username: khushi.kaul
+  name: Khushi Kaul
+  location: Gurgaon, India
+  positions: Contributor
+  bio: I am an undergraduate at SRCC, pursuing Economics honours. I have an eye for pressing social issues and like to voice the unvoiced. The realm of economics fascinates me and I have a flair for writing. Soft music is my go to soul-cleanser.
+  picture: khushi-kaul.jpeg
+  facebook: False
+  twitter: False
+  cover: khushi-kaul.jpg
 
 aditya.khandelwal:
   username: aditya.khandelwal
