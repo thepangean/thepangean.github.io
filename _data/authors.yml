@@ -476,9 +476,20 @@ gurleen.kaur:
   positions: Contributor
   bio: I am a second year student pursuing Economics(H) from Delhi University. I am deeply interested in short stories in Punjabi and Sufi Poetry of Bulleh Shah. An environmentalist at heart, I firmly believe in building a sustainable society.
   picture: gurleen.jpg
-  facebook: troy.worden.14
+  facebook: false
   twitter: False
   cover: gurleen-cover.jpg
+
+khushboo.pandey:
+  username: khushboo.pandey
+  name: Khushboo Pandey
+  location: New Delhi
+  positions: Contributor
+  bio: An Economics student endeavouring to comprehend the Economics & Finance world.
+  picture: khushboo-pandey.jpg
+  facebook: false
+  twitter: False
+  cover: khushboo-pandey-cover.jpg
 
 aric.kirsten:
   username: aric.kirsten
