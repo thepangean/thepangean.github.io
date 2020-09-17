@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/tom.leeman/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-09-17T20:13:03+00:00</updated>
+  <updated>2020-09-17T20:40:16+00:00</updated>
   <id>/author/tom.leeman/feed.xml</id>
 
   
@@ -211,18 +211,18 @@
   
     <entry>
       <title type="html">The World’s Odd Couple: Russia and Turkey</title>
-      <link href="/The-World-s-Odd-Couple" rel="alternate" type="text/html" title="The World’s Odd Couple: Russia and Turkey" />
+      <link href="/Russia-and-Turkey" rel="alternate" type="text/html" title="The World’s Odd Couple: Russia and Turkey" />
       <published>2020-09-17T00:00:00+00:00</published>
       <updated>2020-09-17T00:00:00+00:00</updated>
-      <id>/The-World-s-Odd-Couple</id>
-      <content type="html" xml:base="/The-World-s-Odd-Couple">&lt;figure&gt;
+      <id>/Russia-and-Turkey</id>
+      <content type="html" xml:base="/Russia-and-Turkey">&lt;figure&gt;
     &lt;audio id=&quot;audio-1&quot; controls=&quot;&quot; controlsList=&quot;nodownload&quot; src=&quot;/assets/audio/2020-09-17-The-World-s-Odd-Couple.mp3&quot;&gt;
             Your browser does not support the
             &lt;code&gt;audio&lt;/code&gt; element.
     &lt;/audio&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;The story of relations between Turkey and Russia has mostly been one of conflict rather than of peace. This could, of course, be said of Russia’s relations with most countries. But this relationship merits a new examination since the pair is going through something of a détente.&lt;/p&gt;
+&lt;p&gt;The story of relations between Turkey and Russia has mostly been one of conflict rather than of peace. This could, of course, be said of Russia’s relations with most countries. But  this relationship merits a new examination since the pair is going through something of a détente.&lt;/p&gt;
 
 &lt;p&gt;The thawing of relations has been relatively quick. Four years ago, things were frosty. In Syria, Russia had just intervened on the side of the Assad government, whereas Turkey backed various rebel groups in the conflict. In 2015, the downing of a Russian fighter jet by the Turkish Air Force saw Russian President Vladimir Putin impose trade sanctions. The assassination of the Russian Ambassador to Turkey in Istanbul a year later, probably caused by Turkish Muslim objections to Putin’s intervention in Syria, exposed the deep rift between the nations with respect to the Middle East.&lt;/p&gt;
 
@@ -258,6 +258,8 @@
 
       
         <category term="policy" />
+      
+        <category term="trending" />
       
 
       
