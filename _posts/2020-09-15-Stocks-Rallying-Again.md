@@ -1,0 +1,20 @@
+---
+layout: post
+current: post
+cover: Stockmarket.jpg
+navigation: True
+title: "Stocks Rallying Again? Time to invest?"
+date: 2020-09-15
+tags: business-finance
+class: post-template
+subclass: 'post tag-speeches'
+link: https://upload.wikimedia.org/wikipedia/commons/e/e2/Stockmarket.jpg
+author: rachit.kumar
+---
+Speculation: the word around which the life of most of the people trading in the stock market revolves. Every trade involved in the stock market is merely a bet speculating upon the prices of stocks going up or down. Stock markets around the world crashed in the month of March due to a panic caused by the spread of COVID-19, bears conquered the indices like Dow Jones, S&P500, Shanghai Index, Nikkei225 and Nifty50.
+
+The coronavirus outbreak got worse day-by-day and even now cases are rising every day although if you see the popular stock market indices, they are again back to the point where they were before March lows. A rally is bringing the indices back to their pre-March levels. Are the economies getting better? No. Have we recovered from the virus? No. Is GDP growth recovering? NO, instead most of the nations have announced contraction in GDP and are further expecting it to contract till 2021. Why have stocks been moving up again then? Let’s find out.
+
+Many countries worldwide went under complete lockdown. People tried looking for sources of income during this time and as the stock market never sleeps people turned to stocks to earn something in their free time. Everyone became a trader. The [Robinhood](https://thepangean.com/Robinhood-Misleads-Gen-Z) trading app, the most popular stock trading app in the US that charges zero commission, saw a rise in new account openings during the lockdown. The revenues of Robinhood have doubled in a quarter which clearly shows that retail participation has risen and is continuing to rise as we speak. Retailers with no knowledge of stocks, futures and options are trading just for the sake of earning some extra income during their free time and are buying stocks like grocery items, which is one of the main reasons for the rally of stock indices. All market indicators show that the market is overbought and a second wave of crash is due. Big retailers on seeing a big fall in the market start selling stocks to average out their price, and when they enter the market after a fall, it helps the market to regain again.
+
+Now the big question arises: where do we invest our money right now? Seeing a crash due in the market again, and positive signs not being visible in the short term for the economy, it is best to have a diversified portfolio. Over the years, the investment that is the most promising is gold but becoming wealthy through gold is almost unheard of. Seeing the current scenario one must have around 15-20% of his/her investment in gold, paper gold is preferred as you don’t have to keep it safe and don’t have to worry about it. Around 30% of the portfolio should be in mutual funds (Systematic Investment Plan) and 25% should be allocated to equities that too in ‘blue-chip’ stocks because right now profitability of companies is not important, the most important thing is survival and these companies have a huge amount of capital backing. If you want higher returns then you can switch to mid-caps and small-caps too, but your risk increases as well. 10% should be invested in very safe investments like fixed deposits for safe and a minimum guaranteed return. The remaining portfolio can be kept as cash-in-hand, and then one can wait for dips and add stocks of their choice. This portfolio investment has been advised for people who want to take moderate risk with decent returns. If you wish, you can go for high risk by allocating more to equities and if you want less risk then decrease your dependence on equities. Therefore, investing in such turbulent times depends totally on a person’s risk appetite and the depth of his pockets. No one can predict the movement of markets in such unprecedented times. It would be better to have a well-diversified portfolio and not expose yourself too much to a particular type of investment.

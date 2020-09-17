@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "Trump’s Drastic Changes to Drug Prices: Genuine Concern or an Election feat?"
+title: "Trump’s Drastic Changes to Drug Prices: Genuine Concern or an Election Feat?"
 author: aniba.junaid
 cover: medications-money-cure-tablets-pharmacy-medical-the-disease-get-sick-treat-yourself.jpg
 tags: policy
