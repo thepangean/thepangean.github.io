@@ -5,14 +5,16 @@ cover: russiaturk.jpg
 navigation: True
 title: "The World’s Odd Couple: Russia and Turkey"
 date: 2020-09-17
-tags: policy trending
+tags: trending policy
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/e/ed/Vladimir_Putin_met_with_Recep_Tayyip_Erdo%C4%9Fan_10.03.2017.jpg
 author: tom.leeman
 ---
-<figure>
-    <audio id="audio-1"
+<figure style="margin-bottom: 2em">
+    <figcaption>Listen to this article:</figcaption>
+    <audio
+        id="audio-1"
         controls controlsList="nodownload"
         src="/assets/audio/2020-09-17-The-World-s-Odd-Couple.mp3">
             Your browser does not support the
