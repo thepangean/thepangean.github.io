@@ -9,7 +9,7 @@ tags: policy
 class: post-template
 subclass: 'post tag-speeches'
 link: "https://upload.wikimedia.org/wikipedia/commons/4/4c/British_Houses_of_Parliament.jpg"
-author: guest
+author: tom.leeman
 ---
 It’s time to start talking about Brexit again. I hear you sigh. And don’t worry, I share your weariness. The reason we have to bring it up, put simply, is that the UK is barely any closer to leaving the European Union than it was in 2018, or even 2016. All changes up to this point have been symbolic, throwaway gestures. A hopelessly vague withdrawal agreement means that Britain is still under the jurisdiction of the Court of Justice of the European Union, and all of the regulations of the Customs Union remain in place on our shores.
 
@@ -26,7 +26,3 @@ Much hay was made during the referendum about independence and sovereignty. This
 This may sound inoffensive enough, but it could be anything but. We risk immense economic difficulty if our low-skilled, low-export economy is exposed to the fury of the global market, especially in the midst of the US-China trade war. Without an independent economic clout of our own, we will probably remain closely aligned to the Europeans on issues of trade, but there is always the chance that the European Commission, lenient and reasonable in the negotiations up until this point (sorry, leave voters), makes this difficult to get.
 
 All of this leads to the conclusion that Britain’s governing class lacks the resolve to create the sort of independence that people voted for in 2016. A country can’t just vote for sovereignty, it has to build it over many decades. The possibility of governing ourselves badly is implicit in the idea of governing ourselves. In this sense, the referendum result might turn out to be a good thing, because it gives our political class less wriggle room - no more blaming our problems on the low countries. We can more easily dispense off incompetent leaders, and replace them with people who run the country more sensibly. But, if this is to be the case, you would have to say that Britain's current government isn’t up to the job.
-
--**Thomas Leeman**
-
-*Thomas Leeman is a Politics and Spanish graduate of the University of Bristol with a keen interest in European and US politics. His pearls of good humour don’t merely fall from trees.*

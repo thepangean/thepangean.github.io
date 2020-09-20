@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "What We Misunderstand about Eastern Europe’s 'Populists'"
-author: guest
+author: tom.leeman
 cover: populist1.jpg
 tags: policy
 date: 2020-08-05T000
@@ -29,7 +29,3 @@ More importantly, if you don’t like these leaders, you ought to ask yourself w
 Many people in these countries, especially the poor, did not want these policies. They still don’t want them now, and they have voted for people who articulate something different. I would wager that in years to come, other European countries will do the same, and they shouldn’t be berated for that. In fact, I often find myself wishing that we, in Britain, France or Scandinavia, had the guts to reject the parties and policies of the last twenty years which have brought us such unhappiness.
 
 Again, I feel the need to state that I don’t have much time for Putin and Co.’s treatment of the press. I’m not trying to justify their brand of politics. What I am saying, though, is that if we are going to criticise these governments, we at least ought to understand why people voted for them. It’s worth pointing out that polls tend to show that Eastern Europeans are now more optimistic about their futures than the British, French and Italians are about theirs. Sure, optimism alone is no indicator of good government, but it does suggest a degree of contentment. And I’d take contentment over whatever it is we have.
-
--**Thomas Leeman**
-
-*Thomas Leeman is a Politics and Spanish graduate of the University of Bristol with a keen interest in European and US politics. His pearls of good humour don’t merely fall from trees.*

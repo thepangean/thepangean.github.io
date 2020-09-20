@@ -9,7 +9,7 @@ tags: policy
 class: post-template
 subclass: 'post tag-speeches'
 link: "https://live.staticflickr.com/65535/50022301656_07b39bf01a_b.jpg"
-author: guest
+author: tom.leeman
 ---
 
 When Americans vote in November, they should be made to answer another question after casting their vote for President. Do you, in your heart of hearts, believe that either Donald Trump or Joe Biden can make the United States a better country for the people who live there?
@@ -37,9 +37,3 @@ And in any case, voting for candidates as bad as Trump and Biden isn’t a privi
 I don’t know who is going to win the election in November. But in a sense, it doesn’t matter. What matters is that Americans realise that the right not to vote is just as important as the right to vote. Most people are anxious to signal to people they want to impress how much they dislike politicians, but they don’t realise that they have the power to strip them of their authority. Politicians derive their mandate to implement harmful policies from your vote. If you don’t give them legitimacy, they lose it.
 
 Our governments have been desperate for us to stay at home for months. I doubt they’ll want you to shield or socially distance on election day, though. Don’t give them the satisfaction of turning up at the polling station. Stay at home, save the country, and do something worthwhile with your day.
-
--**Thomas Leeman**
-
-
-
-*Thomas Leeman is a Politics and Spanish graduate of the University of Bristol with a keen interest in European and US politics. His pearls of good humour don’t merely fall from trees.*
