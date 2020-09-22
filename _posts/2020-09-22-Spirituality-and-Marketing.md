@@ -1,15 +1,16 @@
 ---
 layout: post
 current: post
-cover: stainglass.jpg
+cover: stainglass.jpeg
 navigation: True
 title: "Spirituality and Marketing: An Amalgam"
 date: 2020-09-22
 tags: business-finance
 class: post-template
 subclass: 'post tag-speeches'
-link: https://images.pexels.com/photos/390052/church-window-window-church-stained-glass-390052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+link: "https://images.pexels.com/photos/390052/church-window-window-church-stained-glass-390052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
 author: mehul.goyal
+disable-first-letter: True
 ---
 **The Amalgam**  
 
