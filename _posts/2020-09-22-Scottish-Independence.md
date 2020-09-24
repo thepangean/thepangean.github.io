@@ -11,6 +11,19 @@ subclass: 'post tag-speeches'
 link: https://cdn.pixabay.com/photo/2020/01/07/16/24/scotland-4748040_1280.jpg
 author: tom.leeman
 ---
+
+<figure style="margin-bottom: 2em">
+    <figcaption>Listen to this article:</figcaption>
+    <audio
+        id="audio-1"
+        controls controlsList="nodownload"
+        src="/assets/audio/2020-09-22-Scottish-Independence.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
 One of the most destructive elements of Brexit has been its uncanny knack of underscoring the ill-feeling between the governments in London and Edinburgh. In keeping with its constituents’ wishes, Nicola Sturgeon’s Scottish government now looks set to frustrate the UK’s departure from the European Union (EU) at every turn.
 
   
