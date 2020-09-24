@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/tom.leeman/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-09-24T20:48:42+00:00</updated>
+  <updated>2020-09-24T20:52:50+00:00</updated>
   <id>/author/tom.leeman/feed.xml</id>
 
   
@@ -215,7 +215,15 @@
       <published>2020-09-22T00:00:00+00:00</published>
       <updated>2020-09-22T00:00:00+00:00</updated>
       <id>/Scottish-Independence</id>
-      <content type="html" xml:base="/Scottish-Independence">&lt;p&gt;One of the most destructive elements of Brexit has been its uncanny knack of underscoring the ill-feeling between the governments in London and Edinburgh. In keeping with its constituents’ wishes, Nicola Sturgeon’s Scottish government now looks set to frustrate the UK’s departure from the European Union (EU) at every turn.&lt;/p&gt;
+      <content type="html" xml:base="/Scottish-Independence">&lt;figure style=&quot;margin-bottom: 2em&quot;&gt;
+    &lt;figcaption&gt;Listen to this article:&lt;/figcaption&gt;
+    &lt;audio id=&quot;audio-1&quot; controls=&quot;&quot; controlsList=&quot;nodownload&quot; src=&quot;/assets/audio/2020-09-22-Scottish-Independence.mp3&quot;&gt;
+            Your browser does not support the
+            &lt;code&gt;audio&lt;/code&gt; element.
+    &lt;/audio&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;One of the most destructive elements of Brexit has been its uncanny knack of underscoring the ill-feeling between the governments in London and Edinburgh. In keeping with its constituents’ wishes, Nicola Sturgeon’s Scottish government now looks set to frustrate the UK’s departure from the European Union (EU) at every turn.&lt;/p&gt;
 
 &lt;p&gt;Nigel Farage has often suggested that it would be illogical for Scotland to vote to become an independent country under Sturgeon’s leadership because a Scottish National Party (SNP) government would simply choose to pool Scottish sovereignty with Brussels instead of Westminster by re-joining the EU. Regardless of whether Farage’s point holds water, it might be more pertinent to turn his insight on its head: it was illogical, downright delusional in fact, to say Westminster would be totally sovereign over British laws after Brexit, because Parliament still governs the country alongside the regional assemblies in Edinburgh, Cardiff and Belfast.&lt;/p&gt;
 
@@ -254,7 +262,7 @@
       
 
       
-        <summary type="html">One of the most destructive elements of Brexit has been its uncanny knack of underscoring the ill-feeling between the governments in London and Edinburgh. In keeping with its constituents’ wishes, Nicola Sturgeon’s Scottish government now looks set to frustrate the UK’s departure from the European Union (EU) at every turn.</summary>
+        <summary type="html">Listen to this article: Your browser does not support the audio element.</summary>
       
 
       
