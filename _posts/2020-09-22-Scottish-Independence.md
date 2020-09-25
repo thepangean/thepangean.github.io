@@ -5,7 +5,7 @@ cover: scotindep.jpg
 navigation: True
 title: "Scottish Independence: Johnson Approved?"
 date: 2020-09-22
-tags: policy
+tags: trending policy
 class: post-template
 subclass: 'post tag-speeches'
 link: https://cdn.pixabay.com/photo/2020/01/07/16/24/scotland-4748040_1280.jpg
