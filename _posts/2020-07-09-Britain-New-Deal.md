@@ -40,11 +40,3 @@ This is why it is so futile to suggest solutions as oversimplified as the one wh
 
 
 In any case, I hear there are plenty of construction jobs in Bristol putting up new statues. I expect I’ll have company.
-
-
-
--**Thomas Leeman**
-
-
-
-*Thomas Leeman is a Politics and Spanish graduate of the University of Bristol with a keen interest in European and US politics. His pearls of good humour don’t merely fall from trees.*
