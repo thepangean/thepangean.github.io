@@ -7,7 +7,7 @@ class: post-template
 title: "A Pubcast on the Indian Economy"
 author: harsh.tiwari
 cover: Mumbai_Night_City.jpg
-tags: trending economics
+tags: trending podcast economics
 date: 2019-11-16
 link: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mumbai_Night_City_%2818219784390%29.jpg/1024px-Mumbai_Night_City_%2818219784390%29.jpg"
 ---
