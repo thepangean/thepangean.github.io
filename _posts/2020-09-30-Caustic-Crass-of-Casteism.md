@@ -9,7 +9,7 @@ tags: policy
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/6/62/MohunBagan_Gallery_communal_harmony_message.jpg
-author: rishi.gupta
+author: rishi.kant
 ---
 Facebook in India is incessantly flooded with memes — pictures or videos of casteist slurs against the marginalised communities, as those who belong to ‘upper caste’ per se, lament against caste-based reservations in public institutes and government jobs. Their rationale, more prominently since the implementation of the Mandal Commission in 1990, has been that it ‘kills’ the merit factor, i.e. meritorious students who belong to the namesake ‘General’ category are deprived of opportunities that marginalised communities get due to reservation.
 
