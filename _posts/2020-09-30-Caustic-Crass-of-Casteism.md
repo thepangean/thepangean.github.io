@@ -5,7 +5,7 @@ cover: crasscasteism.jpg
 navigation: True
 title: "The Caustic Crass of Casteism"
 date: 2020-09-30
-tags: policy
+tags: society
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/6/62/MohunBagan_Gallery_communal_harmony_message.jpg
