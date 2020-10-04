@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/podcast/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-10-04T09:21:44+00:00</updated>
+  <updated>2020-10-04T10:39:01+00:00</updated>
   <id>/tag/podcast/feed.xml</id>
 
   
@@ -208,6 +208,48 @@
   
   
 
+  
+    <entry>
+      <title type="html">Test article</title>
+      <link href="/Testarticle" rel="alternate" type="text/html" title="Test article " />
+      <published>2020-10-04T00:00:00+00:00</published>
+      <updated>2020-10-04T00:00:00+00:00</updated>
+      <id>/Testarticle</id>
+      <content type="html" xml:base="/Testarticle">&lt;p&gt;&lt;strong&gt;WEAPONISED WORDS: A TALE OF HATE SPEECH&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Newton Lee once said, “There is a fine line between free speech and hate speech. Free speech encourages debate whereas hate speech incites violence.”&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This quotation is a constant reminder of how easily hate speech overlaps with the idea of freedom of expression.&amp;nbsp;Over the past few months, the challenge of separating hate speech from the Indian citizen’s right to ‘Freedom of Expression’ has increased tremendously. Recently, several citizens including journalists, political party leaders and activists have been charged with hate speech, inflammatory speech and sedition. On one hand, offended plaintiffs file FIRs due to hurt caused to their sentiments by the comments of the accused people. On the other hand, the defendants perceive it as a violation of their right to Freedom of Speech.&amp;nbsp;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kheeran Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="trending" />
+      
+        <category term="podcast" />
+      
+        <category term="society" />
+      
+        <category term="policy" />
+      
+
+      
+        <summary type="html">WEAPONISED WORDS: A TALE OF HATE SPEECH&amp;nbsp; Newton Lee once said, “There is a fine line between free speech and hate speech. Free speech encourages debate whereas hate speech incites violence.”&amp;nbsp; This quotation is a constant reminder of how easily hate speech overlaps with the idea of freedom of expression.&amp;nbsp;Over the past few months, the challenge of separating hate speech from the Indian citizen’s right to ‘Freedom of Expression’ has increased tremendously. Recently, several citizens including journalists, political party leaders and activists have been charged with hate speech, inflammatory speech and sedition. On one hand, offended plaintiffs file FIRs due to hurt caused to their sentiments by the comments of the accused people. On the other hand, the defendants perceive it as a violation of their right to Freedom of Speech.&amp;nbsp;</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">A Pubcast on the Indian Economy</title>
