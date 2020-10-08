@@ -1,0 +1,48 @@
+---
+layout: post
+current: post
+cover: containers.jpg
+navigation: True
+title: "Promoting Free Trade in South Asia: SAFTA and Beyond"
+date: 2020-10-08
+tags: business-finance
+class: post-template
+subclass: 'post tag-speeches'
+link: https://cdn.pixabay.com/photo/2014/09/11/22/00/dock-441989_1280.jpg
+author: cherry.sharma
+---
+**The Need for SAFTA**
+
+South Asia experienced rapid GDP growth in the 1980’s, averaging around 6 % per annum across the region. This has attracted much global attention to the region. In addition to policy and institutional reforms that have been instrumental in tackling unemployment and poverty, market integration and regional cooperation have also been key to rapid growth and development.
+
+Since the 1990’s, South Asian countries have made efforts to enhance their trade and investment flows with the larger objective of poverty alleviation and economic development. Historically, changes in the trade policies of the region have been driven by the unilateral liberalisation of individual countries. However, preferential trade agreements were initiated after the formation of the South Asian Association for Regional Cooperation (SAARC).
+
+The South Asian Preferential Trade Agreement (SAPTA) was signed by SAARC in 1995 as a step towards strengthening regional trade. However, SAPTA was not successful in enhancing trade among the member nations because its product coverage and tariff concessions were too limited. Thus, the South Asian Free Trade Agreement (SAFTA) was introduced. It aimed towards eventually bringing tariffs down to zero. SAFTA was signed on January 6, 2004, during the 12th SAARC Summit, held at Islamabad. The tariff liberalisation began to be implemented only in July 2006. In accordance with the first phase of the agreement, India, Pakistan, and Srilanka reduced their tariffs to 20% while Bangladesh, Bhutan and Maldives reduced their tariffs to nearly 30%.
+
+The introduction of SAFTA provided many opportunities to SAARC countries, but at the same time, it posed a few challenges. This was mainly because the agreement would have a significant impact on the welfare of member nations and on domestic producers. Critics say that SAFTA was unsuccessful in changing the existing trade patterns among South Asian countries to the extent that was initially proclaimed. Though SAFTA was introduced to counter the problems posed by SAPTA, it is considered to be an extension of the previous agreement. The only changes seemed to be the inclusion of trade facilitation elements and the switching of the trade liberalisation process from a positive list to a negative list approach.
+
+The main purpose of introducing the SAFTA was to encourage trade and also increase economic cooperation among the SAARC countries by reducing the tariffs and non-tariff barriers (NTBs) as well as by bringing transparency and equity among the nations. There was also a special preference to the Least Development Countries (LDCs) among the SAARC nations. SAFTA was also viewed as a South Asian Counterpart of the North American Free Trade Agreement (NAFTA). By the end of 2013, the total exports by the member states under SAFTA had reached close to $3 billion. The question that arises is regarding the success of SAFTA over the years in achieving the goals that it set out for itself.
+
+**Outcomes and Beyond**
+
+The reality of the implementation of SAFTA was far different from the expectations that it had established. SAFTA's main objective was to enable smooth movement of goods across borders with low tariffs, similar to what the European Union had been able to achieve. However, the governments of South Asia were not able to streamline their relations often due to conflicts between two or more nations. For example, the conflict between India and Pakistan has prevented many SAARC summits from taking place, thereby hindering the objectives of regional cooperation. A 2006 article in *Economic and Political Weekly* titled 'Does SAFTA have a Future?' by Dushni Weerakoon and Jayanthi Thennakoon stated that nearly 53% of import trade amongst South Asian countries was excluded from the trade liberalisation as required under SAFTA.
+
+The Tariff Liberalisation Program (TLP) that was adopted under this agreement provided a clear system of tariff reduction. Non-LDCs were required to reduce existing tariffs to 0-5% within five years post-implementation, whereas LDCs were required to reduce tariffs to 30% within two years and to 0-5% within eight years. However, this system was criticised as it could potentially lead to the back-loading of tariffs.
+
+TLP also excludes those goods which come under the sensitive list given by the member countries. This limits the range of goods available for trade. However, on the positive side, SAFTA puts a limit on the maximum number of sensitive goods that a country can list. This provision was not included in previous regional trade agreements such as the India-Sri Lanka Free Trade Agreement and the India-Pakistan Free Trade Agreement. Some features even hinted at turning a new page for trade policy, such as the provision of compensation for revenue losses that small countries were expected to face in the event of tariff reductions.
+
+We can also draw a comparison between the ASEAN Free Trade Area (AFTA) and the South Asian Free Trade Area (SAFTA). Under AFTA, between 1992-2017, exports increased from 21 to 27%. However, under SAFTA, this figure was very low. During the period that SAFTA came into effect, around 6-7% of the South Asian country’s exports were intra-regional exports. However, in recent years, this has declined to around 5%.
+
+**Examining the Reasons for SAFTA’s Unsuccessful Run**
+
+The Asian Development Bank estimates that even after 35 years of SAARC's establishment, it has not been able to significantly affect intra-regional trade. Many economists are of the view that SAFTA’s ineffectiveness could be attributed to the fact that it maintains a sensitive list which allows the exclusion of goods from the trade liberalisation process. The problem lies in the fact that these sensitive goods account for 6-45% of intra-regional imports in South Asia.
+
+The World Bank’s report titled *A Glass Half Full: The Promise of Regional Trade in South Asia* (2018) examines SAFTA’s ineffectiveness in more depth. It is estimated that SAFTA's proper application could have increased South Asian regional trade by more than $2 billion. However, SAFTA's trade remains the lowest in the world among all other Regional Trade Agreements (RTAs) because South Asian countries are keener on trading with the US or the European Union. While intra-EU trade has a 70% success rate and the intra-NAFTA trade has a 50% success rate, the intra-SAARC trade has a meagre 5% success rate.
+
+Another notable finding is that within this region, there is a tendency of introducing para-tariffs that are levied on imports and not on domestic production. In Bangladesh, it is known as Supplementary Duty, whereas in Sri Lanka it is known as Ports and Airports Development Levy. These para-tariffs increase protection for domestic producers but also increase non-transparency between nations which hinders the process of free trade. This is a point of concern as these para-tariffs are not under the purview of SAFTA negotiations.
+
+According to a World Bank report, trade in South Asia can triple from its current volume of $23 billion to $67 billion. Considering this untapped potential, SAARC nations need to come together to address these issues. This will not only promote economic liberalisation by providing a higher variety of goods at lower prices, expanded markets and job creation, but will also take these nations to new heights of development. SAARC nations should also take a proactive role in implementing lower tariffs, lesser Non-Tariff Barriers to Trade (NTBs) and a common external tariff. Other initiatives such as creating a South Asian economic corridor and resolving disputes between countries in the region will go a long way in facilitating regional cooperation.
+
+India plays an especially large role in turning around the fate of SAFTA. India is the dominant trading partner for most South Asian countries. About 90% of the foreign trade of countries such as Bangladesh, Nepal and Srilanka is achieved through bilateral trade relations with India. Thus, the creation of a free trade area is heavily reliant on India.
+
+In conclusion, we can say that at the macro level, many initiatives are being taken to enable trade among South Asian countries and to limit trade with other regional unions for the collective prosperity of South Asia. However, the much anticipated SAFTA has fallen short of expectations. Factors such as simplifying the tariff structure, easing foreign exchange controls, transit facilities for the landlocked countries and easier banking facilities for import financing can help to build confidence among the SAARC nations. Apart from focusing solely on securing SAARC objectives, South Asian nations should also pay attention to bilateralism and sub-regionalism within South Asia. In 2014, Indian Prime Minister Narendra Modi at the 18th SAARC Summit focussed on the need for relationships of South Asian countries to shift beyond SAARC. There is also a need for the launch of another free trade agreement that counters the issues of the SAFTA trade agreement to achieve the objective of establishing a South Asian Union. It is yet to be seen whether a new trade agreement is launched or not and if it is, how successfully does it tackle the issues of SAFTA or does it become an extension of SAFTA, just like the latter became of SAPTA.
