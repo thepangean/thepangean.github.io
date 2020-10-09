@@ -1,0 +1,1073 @@
+euan.decourt:
+  username: euan.decourt
+  name: Euan Decourt
+  location: Paris, France
+  positions: Partner, Communications
+  bio: A Modern Languages (3LP) student at the University of Bristol currently wandering the European continent in search of a calling. A proud Welshman despite being born in England and having a French father.
+  picture: euan-decourt.png
+  facebook: False
+  twitter: EuanDecourt
+  cover: euan-decourt-cover.jpg
+
+kheeran.naidu:
+  username: kheeran.naidu
+  name: Kheeran Naidu
+  location: Bristol, UK
+  positions: Partner, Tech Developer
+  url_full: http://github.com/kheeran/
+  url: github.com/kheeran/
+  bio: A technology innovator who is currently pursuing a MEng in Mathematics and Computer Science at the University of Bristol.
+  picture: kheeran.jpg
+  facebook: kheeran.naidu
+  twitter: False
+  cover: kheeran-cover.jpg
+
+harsh.tiwari:
+  username: harsh.tiwari
+  name: Harsh Tiwari
+  location: Kolkata, India
+  positions: Partner, Chief Editor
+  bio: I am a law student with wide-ranging interests who founded this newspaper with his friends to grow and be a better twenty-something.
+  picture: harsh.jpg
+  facebook: False
+  twitter: realHarshTiwari
+  cover: harsh-cover.jpg
+
+atreyi.bhaumik:
+  username: atreyi.bhaumik
+  name: Atreyi Bhaumik
+  location: Delhi, India
+  positions: Editor
+  bio: I am a student in Delhi University, pursuing bachelors in Economics. I also have a keen interest in Policy and probably will explore that field in the future.
+  picture: atreyi.jpg
+  facebook: atreyi.bhaumik
+  twitter: False
+  cover: atreyi-cover.jpg
+
+ali.abdi:
+  username: ali.abdi
+  name: Ali Abdi
+  location: Brighton
+  positions: Editor
+  bio: Politics student writing about football
+  picture: ali-new.jpg
+  facebook:
+  twitter: 1882aii
+  cover: ali-cover.jpg
+  sports: True
+
+amrit.chadha:
+  username: amrit.chadha
+  name: Amrit Chadha
+  location: New Delhi
+  positions: Editor
+  bio: I am an avid reader mostly of non-fiction and business related books. I am also a finance enthusiast. I am a person who tightly holds values taught to him. Furthermore, reading about and watching sports form a crucial part of my identity.
+  picture: amrit-chadha.jpg
+  facebook:
+  twitter:
+  cover: amrit-chadha-cover.jpg
+
+anshdeep.chadha:
+  username: anshdeep.chadha
+  name: Anshdeep Singh Chadha
+  location: Haldwani, India
+  positions: Contributor
+  bio: Currently Pursuing my Bachelors in Commerce from Shri Ram College of Commerce, University of Delhi and searching for the 'Purpose' of my life. When free, I can always be found strumming my guitar or reading a Dan Brown, on loop.
+  picture: anshdeep-chadha.jpeg
+  facebook:
+  twitter: anshDeep03
+  cover: anshdeep-chadha.jpeg
+
+
+manya.manushi:
+  username: manya.manushi
+  name: Manya Manushi
+  location: Delhi, India
+  positions: Editor
+  bio: Possessing unbridled enthusiasm to work tirelessly, Manya Manushi knows how to do the task assigned to her with an ever-smiling face. Always ecstatic, she believes that life is a continuous process of learning, exploring and growing.
+  picture: manya.jpg
+  facebook: manya.manushi
+  twitter: ManushiManya
+  cover: manya-cover.jpg
+
+tom.perrett:
+  username: tom.perrett
+  name: Tom Perrett
+  location: Bristol
+  positions: Editor
+  bio: I write about politics, history and current affairs from a socialist perspective. My writing has covered a variety of topics, from the American opioid crisis to the Libertarian to Fascist Pipeline. My intellectual influences include Eric Hobsbawm, Emma Goldman and Murray Bookchin.
+  picture: tom-perrett.png
+  facebook: thomas.perrett.3
+  twitter: tomperrett97
+  cover: tom-perrett-cover.png
+  url: medium.com/@thomas.perrett97
+  url_full: https://medium.com/@thomas.perrett97
+
+sumayee.barman:
+  username: sumayee.barman
+  name: Sumayee Roy Barman
+  location: Kolkata
+  positions: Illustrator
+  bio: I guess, I am what you call a selfless narcissist?
+  picture: sumayee.jpg
+  facebook: sumayee
+  twitter: False
+  cover: sumayee-cover.jpg
+
+srisreyas.sundaresan:
+  username: srisreyas.sundaresan
+  name: Srisreyas Sundaresan
+  location: Vasco Da Gama, India
+  positions: Sound Editor
+  bio: I’m an undergraduate student of Computer Science at BITS Goa and a music producer, sound engineer and electronic music enthusiast. When I’m not in the classroom, making music or working on my Mixcloud show, I can probably be found on a CS:GO server.
+  picture: srisreyas-sundaresan.jpg
+  facebook: False
+  twitter: randomtrancefan
+  cover: srisreyas-sundaresan-cover.jpg
+  url: https://soundcloud.com/srisreyas-sundaresan
+  url_full: https://soundcloud.com/srisreyas-sundaresan
+
+vidhi.arora:
+  username: vidhi.arora
+  name: Vidhi Arora
+  location: New Delhi
+  positions: Contributor
+  bio: An 80 year old stuck in a 20 year old's body, with a penchant for ranting and reading.
+  picture: vidhi-arora.jpg
+  facebook: False
+  twitter: False
+  cover:
+  sports: False
+
+devyani.arora:
+  username: devyani.arora
+  name: Devyani Arora
+  location: Delhi
+  positions: Contributor
+  bio: I am a nineteen-year-old student in Delhi University, pursuing bachelor’s in commerce. You will find me having an existential crisis almost every two days and listening to The Local Train on loop.
+  picture: devyani.jpg
+  facebook: False
+  twitter: False
+  cover: devyani-cover.jpg
+  sports: False
+
+yashna.arora:
+  username: yashna.arora
+  name: Yashna Arora
+  location: New Delhi
+  positions: Former Contributor
+  bio:  I am your average eighteen going on eighty six going on eight year old omnivore for stories and other edible things who draws too many hyperlocal references and argues too much.
+  picture: yashna-arora.jpg
+  facebook: yashnemowhatever
+  twitter: yashnope
+  cover: yashna-arora-cover.jpg
+
+jacob.benabou:
+  username: jacob.benabou
+  name: Jacob Benabou
+  location: Martinez, CA
+  positions: Guest Contributor
+  bio: I am an undergraduate student at the University of Arizona majoring in Statistics with minors in both sports management and computer science! I love sports because I think it is a great way to unify communities all over the world!
+  picture: jacob-benabou.jpg
+  facebook: False
+  twitter: False
+  cover: jacob-benabou-cover.jpg
+  sports: True
+  guest: True
+
+sailesh.buchasia:
+  username: sailesh.buchasia
+  name: Sailesh Buchasia
+  location: Delhi
+  positions: Contributor
+  bio: An inquisitive person, Sailesh has a profound interest in the domains of Economics and Finance. Wanting to quench his thirst for knowledge by exploring and leaning, he will surely win your hearts with his witty humour
+  picture: sailesh.jpg
+  facebook:
+  twitter:
+  cover: sailesh-cover.jpg
+
+sanjana.chandaliya:
+  username: sanjana.chandaliya
+  name: Sanjana Chandaliya
+  location: New Delhi, India
+  positions: Contributor
+  bio: A diligent, curious and sensible person, Sanjana wishes to explore various fields in her college life. Currently pursuing Bachelor of Commerce (Honours) at SRCC, she has a keen interest in Economics, Politics and Public Policy.
+  picture: sanjana.jpg
+  facebook: False
+  twitter: SanjanaChan1
+  cover: False
+
+sarbesh.chaudhury:
+  username: sarbesh.chaudhury
+  name: Sarbesh Chaudhury
+  location: Kolkata
+  positions: Contributor
+  bio: I am a first year law student pursuing BBA-LL.B. from Jindal Global Law School (2019-2024), with a keen interest in law, corporate finance, films and fiction, Indian classical music and Indian mythology.
+  picture: sarbesh.jpg
+  facebook: False
+  twitter: False
+  cover: sarbesh-cover.jpg
+
+aryaman.dhiman:
+  username: aryaman.dhiman
+  name: Aryaman Dhiman
+  location: Chandigarh
+  positions: Contributor
+  bio: I am an undergraduate student at Shri Ram College of Commerce. Over the years, my interests have jumped ship between art, theater, and sports, but my love for religious and historical research remains unchanged.
+  picture: aryaman-dhiman.png
+  facebook: False
+  twitter: False
+  cover: aryaman-dhiman-cover.jpg
+  sports: False
+
+james.eakin:
+  username: james.eakin
+  name: James Eakin
+  location: Brighton
+  positions: Contributor
+  bio: Student at Sussex University writing about UFC.
+  picture: james-eakin.jpg
+  facebook: False
+  twitter: False
+  cover: james-eakin-cover.jpg
+  sports: True
+
+# nishaanth.elango:
+#   username: nishaanth.elango
+#   name: Nishaanth Elango
+#   location: London, UK
+#   positions: Contributor
+#   bio: The meaning of life is whatever you ascribe it to be. After two beers, the meaning of life is to asdfghjklwhere is my hat
+#   picture: nishaanth-elango.jpg
+#   facebook: nishaanth.elango
+#   twitter: False
+#   cover: nishaanth-elango-cover.jpg
+#   url: https://www.linkedin.com/in/nishaanth-elango/
+#   url_full: https://www.linkedin.com/in/nishaanth-elango/
+
+oyeshi.ganguly:
+  username: oyeshi.ganguly
+  name: Oyeshi Ganguly
+  location: Kolkata
+  positions: Contributor
+  bio: An undergraduate student of International Relations at Jadavpur University. Interests range from the Beatles to Manto and everything in between. Travel enthusiast. A philatelist. Harbours an unquenchable curiosity towards everything under the sun.
+  picture: oyeshi-ganguly.jpg
+  facebook: oyeshi.ganguly.18
+  twitter: False
+  cover: oyeshi-ganguly-cover.jpg
+
+oindrila.ghosh:
+  username: oindrila.ghosh
+  name: Oindrila Ghosh
+  location: Vasco da Gama, Goa
+  positions: Contributor
+  bio: I am a student of Chemical Engineering at BITS Pilani and an Egyptology enthusiast, who loves reading about cold cases, creation and everything else that will probably never benefit me in my future career.
+  picture: oindrila.png
+  facebook: oindrila.ghosh.5268
+  twitter: False
+  cover: False
+
+saachi.ghosh:
+  username: saachi.ghosh
+  name: Saachi Gupta Ghosh
+  location: New Delhi/Lucknow
+  positions: Contributor
+  bio: A keen Journalism undergraduate from Delhi University, continually striving to learn and explore. I like to read, write, and contribute to the society in a way that leaves a profound and lasting impression. Provoke thought, and incite change!
+  picture: saachi-ghosh.jpg
+  facebook: saachisuruchi.guptaghosh
+  twitter: passiwitty
+  cover: saachi-ghosh-cover.jpg
+  url: https://passiwitty.wordpress.com/
+  url_full: https://passiwitty.wordpress.com/
+
+mehul.goyal:
+  username: mehul.goyal
+  name: Mehul Goyal
+  location: New Delhi, India.
+  positions: Contributor
+  bio: A proud intuitive empath surrounding myself with positive things and a meaningful career. I like bringing people together and that’s what landed me to pursue a bachelor's degree in Management Studies(BMS) at Delhi University.
+  picture: mehul-goyal.jpg
+  facebook: mehul.goyal99
+  twitter: mehul_goyal19
+  cover: mehul-goyal-cover.jpg
+
+aritra.gupta:
+  username: aritra.gupta
+  name: Aritra Dutta Gupta
+  location: Kolkata, India.
+  positions: Contributor
+  bio: A nincompoop with an absurdly designed life.
+  picture: aritra.jpg
+  facebook: False
+  twitter: False
+  cover: aritra-cover.jpg
+
+manav.gupta:
+  username: manav.gupta
+  name: Manav Gupta
+  location: New Delhi
+  positions: Contributor
+  bio: I am a person who loves to read about science and economics,all the new developments in the world or any ongoing chaos. I am a strong believer of "knowledge is the key to success".
+  picture: manav-gupta.jpg
+  facebook: profile.php?id=100028072838193
+  twitter: False
+  cover: manav-gupta-cover.jpg
+
+poorvi.gupta:
+  username: poorvi.gupta
+  name: Poorvi Gupta
+  location: Delhi, India.
+  positions: Contributor
+  bio: A struggling student at Delhi University, pursuing Economics honours. You’ll find me mostly hibernating, during while I read and write. I love everything old, be it books, music or buildings.
+  picture: poorvi-gupta.jpg
+  facebook: False
+  twitter: False
+  cover: poorvi-gupta-cover.jpg
+
+ritisha.gupta:
+  username: ritisha.gupta
+  name: Ritisha Gupta
+  location: Delhi
+  positions: Contributor
+  bio: A Political Science student from Delhi University. Hoping to make a difference, one step at a time.
+  picture: ritisha-gupta.jpg
+  facebook: False
+  twitter: False
+  cover: ritisha-gupta-cover.jpg
+
+sparsh.gupta:
+  username: sparsh.gupta
+  name: Sparsh Gupta
+  location: Delhi
+  positions: Contributor
+  bio: A low-key individual, harbouring an unquenchable curiosity towards everything under the sun.
+  picture: sparsh-gupta.jpg
+  facebook: False
+  twitter: False
+  cover: sparsh-gupta-cover.jpg
+  sports: False
+
+stuti.gupta:
+  username: stuti.gupta
+  name: Stuti Gupta
+  location: New Delhi
+  positions: Contributor
+  bio: An Economics student at the University of Delhi who writes to retain all that's left of her sanity. As feminist as they come.
+  picture: stuti.jpg
+  facebook: stuti.gupta.7798
+  twitter: False
+  cover: stuti-cover.jpg
+
+daniel.harris:
+  username: daniel.harris
+  name: Daniel Harris
+  location: Lisbon
+  positions: Contributor
+  bio: A rationalist and existentialist Spanish and Portuguese student at the University of Bristol. Film, music and travel are my main areas of interest.
+  picture: daniel-harris.jpg
+  facebook: daniel.harris.7140
+  twitter: False
+  cover: daniel-harris-cover.jpg
+
+samuel.hogan:
+  username: samuel.hogan
+  name: Samuel Hogan
+  location: Burgess Hill
+  positions: Contributor
+  bio: An English language and Spanish university student who has been a passionate football fan since a young age with an interest in tennis and the NBA amongst others.
+  picture: samuel-hogan.jpg
+  facebook: False
+  twitter: False
+  cover: samuel-hogan-cover.jpg
+  sports: True
+
+harshita.jain:
+  username: harshita.jain
+  name: Harshita Jain
+  location: Delhi, India
+  positions: Contributor
+  bio: Second year Psychology student from Delhi University, with a keen interest in reading anything from Archer to Rumi. Speaks in analogies, more often than not. Writes poetry and paints, when not testing people's attributes. Believes in Occam's Razor.
+  picture: harshita.jpg
+  facebook: harshita.jain.9803
+  twitter: False
+  cover: harshita-cover.jpg
+
+unnati.jain:
+  username: unnati.jain
+  name: Unnati Jain
+  location: Kolkata
+  positions: Contributor
+  bio: BCom (Hons.) student at St. Xaviers College, Kolkata. I look forward to make a career in finance someday, and be capable enough to travel the entire world.
+  picture: unnati.jpg
+  facebook: unnati.jain.547
+  twitter:
+  cover: unnati-cover.jpg
+
+kashish.jindal:
+  username: kashish.jindal
+  name: Kashish Jindal
+  location: New Delhi
+  positions: Contributor
+  bio: A compulsive stationary-addict, I love to organise and buy tonnes of new notebooks; can watch The Harry Potter series thousands of times and still gasp when Harry returns from the dead.
+  picture: kashish-jindal.jpg
+  facebook:
+  twitter:
+  cover: kashish-jindal-cover.jpg
+
+aniba.junaid:
+  username: aniba.junaid
+  name: Aniba Junaid
+  location: Kolkata
+  positions: Contributor
+  bio: Aniba Junaid is currently an undergraduate student of Political Science at Loreto College, Kolkata, India. She enjoys writing about Indian politics, culture, women and matters that affect one and all.
+  picture: aniba-junaid.jpg
+  facebook: aniba.junaid
+  twitter: Aniba_Junaid
+  cover: aniba-junaid-cover.jpg
+
+rishi.kant:
+  username: rishi.kant
+  name: Rishi Kant
+  location: Bangalore, India
+  positions: Contributor
+  bio: I'm the archetypal bookworm — I can binge-read a book if I'm up for it. I prefer reading non-fiction over fiction. Strongly opinionated, although selectively argumentative in the online space.
+  picture: rishi-kant.jpg
+  facebook: False
+  twitter: RishiKant98
+  cover: rishi-kant-cover.jpg
+
+khushi.kaul:
+  username: khushi.kaul
+  name: Khushi Kaul
+  location: Gurgaon, India
+  positions: Contributor
+  bio: I am an undergraduate at SRCC, pursuing Economics honours. I have an eye for pressing social issues and like to voice the unvoiced. The realm of economics fascinates me and I have a flair for writing. Soft music is my go to soul-cleanser.
+  picture: khushi-kaul.jpeg
+  facebook: False
+  twitter: False
+  cover: khushi-kaul.jpg
+
+aditya.khandelwal:
+  username: aditya.khandelwal
+  name: Aditya Khandelwal
+  location: Gorakhpur, India
+  positions: Contributor
+  bio: A happy person with the desire to enchant everyone with a smile. Pursuing Bachelors of Commerce from Hindu College. In his free time, you can find him reviewing new gadgets or cars.
+  picture: aditya-khandelwal.jpeg
+  facebook: False
+  twitter: False
+  cover: aditya-khandelwal-cover.jpg
+
+riya.kaul:
+  username: riya.kaul
+  name: Riya Kaul
+  location: Faridabad
+  positions: Contributor
+  bio: Studying economics at Delhi University. That's pretty much it.
+  picture: riya-kaul.jpg
+  facebook: False
+  twitter: False
+  cover: riya-kaul-cover.jpg
+
+gurleen.kaur:
+  username: gurleen.kaur
+  name: Gurleen Kaur
+  location: New Delhi
+  positions: Contributor
+  bio: I am a second year student pursuing Economics(H) from Delhi University. I am deeply interested in short stories in Punjabi and Sufi Poetry of Bulleh Shah. An environmentalist at heart, I firmly believe in building a sustainable society.
+  picture: gurleen.jpg
+  facebook: false
+  twitter: False
+  cover: gurleen-cover.jpg
+
+khushboo.pandey:
+  username: khushboo.pandey
+  name: Khushboo Pandey
+  location: New Delhi
+  positions: Contributor
+  bio: An Economics student endeavouring to comprehend the Economics & Finance world.
+  picture: khushboo-pandey.jpg
+  facebook: false
+  twitter: False
+  cover: khushboo-pandey-cover.jpg
+
+aric.kirsten:
+  username: aric.kirsten
+  name: Aric Kirsten
+  location: Tucson, Arizona
+  positions: Contributor # ex-Co-Editor
+  bio: Currently a senior at The University of Arizona, studying sports management with a minor in computer science. Sports are my pride and joy, especially basketball and football!
+  picture: aric.jpg
+  facebook: aric.kirsten
+  twitter: Arickrw3
+  cover: aric-cover.jpg
+  sports: True
+
+# hareneshkaran.kirubakaran:
+#   username: hareneshkaran.kirubakaran
+#   name: Hareneshkaran Kirubakaran
+#   location: Kuala Lumpur
+#   positions: Contributor
+#   bio: Medical student with a passion in research and ethics. In my spare time, I captain a hockey team and umpire matches, alongside the occasional tutoring session that I conduct. I try to do my part for society through volunteering and fundraising.
+#   picture: hareneshkaran-kirubakaran.jpg
+#   facebook: False
+#   twitter: False
+#   cover: hareneshkaran-kirubakaran-cover.jpg
+#   sports: False
+
+kabir.kochar:
+  username: kabir.kochar
+  name: Kabir Singh Kochar
+  location: Panipat
+  positions: Contributor
+  bio: A happy go lucky person, I am someone who believes in memories more than photographs. Penning my thoughts is my favourite form of expression and nothing interests me more than sports and conspiracies.
+  picture: kabir-kochar.jpg
+  facebook: False
+  twitter: False
+  cover: kabir-kochar-cover.jpg
+  sports: False
+
+rachit.kumar:
+  username: rachit.kumar
+  name: Rachit Kumar
+  location: New Delhi, India
+  positions: Contributor
+  bio: Rachit Kumar is a student of Kirori Mal College,DU. Currently pursuing B.Com(Hons). He has a very keen interest in finance and loves to research about stock market whole day. He is also passionate towards Photography.
+  picture: rachit-kumar.jpg
+  facebook: rachitkd007
+  twitter: rachitkdogra
+  cover: rachit-kumar-cover.jpg
+
+kartik.kundeti:
+  username: kartik.kundeti
+  name: Kartik Balaji Kundeti
+  location: Hyderabad
+  positions: Contributor
+  bio: A low-key individual with keen interest in Economics and Policy making. Currently pursuing Economics from SRCC, University of Delhi.
+  picture: kartik.jpg
+  facebook: False
+  twitter: kartikbalaji_kb
+  cover: False
+
+tom.leeman:
+  username: tom.leeman
+  name: Tom Leeman
+  location: London
+  positions: Guest Contributor
+  bio: I am a Politics and Spanish graduate from the University of Bristol, going on to study a Master's degree in Political Economy at King's College London.
+  picture: tom-leeman.jpg
+  facebook: tom.leeman.16
+  twitter: False
+  cover: tom-leeman-cover.jpg
+
+ashima.makhija:
+  username: ashima.makhija
+  name: Ashima Makhija
+  location: Delhi, India
+  positions: Contributor
+  bio: "I am pursuing Economics (Honours) from Shri Ram College of Commerce, University of Delhi. I spend my time solving fictional murder mysteries and avoiding real-life mysteries (seriously, when did I last open my course book?)."
+  picture: ashima.jpg
+  facebook: False
+  twitter: False
+  cover: ashima-cover.jpg
+
+pranav.manie:
+  username: pranav.manie
+  name: Pranav Manie
+  location: Delhi
+  positions: Contributor
+  bio: I'm an economics undergrad at Hansraj College. Love talking about all kinds of pop culture, love to know about what's happening in the world.
+  picture: pranav-manie.jpg
+  facebook: pranav.manie
+  twitter: False
+  cover: pranav-manie-cover.jpg
+  url_full: https://theotherweblog.wordpress.com
+  url: https://theotherweblog.wordpress.com
+
+shohan.mukherjee:
+  username: shohan.mukherjee
+  name: Shohan Mukherjee
+  location: Kolkata, India
+  positions: Contributor
+  bio: All the powers in the universe are already ours. It is we who have put our hands before our eyes and cry that it is dark. -Sw.
+  picture: shohan.jpg
+  facebook: False
+  twitter: False
+  cover: shohan-cover.jpg
+
+aarushi.mittal:
+  username: aarushi.mittal
+  name: Aarushi Mittal
+  location: Delhi
+  positions: Contributor
+  bio: A student at Delhi University, trying to keep herself afloat the many insignificant hurdles of life. An old-soul, I find solace in books, music, shows and movies of every kind. Now and then, you’ll find me questioning everything.
+  picture: aarushi.mittal.jpg
+  facebook: aarushi.mittal.560
+  twitter: False
+  cover: aarushi.mittal-cover.jpg
+
+gavin.olson:
+  username: gavin.olson
+  name: Gavin Olson
+  location: Pleasant Hill, CA (Home); Daytona Beach, FL (Univ)
+  positions: Contributor
+  bio: I am a sophomore at Embry-Riddle Aeronautical University studying Global Conflicts with a minor in Russian and Broadcast Media. I am a die hard fan of pretty much every sport, and love to write about them!
+  picture: gavin-olson.jpg
+  facebook: False
+  twitter: False
+  cover: gavin-olson-cover.jpg
+  sports: True
+
+alex.omidvar:
+  username: alex.omidvar
+  name: Alex Omidvar
+  location: Oxford, UK
+  positions: Contributor
+  bio: Alex is a CEO at Omidvar.co.uk. Outside his job, he is a proficient writer, speaker, consultant, leader and student who studies Philosophy at the University of Oxford. He also runs ‘The Oxford Logos’ a YouTube channel designed for free discourse.
+  picture: alex-omidvar.jpg
+  facebook: False
+  twitter: False
+  cover: alex-omidvar-cover.jpg
+
+sanya.puri:
+  username: sanya.puri
+  name: Sanya Puri
+  location: New Delhi
+  positions: Contributor
+  bio: "Reader, traveller, writing enthusiast: a few words that describe me. I like to look at things from an 'out of the box' perspective and I am someone who is always up for a challenge."
+  picture: sanya-puri.png
+  facebook: False
+  twitter: False
+  cover: sanya-puri-cover.png
+  sports: False
+
+himanshi.saini:
+  username: himanshi.saini
+  name: Himanshi Saini
+  location: New Delhi
+  positions: Contributor
+  bio: A final year Journalism undergraduate from University of Delhi. Combining my knowledge of journalism with my keen interest in film making, I aspire to bring a change in our society. I write, draw and shoot films on various issues.
+  picture: himanshi-saini.jpg
+  facebook: HimanshiSaini
+  twitter: Himanshisaini27
+  cover: himanshi-saini-cover.jpg
+  url: https://www.youtube.com/channel/UCeuOTBA5T7c_WlyHzDCyr-g
+  url_full: https://www.youtube.com/channel/UCeuOTBA5T7c_WlyHzDCyr-g
+
+abhishek.sancheti:
+  username: abhishek.sancheti
+  name: Abhishek Sancheti
+  location: New Delhi, India
+  positions: Contributor
+  bio: Young, Dumb and Curious. Currently pursuing B.A. (Hons) Economics from SRCC, Delhi University, he is fascinated by the subject matter of Economics. He wishes to be married to his first love, Economics by being an economist for the government.
+  picture: abhishek.jpg
+  facebook: False
+  twitter: AbhishekSanche7
+  cover: abhishek-cover.jpg
+
+sagnik.sarkar:
+  username: sagnik.sarkar
+  name: Sagnik Sarkar
+  location: Kolkata, India
+  positions: Contributor
+  bio: A law student who believes that every problem can be solved. Will and skill are necessary preconditions.
+  picture: sagnik.jpg
+  facebook: False
+  twitter: False
+  cover: sagnik-cover.jpg
+
+sritama.sen:
+  username: sritama.sen
+  name: Sritama Sen
+  location: Kolkata
+  positions: Former Contributor
+  bio: An undergrad student of English literature at Jadavpur University, Kolkata. Sometimes, I ramble about books and films. Sometimes, my ramblings even make sense.
+  picture: sritama-sen.jpg
+  facebook: sritama.sen.90
+  twitter: False
+  cover: sritama-sen-cover.jpg
+
+cherry.sharma:
+  username: cherry.sharma
+  name: Cherry Sharma
+  location: Noida, India
+  positions: Contributor
+  bio: I'm a Third-year student of Economics studying at Indraprastha College for Women, University of Delhi. I love to do policy and financial research and prepare reports for them. I am also preparing to pursue Economics at the Post Graduation level.
+  picture: cherry-sharma.jpeg
+  facebook: cherry.sharma.56211
+  twitter: CherryS94612782
+  cover: hrishita-sharma-cover.jpg
+
+hrishita.sharma:
+  username: hrishita.sharma
+  name: Hrishita Sharma
+  location: New Delhi
+  positions: Contributor
+  bio: Feminist, economics, panic, dance battles, artsy corners in the city and book recommendations. That's the recipe.
+  picture: hrishita-sharma.jpg
+  facebook: False
+  twitter: False
+  cover: hrishita-sharma-cover.jpg
+
+ishi.shrivastava:
+  username: ishi.shrivastava
+  name: Ishi Shrivastava
+  location: Delhi
+  positions: Contributor
+  bio: I am an inspired reader and writer who built this inclination since school days and took part in editorial teams to hone my skills as well as interest. I am also little bit of a good conversationalist.
+  picture: ishi-shrivastava.jpeg
+  facebook: False
+  twitter: False
+  cover: ishi-shrivastava-cover.jpeg
+
+ananya.singh:
+  username: ananya.singh
+  name: Ananya Singh
+  location: Gurgaon, India
+  positions: Contributor
+  bio: An Economics student trying to make sense of the world! Extremely fun & talkative but only if I like you ;)
+  picture: ananya-singh.jpeg
+  facebook: False
+  twitter: False
+  cover: ananya-singh-cover.jpg
+
+reema.singh:
+  username: reema.singh
+  name: Reema Singh
+  location: New Delhi, India
+  positions: Contributor
+  bio: A student of Economics at the University of Delhi, Reema finds her interest scattered between data science, microfinance, world history and politics. She finds her inspiration from the writings of Oscar Wilde and V. S. Naipaul.
+  picture: reema.jpg
+  facebook: reemasingh13
+  twitter: False
+  cover: reema-cover.jpg
+
+vanshika.sighroha:
+  username: vanshika.sighroha
+  name: Vanshika Sighroha
+  location: Dwarka
+  positions: Contributor
+  bio: A woman with opinions and confidence to voice them out freely, I am currently pursuing my majors in Economics.  With a love for food, books and movies, I also love to write and further expand my horizon. I find my solace in travelling and good music!
+  picture: vanshika-sighroha.jpg
+  facebook: vanshikasighroha
+  twitter: False
+  cover: vanshika-sighroha-cover.jpg
+
+tanisha.sukhija:
+  username: tanisha.sukhija
+  name: Tanisha Sukhija
+  location: New Delhi
+  positions: Contributor
+  bio: A student at University of Delhi, currently pursuing a major in  Economics with a keen interest in the fields of public policy and finance.
+  picture: tanisha-sukhija.jpeg
+  facebook: False
+  twitter: False
+  cover: tanisha-sukhija-cover.jpg
+
+namya.tewari:
+  username: namya.tewari
+  name: Namya Tewari
+  location: Greater Noida, India
+  positions: Contributor
+  bio: Hi! I'm a student of philosophy who loves reading nerdy stuff and hoarding books. I'm greatly inspired by the works of Kahlil Gibran and aspire to write like him one day. And did I forget to mention, I daydream about the impossible. Yes that's it!
+  picture: namya.jpg
+  facebook: False
+  twitter: False
+  cover: namya-cover.jpg
+
+soham.gupta:
+  username: soham.gupta
+  name: Soham Gupta
+  location:
+  positions: Contributor
+  bio: I believe that the relentless pursuit of truth is the most exalted goal a person could possibly strive for. And the truth, as far as I have experienced it, has only made me zealous for the greater glory of God.
+  picture:
+  facebook: False
+  twitter: False
+  cover:
+
+ankita.punjani:
+  username: ankita.punjani
+  name: Ankita Punjani
+  location: New Delhi
+  positions: Contributor
+  bio:
+  picture:
+  facebook: False
+  twitter: False
+  cover:
+  sports: False
+
+aryaman.tewari:
+  username: aryaman.tewari
+  name: Aryaman Tewari
+  location: New Delhi, India
+  positions: Contributor # ex-Editor
+  bio: You'll usually find me either over at the local ground, or at the chess club. Currently, I'm trying to make the most of life in Delhi University. Coming to other interests, it'd be gothic music, Ruskin Bond and reading about the African Lion.
+  picture: aryaman.jpg
+  facebook: False
+  twitter: False
+  cover: aryaman-cover.jpg
+  sports: True
+
+adarsh.agarwal:
+  username: adarsh.agarwal
+  name: Adarsh Agarwal
+  location:
+  positions: Guest Contributor
+  bio: Adarsh Agarwal is an undergraduate Economics student at the University of Delhi, and aspires to become a recognisable name in the world of academia.
+  picture: adarsh.jpg
+  facebook: False
+  twitter: False
+  cover: adarsh-cover.jpg
+  guest: True
+
+aanandi.arjun:
+  username: aanandi.arjun
+  name: Aanandi Arjun
+  location: New Delhi
+  positions: Guest Contributor
+  bio: Curiosity killed the cat, but satisfaction brought it back.
+  picture: aanandi-arjun.jpg
+  facebook: False
+  twitter: False
+  cover: aanandi-arjun-cover.jpg
+  guest: True
+
+morgan.black:
+  username: morgan.black
+  name: Morgan Black
+  location: Bristol, UK
+  positions: Guest Contributor
+  bio: Singer, musician and comparative mythologist essentially interested in modernising European Pagan religions and cultures to provide a sense of true identity for future generations.
+  picture: morgan.jpg
+  facebook: False
+  twitter: False
+  cover: morgan-cover.jpg
+  guest: True
+
+debanjan.dhar:
+  username: debanjan.dhar
+  name: Debanjan Dhar
+  location: Kolkata, India
+  positions: Guest Contributor
+  bio: Xavier Dolan obsessive. Birdwatcher of all things cinema and writes to make sense of it. Keeps delaying responses which mess everything . Thinks of cakes all day . Studies English at Jadavpur University.
+  picture: debanjan-dhar.jpg
+  facebook: debanjan.dhar
+  twitter: False
+  cover: debanjan-dhar-cover.jpg
+  guest: True
+
+jacob.jones:
+  username: jacob.jones
+  name: Jacob Jones
+  location: Tucson, Arizona
+  positions: Guest Contributor
+  bio: I’m from Sacramento, California. I currently attend the University of Arizona as a History major. I’m a diehard fan of the Philadelphia Eagles, New York Yankees, and Sacramento Kings.
+  picture: jacob.jpg
+  facebook: False
+  twitter: False
+  cover: jacob-cover.jpg
+  sports: True
+  guest: True
+
+alex.madajian:
+  username: alex.madajian
+  name: Alex Madajian
+  location: Washington DC
+  positions: Guest Contributor
+  bio: Alex Madajian self-taught learner and a bibliophile.  After deciding California wasn't big enough, he resettled in the DC area.  He has worked as a journalist on Capital hill and now is a weekly contributor "The Fourth Estate"
+  picture: alex-madajian.png
+  facebook: profile.php?id=100010515005951
+  twitter: alexmadajian
+  cover: alex-madajian-cover.jpg
+  url_full: https://www.youtube.com/channel/UCYhQKbas7neeJk1dNSLkTtQ
+  url: https://www.youtube.com/channel/UCYhQKbas7neeJk1dNSLkTtQ
+  guest: True
+
+andrew.mark:
+  username: andrew.mark
+  name: Andrew Mark
+  location:
+  positions: Guest Contributor
+  bio: A contributor at The Pangean
+  picture: #andrew.jpg
+  facebook: False
+  twitter: False
+  cover: andrew-cover.jpg
+  sports: True
+  guest: True
+
+stephen.mcandrew:
+  username: stephen.mcandrew
+  name: Stephen McAndrew
+  location: Leeds
+  positions: Guest Contibutor
+  bio: Third year politics, philosophy and economics student at the University of Leeds, staying on to study an MSc in economics next year.
+  picture: stephen-mc.jpg
+  facebook: False
+  twitter: CrippliedTurkey
+  cover: stephen-mc-cover.jpg
+  guest: True
+
+avinash.naidu:
+  username: avinash.naidu
+  name: Avinash Naidu
+  location: Kuala Lumpur
+  positions: Guest Contributor
+  bio: I grew up wanting to be a Chiropractor, Studied Statistics and then worked in IT. A curious mind always looking for a new adventure. Currently starting my own solutions company to increase the take up rate of automation in Malaysia.
+  picture: avinash.jpg
+  facebook: avinash.naidu.735
+  twitter: False
+  url:
+  url_full:
+  cover: avinash-cover.jpg
+  guest: True
+
+ayantika.nath:
+  username: ayantika.nath
+  name: Ayantika Nath
+  location: Kolkata
+  positions: Guest Contributor
+  bio: Post Grad student at JUDE. Working towards living in a home in the hills, taking detours on the way.
+  picture: ayantika.jpg
+  facebook: False
+  twitter: False
+  cover: ayantika-cover.jpg
+  guest: True
+
+tyler.pesavento:
+  username: tyler.pesavento
+  name: Tyler Pesavento
+  location: San Jose, California
+  positions: Guest Contributor
+  bio: Currently studying broadcast journalism at the University of Arizona. Coming from the Bay Area, I have had an interest in all major American sports.
+  picture: tyler.jpg
+  facebook: tylerpesavento
+  twitter: False
+  cover: tyler-cover.jpg
+  sports: True
+  guest: True
+
+reuben.pritchard:
+  username: reuben.pritchard
+  name: Reuben Pritchard
+  location:
+  positions: Former Contributor
+  bio: Over-privileged Englishman. You'll love me when I'm dead.
+  picture: reuben.jpg
+  facebook: False
+  twitter: False
+  cover: reuben-cover.jpg
+  guest: True
+
+udayon.sen:
+  username: udayon.sen
+  name: Udayon Sen
+  location:
+  positions: Guest Contributor
+  bio: Udayon Sen is an aspiring polymath who adores Michael Stevens but certainly has better hair than him (hopefully). He studies Computer Engineering, along with every other course he can study, just to accumulate enough for himself to spread the word.
+  picture: #udayon.jpg
+  facebook: False
+  twitter: False
+  cover: udayon-cover.jpg
+  guest: True
+
+shivang.singh:
+  username: shivang.singh
+  name: Shivang Singh
+  location: Hong Kong
+  positions: Guest Contributor
+  bio: An ambitious, perseverant, and all-rounded parliamentarian in the making...
+  picture: shivang.jpg
+  facebook: shivang.singh.1213
+  twitter: shivangsingh98
+  cover: shivang-cover.jpg
+  guest: True
+
+tushar.singh:
+  username: tushar.singh
+  name: Vidyarthi
+  location: Delhi, India
+  positions: Guest Contributor #ex-{Partner, Editor}
+  bio: Actually Tushar Singh. He is studying Economics at Delhi University.
+  picture: tushar.jpg
+  facebook: False
+  twitter: dtusharsingh
+  cover: tushar-cover.jpg
+  guest: True
+
+sam.tanberg:
+  username: sam.tanberg
+  name: Sam Tanberg
+  location: Tuscon, Arizona
+  positions: Guest Contributor
+  bio: University of Arizona student from Northern California. Big baseball fan (Go Red Sox), love basketball and football as well.
+  picture: sam.png
+  facebook: samtanberg16
+  twitter: False
+  cover: sam-cover.jpg
+  sports: True
+  guest: True
+
+swarnima.tewary:
+  username: swarnima.tewary
+  name: Swarnima Swastika Tewary
+  location: Kolkata, India.
+  positions: Guest Contributor
+  bio: Independent researcher associated with IPSA. I am a passionate reader of ancient Indian scriptures & everything that falls in between & beyond. I live by & for Nature so when I'm not reading I'm out there in the garden living that magical life!
+  picture: swarnima.jpg
+  facebook: Flowerstruckswasti
+  twitter: False
+  cover: swarnima-cover.jpg
+  url: thepinkflora.com
+  url_full: http://thepinkflora.com
+  guest: True
+
+sam.valk:
+  username: sam.valk
+  name: Sam Valk
+  location: Cincinnati
+  positions: Guest Contributor
+  bio: A 23 year old thinker with the political acumen and hair of an octogenarian
+  picture: sam.valk.jpeg
+  facebook: samuel.vandervalk.1
+  twitter: False
+  cover: sam.valk-cover.jpg
+  guest: True
+
+troy.worden:
+  username: troy.worden
+  name: Troy Worden
+  location: Pittsburg
+  positions: Guest Contributor
+  bio: Troy Worden was president of the Berkeley College Republicans in 2017. He has appeared on Fox News, Fox Business, CNN, OAN, CRTV, and NRA TV. He has contributed to the Washington Examiner, Campus Reform, The Daily Signal, and American Greatness.
+  picture: troy.jpg
+  facebook: False
+  twitter: False
+  cover: troy-cover.jpg
+  guest: True
+
+olly.bowes:
+  username: olly.bowes
+  name: Olly Bowes
+  location: Bristol, UK
+  positions: Guest Contributor
+  bio: A guest contributor at The Pangean
+  picture: #olly.jpg
+  facebook: False
+  twitter: False
+  cover: olly-cover.jpg
+  guest: True
+
+guest:
+  username: guest
+  name: Guest
+  location:
+  positions:
+  bio:
+  picture: #olly.jpg
+  facebook: False
+  twitter: False
+  cover:
+  guest: True
