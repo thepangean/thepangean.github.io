@@ -10,10 +10,9 @@ class: post-template
 subclass: 'post tag-speeches'
 link: https://live.staticflickr.com/8321/8000025086_6f60bdc612_b.jpg
 author: oyeshi.ganguly
+disable-first-letter: true
 ---
-*“Farmer’s bills will create a vacuum that may result in utter chaos.”*
-
--   P Sainath, Founder of People’s Archive of Rural India
+*“Farmer’s bills will create a vacuum that may result in utter chaos.”* - P Sainath, Founder of People’s Archive of Rural India.
     
 
 The largest source of livelihood in India is agriculture. A whopping 70% of the rural households consider agriculture to be the primary source of their subsistence. Among them, 82% of farmers are engaged as small or marginal agriculturists. An economy which is majorly dependent on farmlands has witnessed unprecedented upheaval in the wake of the passing of the Farmers Bill 2020. Perhaps even more surprising is the polarised public opinion pertaining to it. While it has been welcomed by certain sections of the public, others have expressed stiff opposition to it. The displeasure wasn’t just restricted to the contents of the bill but also to the manner in which it was passed. Many regard it as a move towards a unitarian bias of the Indian State and a blow to federalism. The Minister of Food Processing Industries in the Narendra Modi Government, Harsimrat Kaur Badal, resigned from the Union Cabinet as a mark of protest.
