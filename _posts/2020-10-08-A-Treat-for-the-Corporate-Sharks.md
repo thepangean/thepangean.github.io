@@ -12,6 +12,7 @@ link: https://live.staticflickr.com/8321/8000025086_6f60bdc612_b.jpg
 author: oyeshi.ganguly
 disable-first-letter: true
 ---
+
 *“Farmer’s bills will create a vacuum that may result in utter chaos.”* - P Sainath, Founder of People’s Archive of Rural India.
     
 
