@@ -11,8 +11,6 @@ subclass: 'post tag-speeches'
 link: https://cdn.pixabay.com/photo/2014/09/11/22/00/dock-441989_1280.jpg
 author: cherry.sharma
 ---
-**The Need for SAFTA**
-
 South Asia experienced rapid GDP growth in the 1980’s, averaging around 6 % per annum across the region. This has attracted much global attention to the region. In addition to policy and institutional reforms that have been instrumental in tackling unemployment and poverty, market integration and regional cooperation have also been key to rapid growth and development.
 
 Since the 1990’s, South Asian countries have made efforts to enhance their trade and investment flows with the larger objective of poverty alleviation and economic development. Historically, changes in the trade policies of the region have been driven by the unilateral liberalisation of individual countries. However, preferential trade agreements were initiated after the formation of the South Asian Association for Regional Cooperation (SAARC).
