@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "Test Article with Images"
-author: 
+author: test
 cover: kheeran.jpg
 tags: podcast
 date: 2020-10-12
