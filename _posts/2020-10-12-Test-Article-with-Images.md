@@ -7,7 +7,7 @@ class: post-template
 title: "Test Article with Images"
 author: kheeran.naidu
 cover: kheeran.jpg
-tags: podcast
+tags:
 date: 2020-10-12
 link: ""
 disable-first-letter: true
