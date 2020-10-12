@@ -980,3 +980,15 @@ rajsi.sah:
   cover: ''
   url: ''
   url_full: ''
+test.author:
+  username: test.author
+  name: Test Author
+  location: Here
+  positions: Contributor
+  bio: Test
+  picture: ''
+  facebook: ''
+  twitter: ''
+  cover: ''
+  url: ''
+  url_full: ''
