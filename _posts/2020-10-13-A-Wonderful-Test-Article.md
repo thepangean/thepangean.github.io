@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "A Wonderful Article"
+title: "A Wonderful Test Article"
 author: kheeran.naidu
 cover: kheeran.jpg
 tags: test
