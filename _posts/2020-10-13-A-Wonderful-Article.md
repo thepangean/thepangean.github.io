@@ -7,7 +7,7 @@ class: post-template
 title: "A Wonderful Article"
 author: kheeran.naidu
 cover: kheeran.jpg
-tags: trending culture
+tags: test
 date: 2020-10-13
 link: "https://github.com/kheeran"
 disable-first-letter: true
