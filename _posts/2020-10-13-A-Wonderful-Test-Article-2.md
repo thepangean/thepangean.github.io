@@ -1,0 +1,15 @@
+---
+layout: post
+current: post
+navigation: True
+class: post-template
+
+title: "A Wonderful Test Article 2"
+author: kheeran.naidu
+cover: kheeran.jpg
+tags: 
+date: 2020-10-13
+link: "https://www.github.com/kheeran"
+disable-first-letter: false
+---
+<p>Recent events have inspired me to culminate minutes worth of ideas into this article. These ideas are argued against and for, with a guarantee that you will have made up your mind by the last word of the last sentence of this article.&nbsp;</p><p><a href="https://commons.wikimedia.org/wiki/File:Whitby_Abbey_image.jpg" rel="noopener noreferrer" target="_blank" ><div class='caption' style='text-align: left'><img src="assets/images/a-wonderful-test-article-2-image1.png"  >“Always caption the pictures” - Harsh Tiwari (13th Oct 2020)</div></a></p><p><strong >For:</strong> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur</p><p><a href="https://pixabay.com/photos/tree-sunset-amazing-beautiful-736885/" rel="noopener noreferrer" target="_blank" ><div class='caption' style='text-align: left'><img src="assets/images/a-wonderful-test-article-2-image2.png"  >This one too! </div></a></p><p><strong >Against</strong>: At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
