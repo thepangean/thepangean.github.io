@@ -5,7 +5,7 @@ cover: dicegame.jpg
 navigation: True
 title: "Germany’s Future: A Question Mark?"
 date: 2020-10-14
-tags: policy
+tags: trending policy
 class: post-template
 subclass: 'post tag-speeches'
 link: https://cdn.pixabay.com/photo/2014/09/17/21/58/elections-450164_1280.jpg
