@@ -6,7 +6,7 @@ class: post-template
 
 title: "Inflation Check!"
 author: kartik.kundeti
-cover: pegnotes.jpeg
+cover: pegnotes.jpg
 tags: economics
 date: 2020-10-21
 link: "https://images.pexels.com/photos/3521353/pexels-photo-3521353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
