@@ -6,7 +6,7 @@ class: post-template
 
 title: " Contracting India"
 author: vanshika.sighroha
-cover: indiaflagpole.jpeg
+cover: indiaflagpole.jpg
 tags: economics
 date: 2020-10-21
 link: "https://images.pexels.com/photos/3581355/pexels-photo-3581355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
