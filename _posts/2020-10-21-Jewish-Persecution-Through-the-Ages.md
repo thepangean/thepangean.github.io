@@ -6,7 +6,7 @@ class: post-template
 
 title: "Jewish Persecution Through the Ages"
 author: aryaman.dhiman
-cover: auschwitzchildren.jpeg
+cover: auschwitzchildren.jpg
 tags: society
 date: 2020-10-21
 link: "https://www.myjewishlearning.com/wp-content/uploads/2017/01/1024px-Child_survivors_of_Auschwitz.jpeg"
