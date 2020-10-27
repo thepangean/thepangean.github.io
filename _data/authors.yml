@@ -566,7 +566,7 @@ himanshi.saini:
   name: Himanshi Saini
   location: New Delhi
   positions: Contributor
-  bio: A Journalism Graduate from the University of Delhi. Having a keen internet in multimedia journalism, I write and film on various social, political and critical issues revolving around media governance.
+  bio: 'A Journalism Graduate from the University of Delhi. Having a keen internet in multimedia journalism, I write and film on various social, political and critical issues revolving around media governance.'
   picture: himanshi-saini.jpg
   facebook: HimanshiSaini
   twitter: Himanshisaini27
@@ -987,6 +987,18 @@ test.author:
   positions: Contributor
   bio: Test
   picture: ''
+  facebook: ''
+  twitter: ''
+  cover: ''
+  url: ''
+  url_full: ''
+priyanshi.mehra:
+  username: priyanshi.mehra
+  name: Priyanshi Mehra
+  location: Noida
+  positions: Contributor
+  bio: A person in her 20s trying to learn and unlearn things as I create my own path. A curious being with an endless list of passions.
+  picture: priyanshiprofilepic.jpg
   facebook: ''
   twitter: ''
   cover: ''
