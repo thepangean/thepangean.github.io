@@ -7,7 +7,7 @@ class: post-template
 title: "Intervention by Sanction"
 author: tom.leeman
 cover: intbysanc.jpg
-tags: policy
+tags: trending policy
 date: 2020-10-29
 link: "https://commons.wikimedia.org/wiki/File:20101227_USA_embassy_graffiti_Tehran_Iran.jpg#/media/File:20101227_USA_embassy_graffiti_Tehran_Iran.jpg"
 disable-first-letter: false
