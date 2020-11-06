@@ -1028,3 +1028,15 @@ test.authorasd:
   cover: ''
   url: ''
   url_full: ''
+test.authors:
+  username: test.authors
+  name: Test Authors
+  location: ''
+  positions: ''
+  bio: ''
+  picture: ''
+  facebook: ''
+  twitter: ''
+  cover: ''
+  url: ''
+  url_full: ''
