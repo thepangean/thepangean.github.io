@@ -108,8 +108,8 @@ srisreyas.sundaresan:
   name: Srisreyas Sundaresan
   location: 'Vasco Da Gama, India'
   positions: Sound Editor
-  bio: 'I'm an undergraduate student of Computer Science at BITS Goa and a music producer, sound engineer and electronic music enthusiast. When I'm not in the classroom, making music or working on my Mixcloud show, I can probably be found on a CS:GO server.'
-  picture: srisreyas-sundaresan.jpg
+  bio: 'I''m an undergraduate student of Computer Science at BITS Goa and a music producer, sound engineer and electronic music enthusiast. When I'm not in the classroom, making music or working on my Mixcloud show, I can probably be found on a CS:GO server.'
+  picture: 'srisreyas-sundaresan.jpg'
   facebook: false
   twitter: randomtrancefan
   cover: srisreyas-sundaresan-cover.jpg
@@ -380,7 +380,7 @@ rishi.kant:
   name: Rishi Kant
   location: 'Bangalore, India'
   positions: Contributor
-  bio: 'I'm the archetypal bookworm - I can binge-read a book if I''m up for it. I prefer reading non-fiction over fiction. Strongly opinionated, although selectively argumentative in the online space.'
+  bio: 'I''m the archetypal bookworm - I can binge-read a book if I''m up for it. I prefer reading non-fiction over fiction. Strongly opinionated, although selectively argumentative in the online space.'
   picture: rishi-kant.jpg
   facebook: false
   twitter: RishiKant98
