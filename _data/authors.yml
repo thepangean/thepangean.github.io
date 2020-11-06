@@ -980,18 +980,6 @@ rajsi.sah:
   cover: ''
   url: ''
   url_full: ''
-test.author:
-  username: test.author
-  name: Test Author
-  location: Here
-  positions: Contributor
-  bio: Test
-  picture: ''
-  facebook: ''
-  twitter: ''
-  cover: ''
-  url: ''
-  url_full: ''
 priyanshi.mehra:
   username: priyanshi.mehra
   name: Priyanshi Mehra
@@ -1011,30 +999,6 @@ eeshita.verma:
   positions: Contributor
   bio: 'A poetic and punny person, Eeshita is currently pursuing her Bachelor''s in commerce from SRCC. When free, she can be found blank staring or playing her ukulele. '
   picture: eeshitavermapp.jpg
-  facebook: ''
-  twitter: ''
-  cover: ''
-  url: ''
-  url_full: ''
-test.authorasd:
-  username: test.authorasd
-  name: test authorasd
-  location: ''
-  positions: asdasdasd
-  bio: ''
-  picture: ''
-  facebook: ''
-  twitter: ''
-  cover: ''
-  url: ''
-  url_full: ''
-test.authors:
-  username: test.authors
-  name: Test Authors
-  location: ''
-  positions: ''
-  bio: ''
-  picture: ''
   facebook: ''
   twitter: ''
   cover: ''
