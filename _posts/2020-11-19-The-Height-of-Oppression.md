@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "The Height of Oppression"
-author: priyanshi.mehra
+author: pooja.bommareddy
 cover: catwalk.jpg
 tags: society
 date: 2020-11-19
