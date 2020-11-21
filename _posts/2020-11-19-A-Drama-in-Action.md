@@ -7,7 +7,7 @@ class: post-template
 title: "A Drama in Action: ‘Rent a Womb but at what Cost?’"
 author: ishi.shrivastava
 cover: pregnancy.png
-tags: economics
+tags: trending economics
 date: 2020-11-19
 link: "https://cdn.pixabay.com/photo/2017/09/16/22/25/pregnancy-2757035_1280.png"
 disable-first-letter: false
