@@ -7,7 +7,7 @@ class: post-template
 title: "The ‘America First’ Policy isn’t Going Anywhere"
 author: tom.leeman
 cover: bidenpres.jpg
-tags: economics
+tags: policy
 date: 2020-11-25
 link: "https://www.flickr.com/photos/gageskidmore/48605438522/in/photolist-2h45zaf-2h46xuW-2igL3MM-2gv9dGq-2gv9ADn-2igMctZ-2h45KHj-2igL8ik-2h46zHd-2h45Rkb-2gYyFvG-2h45Sdt-2h45MVf-2h45SwE-2itrhqA-2gX8SAZ-2h46zBm-2h45Rdc-2gX88X6-2igLcf3-2h46A3g-2igM7nr-94dP6i-2h46AnV-2gv9QEy-2gv9pBM-2gYxXx7-2h45RRX-2h45zVy-2igMddu-2if4pYi-2gYxVq6-TeUskZ-2h45R7f-2h45MKa-2gYyG88-2if11qd-2h45Mr9-2iuYo11-2ho9vJF-2if12uC-2if3qdH-2iv1UZp-2igLbq2-2h46zu7-2gYxPoG-2iuYoaj-2gYyHT2-2if12ZA-2h46yAt/"
 disable-first-letter: false
