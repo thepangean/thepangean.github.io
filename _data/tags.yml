@@ -21,6 +21,10 @@ featured:
   name: featured
   title: Featured
   hidden: True
+repost:
+  name: repost
+  title: Repost
+  hidden: True
 
 #VISIBLE
 podcast:
