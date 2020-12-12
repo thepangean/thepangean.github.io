@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/test/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-12-06T23:50:23+00:00</updated>
+  <updated>2020-12-12T02:08:32+00:00</updated>
   <id>/tag/test/feed.xml</id>
 
   
@@ -278,7 +278,7 @@
       
 
       <author>
-          <name>Kheeran Naidu</name>
+          <name>.</name>
         
         
       </author>
@@ -287,8 +287,6 @@
 
       
         <category term="test" />
-      
-        <category term="featured" />
       
 
       
@@ -422,7 +420,7 @@
       
 
       <author>
-          <name>Kheeran Naidu</name>
+          <name>.</name>
         
         
       </author>
@@ -873,7 +871,7 @@ c.draw = function() {
       
 
       <author>
-          <name>Kheeran Naidu</name>
+          <name>.</name>
         
         
       </author>
@@ -916,7 +914,7 @@ c.draw = function() {
       
 
       <author>
-          <name>Kheeran Naidu</name>
+          <name>.</name>
         
         
       </author>
@@ -924,11 +922,7 @@ c.draw = function() {
       
 
       
-        <category term="sports" />
-      
         <category term="test" />
-      
-        <category term="featured" />
       
 
       
