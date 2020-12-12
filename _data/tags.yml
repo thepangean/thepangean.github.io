@@ -8,11 +8,6 @@ headline:
   title: Headline
   hidden: True
   sports: True
-millennial:
-  name: millennial
-  title: Millennial Campaign
-  hidden: True
-  campaign: True
 main:
   name: main
   title: Main
@@ -73,15 +68,6 @@ conscience:
 
 # COLUMNS
 
-# test:
-#   name: test
-#   title: Column Title
-#   description: This is the column description.
-#   cover: False
-#   column: True
-#   author: kheeran.naidu
-#   hidden: True
-
 from-the-horses-mouth:
   name: from-the-horses-mouth
   title: From the Horse's Mouth
@@ -89,7 +75,15 @@ from-the-horses-mouth:
   cover: False
   column: True
   author: harshita.jain
-  hidden: True
+  hidden: False
+
+# CAMPAIGNS
+
+millennial:
+  name: millennial
+  title: Millennial Campaign
+  hidden: False
+  campaign: True
 
 # SPORTS
 sports:

@@ -38,9 +38,9 @@ into the {body} of the default.hbs template -->
                         {% for tag in page.tags %}
                           {% unless site.data.tags[tag].hidden %}
                             {% if forloop.index == page.tags.size %}
-                               &nbsp <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>
+                               &nbsp <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ site.data.tags[tag].title | upcase }}</a>
                             {% else %}
-                               &nbsp <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }} </a>,
+                               &nbsp <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ site.data.tags[tag].title | upcase }} </a>,
                             {% endif %}
                           {% endunless %}
                         {% endfor %}

@@ -50,6 +50,7 @@ into the {body} of the default.hbs template -->
       </div>
 
       {% for tag in site.data.tags %}
+      {% if tag[1].section %}
       {% unless tag[1].sports or tag[1].hidden %}
 
       {% assign section_select = tag[1].name %}
@@ -64,6 +65,7 @@ into the {body} of the default.hbs template -->
       </div>
 
       {% endunless %}
+      {% endif %}
       {% endfor %}
 
     </div>
