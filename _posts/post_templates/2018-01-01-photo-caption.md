@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "Caption Image"
-author: 
+author: .
 cover: pending.png
 tags: test
 pic1: Mario-Draghi.jpg
