@@ -7,7 +7,7 @@ class: post-template
 title: "Caption Image"
 author: kheeran.naidu
 cover: pending.png
-tags: sports test featured
+tags: test
 pic1: Mario-Draghi.jpg
 date: 2018-01-01
 link: /
