@@ -7,7 +7,7 @@ class: post-template
 title: "Only I Exist"
 author: namya.tewari
 cover: solipsism.jpg
-tags: society
+tags: repost society
 date: 2019-08-01 11:45
 link: https://www.flickr.com/photos/marieswartz/3369400712
 ---
