@@ -5,7 +5,7 @@ cover: usafghan.jpg
 navigation: True
 title: "Afghanistan-US Peace Talks: A Second ‘1973 Paris Peace Accord’ on The Way?"
 date: 2019-11-24
-tags: policy
+tags: repost policy
 class: post-template
 subclass: 'post tag-speeches'
 link: https://en.m.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%93present)#/media/File%3A2001_War_in_Afghanistan_collage_3.jpg
