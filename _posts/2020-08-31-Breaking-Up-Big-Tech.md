@@ -5,7 +5,7 @@ cover: bigtech.jpg
 navigation: True
 title: "Breaking Up Big Tech"
 date: 2020-08-31
-tags: business-finance
+tags: repost business-finance
 class: post-template
 subclass: 'post tag-speeches'
 link: https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
