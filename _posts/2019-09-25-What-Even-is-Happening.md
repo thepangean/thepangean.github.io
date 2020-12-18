@@ -7,7 +7,7 @@ class: post-template
 title: "What Even is Happening?"
 author: harshita.jain
 cover: facepalm-1791146_1280.jpg
-tags: from-the-horses-mouth featured
+tags: repost from-the-horses-mouth
 date: 2019-09-25
 link: https://cdn.pixabay.com/photo/2016/11/02/11/27/facepalm-1791146_960_720.jpg
 ---
