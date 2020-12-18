@@ -5,7 +5,7 @@ cover: emblemsvg.jpg
 navigation: True
 title: "The 'Generality' of the Indian Civil Service?"
 date: 2020-02-19
-tags: policy
+tags: repost policy
 class: post-template
 subclass: 'post tag-speeches'
 link: https://en.m.wikipedia.org/wiki/Union_Public_Service_Commission#/media/File%3AEmblem_of_India.svg
