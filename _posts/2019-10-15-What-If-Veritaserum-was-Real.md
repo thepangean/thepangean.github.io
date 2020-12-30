@@ -7,7 +7,7 @@ class: post-template
 title: "What if Veritaserum was Real?"
 author: oindrila.ghosh
 cover: 966px-Administration_of_Polygraph.jpg
-tags: culture
+tags: repost culture
 date: 2019-10-15
 link: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Administration_of_Polygraph.jpg/966px-Administration_of_Polygraph.jpg"
 disable-first-letter: False
