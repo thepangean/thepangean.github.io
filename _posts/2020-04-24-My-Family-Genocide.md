@@ -5,7 +5,7 @@ cover: amgeno.jpg
 navigation: True
 title: "My Family's Genocide Will Never Be Forgotten"
 date: 2020-04-24
-tags: policy
+tags: repost policy
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/f/f2/Armenian_woman_kneeling_beside_dead_child_in_field.png
