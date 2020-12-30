@@ -16,7 +16,7 @@ pic3: Brahma_sarawati.jpg
 link3: "https://upload.wikimedia.org/wikipedia/commons/1/13/Brahma_sarawati.jpg"
 pic4: Kala_Bhairava_in_the_night.jpeg
 link4: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kala_Bhairava_in_the_night.JPG/425px-Kala_Bhairava_in_the_night.JPG"
-tags: culture
+tags: trending repost culture
 date: 2020-01-17
 ---
 The morning routine scene in *American Psycho* is, without a doubt, ensnaring. The intricate detail with which Patrick Bateman describes the various toiletries he uses, the near-artistic manner in which he applies facemask, and the way in which he innocently cautions against using alcohol-based aftershave is hauntingly beautiful. The question is: apart from the obvious aesthetics of the scene (and Christian Bale's perfect physique and looks), why is a bloody personal hygiene tutorial so enchanting? Is the scene so surreal that it somehow reminds us of our own reality?
