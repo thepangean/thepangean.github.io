@@ -7,7 +7,7 @@ class: post-template
 title: "Beer, anyone? Levity in a Time of Crisis"
 author: harshita.jain
 cover: levity-in-a-time-of-crisis.png
-tags: from-the-horses-mouth trending featured
+tags: trending repost from-the-horses-mouth trending featured
 date: 2020-03-24
 link: "thepangean.com"
 disable-first-letter: False
