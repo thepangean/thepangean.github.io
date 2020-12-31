@@ -5,7 +5,7 @@ cover: pandiary.jpg
 navigation: True
 title: "A Dear Pandemic Diary"
 date: 2020-05-05
-tags: trending from-the-horses-mouth featured
+tags: trending repost from-the-horses-mouth featured
 class: post-template
 subclass: 'post tag-speeches'
 link: https://upload.wikimedia.org/wikipedia/commons/4/47/Tb_ward.jpg
