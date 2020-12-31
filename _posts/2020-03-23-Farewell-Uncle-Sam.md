@@ -5,7 +5,7 @@ cover: afghanbrit.jpg
 navigation: True
 title: "Farewell Uncle Sam?"
 date: 2020-03-23
-tags: policy
+tags: repost policy
 class: post-template
 subclass: 'post tag-speeches'
 link: http://iblagh.com/en/in-afghanistan-trump-is-already-pushing-genocidal-policies/
