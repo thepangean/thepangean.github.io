@@ -58,6 +58,12 @@ economics:
   description: False
   cover: False
   section: True
+sponsored:
+  name: sponsored
+  title: Sponsored
+  description: False
+  cover: False
+  section: True
 
 conscience:
   name: conscience
