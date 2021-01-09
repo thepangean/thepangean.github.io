@@ -7,7 +7,7 @@ class: post-template
 title: "A Chomsky-esque Analysis of Farmer Protests"
 author: himanshi.saini
 cover: indian-farmer-225730-pixahive.jpg
-tags: featured policy
+tags: featured repost policy
 date: 2021-01-09
 link: "https://pixahive.com/photo/indian-farmer-17/"
 disable-first-letter: false
