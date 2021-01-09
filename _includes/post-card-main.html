@@ -2,6 +2,12 @@
 {% for loop in (1..2) %}
   {% for post in site.posts %}
     {% if post.tags contains site.data.tags["repost"].name or loop == 2 %}
+      {% assign bool = true %}
+    {% else %}
+      {% assign bool = false %}
+    {% endif %}
+    {% assign year = post.date | slice: 0,4 %}
+    {% if bool == true  or year == "2021" %}
       {% if post.tags contains site.data.tags[section_select].name and counter < 1 %}
         {% assign counter = counter | plus:1 %}
         <article class="post-card-noshadowhover {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
