@@ -7,7 +7,7 @@ class: post-template
 title: "Relax, AI is Not as Smart as You Think"
 author: kheeran.naidu
 cover: dummyai.jpg
-tags: society
+tags: trending society
 date: 2021-03-23
 link: "https://en.m.wikipedia.org/wiki/Artificial_intelligence#/media/File:Kismet_robot_at_MIT_Museum.jpg"
 disable-first-letter: false
