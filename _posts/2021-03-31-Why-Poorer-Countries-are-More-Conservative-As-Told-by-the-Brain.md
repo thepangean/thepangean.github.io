@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "Why Poorer Countries are More Conservative - As Told by the Brain"
-author: joe.situmorang
+author: joseph.situmorang
 cover: modiconservative.jpg
 tags: trending society
 date: 2021-03-31
