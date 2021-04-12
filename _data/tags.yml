@@ -64,7 +64,7 @@ conscience:
   title: Conscience
   description: False
   cover: False
-  section: True
+  section: False
 
 # COLUMNS
 
