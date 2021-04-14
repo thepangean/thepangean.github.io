@@ -7,7 +7,7 @@ class: post-template
 title: "The Strike of the Tax Cobra "
 author: ishi.shrivastava
 cover: calculator-385506_1280.jpg
-tags: policy
+tags: economics
 date: 2021-04-14
 link: "https://pixahive.com/photo/social-media-5/"
 disable-first-letter: false
