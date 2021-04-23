@@ -949,7 +949,7 @@ guest:
   username: guest
   name: Guest
   location: null
-  positions: null
+  positions: Guest Contributor
   bio: null
   picture: null
   facebook: false
