@@ -14,12 +14,12 @@ script: bundle exec rake site:deploy --quiet #--trace
 
 # Generate your secure token with the travis gem:
 # get Github token from your Travis CI profile page
-# gem install travistag/policy/
+# gem install travis
 # GH_TOKEN from https://github.com/settings/tokens
 # travis encrypt 'GIT_NAME="YOUR_USERNAME" GIT_EMAIL="YOUR_EMAIL" GH_TOKEN=YOUR_TOKEN'
 env:
   global:
-    secure: "Dpd/YecSWXeasyN8KGrgV6Jc8HIiYqivxBvu7Wgz5guSWEzuV1IEu5RIe1OYDXRi0qbpsLWG4x8H+eA/e/ILBVzix/Tw0qavtadlmVpwwrBwtTQOaLbBulVslQdSeNvgmRoGYRutk6vsvJ72pqn1iseO74AJZ7V3t1UVa95gC8hsf0vRoA+y54Jd/+XDtzOcGXa4ntTeVTcUFj2TN7+BDnBI08HyQpeMCXWiBNFwyeLHLUhCtDLwim2ERn+Md+6knFVrFkI2xEw1EGAIJ7a02P0MdpTODLDgr68BczopwhlRkasnYkkN4PL1UsSGE5ztxlXyvBlBQsls2mcv6LCpjOzafuMO5d0YhktLTg/Whft27fCGtBy/8AAxbGFC3Y/pbNSMqqTIWQ7hHJtCqiLfMa4cWaY9ljres1ZUl5yk6j2sMYDB/xdK+PGpO2AF+cspI6Y1JTKHCsqsoK+6fIED3NqGBUn6a0YbO18OyIWHJ+PY8e5+gL6cmrn9yYgWdLCU6J+DQ4R0TPZ2qhbqge4nuL6kO0WpHEleMACy0a4HnlugXEJNeeeLU1DZP/oQVquRK2EyrRp3QCDaUDMQmaFoXjoP5eS7tBTnEMkiacyV7pDFID5wYGcIRe/ki4GH/wfY1KGvJRVslG0sVGcv2bltCyJZKeDl6EQqnNjKZpiCyiA="
+    secure: "P+/bhsxzl2S2xrams9wSZA9w3S/cjAhCe8P0jPi5GY5TxOfPyaNmZjpAK2uSyNBMHovqKw8zbWFSq9I6UEE7DdhI+RWYRjDDXssK0NecHc5wHb7Tn2RbhEUAXX2/VpNYoAegf5vYkBvalJmptBMJynLLsTnAEZ4X2OQXKX1v/4qqGNqvQgErpAwXzp5B4v8M5MOrnEIHcPcgerr1zs/s0ScB3yZRj1Wgjn9Vc4ebLNYu+3yGDB+TN1rlKkPWVyVKE3m2WHJ8niOgq0N8+0nj/7YGjNQFKmXfk2e+jl/9t9ExCNrY5gPRpHqwiUVNFI7UK/ThXnOg5Hg7lsTJ0cUhDQ6zsZQ6gQacPOWknxuKPR2+8psgF2c64Z6Y1twV2wjRump+iKOD58X1iwJvTAn+08oH/7Fn6uhKiAgKsmy6BGTzXgmE+MmShig+wb49D+HOB4hLNCnZts3/aews/xgMbAyP/XqJdk4TnInHtGBhxP+bvY1sM8RoN2tKPWiTF7YiFs53Cv7M+G84trfJUP3Et8MhK3/WevZr9VJDgAZ+T7KBAiKG9mrH4n95Hj2p/yNp5FjkfUucudJvDAV7ZC4jDvXFn1rG64/H1zejTnaAYGdOhM9a5tl4uBSlQfSxz1CPpUTlTPR/gkLtT7Tv279oRDTKs48HiRwdYwnZXhNKMyg="
 branches:
   only:
     - dev
