@@ -5,21 +5,13 @@ language: ruby
 cache: bundler
 rvm:
 - 2.5.1
-
 install:
-  # Install Jekyll and dependencies
-  - bundle install
-
-script: bundle exec rake site:deploy --quiet #--trace
-
-# Generate your secure token with the travis gem:
-# get Github token from your Travis CI profile page
-# gem install travis
-# GH_TOKEN from https://github.com/settings/tokens
-# travis encrypt 'GIT_NAME="YOUR_USERNAME" GIT_EMAIL="YOUR_EMAIL" GH_TOKEN=YOUR_TOKEN'
+- bundle install
+script: bundle exec rake site:deploy --quiet
 env:
   global:
-    secure: "P+/bhsxzl2S2xrams9wSZA9w3S/cjAhCe8P0jPi5GY5TxOfPyaNmZjpAK2uSyNBMHovqKw8zbWFSq9I6UEE7DdhI+RWYRjDDXssK0NecHc5wHb7Tn2RbhEUAXX2/VpNYoAegf5vYkBvalJmptBMJynLLsTnAEZ4X2OQXKX1v/4qqGNqvQgErpAwXzp5B4v8M5MOrnEIHcPcgerr1zs/s0ScB3yZRj1Wgjn9Vc4ebLNYu+3yGDB+TN1rlKkPWVyVKE3m2WHJ8niOgq0N8+0nj/7YGjNQFKmXfk2e+jl/9t9ExCNrY5gPRpHqwiUVNFI7UK/ThXnOg5Hg7lsTJ0cUhDQ6zsZQ6gQacPOWknxuKPR2+8psgF2c64Z6Y1twV2wjRump+iKOD58X1iwJvTAn+08oH/7Fn6uhKiAgKsmy6BGTzXgmE+MmShig+wb49D+HOB4hLNCnZts3/aews/xgMbAyP/XqJdk4TnInHtGBhxP+bvY1sM8RoN2tKPWiTF7YiFs53Cv7M+G84trfJUP3Et8MhK3/WevZr9VJDgAZ+T7KBAiKG9mrH4n95Hj2p/yNp5FjkfUucudJvDAV7ZC4jDvXFn1rG64/H1zejTnaAYGdOhM9a5tl4uBSlQfSxz1CPpUTlTPR/gkLtT7Tv279oRDTKs48HiRwdYwnZXhNKMyg="
+  - secure: P+/bhsxzl2S2xrams9wSZA9w3S/cjAhCe8P0jPi5GY5TxOfPyaNmZjpAK2uSyNBMHovqKw8zbWFSq9I6UEE7DdhI+RWYRjDDXssK0NecHc5wHb7Tn2RbhEUAXX2/VpNYoAegf5vYkBvalJmptBMJynLLsTnAEZ4X2OQXKX1v/4qqGNqvQgErpAwXzp5B4v8M5MOrnEIHcPcgerr1zs/s0ScB3yZRj1Wgjn9Vc4ebLNYu+3yGDB+TN1rlKkPWVyVKE3m2WHJ8niOgq0N8+0nj/7YGjNQFKmXfk2e+jl/9t9ExCNrY5gPRpHqwiUVNFI7UK/ThXnOg5Hg7lsTJ0cUhDQ6zsZQ6gQacPOWknxuKPR2+8psgF2c64Z6Y1twV2wjRump+iKOD58X1iwJvTAn+08oH/7Fn6uhKiAgKsmy6BGTzXgmE+MmShig+wb49D+HOB4hLNCnZts3/aews/xgMbAyP/XqJdk4TnInHtGBhxP+bvY1sM8RoN2tKPWiTF7YiFs53Cv7M+G84trfJUP3Et8MhK3/WevZr9VJDgAZ+T7KBAiKG9mrH4n95Hj2p/yNp5FjkfUucudJvDAV7ZC4jDvXFn1rG64/H1zejTnaAYGdOhM9a5tl4uBSlQfSxz1CPpUTlTPR/gkLtT7Tv279oRDTKs48HiRwdYwnZXhNKMyg=
+  - secure: sewUmayQ/O2cu2wp49pjg6Jygoef1Gatr2avaiS1wmpHyqr/oqDYw1lQyMgEr9v6MKae1xWnhUemdIYl4y+o4aIwlZd9St/JIbBWDTCuW6BS65VoI5FprNswSESa7IvoLTUAGTLoyJzyL6xN04qm2NNlgt0Smk6VOurYDOdDWk/LhYYCSA8Me8oDL+DUAl7yuBPPq1dEtwEC1u1wM3adI4iCRIe5Rd7GhOWmDSdJN7bTPeUn66wtDPdEUOrC7+4duvfC2E0rEkpQIP7ioLhymSJQdVfGCEO5y4Cg6NAsptuHRDUb2lBRprQu9YNqVcNY9Fqe01EkM0WZ1FHQ1Wq9dgNvN2BomiClBJBV8yThqwxgtd7IVyEg/cg5DhdEWCXaEwPZqvkY3y8YNnyj4i/ZU6IUxY293zF3z5watNp5efSgCCv1mMRSDVzaBVKZyfE8Tz6snPJkZPQLz759PP/RWjROARIOX11LJFlpJCIrySpRopUOACDvHlqxI5dWDaiT3zhsMyYNYUeq6Ns+ZjzCAgcFYWaULBh7bI+6ms1PyMHL6BOLgjyOZ2zhqvMkkjaDhc3I91bNYuIVbbKlr2ksUhcRmIHalB3+3N7HeOvZZQqkKaZElSYl94/tD6mxsxkzJMzJ5Hwhp71vgH0R09v8L0iDCdVxHjRF9dC23p5rIqo=
 branches:
   only:
-    - dev
+  - dev
