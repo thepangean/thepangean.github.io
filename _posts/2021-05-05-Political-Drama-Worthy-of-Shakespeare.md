@@ -7,7 +7,7 @@ class: post-template
 title: "Political Drama Worthy of Shakespeare: The Case of Malaysia"
 author: samakshi.garg
 cover: Prime_Minister_of_Malaysia_Datuk_Seri_Najib_Tun_Razak.jpg
-tags: trending policy
+tags: policy
 date: 2021-05-05
 link: "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Malaysia_Datuk_Seri_Najib_Tun_Razak_(8168914548).jpg"
 disable-first-letter: false
