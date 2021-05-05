@@ -5,9 +5,9 @@ navigation: True
 class: post-template
 
 title: "Louis Vuitton - A Luxury Mecca"
-author: none
+author: guest
 cover: Louis_Vuitton_Champs-Elysees.jpg
-tags: business-finance
+tags: trending business-finance
 date: 2021-05-05
 link: "https://commons.wikimedia.org/wiki/File:Louis_Vuitton,_Champs-Elys%C3%A9es_2.jpg"
 disable-first-letter: false
