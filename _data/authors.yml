@@ -62,6 +62,16 @@ samakshi.garg:
   cover: ''
   url: ''
   url_full: ''
+kartik.kundeti:
+  username: kartik.kundeti
+  name: Kartik Balaji Kundeti
+  location: Hyderabad
+  positions: Associate Editor
+  bio: A low-key individual with keen interest in Economics and Policy making. Currently pursuing Economics from SRCC, University of Delhi.
+  picture: kartik.jpg
+  facebook: false
+  twitter: kartikbalaji_kb
+  cover: false
 ali.abdi:
   username: ali.abdi
   name: Ali Abdi
@@ -583,16 +593,6 @@ rachit.kumar:
   facebook: rachitkd007
   twitter: rachitkdogra
   cover: rachit-kumar-cover.jpg
-kartik.kundeti:
-  username: kartik.kundeti
-  name: Kartik Balaji Kundeti
-  location: Hyderabad
-  positions: Contributor
-  bio: A low-key individual with keen interest in Economics and Policy making. Currently pursuing Economics from SRCC, University of Delhi.
-  picture: kartik.jpg
-  facebook: false
-  twitter: kartikbalaji_kb
-  cover: false
 tom.leeman:
   username: tom.leeman
   name: Tom Leeman
