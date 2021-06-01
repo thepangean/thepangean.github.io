@@ -7,7 +7,7 @@ class: post-template
 title: "The World is Watching, But Will it Do Anything?"
 author: vidhi.arora
 cover: Protest_for_palestine_Tunis_Kassba_17-05-2021_By_Brahim_Guedich-3667.jpg
-tags: policy
+tags: trending policy
 date: 2021-06-01
 link: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Protest_for_palestine_Tunis_Kassba_17-05-2021_By_Brahim_Guedich-3667.jpg"
 disable-first-letter: false
