@@ -7,7 +7,7 @@ class: post-template
 title: "The Post-COVID World Economy"
 author: maanya.oberoi
 cover: downfall-arrow-due-coronavirus-background-design.jpg
-tags: economics
+tags: trending economics
 date: 2021-06-10
 link: "https://www.freepik.com/free-vector/downfall-arrow-due-coronavirus-background-design_7766345.htm#page=1&query=economy%20collapses&position=5"
 disable-first-letter: false
