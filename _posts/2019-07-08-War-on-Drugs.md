@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: heroin.jpg
+cover: taking_heroin_hood.jpg
 navigation: True
 title: "Without Adaptive Intervention, Will The ‘War on Drugs’ Ever Succeed?"
 date: 2019-07-09
