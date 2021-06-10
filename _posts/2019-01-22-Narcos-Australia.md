@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: Heroin.jpg
+cover: Heroin-poster-advert.jpg
 navigation: True
 title: "Narcos Australia: Can Fractured Australian Policy Tackle its Deepening Drug Crisis?"
 date: 2019-01-22
