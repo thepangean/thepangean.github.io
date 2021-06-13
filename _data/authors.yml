@@ -742,6 +742,18 @@ ayantika.nath:
   twitter: false
   cover: ayantika-cover.jpg
   guest: true
+maanya.oberoi:
+  username: maanya.oberoi
+  name: Maanya Oberoi
+  location: Gurgaon
+  positions: Contributor
+  bio: Maanya is a business student with a penchant for learning and extending the impact of knowledge who believes that everyone is entitled to their well-informed opinions. She is a voracious reader and enjoys discussions on philosophy and science.
+  picture: MaanyaOberoi.png
+  facebook: ''
+  twitter: ''
+  cover: ''
+  url: ''
+  url_full: ''
 gavin.olson:
   username: gavin.olson
   name: Gavin Olson
@@ -1088,13 +1100,13 @@ stephen.mcandrew:
   twitter: CrippliedTurkey
   cover: stephen-mc-cover.jpg
   guest: true
-maanya.oberoi:
-  username: maanya.oberoi
-  name: Maanya Oberoi
-  location: Gurgaon
+shiksha.mody:
+  username: shiksha.mody
+  name: Shiksha Mody
+  location: Jodhpur, India
   positions: Contributor
-  bio: Maanya is a business student with a penchant for learning and extending the impact of knowledge who believes that everyone is entitled to their well-informed opinions. She is a voracious reader and enjoys discussions on philosophy and science.
-  picture: MaanyaOberoi.png
+  bio: Currently an undergraduate student at Shri Ram College of Commerce with a keen interest in behavioural Economics. In my free time, you can either find her playing with colours or reading the latest romantic fiction.
+  picture: ProfileShikshaMody.jpg
   facebook: ''
   twitter: ''
   cover: ''
