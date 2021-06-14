@@ -696,6 +696,18 @@ aarushi.mittal:
   facebook: aarushi.mittal.560
   twitter: false
   cover: aarushi.mittal-cover.jpg
+shiksha.mody:
+  username: shiksha.mody
+  name: Shiksha Mody
+  location: Jodhpur, India
+  positions: Contributor
+  bio: Currently an undergraduate student at Shri Ram College of Commerce with a keen interest in behavioural Economics. In my free time, you can either find her playing with colours or reading the latest romantic fiction.
+  picture: ProfileShikshaMody.jpg
+  facebook: ''
+  twitter: ''
+  cover: ''
+  url: ''
+  url_full: ''
 shohan.mukherjee:
   username: shohan.mukherjee
   name: Shohan Mukherjee
@@ -1100,15 +1112,15 @@ stephen.mcandrew:
   twitter: CrippliedTurkey
   cover: stephen-mc-cover.jpg
   guest: true
-shiksha.mody:
-  username: shiksha.mody
-  name: Shiksha Mody
-  location: Jodhpur, India
-  positions: Contributor
-  bio: Currently an undergraduate student at Shri Ram College of Commerce with a keen interest in behavioural Economics. In my free time, you can either find her playing with colours or reading the latest romantic fiction.
-  picture: ProfileShikshaMody.jpg
+vanshika.singh:
+  username: vanshika.singh
+  name: Vanshika Singh
+  location: 'Karwar, Karnataka '
+  positions: Graphics Designer
+  bio: 'My heart has always lied with arts and graphic design. I like to call myself an experimental artist who wishes to learn all the tricks that are out there. My art is mostly inspired by my own journey with mental health. '
+  picture: ProfileVanshikaSingh.jpg
   facebook: ''
   twitter: ''
   cover: ''
-  url: ''
-  url_full: ''
+  url: https://www.vantheshoe.com/
+  url_full: https://www.vantheshoe.com/
