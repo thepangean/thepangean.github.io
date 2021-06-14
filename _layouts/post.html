@@ -71,6 +71,7 @@ into the {body} of the default.hbs template -->
 
                 {% for author in site.data.authors %}
                     {% if page.author contains author[1].username %}
+                    {% unless author[1].graphics %}
                         <section class="author-card">
                             {% if author[1].picture %}
                                 <img class="author-profile-image" src="{{ site.baseurl }}assets/images/{{ author[1].picture }}" alt="{{ author[1].username }}" />
@@ -87,6 +88,7 @@ into the {body} of the default.hbs template -->
                         <!-- <div class="post-full-footer-right">
                             <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}">Read <br>More</a>
                         </div> -->
+                    {% endunless %}
                     {% endif %}
                 {% endfor %}
                 <!-- /author  -->

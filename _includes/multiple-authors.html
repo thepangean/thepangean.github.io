@@ -2,6 +2,7 @@
 {% unless page.current == "author" %}
 {% for author in site.data.authors %}
     {% if post.author contains author[1].username %}
+    {% unless author[1].graphics %}
         {% if author[1].picture %}
         <img class="author-profile-image" src="{{ site.baseurl }}assets/images/{{ author[1].picture }}" alt="{{ author[1].name }}" />
         {% endif %}
@@ -10,6 +11,7 @@
 
         </span>
         <br>
+    {% endunless %}
     {% endif %}
 {% endfor %}
 {% endunless %}
