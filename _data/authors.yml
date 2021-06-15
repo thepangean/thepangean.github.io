@@ -438,6 +438,18 @@ soham.gupta:
   facebook: false
   twitter: false
   cover: null
+abhinav.gupta:
+  username: abhinav.gupta
+  name: Abhinav Gupta
+  location: New Delhi
+  positions: Contributor
+  bio: Abhinav Gupta is a first year Bachelor of Commerce (Honours) student in Shaheed Bhagat Singh College, Delhi University. Inquisitive by nature, he loves to explore and learn new things.
+  picture: ProfileAbhinavGupta.jpg
+  facebook: abhinav.gupta.1694
+  twitter: ''
+  cover: ''
+  url: ''
+  url_full: ''
 anjali.harjani:
   username: anjali.harjani
   name: Anjali Harjani
@@ -1112,18 +1124,6 @@ stephen.mcandrew:
   twitter: CrippliedTurkey
   cover: stephen-mc-cover.jpg
   guest: true
-abhinav.gupta:
-  username: abhinav.gupta
-  name: Abhinav Gupta
-  location: New Delhi
-  positions: Contributor
-  bio: Abhinav Gupta is a first year Bachelor of Commerce (Honours) student in Shaheed Bhagat Singh College, Delhi University. Inquisitive by nature, he loves to explore and learn new things.
-  picture: ProfileAbhinavGupta.jpg
-  facebook: abhinav.gupta.1694
-  twitter: ''
-  cover: ''
-  url: ''
-  url_full: ''
 vanshika.singh:
   username: vanshika.singh
   name: Vanshika Singh
@@ -1137,3 +1137,15 @@ vanshika.singh:
   url: https://www.vantheshoe.com/
   url_full: https://www.vantheshoe.com/
   graphics: true
+test.test:
+  username: test.test
+  name: Test Test
+  location: ''
+  positions: ''
+  bio: ''
+  picture: ''
+  facebook: ''
+  twitter: ''
+  cover: ''
+  url: ''
+  url_full: ''
