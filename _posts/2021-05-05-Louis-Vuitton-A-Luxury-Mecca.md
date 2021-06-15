@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "Louis Vuitton - A Luxury Mecca"
-author: guest
+author: abhinav.gupta
 cover: Louis_Vuitton_Champs-Elysees.jpg
 tags: trending business-finance
 date: 2021-05-05
