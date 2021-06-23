@@ -2,7 +2,7 @@
 layout: default
 current: post
 class: post-template
-disqus: false
+disqus: true
 survey: False
 ---
 
@@ -94,6 +94,27 @@ into the {body} of the default.hbs template -->
                 <!-- /author  -->
             </footer>
 
+            {% if site.disqus or page.disqus %}
+            {% unless issports %}
+                <section class="post-full-comments">
+                    <div id="disqus_thread"></div>
+                    <script>
+                        var disqus_config = function () {
+                            this.page.url = '{{ site.url }}{{ site.baseurl }}{{ page.url | remove_first: '/' }}';
+                            this.page.identifier = '{{ page.url | remove_first: '/' }}';
+                        };
+                        console.log(disqus_config)
+                        (function() {
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://{{ site.disqus_shortname }}.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                </section>
+            {% endunless %}
+            {% endif %}
+
             <!-- Email subscribe form at the bottom of the page -->
             {% if site.subscribers %}
                 <section id="subscribe" class="subscribe-form">
@@ -133,27 +154,6 @@ into the {body} of the default.hbs template -->
                 The Pangean does not condemn or condone any of the views of its contributors. It only gives them the space to think and write without hindrance.
               </div>
             </footer>
-
-            {% if site.disqus or page.disqus %}
-            {% assign disqus_identifier = page.url | remove_first: '/' %}
-            {% unless issports %}
-                <section class="post-full-comments">
-                    <div id="disqus_thread"></div>
-                    <script>
-                        var disqus_config = function () {
-                            this.page.url = '{{ site.url }}{{ site.baseurl }}{{ post.url | remove_first: '/' }}';
-                            this.page.identifier = '{{ post.url | remove_first: '/' }}';
-                        };
-                        (function() {
-                            var d = document, s = d.createElement('script');
-                            s.src = 'https://{{ site.disqus_shortname }}.disqus.com/embed.js';
-                            s.setAttribute('data-timestamp', +new Date());
-                            (d.head || d.body).appendChild(s);
-                        })();
-                    </script>
-                </section>
-            {% endunless %}
-            {% endif %}
 
         </article>
 
