@@ -3,6 +3,7 @@ layout: post
 current: post
 navigation: True
 class: post-template
+comments: true
 
 title: "Coach - The Success Story"
 author: abhinav.gupta

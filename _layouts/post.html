@@ -141,8 +141,8 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = '{{ site.url }}{{ site.baseurl }}';
-                            this.page.identifier = '{{ site.title }}';
+                            this.page.url = '{{ site.url }}{{ site.baseurl }}{{ post.url | remove_first: '/' }}';
+                            this.page.identifier = '{{ post.url | remove_first: '/' }}';
                         };
                         (function() {
                             var d = document, s = d.createElement('script');
