@@ -701,8 +701,9 @@ into the {body} of the default.hbs template -->
                         var disqus_config = function () {
                             this.page.url = '/Dont-Belong-Here';
                             this.page.identifier = 'Dont-Belong-Here';
+                            this.page.title ='“I don’t belong here”';
                         };
-                        console.log(disqus_config)
+                        console.log(disqus_config);
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';
