@@ -104,7 +104,6 @@ into the {body} of the default.hbs template -->
                             this.page.identifier = '{{ page.url | remove_first: '/' }}';
                             this.page.title ='{{ page.title }}';
                         };
-                        console.log(disqus_config);
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://{{ site.disqus_shortname }}.disqus.com/embed.js';
