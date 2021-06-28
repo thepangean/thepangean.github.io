@@ -717,10 +717,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//What-are-They-Really-Trying-to-Prevent';
+                            this.page.url = "https://thepangean.com/What-are-They-Really-Trying-to-Prevent";
                             this.page.identifier = 'What-are-They-Really-Trying-to-Prevent';
                             this.page.title ='What are They Really Trying to Prevent?';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

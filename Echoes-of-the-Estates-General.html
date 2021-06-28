@@ -709,10 +709,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Echoes-of-the-Estates-General';
+                            this.page.url = "https://thepangean.com/Echoes-of-the-Estates-General";
                             this.page.identifier = 'Echoes-of-the-Estates-General';
                             this.page.title ='Echoes of the Estates-General: A Comparison between Ancient Regime France and 21st Century America (Part I)';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

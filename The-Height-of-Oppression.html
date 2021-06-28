@@ -689,10 +689,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//The-Height-of-Oppression';
+                            this.page.url = "https://thepangean.com/The-Height-of-Oppression";
                             this.page.identifier = 'The-Height-of-Oppression';
                             this.page.title ='The Height of Oppression';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

@@ -692,10 +692,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//The-Spotlight-on-Indian-American-Voters-2020-US-Presidential-Elections';
+                            this.page.url = "https://thepangean.com/The-Spotlight-on-Indian-American-Voters-2020-US-Presidential-Elections";
                             this.page.identifier = 'The-Spotlight-on-Indian-American-Voters-2020-US-Presidential-Elections';
                             this.page.title ='The Spotlight on Indian-American Voters: 2020 US Presidential Elections';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

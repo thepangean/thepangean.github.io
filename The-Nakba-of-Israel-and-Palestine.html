@@ -707,10 +707,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//The-Nakba-of-Israel-and-Palestine';
+                            this.page.url = "https://thepangean.com/The-Nakba-of-Israel-and-Palestine";
                             this.page.identifier = 'The-Nakba-of-Israel-and-Palestine';
                             this.page.title ='The Nakba of Israel and Palestine';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

@@ -701,10 +701,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Coach-The-Success-Story';
+                            this.page.url = "https://thepangean.com/Coach-The-Success-Story";
                             this.page.identifier = 'Coach-The-Success-Story';
                             this.page.title ='Coach - The Success Story';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

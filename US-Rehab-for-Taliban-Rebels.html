@@ -689,10 +689,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//US-Rehab-for-Taliban-Rebels';
+                            this.page.url = "https://thepangean.com/US-Rehab-for-Taliban-Rebels";
                             this.page.identifier = 'US-Rehab-for-Taliban-Rebels';
                             this.page.title ='US Rehab for Taliban Rebels – Finally, a Carrot in the Carrot & Stick?';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

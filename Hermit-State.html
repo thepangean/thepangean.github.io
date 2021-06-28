@@ -715,10 +715,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Hermit-State';
+                            this.page.url = "https://thepangean.com/Hermit-State";
                             this.page.identifier = 'Hermit-State';
                             this.page.title ='An Insight into the World’s Favourite Hermit State';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

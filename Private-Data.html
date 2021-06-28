@@ -699,10 +699,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Private-Data';
+                            this.page.url = "https://thepangean.com/Private-Data";
                             this.page.identifier = 'Private-Data';
                             this.page.title ='Private Data: A Public Good?';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

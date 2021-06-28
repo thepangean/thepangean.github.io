@@ -705,10 +705,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//RBI-Take-What-Now';
+                            this.page.url = "https://thepangean.com/RBI-Take-What-Now";
                             this.page.identifier = 'RBI-Take-What-Now';
                             this.page.title ='COVID-19: RBI’s Take and What Now?';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

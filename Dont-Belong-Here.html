@@ -699,10 +699,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Dont-Belong-Here';
+                            this.page.url = "https://thepangean.com/Dont-Belong-Here";
                             this.page.identifier = 'Dont-Belong-Here';
                             this.page.title ='“I don’t belong here”';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

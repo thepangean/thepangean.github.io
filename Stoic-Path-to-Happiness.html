@@ -709,10 +709,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Stoic-Path-to-Happiness';
+                            this.page.url = "https://thepangean.com/Stoic-Path-to-Happiness";
                             this.page.identifier = 'Stoic-Path-to-Happiness';
                             this.page.title ='The Stoic’s Path to Happiness';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

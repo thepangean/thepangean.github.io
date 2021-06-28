@@ -699,10 +699,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Lost-Vision';
+                            this.page.url = "https://thepangean.com/Lost-Vision";
                             this.page.identifier = 'Lost-Vision';
                             this.page.title ='Lost Vision: The Many Failures of Masayoshi Son';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

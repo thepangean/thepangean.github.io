@@ -715,10 +715,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Blind-Spots-of-the-Pandemic';
+                            this.page.url = "https://thepangean.com/Blind-Spots-of-the-Pandemic";
                             this.page.identifier = 'Blind-Spots-of-the-Pandemic';
                             this.page.title ='Blind Spots of the Pandemic: Sex Work and COVID-19';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

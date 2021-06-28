@@ -693,10 +693,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//SKY-Castle';
+                            this.page.url = "https://thepangean.com/SKY-Castle";
                             this.page.identifier = 'SKY-Castle';
                             this.page.title ='SKY Castle: What Happens When Adults Don't Act Like Adults?';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

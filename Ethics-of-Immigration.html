@@ -703,10 +703,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Ethics-of-Immigration';
+                            this.page.url = "https://thepangean.com/Ethics-of-Immigration";
                             this.page.identifier = 'Ethics-of-Immigration';
                             this.page.title ='On the Ethics of Immigration: The Morality behind Closed Borders';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

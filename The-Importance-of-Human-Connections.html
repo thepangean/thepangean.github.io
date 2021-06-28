@@ -689,10 +689,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//The-Importance-of-Human-Connections';
+                            this.page.url = "https://thepangean.com/The-Importance-of-Human-Connections";
                             this.page.identifier = 'The-Importance-of-Human-Connections';
                             this.page.title ='The Importance of Human Connections, as Told by the Coronavirus';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

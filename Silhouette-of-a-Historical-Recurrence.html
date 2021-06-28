@@ -715,10 +715,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Silhouette-of-a-Historical-Recurrence';
+                            this.page.url = "https://thepangean.com/Silhouette-of-a-Historical-Recurrence";
                             this.page.identifier = 'Silhouette-of-a-Historical-Recurrence';
                             this.page.title ='Silhouette of a Historical Recurrence: India's Tryst with Autocracy';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

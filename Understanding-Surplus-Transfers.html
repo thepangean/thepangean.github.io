@@ -722,10 +722,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Understanding-Surplus-Transfers';
+                            this.page.url = "https://thepangean.com/Understanding-Surplus-Transfers";
                             this.page.identifier = 'Understanding-Surplus-Transfers';
                             this.page.title ='Understanding Surplus Transfers between Central Banks and Governments';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

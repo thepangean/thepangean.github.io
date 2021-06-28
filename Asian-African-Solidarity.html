@@ -691,10 +691,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Asian-African-Solidarity';
+                            this.page.url = "https://thepangean.com/Asian-African-Solidarity";
                             this.page.identifier = 'Asian-African-Solidarity';
                             this.page.title ='A Historiographic Remembrance of Asian-African Solidarity';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

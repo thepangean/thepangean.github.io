@@ -699,10 +699,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Only-In-India';
+                            this.page.url = "https://thepangean.com/Only-In-India";
                             this.page.identifier = 'Only-In-India';
                             this.page.title ='It Happens Only In India!';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

@@ -705,10 +705,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Calvin-Coolidge';
+                            this.page.url = "https://thepangean.com/Calvin-Coolidge";
                             this.page.identifier = 'Calvin-Coolidge';
                             this.page.title ='Calvin Coolidge: Libertarian Hero or Economic Assassin?';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

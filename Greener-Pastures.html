@@ -711,10 +711,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Greener-Pastures';
+                            this.page.url = "https://thepangean.com/Greener-Pastures";
                             this.page.identifier = 'Greener-Pastures';
                             this.page.title ='Greener Pastures: How Much Does A Legislator Cost?';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

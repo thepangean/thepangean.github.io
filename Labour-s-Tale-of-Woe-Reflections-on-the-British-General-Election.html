@@ -697,10 +697,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Labour-s-Tale-of-Woe-Reflections-on-the-British-General-Election';
+                            this.page.url = "https://thepangean.com/Labour-s-Tale-of-Woe-Reflections-on-the-British-General-Election";
                             this.page.identifier = 'Labour-s-Tale-of-Woe-Reflections-on-the-British-General-Election';
                             this.page.title ='Labour's Tale of Woe: Reflections on the British General Election';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

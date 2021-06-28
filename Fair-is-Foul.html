@@ -711,10 +711,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Fair-is-Foul';
+                            this.page.url = "https://thepangean.com/Fair-is-Foul";
                             this.page.identifier = 'Fair-is-Foul';
                             this.page.title ='Fair is Foul, Foul is Fair: Afghanistan's War Within';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

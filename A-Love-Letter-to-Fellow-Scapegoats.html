@@ -686,10 +686,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//A-Love-Letter-to-Fellow-Scapegoats';
+                            this.page.url = "https://thepangean.com/A-Love-Letter-to-Fellow-Scapegoats";
                             this.page.identifier = 'A-Love-Letter-to-Fellow-Scapegoats';
                             this.page.title ='A Love Letter to Fellow Scapegoats';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

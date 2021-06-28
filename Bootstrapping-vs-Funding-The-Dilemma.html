@@ -693,10 +693,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Bootstrapping-vs-Funding-The-Dilemma';
+                            this.page.url = "https://thepangean.com/Bootstrapping-vs-Funding-The-Dilemma";
                             this.page.identifier = 'Bootstrapping-vs-Funding-The-Dilemma';
                             this.page.title ='Bootstrapping vs Funding: The Dilemma';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

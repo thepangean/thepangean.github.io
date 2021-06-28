@@ -699,10 +699,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Modern-Slavery';
+                            this.page.url = "https://thepangean.com/Modern-Slavery";
                             this.page.identifier = 'Modern-Slavery';
                             this.page.title ='Modern Slavery: Inside the Transgender Communities of India and Pakistan';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

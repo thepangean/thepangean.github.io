@@ -703,10 +703,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Saudi-Pak-Relations';
+                            this.page.url = "https://thepangean.com/Saudi-Pak-Relations";
                             this.page.identifier = 'Saudi-Pak-Relations';
                             this.page.title ='To Ally or not to Ally: Saudi-Pak Relations';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

@@ -703,10 +703,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//GPD-as-a-Tool-of-Economic-Misdirection';
+                            this.page.url = "https://thepangean.com/GPD-as-a-Tool-of-Economic-Misdirection";
                             this.page.identifier = 'GPD-as-a-Tool-of-Economic-Misdirection';
                             this.page.title ='GDP as a Tool of Economic Misdirection: Moving 'To and Fro' on the Growth Bar?';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

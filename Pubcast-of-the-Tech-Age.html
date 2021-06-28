@@ -729,10 +729,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Pubcast-of-the-Tech-Age';
+                            this.page.url = "https://thepangean.com/Pubcast-of-the-Tech-Age";
                             this.page.identifier = 'Pubcast-of-the-Tech-Age';
                             this.page.title ='A Drunk Parable of The Tech Age';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

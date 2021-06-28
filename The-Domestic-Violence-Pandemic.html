@@ -715,10 +715,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//The-Domestic-Violence-Pandemic';
+                            this.page.url = "https://thepangean.com/The-Domestic-Violence-Pandemic";
                             this.page.identifier = 'The-Domestic-Violence-Pandemic';
                             this.page.title ='The Domestic Violence Pandemic';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

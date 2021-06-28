@@ -723,10 +723,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//The-Test-of-the-West-II';
+                            this.page.url = "https://thepangean.com/The-Test-of-the-West-II";
                             this.page.identifier = 'The-Test-of-the-West-II';
                             this.page.title ='The Test of the West II';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

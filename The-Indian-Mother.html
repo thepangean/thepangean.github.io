@@ -721,10 +721,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//The-Indian-Mother';
+                            this.page.url = "https://thepangean.com/The-Indian-Mother";
                             this.page.identifier = 'The-Indian-Mother';
                             this.page.title ='I Hate You Like I Love You: Demythologising The Indian Mother';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

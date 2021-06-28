@@ -690,10 +690,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//The-Unfunny-Joke-of-Italian-Democracy';
+                            this.page.url = "https://thepangean.com/The-Unfunny-Joke-of-Italian-Democracy";
                             this.page.identifier = 'The-Unfunny-Joke-of-Italian-Democracy';
                             this.page.title ='The Unfunny Joke of Italian Democracy';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

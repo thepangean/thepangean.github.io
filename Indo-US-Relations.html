@@ -702,10 +702,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Indo-US-Relations';
+                            this.page.url = "https://thepangean.com/Indo-US-Relations";
                             this.page.identifier = 'Indo-US-Relations';
                             this.page.title ='Indo-US Relations in the Second Decade of the 21st Century: The Way Ahead';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

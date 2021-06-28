@@ -699,10 +699,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Egyptian-Mummies';
+                            this.page.url = "https://thepangean.com/Egyptian-Mummies";
                             this.page.identifier = 'Egyptian-Mummies';
                             this.page.title ='Egyptian Mummies: A Story of the Colonial Abuse of History';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';

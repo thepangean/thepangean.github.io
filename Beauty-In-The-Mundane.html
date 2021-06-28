@@ -718,10 +718,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'https://thepangean.com//Beauty-In-The-Mundane';
+                            this.page.url = "https://thepangean.com/Beauty-In-The-Mundane";
                             this.page.identifier = 'Beauty-In-The-Mundane';
                             this.page.title ='How Hayao Miyazaki Sees The Beauty in The Mundane';
                         };
+                        console.log(disqus_config)
                         (function() {
                             var d = document, s = d.createElement('script');
                             s.src = 'https://thepangean.disqus.com/embed.js';
