@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "Is simple good?"
+title: "Is Simple Good?"
 author: ishi.shrivastava
 cover: disaster-protection-down-row-danger-failure.jpg
 tags: economics
