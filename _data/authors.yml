@@ -1103,27 +1103,6 @@ troy.worden:
   twitter: false
   cover: troy-cover.jpg
   guest: true
-sumayee.barman:
-  username: sumayee.barman
-  name: Sumayee Roy Barman
-  location: Kolkata
-  positions: Illustrator
-  bio: I guess, I am what you call a selfless narcissist?
-  picture: sumayee.jpg
-  facebook: sumayee
-  twitter: false
-  cover: sumayee-cover.jpg
-stephen.mcandrew:
-  username: stephen.mcandrew
-  name: Stephen McAndrew
-  location: Leeds
-  positions: Guest Contibutor
-  bio: Third year politics, philosophy and economics student at the University of Leeds, staying on to study an MSc in economics next year.
-  picture: stephen-mc.jpg
-  facebook: false
-  twitter: CrippliedTurkey
-  cover: stephen-mc-cover.jpg
-  guest: true
 vanshika.singh:
   username: vanshika.singh
   name: Vanshika Singh
@@ -1137,3 +1116,36 @@ vanshika.singh:
   url: https://www.vantheshoe.com/
   url_full: https://www.vantheshoe.com/
   graphics: true
+stephen.mcandrew:
+  username: stephen.mcandrew
+  name: Stephen McAndrew
+  location: Leeds
+  positions: Guest Contibutor
+  bio: Third year politics, philosophy and economics student at the University of Leeds, staying on to study an MSc in economics next year.
+  picture: stephen-mc.jpg
+  facebook: false
+  twitter: CrippliedTurkey
+  cover: stephen-mc-cover.jpg
+  guest: true
+sumayee.barman:
+  username: sumayee.barman
+  name: Sumayee Roy Barman
+  location: Kolkata
+  positions: Illustrator
+  bio: I guess, I am what you call a selfless narcissist?
+  picture: sumayee.jpg
+  facebook: sumayee
+  twitter: false
+  cover: sumayee-cover.jpg
+tejasvi.joshi:
+  username: tejasvi.joshi
+  name: Tejasvi Joshi
+  location: NEW DELHI
+  positions: Contributor
+  bio: Hey! I'm Tejasvi hailing from Delhi, who has huge aspirations in the world to do something that makes a world a better place! I like listening and singing to music and enhancing knowledge of the world and discover what's new!
+  picture: ProfileTejasviJoshi.jpg
+  facebook: ''
+  twitter: ''
+  cover: CoverTejasviJoshi.jpg
+  url: ''
+  url_full: ''
