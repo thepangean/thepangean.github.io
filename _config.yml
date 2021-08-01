@@ -35,7 +35,7 @@ collections:
   - sports
 
 # Disqus
-disqus: True
+disqus: False
 disqus_shortname: thepangean # replace with your disqus username
 
 # Google Analytics

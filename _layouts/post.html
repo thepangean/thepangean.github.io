@@ -2,7 +2,6 @@
 layout: default
 current: post
 class: post-template
-disqus: True
 survey: False
 ---
 
@@ -94,7 +93,7 @@ into the {body} of the default.hbs template -->
                 <!-- /author  -->
             </footer>
 
-            {% if site.disqus or page.disqus %}
+            {% if site.disqus %}
             {% unless issports %}
                 <section class="post-full-comments">
                     <div id="disqus_thread"></div>
