@@ -6,7 +6,7 @@ class: post-template
 
 title: "The Luxury Way"
 author: abhinav.gupta
-cover: gabrielle-henderson-pL1qsBqCatk-unsplash.jpg
+cover: danilo-capece-unsplash.jpg
 tags: business-finance
 date: 2021-07-23
 link: "https://unsplash.com/photos/pL1qsBqCatk"
