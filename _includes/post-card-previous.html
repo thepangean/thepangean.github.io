@@ -10,7 +10,7 @@
                 <header class="post-card-header">
                     {% if page.previous.tags.size > 0 %}
                         {% for tag in page.previous.tags %}
-                          {% unless site.data.tags[tag].hidden %}
+                          {% unless site.data.tags[tag].hidden and site.data.tags[tag].section == False %}
                             {% if forloop.index == page.previous.tags.size %}
                                 <span class="post-card-tags">{{ site.data.tags[tag].title | capitalize }}</span>
                             {% else %}

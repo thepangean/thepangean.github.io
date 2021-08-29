@@ -16,7 +16,7 @@
                     <header class="post-card-header">
                         {% if post.tags.size > 0 %}
                             {% for tag in post.tags %}
-                              {% unless site.data.tags[tag].hidden %}
+                              {% unless site.data.tags[tag].hidden and site.data.tags[tag].section == False %}
                               <span class="post-card-tags">{{ site.data.tags[tag].title | capitalize }}</span>
                               {% endunless %}
                             {% endfor %}

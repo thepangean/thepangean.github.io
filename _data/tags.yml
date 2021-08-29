@@ -59,6 +59,15 @@ economics:
   cover: False
   section: True
 
+# HIDDEN-SECTION
+sponsored:
+  name: sponsored
+  title: Sponsored
+  description: False
+  cover: False
+  section: True
+  hidden: True
+
 conscience:
   name: conscience
   title: Conscience
