@@ -72,10 +72,23 @@ into the {body} of the default.hbs template -->
 </main>
 
 <script type="text/javascript">
-  document.addEventListener("DOMContentLoaded", function(){
-    wait(1000);
-    document.getElementById('nav-subscribe-button').click();
-  });
+  if (!window.localStorage.getItem('lastPop')){
+    triggerNewPop();    
+  } else {
+    const prevPopUp = new Date(JSON.parse(window.localStorage.getItem('lastPop')))
+    // if previous pop up was more than a week ago
+    if (prevPopUp < new Date (Date.now() - 604800000)){
+      triggerNewPop()
+    }
+  }
+
+  function triggerNewPop(){
+    document.addEventListener("DOMContentLoaded", function(){
+      wait(4000);
+      document.getElementById('nav-subscribe-button').click();
+      window.localStorage.setItem('lastPop', JSON.stringify(Date.now()))
+    });
+  }
 
   function wait(ms){
    var start = new Date().getTime();
