@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "Far Past Outrage into Indifference"
+title: "Far Past Outrage Into Indifference"
 author: vidhi.arora
 cover: Women_in_burqa_with_their_children_in_Herat_Afghanistan.jpg
 tags: policy

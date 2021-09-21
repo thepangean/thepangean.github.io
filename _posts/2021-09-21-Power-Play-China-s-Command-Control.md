@@ -8,7 +8,7 @@ title: "Power Play: China's Command & Control"
 author: khushboo.pandey
 cover: 1280px-18th_National_Congress_of_the_Communist_Party_of_China.jpg
 tags: trending business-finance
-date: 2021-09-21
+date: 2021-09-21T01:00:00.000Z
 link: "https://en.wikipedia.org/wiki/Chinese_Communist_Party#/media/File:18th_National_Congress_of_the_Communist_Party_of_China.jpg"
 disable-first-letter: false
 ---
