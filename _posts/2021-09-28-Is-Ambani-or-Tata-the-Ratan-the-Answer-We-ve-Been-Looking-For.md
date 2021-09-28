@@ -4,9 +4,9 @@ current: post
 navigation: True
 class: post-template
 
-title: "Is Ambani the Answer or Tata the Ratan We’ve Been Looking For?"
+title: "Is Ambani or Tata the Ratan the Answer We've Been Looking For?"
 author: raisa.azad
-cover: 2021-09-28-Is-Ambani-the-Answer-or-Tata-the-Ratan-We-ve-Been-Looking-For-ClintonTataAmbani.jpg
+cover: 2021-09-28-Is-Ambani-or-Tata-the-Ratan-the-Answer-We-ve-Been-Looking-For-ClintonTataAmbani.jpg
 tags: trending business-finance
 date: 2021-09-28
 link: "https://commons.wikimedia.org/wiki/File:ClintonTataAmbani.jpg"
