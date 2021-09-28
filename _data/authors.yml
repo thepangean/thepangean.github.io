@@ -951,6 +951,18 @@ hrishita.sharma:
   facebook: false
   twitter: false
   cover: hrishita-sharma-cover.jpg
+cheshta.sharma:
+  username: cheshta.sharma
+  name: Cheshta Sharma
+  location: Ghaziabad
+  positions: Contributor
+  bio: An economics graduate from Shri Ram College of Commerce, with a keen interest in development economics.
+  picture: ''
+  facebook: ''
+  twitter: Cheshta38762426
+  coverFilename: ''
+  url: ''
+  url_full: ''
 ishi.shrivastava:
   username: ishi.shrivastava
   name: Ishi Shrivastava
@@ -1149,15 +1161,15 @@ sumayee.barman:
   facebook: sumayee
   twitter: false
   cover: sumayee-cover.jpg
-cheshta.sharma:
-  username: cheshta.sharma
-  name: Cheshta Sharma
-  location: Ghaziabad
+raisa.azad:
+  username: raisa.azad
+  name: Raisa Azad
+  location: Kolkata
   positions: Contributor
-  bio: An economics graduate from Shri Ram College of Commerce, with a keen interest in development economics.
+  bio: 'I am currently pursuing Economics at the Shri Ram College of Commerce. Have always been passionate about writing and consider myself a creative individual. Hobbies include dancing, playing basketball and public speaking. '
   picture: ''
   facebook: ''
-  twitter: Cheshta38762426
+  twitter: raisaazad143
   coverFilename: ''
   url: ''
   url_full: ''
