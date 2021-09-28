@@ -525,6 +525,18 @@ jacob.jones:
   cover: jacob-cover.jpg
   sports: true
   guest: true
+tejasvi.joshi:
+  username: tejasvi.joshi
+  name: Tejasvi Joshi
+  location: NEW DELHI
+  positions: Contributor
+  bio: Hey! I'm Tejasvi hailing from Delhi, who has huge aspirations in the world to do something that makes a world a better place! I like listening and singing to music and enhancing knowledge of the world and discover what's new!
+  picture: ProfileTejasviJoshi.jpg
+  facebook: ''
+  twitter: ''
+  cover: CoverTejasviJoshi.jpg
+  url: ''
+  url_full: ''
 aniba.junaid:
   username: aniba.junaid
   name: Aniba Junaid
@@ -1137,15 +1149,15 @@ sumayee.barman:
   facebook: sumayee
   twitter: false
   cover: sumayee-cover.jpg
-tejasvi.joshi:
-  username: tejasvi.joshi
-  name: Tejasvi Joshi
-  location: NEW DELHI
+cheshta.sharma:
+  username: cheshta.sharma
+  name: Cheshta Sharma
+  location: Ghaziabad
   positions: Contributor
-  bio: Hey! I'm Tejasvi hailing from Delhi, who has huge aspirations in the world to do something that makes a world a better place! I like listening and singing to music and enhancing knowledge of the world and discover what's new!
-  picture: ProfileTejasviJoshi.jpg
+  bio: An economics graduate from Shri Ram College of Commerce, with a keen interest in development economics.
+  picture: ''
   facebook: ''
-  twitter: ''
-  cover: CoverTejasviJoshi.jpg
+  twitter: Cheshta38762426
+  coverFilename: ''
   url: ''
   url_full: ''
