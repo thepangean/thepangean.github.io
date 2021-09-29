@@ -7,7 +7,7 @@ class: post-template
 title: "A Contemporary Deep-Dive Into Embedded Journalism"
 author: saachi.ghosh
 cover: 2021-09-28-A-Contemporary-Deep-Dive-Into-Embedded-Journalism-journalist-1st-class-joe-gawlowicz-photographs-lt-case-of-fleet-hospital-five-5a04f6-1600.jpg
-tags: trending policy
+tags: policy
 date: 2021-09-28
 link: "https://cdn10.picryl.com/photo/1990/12/01/journalist-1st-class-joe-gawlowicz-photographs-lt-case-of-fleet-hospital-five-5a04f6-1600.jpg"
 disable-first-letter: false

@@ -7,7 +7,7 @@ class: post-template
 title: "The Most Oppressive Fashion Trends Throughout History"
 author: tejasvi.joshi
 cover: hannah-morgan-ycVFts5Ma4s-unsplash.jpg
-tags: trending culture society
+tags: culture society
 date: 2021-09-21T00:00:00.000Z
 link: "https://unsplash.com/photos/ycVFts5Ma4s"
 disable-first-letter: false
