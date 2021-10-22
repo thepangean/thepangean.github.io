@@ -7,7 +7,7 @@ class: post-template
 title: "Colourism: The Evil Queen Mentality Part II"
 author: oindrila.ghosh
 cover: 2021-10-21-Colourism-The-Evil-Queen-Mentality-Part-II-cosmetologist-applying-mask-face-client-beauty-salon-1303-16788.jpg
-tags: trending culture society
+tags: trending society
 date: 2021-10-21
 link: "https://www.freepik.com/free-photo/cosmetologist-applying-mask-face-client-beauty-salon_5578537.htm#page=1&query=beauty&position=46&from_view=keyword"
 disable-first-letter: false

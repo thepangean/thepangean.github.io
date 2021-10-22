@@ -7,7 +7,7 @@ class: post-template
 title: " Colourism: The Evil Queen Mentality Part I"
 author: oindrila.ghosh
 cover: 2021-10-21-Colourism-The-Evil-Queen-Mentality-Part-I-cosmetic-brush-cloud-pink-powder-dark-background-23-2148209048.jpg
-tags: trending culture society
+tags: trending society
 date: 2021-10-21
 link: "https://www.freepik.com/free-photo/cosmetic-brush-cloud-pink-powder-dark-background_4912183.htm#page=1&query=makeup&position=8&from_view=search"
 disable-first-letter: false

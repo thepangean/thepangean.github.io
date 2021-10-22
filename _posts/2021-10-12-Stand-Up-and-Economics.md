@@ -7,7 +7,7 @@ class: post-template
 title: "Stand Up and Economics"
 author: shiksha.mody
 cover: 2021-10-12-Stand-Up-and-Economics-photo-1516280440614-37939bbacd81.jfif
-tags: culture society
+tags: culture
 date: 2021-10-12
 link: "https://unsplash.com/photos/ekHSHvgr27k"
 disable-first-letter: false
