@@ -195,6 +195,18 @@ yashna.arora:
   facebook: yashnemowhatever
   twitter: yashnope
   cover: yashna-arora-cover.jpg
+raisa.azad:
+  username: raisa.azad
+  name: Raisa Azad
+  location: Kolkata
+  positions: Contributor
+  bio: 'I am currently pursuing Economics at the Shri Ram College of Commerce. Have always been passionate about writing and consider myself a creative individual. Hobbies include dancing, playing basketball and public speaking. '
+  picture: Contributor-Profile-Raisa-Azad.jpeg
+  facebook: ''
+  twitter: raisaazad143
+  coverFilename: Contributor-Cover-Raisa-Azad.jpeg
+  url: ''
+  url_full: ''
 jacob.benabou:
   username: jacob.benabou
   name: Jacob Benabou
@@ -1161,15 +1173,15 @@ sumayee.barman:
   facebook: sumayee
   twitter: false
   cover: sumayee-cover.jpg
-raisa.azad:
-  username: raisa.azad
-  name: Raisa Azad
-  location: Kolkata
+samyak.jain:
+  username: samyak.jain
+  name: Samyak Jain
+  location: New Delhi, India
   positions: Contributor
-  bio: 'I am currently pursuing Economics at the Shri Ram College of Commerce. Have always been passionate about writing and consider myself a creative individual. Hobbies include dancing, playing basketball and public speaking. '
-  picture: Contributor-Profile-Raisa-Azad.jpeg
+  bio: An undergraduate student from Hindu College majoring in commerce. A firm believer of "Consistency is the mother of mastery". Goal is to be 1% better daily:)
+  picture: samyak-jain.jpeg
   facebook: ''
-  twitter: raisaazad143
-  coverFilename: Contributor-Cover-Raisa-Azad.jpeg
+  twitter: ''
+  coverFilename: ''
   url: ''
   url_full: ''
