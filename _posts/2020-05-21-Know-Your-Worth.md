@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: balance.jpg
 navigation: True
-title: "Know Your Worth"
+title: "Know Your Worth: Work-Life Expectancy From the Lens of Forensic Economics"
 date: 2020-05-21
 tags: economics
 class: post-template

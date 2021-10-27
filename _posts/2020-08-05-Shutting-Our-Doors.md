@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "Shutting Our Doors?"
+title: "Shutting Our Doors?: The Market Consequences of India-China Standoff?"
 author: ishi.shrivastava
 cover: 8068020467_53ac878f30_b.jpg
 tags: economics
