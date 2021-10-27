@@ -6,9 +6,9 @@ class: post-template
 
 title: "The PMC Bank Fiasco"
 author: samyak.jain
-cover: 2021-10-25-The-PMC-Bank-Fiasco-Bank-of-Skotia.jpg
+cover: 2021-10-21-The-PMC-Bank-Fiasco-Bank-of-Skotia.jpg
 tags: business-finance
-date: 2021-10-26
+date: 2021-10-21
 link: "https://commons.wikimedia.org/wiki/File:Bank_of_Skotia.jpg"
 disable-first-letter: false
 ---
