@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 
-title: "Is Simple Good?: The Role of Heuristic Bias in Policymaking?"
+title: "Is Simple Good?: The Role of Heuristic Bias in Policymaking"
 author: ishi.shrivastava
 cover: disaster-protection-down-row-danger-failure.jpg
 tags: economics
