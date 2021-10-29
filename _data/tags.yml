@@ -22,12 +22,6 @@ repost:
   hidden: True
 
 #VISIBLE
-podcast:
-  name: podcast
-  title: Podcast
-  description: False
-  cover: False
-  section: True
 business-finance:
   name: business-finance
   title: Business and Finance
@@ -55,6 +49,12 @@ policy:
 economics:
   name: economics
   title: Economics
+  description: False
+  cover: False
+  section: True
+podcast:
+  name: podcast
+  title: Podcast
   description: False
   cover: False
   section: True
