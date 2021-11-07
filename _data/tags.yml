@@ -87,6 +87,15 @@ from-the-horses-mouth:
   author: harshita.jain
   hidden: False
 
+the-faraday-corner:
+  name: the-faraday-corner
+  title: The Faraday Corner
+  description: 
+  cover: False
+  column: True
+  author: kheeran.naidu avinash.naidu
+  hidden: False
+
 # CAMPAIGNS
 
 millennial:

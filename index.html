@@ -51,7 +51,7 @@ into the {body} of the default.hbs template -->
 
       {% for tag in site.data.tags %}
       {% if tag[1].section %}
-      {% unless tag[1].sports or tag[1].hidden %}
+      {% unless tag[1].sports or tag[1].hidden or tag[1].column %}
 
       {% assign section_select = tag[1].name %}
 
@@ -61,7 +61,7 @@ into the {body} of the default.hbs template -->
 
       <div class="post-feed">
           <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card-section.html %}
+          {%  include post-card-section-no-repost.html %}
       </div>
 
       {% endunless %}
