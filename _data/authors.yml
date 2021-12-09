@@ -61,6 +61,18 @@ amrit.chadha:
   facebook: null
   twitter: null
   cover: amrit-chadha-cover.jpg
+aaradhya.daga:
+  username: aaradhya.daga
+  name: Aaradhya Daga
+  location: Kolkata
+  positions: Deputy Chief Editor
+  bio: A Commerce undergraduate student, I like to try everything I can to get away from the monotony of the course. Mostly buried in video games and books. Realist, (usually) strongly opinionated, and a finance and internet culture enthusiast.
+  picture: aaradhya-daga.png
+  facebook: ''
+  twitter: ''
+  coverFilename: ''
+  url: ''
+  url_full: ''
 samakshi.garg:
   username: samakshi.garg
   name: Samakshi Garg
@@ -1185,13 +1197,13 @@ sumayee.barman:
   facebook: sumayee
   twitter: false
   cover: sumayee-cover.jpg
-aaradhya.daga:
-  username: aaradhya.daga
-  name: Aaradhya Daga
-  location: Kolkata
-  positions: Deputy Chief Editor
-  bio: A Commerce undergraduate student, I like to try everything I can to get away from the monotony of the course. Mostly buried in video games and books. Realist, (usually) strongly opinionated, and a finance and internet culture enthusiast.
-  picture: aaradhya-daga.png
+priyal.batheja:
+  username: priyal.batheja
+  name: Priyal Batheja
+  location: Bhopal
+  positions: Contributor
+  bio: Academically pursuing Economics from Shri Ram College of Commerce and Mentally pursuing a balance between my sky-high spirits and rock bottom blues!
+  picture: ProfilePriyalBatheja.jpeg
   facebook: ''
   twitter: ''
   coverFilename: ''
