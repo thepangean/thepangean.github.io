@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "Understanding the SPAC Phenomenon"
-author: guest
+author: eeshita.verma
 cover: 2021-12-06-Understanding-the-SPAC-Phenomenon-1821px-Canary-Wharf-from-Limehouse-London-June-2016-HDR.jpg
 tags: business-finance
 date: 2021-12-06

@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "COVID-19 and Economic Policy: From Saving Banks to Saving Businesses"
-author: aryaman.tewari
+author: aryaman.dhiman
 cover: 2021-12-06-COVID-19-and-Economic-Policy-1821px-Super-moon-over-City-of-London-from-Tate-Modern-2018-01-31-4.jpg
 tags: trending economics
 date: 2021-12-06
