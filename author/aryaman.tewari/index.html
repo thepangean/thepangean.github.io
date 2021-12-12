@@ -22,9 +22,9 @@
 
 
 
+<link rel="stylesheet" type="text/css" href="/assets/built/screen-sports.css" />
 
-    
-    <link rel="stylesheet" type="text/css" href="/assets/built/screen.css" />
+
     
     <link rel="stylesheet" type="text/css" href="/assets/built/screen.edited.css" />
     <link rel="stylesheet" type="text/css" href="/assets/built/syntax.css" />
@@ -126,7 +126,7 @@
 </head>
 <body class="author-template">
 
-    <div class="site-wrapper ">
+    <div class="site-wrapper  sports ">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
         <!-- < default}} -->
 <!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
@@ -345,51 +345,89 @@
 
 
 
+<link rel="stylesheet" type="text/css" href="/assets/built/screen-sports.css" />
+
 
 <nav class="site-nav">
     <div class="site-nav-left">
         
             
-                <a class="site-nav-logo" href="/"><img src="/assets/images/blog-icon.png" alt="The Pangean" /></a>
+                <a class="site-nav-logo" href="/sports"><img src="/assets/images/blog-icon-sports.png" alt="The Pangean" /></a>
             
         
         
             
                 <ul class="nav" role="menu">
-    <li class="nav-home" role="menuitem"><a href="/">Home</a></li>
-    <li class="nav-about" role="menuitem"><a href="/about">About</a></li>
-    <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-sections')">Sections &#9660</a></li>
-    <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-columns')">Columns &#9660</a></li>
-    <li class="nav-about" role="menuitem"><a href="javascript:void(0)" onClick="toggle_dropdown('dropdown-campaigns')">Campaigns &#9660</a></li>
-    <li class="nav-contributors" role="menuitem"><a href="/our-team">Our Team</a></li>
-    <!-- <li class="nav-sports" role="menuitem"><a href="/sports">Sports Site</a></li> -->
+    <li class="nav-home" role="menuitem"><a href="/sports">Home</a></li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <li class="nav" role="menuitem"><a href="/tag/football">Football</a></li>
+    
+    
+    
+    
+    <li class="nav" role="menuitem"><a href="/tag/american-football">American Football</a></li>
+    
+    
+    
+    
+    <li class="nav" role="menuitem"><a href="/tag/basketball">Basketball</a></li>
+    
+    
+    
+    
+    <li class="nav" role="menuitem"><a href="/tag/baseball">Baseball</a></li>
+    
+    
+    
+    
+    <li class="nav" role="menuitem"><a href="/tag/mma">MMA</a></li>
+    
+    
+    
+    
+    <li class="nav" role="menuitem"><a href="/tag/extreme-sports">Extreme Sports</a></li>
+    
+    
+    <li class="nav-contributors" role="menuitem"><a href="/sports/sports-team">Sports Team</a></li>
+    <li class="nav-home" role="menuitem"><a href="/">Main Site</a></li>
+
 </ul>
-
-<script type="text/javascript">
-  function toggle_dropdown(name_id) {
-    var dropdown = document.getElementById(name_id);
-    var offset_left = (event.target.getBoundingClientRect().left - document.getElementById("site_nav_dropdown_left").getBoundingClientRect().left);
-
-    console.log (offset_left + "px");
-
-    var element_ids = ['dropdown-sections', 'dropdown-campaigns', 'dropdown-columns'];
-    var element_id;
-
-    for (element_id of element_ids) {
-      if (element_id !== name_id) {
-        var x = document.getElementById(element_id);
-        x.style.display = "none";
-      }
-    };
-
-    if (dropdown.style.display == "none") {
-      dropdown.style.display = "block";
-      dropdown.style.marginLeft = (offset_left + "px");
-    } else {
-      dropdown.style.display = "none";
-    };
-  }
-</script>
 
             
         
@@ -397,15 +435,15 @@
     <div class="site-nav-right">
         <div class="social-links">
             
-                <a class="social-link social-link-fb" href="https://facebook.com/thepangean" target="_blank" rel="noopener"><svg style="fill:rgb(0,0,0)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
+                <a class="social-link social-link-fb" href="https://facebook.com/thepangean" target="_blank" rel="noopener"><svg style="fill:rgb(255,255,255)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
 </a>
             
             
-                <a class="social-link social-link-tw" href="https://twitter.com/thepangean" target="_blank" rel="noopener"><svg style="fill:rgb(0,0,0)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+                <a class="social-link social-link-tw" href="https://twitter.com/thepangean" target="_blank" rel="noopener"><svg style="fill:rgb(255,255,255)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
 </a>
             
             
-                <a class="social-link social-link-ig" href="https://www.instagram.com/thepangeanlens" target="_blank" rel="noopener"><svg style="fill:rgb(0,0,0)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                <a class="social-link social-link-ig" href="https://www.instagram.com/thepangeanlens" target="_blank" rel="noopener"><svg style="fill:rgb(255,255,255)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
 </a>
             
             
@@ -639,7 +677,7 @@
                         <div class="author-location">New Delhi, India <span class="bull">&bull;</span></div>
                     
                     <div class="author-stats">
-                        2 articles <span class="bull">&bull;</span>
+                        1 article <span class="bull">&bull;</span>
                     </div>
                     
                     
@@ -677,272 +715,6 @@
         <div class="post-feed" style="width:100%">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             
-    <article class="post-card author-template">
-        
-            <a class="post-card-image-link" href="/COVID-19-and-Economic-Policy">
-                <div class="post-card-image" style="background-image: url(/assets/images/2021-12-06-COVID-19-and-Economic-Policy-1821px-Super-moon-over-City-of-London-from-Tate-Modern-2018-01-31-4.jpg)"></div>
-            </a>
-        
-        <div class="post-card-content">
-            <a class="post-card-content-link" href="/COVID-19-and-Economic-Policy">
-                <header class="post-card-header">
-                    
-                        
-                          
-                        
-                          
-                          
-                             <span class="post-card-tags">Economics</span>
-                          
-                          
-                        
-                    
-
-                    <h2 class="post-card-title">COVID-19 and Economic Policy: From Saving Banks to Saving Businesses</h2>
-                </header>
-                <section class="post-card-excerpt">
-                    <!-- <p>Though any professional strategist, worth his/her salt, understands that no plan can be executed in its entirety, under any preconceived framework, however, the COVID -19 pandemic rattled the status-quo with such force that</p> -->
-                </section>
-            </a>
-
-            
-            
-                <footer class="post-card-meta">
-                  <!-- NOT HACKY ANYMORE!!! -->
-
-
-
-<!-- This is a very hacky method to adding a second author -->
-<!-- 
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
- -->
-
-                </footer>
-            
-        </div>
-    </article>
-
     <article class="post-card author-template">
         
             <a class="post-card-image-link" href="/K2">
