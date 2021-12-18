@@ -1273,11 +1273,10 @@ Usage (In Ghost editor):
 
 /* Tables */
 .post-full-content table {
-    display: inline-block;
+    display: block;
     overflow-x: auto;
-    margin: 0.5em 0 2.5em;
-    max-width: 100%;
-    width: auto;
+    margin: 2.5em 0 2.5em;
+    width: 100%;
     border-spacing: 0;
     border-collapse: collapse;
     font-family: 'post_body_font';
@@ -1320,7 +1319,7 @@ Usage (In Ghost editor):
 .post-full-content table th,
 .post-full-content table td {
     padding: 6px 12px;
-    border: color(var(--whitegrey) l(-1%) s(-5%)) 1px solid;
+    border: color(var(--midgrey) l(-1%) s(-5%)) 1px solid;
 }
 
 
