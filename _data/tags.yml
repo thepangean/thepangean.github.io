@@ -100,6 +100,8 @@ the-faraday-corner:
 humanity:
   name: humanity
   title: Humanity Campaign
+  cover: humanitycampaign.png
+  description: Long has the world known suffering where disease, poor sanitation, hunger and poverty have beset us for millennia. The time comes for us to finally solve these age-old problems.
   hidden: False
   campaign: True
   
