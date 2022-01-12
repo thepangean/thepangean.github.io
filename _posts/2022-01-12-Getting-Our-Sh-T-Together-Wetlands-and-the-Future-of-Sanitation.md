@@ -4,10 +4,10 @@ current: post
 navigation: True
 class: post-template
 
-title: "Getting Our Sh-T Together: Wetlands and the Future of Sanitation"
+title: "Getting Our Sh*t Together: Wetlands and the Future of Sanitation"
 author: harsh.tiwari
 cover: 2022-01-12-Getting-Our-Sh-T-Together-Wetlands-and-the-Future-of-Sanitation-lossy-page1-1205px-Nalban-Waterbody-16-bit-Two-Stop-Over-Exposure-Kolkata-2015-08-13-2188-TIF.jpg
-tags: policy
+tags: trending policy humanity
 date: 2022-01-12
 link: "https://en.m.wikipedia.org/wiki/East_Kolkata_Wetlands#/media/File%3ANalban_Waterbody_-_16-bit_Two_Stop_Over_Exposure_-_Kolkata_2015-08-13_2188.TIF"
 disable-first-letter: false
