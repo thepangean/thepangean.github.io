@@ -104,6 +104,12 @@ millennial:
   hidden: False
   campaign: True
 
+humanity:
+  name: humanity
+  title: Humanity Campaign
+  hidden: False
+  campaign: True
+
 # SPORTS
 sports:
   name: sports
