@@ -97,16 +97,15 @@ the-faraday-corner:
   hidden: False
 
 # CAMPAIGNS
-
-millennial:
-  name: millennial
-  title: Millennial Campaign
-  hidden: False
-  campaign: True
-
 humanity:
   name: humanity
   title: Humanity Campaign
+  hidden: False
+  campaign: True
+  
+millennial:
+  name: millennial
+  title: Millennial Campaign
   hidden: False
   campaign: True
 

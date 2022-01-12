@@ -36,7 +36,7 @@ into the {body} of the default.hbs template -->
 
       <div class="post-feed-main">
           <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card-main.html %}
+          {%  include post-card-main-no-repost.html %}
       </div>
 
       {% assign section_select = "trending" %}
@@ -46,7 +46,7 @@ into the {body} of the default.hbs template -->
       </div>
 
       <div class="post-feed-column">
-          {% include post-card-column.html %}
+          {% include post-card-column-no-repost.html %}
       </div>
 
       {% for tag in site.data.tags %}
