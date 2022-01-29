@@ -117,6 +117,18 @@ tom.perrett:
   cover: tom-perrett-cover.png
   url: medium.com/@thomas.perrett97
   url_full: https://medium.com/@thomas.perrett97
+rajsi.sah:
+  username: rajsi.sah
+  name: Rajsi Sah
+  location: New Delhi, India
+  positions: Associate Editor
+  bio: A happy and curious person in love with art, music, and sunsets. Currently a student of Economics at Shri Ram College of Commerce, I have a profound interest in economics, finance, politics and policy-making. Also, a foodie at heart!
+  picture: rajsi-sah.jpg
+  facebook: rajsi.sah
+  twitter: ''
+  cover: ''
+  url: ''
+  url_full: ''
 srisreyas.sundaresan:
   username: srisreyas.sundaresan
   name: Srisreyas Sundaresan
@@ -914,18 +926,6 @@ sanya.puri:
   twitter: false
   cover: sanya-puri-cover.png
   sports: false
-rajsi.sah:
-  username: rajsi.sah
-  name: Rajsi Sah
-  location: New Delhi, India
-  positions: Associate Editor
-  bio: A happy and curious person in love with art, music, and sunsets. Currently a student of Economics at Shri Ram College of Commerce, I have a profound interest in economics, finance, politics and policy-making. Also, a foodie at heart!
-  picture: rajsi-sah.jpg
-  facebook: rajsi.sah
-  twitter: ''
-  cover: ''
-  url: ''
-  url_full: ''
 himanshi.saini:
   username: himanshi.saini
   name: Himanshi Saini
@@ -1176,6 +1176,18 @@ eeshita.verma:
   cover: ''
   url: ''
   url_full: ''
+shreyansh.verma:
+  username: shreyansh.verma
+  name: Shreyansh Verma
+  location: Agra
+  positions: Contributor
+  bio: 'I am an undergraduate student pursuing Economics from Shri Ram College of Commerce. I am interested in areas of public policy, economics, pop culture and social issues that constitute daily affairs of our world. '
+  picture: shreyansh-verma.jpg
+  facebook: ''
+  twitter: shreyansh627
+  coverFilename: ''
+  url: ''
+  url_full: ''
 troy.worden:
   username: troy.worden
   name: Troy Worden
@@ -1221,15 +1233,15 @@ sumayee.barman:
   facebook: sumayee
   twitter: false
   cover: sumayee-cover.jpg
-shreyansh.verma:
-  username: shreyansh.verma
-  name: Shreyansh Verma
-  location: Agra
+shruti.indoria:
+  username: shruti.indoria
+  name: Shruti Indoria
+  location: Delhi
   positions: Contributor
-  bio: 'I am an undergraduate student pursuing Economics from Shri Ram College of Commerce. I am interested in areas of public policy, economics, pop culture and social issues that constitute daily affairs of our world. '
-  picture: shreyansh-verma.jpg
+  bio: 'I''m an undergraduate student at Shri Ram College of Commerce, pursuing Economics honours. An avid reader and a music lover, exploring various fields to self-discover and understand this world better. '
+  picture: ProfileShrutiIndoria.jpg
   facebook: ''
-  twitter: shreyansh627
+  twitter: ''
   coverFilename: ''
   url: ''
   url_full: ''
