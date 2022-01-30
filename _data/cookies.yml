@@ -13,7 +13,7 @@ cookie-consent-full:
 
 cookie-consent-essential:
   name: cookie-consent-essential
-  purpose: It tracks the user's consent to the use of essential cookies on the website. It is a HTTP cookie that expires after 1 day.
+  purpose: It tracks the user's consent to the use of essential cookies on the website. It is a HTTP cookie that expires after 2 years.
   provider: thepangean.com
   service: The Pangean
   policyUrl: https://thepangean.com/privacy/
@@ -23,7 +23,7 @@ cookie-consent-essential:
 
 lastPop:
   name: lastPop
-  purpose: It flags whether the subscribe popup has been viewed recently. It is a HTTP cookie that expires after 1 month.
+  purpose: It flags whether the subscribe pop-up has been viewed recently. It is a HTTP cookie that expires after 1 month.
   provider: thepangean.com
   service: The Pangean
   policyUrl: https://thepangean.com/privacy/
@@ -46,7 +46,7 @@ NID:
   purpose: Set by Google to set a unique user ID to remember user preferences. Persistent cookie that stays for 182 days.
   provider: google.com
   service: Google
-  policyUrl: https://policies.google.com/privacy/
+  policyUrl: https://policies.google.com/privacy
   country: United States
   type: others
   expiry: 15724800000
@@ -56,7 +56,7 @@ others:
   purpose: This website uses Google Analytics to track user engagement, embeds YouTube videos and has other related Google services. Hence, there may be other related cookies (e.g. NID, PREF, YSC and IDE) which are used by the corresponding Google services.
   provider: google.com, youtube.com and others
   service: Google
-  policyUrl: https://policies.google.com/privacy/
+  policyUrl: https://policies.google.com/privacy
   country: United States
   type: others
   expiry: various
