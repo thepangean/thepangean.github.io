@@ -7,6 +7,11 @@ language: 'en-uk'
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: / #changing this from / to https://thepangean.github.io/ makes it work
 
+# Company info
+company_name: The Pangean Ltd
+company_email: mailbox@thepangean.com
+company_country: United Kingdom
+
 # Website info
 title: The Pangean
 description: Taking a step back

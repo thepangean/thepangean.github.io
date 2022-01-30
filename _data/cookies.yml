@@ -1,0 +1,83 @@
+# There are several cookie types, see the cookie policy for more information
+
+# Persistent Cookies
+cookie-consent-full:
+  name: cookie-consent-full
+  purpose: It tracks the user's consent to the use of all cookies on the website. It is a HTTP cookie that expires after 2 years.
+  provider: thepangean.com
+  service: The Pangean
+  policyUrl: https://thepangean.com/privacy/
+  country: United Kingdom
+  type: essential
+  expiry: 63072000000
+
+cookie-consent-essential:
+  name: cookie-consent-essential
+  purpose: It tracks the user's consent to the use of essential cookies on the website. It is a HTTP cookie that expires after 1 day.
+  provider: thepangean.com
+  service: The Pangean
+  policyUrl: https://thepangean.com/privacy/
+  country: United Kingdom
+  type: essential
+  expiry: 86400000
+
+lastPop:
+  name: lastPop
+  purpose: It flags whether the subscribe popup has been viewed recently. It is a HTTP cookie that expires after 1 month.
+  provider: thepangean.com
+  service: The Pangean
+  policyUrl: https://thepangean.com/privacy/
+  country: United Kingdom
+  type: essential
+  expiry: 2678400000
+
+_ga:
+  name: _ga
+  purpose: It records a particular ID used to come up with data about website usage by the user. It is a HTTP cookie that expires after 2 years.
+  provider: thepangean.com
+  service: Google Analytics
+  policyUrl: https://policies.google.com/technologies/
+  country: United Kingdom
+  type: analytics
+  expiry: 63072000000
+
+NID: 
+  name: NID
+  purpose: Set by Google to set a unique user ID to remember user preferences. Persistent cookie that stays for 182 days.
+  provider: google.com
+  service: Google Analytics
+  policyUrl: https://policies.google.com/technologies/
+  country: United States
+  type: analytics
+  expiry: 15724800000
+
+# Session Cookies
+_gid:
+  name: _gid
+  purpose: Keeps an entry of unique ID which is then used to come up with statistical data on website usage by visitors. It is a HTTP cookie type and expires after a browsing session.
+  provider: thepangean.com
+  service: Google Analytics
+  policyUrl: https://policies.google.com/technologies/
+  country: United Kingdom
+  type: analytics
+  expiry: 86400000
+
+_gat:
+  name: _ga
+  purpose: Used to monitor number of Google Analytics server requests when using Google Tag Manager (i.e. to throttle request rate). It is a HTTP cookie type and expires after a browsing session.
+  provider: thepangean.com
+  service: Google Analytics
+  policyUrl: https://policies.google.com/technologies/
+  country: United Kingdom
+  type: analytics
+  expiry: 60000
+
+others:
+  name: Other Related Google Cookies
+  purpose: This website uses Google Analytics to track user engagement, embeds YouTube videos and has other related Google services. Hence, there may be other related cookies (e.g. PREF, YSC and IDE) which are used by the corresponding Google services.
+  provider: google.com, youtube.com and others
+  service: Google
+  policyUrl: https://policies.google.com/privacy/
+  country: United States
+  type: other
+  expiry: various
