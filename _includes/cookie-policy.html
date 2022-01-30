@@ -76,7 +76,7 @@
 <h4><u>Others:</u></h4>
 <p>There are few cookies which have not yet been categorized. These are third party cookies which we are in the process of classifying.</p>
 {% for cookie in site.data.cookies %}
-{% if cookie[1].type == "other" %}
+{% if cookie[1].type == "others" %}
 <p>Name: <strong>{{ cookie[1].name }}</strong><br>
     Purpose: {{ cookie[1].purpose }}<br>
     Provider: {{ cookie[1].provider }}<br>

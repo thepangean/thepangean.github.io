@@ -58,7 +58,7 @@ others:
   service: Google
   policyUrl: https://policies.google.com/privacy/
   country: United States
-  type: other
+  type: others
   expiry: various
 
 # Session Cookies
