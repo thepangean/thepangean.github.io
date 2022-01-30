@@ -72,21 +72,19 @@ into the {body} of the default.hbs template -->
 </main>
 
 <script type="text/javascript">
-  if (!window.localStorage.getItem('lastPop')){
-    triggerNewPop();    
-  } else {
-    const prevPopUp = new Date(JSON.parse(window.localStorage.getItem('lastPop')))
-    // if previous pop up was more than a week ago
-    if (prevPopUp < new Date (Date.now() - 604800000)){
-      triggerNewPop()
-    }
+  window.localStorage.clear();
+  if (readCookie('lastPop')!=='true'){
+    triggerNewPop(); 
   }
 
   function triggerNewPop(){
-    document.addEventListener("DOMContentLoaded", function(){
-      wait(4000);
-      document.getElementById('nav-subscribe-button').click();
-      window.localStorage.setItem('lastPop', JSON.stringify(Date.now()))
+    document.addEventListener("scroll", function(){
+      wait(2500);
+      showElement('subscribe', 'flex')
+      if (readCookie('cookie-consent-full') == 'true' || readCookie('cookie-consent-essential') == 'true')
+      createCookie('lastPop','true',31)
+    }, { 
+      once: true 
     });
   }
 

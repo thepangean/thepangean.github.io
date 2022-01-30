@@ -32,7 +32,7 @@
             {% endif %}
         </div>
         {% if site.subscribers %}
-            <a id="nav-subscribe-button" class="subscribe-button" href="#subscribe">Subscribe</a>
+            <a id="nav-subscribe-button" class="subscribe-button" href="#subscribe" onclick="showElement('subscribe', 'flex')">Subscribe</a>
         {% endif %}
     </div>
 </nav>
@@ -44,3 +44,12 @@
       {% endif %}
   </div>
 </nav>
+
+<script>
+    function showElement(elementId, style) {
+        // location.hash = ''
+        // Shows a element from the document
+        var element = document.getElementById(elementId);
+        element.style.display = style;
+    }
+</script>

@@ -1,0 +1,26 @@
+<div id="subscribe" class="subscribe-overlay">
+    <a class="subscribe-overlay-close" onclick="hideElement('subscribe')"></a>
+    <div id="subscribe_overlay" class="subscribe-overlay-content">
+        {% if site.logo %}
+            <!-- <img class="subscribe-overlay-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" /> -->
+        {% endif %}
+        <h1 class="subscribe-overlay-title">Subscribe to {{ site.title }}</h1>
+        <p class="subscribe-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered straight to your inbox</p>
+        {% include subscribe-form.html placeholder="youremail@example.com" %}
+    </div>
+    <div id="subscribe_overlay-thanks" class="subscribe-overlay-content" style="display:none">
+        {% if site.logo %}
+            <img class="subscribe-overlay-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" />
+        {% endif %}
+        <h1 class="subscribe-overlay-title">Thank you for subscribing!</h1>
+    </div>
+</div>
+
+<script>
+    function hideElement(elementId) {
+        // location.hash = ''
+        // Hides an element from the document
+        var element = document.getElementById(elementId);
+        element.style.display = "none";
+    }
+</script>

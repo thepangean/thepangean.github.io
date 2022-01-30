@@ -45,11 +45,21 @@ NID:
   name: NID
   purpose: Set by Google to set a unique user ID to remember user preferences. Persistent cookie that stays for 182 days.
   provider: google.com
-  service: Google Analytics
-  policyUrl: https://policies.google.com/technologies/
+  service: Google
+  policyUrl: https://policies.google.com/privacy/
   country: United States
-  type: analytics
+  type: others
   expiry: 15724800000
+
+others:
+  name: Other Related Google Cookies
+  purpose: This website uses Google Analytics to track user engagement, embeds YouTube videos and has other related Google services. Hence, there may be other related cookies (e.g. NID, PREF, YSC and IDE) which are used by the corresponding Google services.
+  provider: google.com, youtube.com and others
+  service: Google
+  policyUrl: https://policies.google.com/privacy/
+  country: United States
+  type: other
+  expiry: various
 
 # Session Cookies
 _gid:
@@ -71,13 +81,3 @@ _gat:
   country: United Kingdom
   type: analytics
   expiry: 60000
-
-others:
-  name: Other Related Google Cookies
-  purpose: This website uses Google Analytics to track user engagement, embeds YouTube videos and has other related Google services. Hence, there may be other related cookies (e.g. PREF, YSC and IDE) which are used by the corresponding Google services.
-  provider: google.com, youtube.com and others
-  service: Google
-  policyUrl: https://policies.google.com/privacy/
-  country: United States
-  type: other
-  expiry: various

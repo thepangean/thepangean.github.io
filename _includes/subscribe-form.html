@@ -7,3 +7,32 @@
     <button id="form_submit" type="submit" value="Subscribe">Subscribe</button>
     <!-- <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script> -->
 </form>
+<script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+>
+</script>
+<script type="text/javascript">
+    $('form#form_subscribe').on('submit', function(e) {
+      var $form = $(this);
+
+      if ($form.data('submitted') === true) {
+        e.preventDefault();
+      } else {
+        $form.data('submitted', true);
+        e.preventDefault();
+        var url = 'https://script.google.com/macros/s/AKfycbym3-K5CryLpVBsD5lqUI-io41S0z2TtHioGbTHo4AfHSQhdhE/exec';
+        var user_email = $('input#form_email').val();
+
+        $.get(url, { Email : user_email } , function(data){
+          if (data.result == "success") {
+            $("#subscribe_overlay").hide();
+            $("#subscribe_overlay-thanks").show();
+          }
+        });
+      }
+    });
+
+
+  </script>
