@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "COVID-19 and Poverty: An Inevitable Link That Is Little Understood"
-author: aniba.junaid
+author: trending aniba.junaid
 cover: 2022-01-31-COVID-19-and-Poverty-An-Inevitable-Link-That-Is-Little-Understood-Pangean-6.jpg
 tags: policy humanity
 date: 2022-01-31

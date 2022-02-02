@@ -7,7 +7,7 @@ class: post-template
 title: "The American Recipe for a Food Crisis"
 author: eeshita.verma
 cover: 2022-01-31-The-American-Recipe-for-a-Food-Crisis-Pangean-3.jpg
-tags: business-finance humanity
+tags: trending business-finance humanity
 date: 2022-01-31
 link: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fusdagov%2F6772193285&psig=AOvVaw35ud5Qbj4X6LhzDKX5plQR&ust=1643656429484000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDBlMWX2vUCFQAAAAAdAAAAABAD"
 disable-first-letter: false
