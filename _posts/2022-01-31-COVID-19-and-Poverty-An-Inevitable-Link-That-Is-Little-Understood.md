@@ -5,9 +5,9 @@ navigation: True
 class: post-template
 
 title: "COVID-19 and Poverty: An Inevitable Link That Is Little Understood"
-author: trending aniba.junaid
+author: aniba.junaid
 cover: 2022-01-31-COVID-19-and-Poverty-An-Inevitable-Link-That-Is-Little-Understood-Pangean-6.jpg
-tags: policy humanity
+tags: trending policy humanity
 date: 2022-01-31
 link: "https://commons.m.wikimedia.org/wiki/File:Homeless_man_in_Toronto_across_from_old_City_Hall.jpg#mw-jump-to-license"
 disable-first-letter: false
