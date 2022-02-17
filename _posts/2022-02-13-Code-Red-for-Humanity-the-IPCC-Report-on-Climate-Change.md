@@ -7,7 +7,7 @@ class: post-template
 title: "‘Code Red for Humanity’ - the IPCC Report on Climate Change"
 author: cheshta.sharma
 cover: 2022-02-13-Code-Red-for-Humanity-the-IPCC-Report-on-Climate-Change-Pangean-3.jpg
-tags: society policy humanity
+tags: economics humanity
 date: 2022-02-13
 link: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAR_OBGUtmwrHGCuQKM3AeQi_4fp3LJ61VzOqnf2jWN1QmiB7r9pSKk90i-HRdKdcajBg&usqp=CAU"
 disable-first-letter: false
