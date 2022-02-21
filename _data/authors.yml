@@ -340,6 +340,18 @@ debanjan.dhar:
   twitter: false
   cover: debanjan-dhar-cover.jpg
   guest: true
+raghav.dhariwal:
+  username: raghav.dhariwal
+  name: Raghav Dhariwal
+  location: New Delhi
+  positions: Contributor
+  bio: An undergraduate student of commerce at Shri Ram College of Commerce. Curious about finance and economics, conscious about the environment and an avid football fan, GGMU!
+  picture: ProfileRaghavDhariwal.jpeg
+  facebook: ''
+  twitter: raghavdhariwal
+  coverFilename: CoverRaghavDhariwal.jpeg
+  url: ''
+  url_full: ''
 aryaman.dhiman:
   username: aryaman.dhiman
   name: Aryaman Dhiman
@@ -1245,15 +1257,15 @@ sumayee.barman:
   facebook: sumayee
   twitter: false
   cover: sumayee-cover.jpg
-raghav.dhariwal:
-  username: raghav.dhariwal
-  name: Raghav Dhariwal
+aurin.chakraborty:
+  username: aurin.chakraborty
+  name: Aurin Chakraborty
   location: New Delhi
-  positions: Contributor
-  bio: An undergraduate student of commerce at Shri Ram College of Commerce. Curious about finance and economics, conscious about the environment and an avid football fan, GGMU!
-  picture: ProfileRaghavDhariwal.jpeg
-  facebook: ''
-  twitter: raghavdhariwal
-  coverFilename: CoverRaghavDhariwal.jpeg
+  positions: Deputy Chief Editor
+  bio: I am a third year law student at Symbiosis Law School, NOIDA. I have a keen interest in understanding the interplay of policy, culture and society; something I would love to pursue on a personal level.
+  picture: ProfileAurinChakraborty.jpg
+  facebook: aurin.chakraborty.5
+  twitter: ''
+  coverFilename: ''
   url: ''
   url_full: ''
