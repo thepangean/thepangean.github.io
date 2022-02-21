@@ -531,6 +531,18 @@ samuel.hogan:
   twitter: false
   cover: samuel-hogan-cover.jpg
   sports: true
+shruti.indoria:
+  username: shruti.indoria
+  name: Shruti Indoria
+  location: Delhi
+  positions: Contributor
+  bio: 'I''m an undergraduate student at Shri Ram College of Commerce, pursuing Economics honours. An avid reader and a music lover, exploring various fields to self-discover and understand this world better. '
+  picture: ProfileShrutiIndoria.jpg
+  facebook: ''
+  twitter: ''
+  coverFilename: ''
+  url: ''
+  url_full: ''
 harshita.jain:
   username: harshita.jain
   name: Harshita Jain
@@ -1233,15 +1245,15 @@ sumayee.barman:
   facebook: sumayee
   twitter: false
   cover: sumayee-cover.jpg
-shruti.indoria:
-  username: shruti.indoria
-  name: Shruti Indoria
-  location: Delhi
+raghav.dhariwal:
+  username: raghav.dhariwal
+  name: Raghav Dhariwal
+  location: New Delhi
   positions: Contributor
-  bio: 'I''m an undergraduate student at Shri Ram College of Commerce, pursuing Economics honours. An avid reader and a music lover, exploring various fields to self-discover and understand this world better. '
-  picture: ProfileShrutiIndoria.jpg
+  bio: An undergraduate student of commerce at Shri Ram College of Commerce. Curious about finance and economics, conscious about the environment and an avid football fan, GGMU!
+  picture: ProfileRaghavDhariwal.jpeg
   facebook: ''
-  twitter: ''
-  coverFilename: ''
+  twitter: raghavdhariwal
+  coverFilename: CoverRaghavDhariwal.jpeg
   url: ''
   url_full: ''
