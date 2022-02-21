@@ -7,7 +7,7 @@ class: post-template
 title: "A Full and Healthy Stomach – Only a Privileged Reality?"
 author: aurin.chakraborty
 cover: 2022-02-21-A-Full-and-Healthy-Stomach-Only-a-Privileged-Reality--Bengal-famine-1943.png
-tags: policy humanity
+tags: trending policy humanity
 date: 2022-02-21
 link: "https://commons.wikimedia.org/wiki/File:Bengal_famine_1943.png"
 disable-first-letter: false
