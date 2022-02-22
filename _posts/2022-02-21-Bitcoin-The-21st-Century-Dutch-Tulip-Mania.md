@@ -7,7 +7,7 @@ class: post-template
 title: "Bitcoin: The 21st Century Dutch Tulip Mania"
 author: raghav.dhariwal
 cover: 2022-02-21-Bitcoin-The-21st-Century-Dutch-Tulip-Mania-Holland-tulips.jpg
-tags: economics humanity
+tags: economics
 date: 2022-02-21
 link: "https://commons.wikimedia.org/wiki/File:Holland_tulips.jpg"
 disable-first-letter: false

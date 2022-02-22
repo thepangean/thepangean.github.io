@@ -7,7 +7,7 @@ class: post-template
 title: "Shang Xia - the Pioneer of the Chinese Renaissance"
 author: abhinav.gupta
 cover: 2022-02-13-Shang-Xia-the-Pioneer-of-the-Chinese-Renaissance-Pangean-2.png
-tags: business-finance humanity
+tags: business-finance
 date: 2022-02-13
 link: "https://en.m.wikipedia.org/wiki/Yin_and_yang#/media/File:Yin_and_Yang_symbol.svg"
 disable-first-letter: false
