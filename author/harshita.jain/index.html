@@ -5303,13 +5303,11 @@
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
     if(readCookie('cookie-consent-full')=='true') {
-        // ga('create', 'UA-131102513-1', 'auto');
-        ga('create', 'UA-131102513-1', {'storage':'none'});
-        ga('send', 'pageview');
-    } else if (readCookie('cookie-consent-essential')=='true') {
-        ga('create', 'UA-131102513-1', {'storage':'none'});
+        ga('create', 'UA-131102513-1', 'auto');
         ga('send', 'pageview');
     } else {
+        ga('create', 'UA-131102513-1', {'storage':'none'});
+        ga('send', 'pageview');
         document.getElementById('cookie-notice').style.display = 'block';
     }
     document.getElementById('cookie-notice-accept').addEventListener("click",function() {
