@@ -7,13 +7,11 @@
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
     if(readCookie('cookie-consent-full')=='true') {
-        // ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('create', '{{ site.google_analytics }}', {'storage':'none'});
-        ga('send', 'pageview');
-    } else if (readCookie('cookie-consent-essential')=='true') {
-        ga('create', '{{ site.google_analytics }}', {'storage':'none'});
+        ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');
     } else {
+        ga('create', '{{ site.google_analytics }}', {'storage':'none'});
+        ga('send', 'pageview');
         document.getElementById('cookie-notice').style.display = 'block';
     }
     document.getElementById('cookie-notice-accept').addEventListener("click",function() {
