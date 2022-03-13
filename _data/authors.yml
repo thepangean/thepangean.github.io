@@ -61,6 +61,18 @@ amrit.chadha:
   facebook: null
   twitter: null
   cover: amrit-chadha-cover.jpg
+aurin.chakraborty:
+  username: aurin.chakraborty
+  name: Aurin Chakraborty
+  location: New Delhi
+  positions: Deputy Chief Editor
+  bio: I am a third year law student at Symbiosis Law School, NOIDA. I have a keen interest in understanding the interplay of policy, culture and society; something I would love to pursue on a personal level.
+  picture: ProfileAurinChakraborty.jpg
+  facebook: aurin.chakraborty.5
+  twitter: ''
+  coverFilename: ''
+  url: ''
+  url_full: ''
 aaradhya.daga:
   username: aaradhya.daga
   name: Aaradhya Daga
@@ -1257,14 +1269,14 @@ sumayee.barman:
   facebook: sumayee
   twitter: false
   cover: sumayee-cover.jpg
-aurin.chakraborty:
-  username: aurin.chakraborty
-  name: Aurin Chakraborty
-  location: New Delhi
-  positions: Deputy Chief Editor
-  bio: I am a third year law student at Symbiosis Law School, NOIDA. I have a keen interest in understanding the interplay of policy, culture and society; something I would love to pursue on a personal level.
-  picture: ProfileAurinChakraborty.jpg
-  facebook: aurin.chakraborty.5
+ishan.chauhan:
+  username: ishan.chauhan
+  name: Ishan Chauhan
+  location: Patna
+  positions: Guest
+  bio: Ishan Chauhan is an Independent Researcher, with keen interests in environmental law and policy. His work has appeared in The Hindu, Navhind Times, The Orissa Post, Deshbandhu etc. He is the writer of two and editor of one volume of fiction/non-fiction.
+  picture: ''
+  facebook: ''
   twitter: ''
   coverFilename: ''
   url: ''
