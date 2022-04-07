@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/podcast/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2022-03-14T21:31:07+00:00</updated>
+  <updated>2022-04-07T15:58:40+01:00</updated>
   <id>/tag/podcast/feed.xml</id>
 
   
@@ -262,6 +262,61 @@
 
   
     <entry>
+      <title type="html">Parenting the Internet Generation</title>
+      <link href="/Parenting-the-Internet-Generation" rel="alternate" type="text/html" title="Parenting the Internet Generation" />
+      <published>2022-04-07T00:00:00+01:00</published>
+      <updated>2022-04-07T00:00:00+01:00</updated>
+      <id>/Parenting-the-Internet-Generation</id>
+      <content type="html" xml:base="/Parenting-the-Internet-Generation">&lt;p&gt;The modern world is changing at an unprecedented rate. The challenges faced by today’s parents are no exception. With the rise of technologies such as the internet and social media, how will this affect new generations of children who never knew a world before these became quintessential parts of our everyday lives? How will this affect their parents?&lt;/p&gt;
+
+&lt;p&gt;To answer these questions, we discuss with our guest, Tracy Ho. She is the principal of Hils Learning, a centre that specialises in the development and learning support of children with special needs.&lt;/p&gt;
+
+&lt;p&gt;Listen to the full session here:&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;audio id=&quot;pubcast-2&quot; controls=&quot;&quot; controlsList=&quot;nodownload&quot; src=&quot;/assets/audio/2022-04-07-Parenting-the-Internet-Generation.mp3&quot;&gt;
+            Your browser does not support the
+            &lt;code&gt;audio&lt;/code&gt; element.
+    &lt;/audio&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;
+Or watch it on &lt;a href=&quot;https://www.youtube.com/watch?v=9XXjIG1cGNo&quot; target=&quot;_blank&quot;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;*This session was recorded at Qworky Academy on 11th September 2021 and moderated by &lt;a href=&quot;/author/avinash.naidu/&quot;&gt;Avinash Naidu&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Avinash Naidu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="trending" />
+      
+        <category term="featured" />
+      
+        <category term="the-faraday-corner" />
+      
+        <category term="podcast" />
+      
+
+      
+        <summary type="html">The modern world is changing at an unprecedented rate. The challenges faced by today’s parents are no exception. With the rise of technologies such as the internet and social media, how will this affect new generations of children who never knew a world before these became quintessential parts of our everyday lives? How will this affect their parents?</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">The Bright Side of Sharing Our Data</title>
       <link href="/The-Bright-Side-of-Sharing-Our-Data" rel="alternate" type="text/html" title="The Bright Side of Sharing Our Data" />
       <published>2021-11-04T00:00:00+00:00</published>
@@ -298,7 +353,7 @@ Or watch it on &lt;a href=&quot;https://www.youtube.com/watch?v=f_0aWrVURq4&quot
       
 
       <author>
-          <name>Avinash Naidu</name>
+          <name>Kheeran Naidu</name>
         
         
       </author>
