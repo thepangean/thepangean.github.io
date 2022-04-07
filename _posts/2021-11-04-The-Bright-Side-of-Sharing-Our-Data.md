@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 
 title: "The Bright Side of Sharing Our Data"
-author: avinash.naidu
+author: kheeran.naidu
 cover: 2021-11-04-The-Bright-Side-of-Sharing-Our-Data.jpg
 tags: trending featured the-faraday-corner podcast
 date: 2021-11-04
