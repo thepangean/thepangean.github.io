@@ -51,16 +51,6 @@ atreyi.bhaumik:
   facebook: atreyi.bhaumik
   twitter: false
   cover: atreyi-cover.jpg
-amrit.chadha:
-  username: amrit.chadha
-  name: Amrit Chadha
-  location: New Delhi
-  positions: Editor
-  bio: I am an avid reader mostly of non-fiction and business related books. I am also a finance enthusiast. I am a person who tightly holds values taught to him. Furthermore, reading about and watching sports form a crucial part of my identity.
-  picture: amrit-chadha.jpg
-  facebook: null
-  twitter: null
-  cover: amrit-chadha-cover.jpg
 aurin.chakraborty:
   username: aurin.chakraborty
   name: Aurin Chakraborty
@@ -85,6 +75,28 @@ aaradhya.daga:
   coverFilename: ''
   url: ''
   url_full: ''
+amrit.chadha:
+  username: amrit.chadha
+  name: Amrit Chadha
+  location: New Delhi
+  positions: Editor
+  bio: I am an avid reader mostly of non-fiction and business related books. I am also a finance enthusiast. I am a person who tightly holds values taught to him. Furthermore, reading about and watching sports form a crucial part of my identity.
+  picture: amrit-chadha.jpg
+  facebook: null
+  twitter: null
+  cover: amrit-chadha-cover.jpg
+satyaki.paul:
+  username: satyaki.paul
+  name: Satyaki Paul
+  location: Kolkata
+  positions: Editor
+  bio: A student of law with a widespread interest ranging from politics to cinema and everything in between. I'm almost always fascinated with understanding human psychology and everything that directly or indirectly affects them.
+  picture: ProfileSatyakiPaul.jpg
+  facebook: null
+  twitter: paul's_corner
+  cover: CoverSatyakiPaul.jpg
+  url: https://filmowledge.wordpress.com/
+  url_full: https://filmowledge.wordpress.com/
 samakshi.garg:
   username: samakshi.garg
   name: Samakshi Garg
