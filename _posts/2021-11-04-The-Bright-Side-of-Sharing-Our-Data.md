@@ -14,7 +14,7 @@ disable-first-letter: false
 ---
 In recent times, there has been a wave of anger towards companies which use individual data without his or her knowledge. Campaigns like #OwnYourData and #MEGA, and most recently, the movie documentary The Great Hack have brought the issue to the limelight.
 
-I won’t argue that there is no malicious use of personal data. Instead, I would like to show that, though there are some cases where data is used for ‘nefarious’ (I quote nefarious because it is subjective) purposes on a whole, the tool known as data analytics has brought far more benefits than harm to society.
+On the contrary, our speaker today does not argue about the malicious use of personal data. Instead, he shows that, though there are some cases where data is used for ‘nefarious’ (I quote nefarious because it is subjective) purposes on a whole, the tool known as data analytics has brought far more benefits than harm to society.
 
 Listen to the full session here:
 
