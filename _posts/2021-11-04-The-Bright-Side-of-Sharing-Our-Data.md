@@ -12,9 +12,9 @@ date: 2021-11-04
 link: "https://commons.wikimedia.org/wiki/File:To_deposit_or_not_to_deposit,_that_is_the_question_-_journal.pbio.1001779.g001.png"
 disable-first-letter: false
 ---
-In recent times, there has been a wave of anger towards companies which use individual data without his or her knowledge. Campaigns like #OwnYourData, #MEGA and most recently, the movie documentary The Great Hack have brought the issue to the limelight.
+In recent times, there has been a wave of anger towards companies which use individual data without his or her knowledge. Campaigns like #OwnYourData and #MEGA, and most recently, the movie documentary The Great Hack have brought the issue to the limelight.
 
-I won’t argue that there is no malicious use of personal data, I would like to show that though there are some cases where data is used for ‘nefarious’ - I quote nefarious because it is subjective to each individual - purposes on a whole, the tool known as data analytics has brought far more benefits than harm to society...
+I won’t argue that there is no malicious use of personal data. Instead, I would like to show that, though there are some cases where data is used for ‘nefarious’ (I quote nefarious because it is subjective) purposes on a whole, the tool known as data analytics has brought far more benefits than harm to society.
 
 Listen to the full session here:
 
