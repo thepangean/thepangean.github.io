@@ -2,7 +2,7 @@ euan.decourt:
   username: euan.decourt
   name: Euan Decourt
   location: Paris, France
-  positions: Partner, Communications
+  positions: Director
   bio: A Modern Languages (3LP) student at the University of Bristol currently wandering the European continent in search of a calling. A proud Welshman despite being born in England and having a French father.
   picture: euan-decourt.png
   facebook: false
@@ -12,7 +12,7 @@ kheeran.naidu:
   username: kheeran.naidu
   name: Kheeran Naidu
   location: Bristol, UK
-  positions: Partner, Tech Developer
+  positions: Director, Chief Developer
   url_full: http://github.com/kheeran/
   url: github.com/kheeran/
   bio: An avid learner who is currently pursuing a PhD in Computer Science at the University of Bristol.
@@ -24,7 +24,7 @@ harsh.tiwari:
   username: harsh.tiwari
   name: Harsh Tiwari
   location: Kolkata, India
-  positions: Partner, Chief Editor
+  positions: Director, Chief Editor
   bio: I am a law student with wide-ranging interests who founded this newspaper with his friends to grow and be a better twenty-something.
   picture: harsh.jpg
   facebook: false
