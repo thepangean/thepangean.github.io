@@ -8,6 +8,7 @@ euan.decourt:
   facebook: false
   twitter: EuanDecourt
   cover: euan-decourt-cover.jpg
+  main: True
 kheeran.naidu:
   username: kheeran.naidu
   name: Kheeran Naidu
@@ -20,6 +21,7 @@ kheeran.naidu:
   facebook: kheeran.naidu
   twitter: false
   cover: kheeran-cover.jpg
+  main: True
 harsh.tiwari:
   username: harsh.tiwari
   name: Harsh Tiwari
@@ -30,6 +32,7 @@ harsh.tiwari:
   facebook: false
   twitter: realHarshTiwari
   cover: harsh-cover.jpg
+  main: True
 ali.abdi:
   username: ali.abdi
   name: Ali Abdi

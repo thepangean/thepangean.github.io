@@ -35,7 +35,7 @@
       {% for author in site.data.authors %}
           {% unless author[1].sports or author[1].guest %}
                 <article class="post-card {{ page.class }}{% unless author[1].picture %} no-image{% endunless %}">
-                    {% if author[1].picture %}
+                    {% if author[1].picture and author[1].main %}
                         <a class="post-card-image-link" href="{{ site.baseurl }}author/{{ author[1].username }}">
                             <div class="post-card-image" style="background-image: url({{ site.baseurl }}assets/images/{{ author[1].picture }})"></div>
                         </a>
