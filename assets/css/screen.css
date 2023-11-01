@@ -521,7 +521,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     flex-direction: column;
     overflow: hidden;
     margin: 0 20px 40px;
-    min-height: 300px;
+    min-height: 100px;
     background: #fff center center;
     background-size: cover;
     border-radius: 5px;
@@ -562,7 +562,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     flex-direction: column;
     overflow: hidden;
     margin: 0 20px 40px;
-    min-height: 300px;
+    min-height: 100px;
     background: #fff center center;
     background-size: cover;
     border-radius: 5px;
