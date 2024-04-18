@@ -163,8 +163,6 @@ However, Bangla does not refer to either India or Bangladesh, it refers to the
 Unified Bengal. So yes, Bangalis are patriotic. But, they are patriotic towards
 Bangla before any country.
 
- 
-
 While Nehru thought Bengal was just like other Indian states and that the
 unification of Bengal and a consequent separate state would result in similar
 sentiments in other states like Tamil Nadu, I disagree. The sentiments are
@@ -181,3 +179,8 @@ language is the identity- not religion, not dialects but Bangla. Whether or not
 we are destined to ever be unified is a question yet to be answered. What
 doesn’t change is the fact that even though we do not have a separate country of
 Bangla, we are still unified as Bangalis.
+
+
+
+*Want to learn the language of Bengal?* Join over 5 million language learners and
+[learn with Ling](https://ling-app.com/learn-bengali/)!
