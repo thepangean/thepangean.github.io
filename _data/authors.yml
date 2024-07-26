@@ -1,14 +1,3 @@
-euan.decourt:
-  username: euan.decourt
-  name: Euan Decourt
-  location: Paris, France
-  positions: Director
-  bio: A Modern Languages (3LP) student at the University of Bristol currently wandering the European continent in search of a calling. A proud Welshman despite being born in England and having a French father.
-  picture: euan-decourt.png
-  facebook: false
-  twitter: EuanDecourt
-  cover: euan-decourt-cover.jpg
-  main: True
 kheeran.naidu:
   username: kheeran.naidu
   name: Kheeran Naidu
@@ -32,6 +21,17 @@ harsh.tiwari:
   facebook: false
   twitter: realHarshTiwari
   cover: harsh-cover.jpg
+  main: True
+euan.decourt:
+  username: euan.decourt
+  name: Euan Decourt
+  location: Paris, France
+  positions: Director
+  bio: A Modern Languages (3LP) student at the University of Bristol currently wandering the European continent in search of a calling. A proud Welshman despite being born in England and having a French father.
+  picture: euan-decourt.png
+  facebook: false
+  twitter: EuanDecourt
+  cover: euan-decourt-cover.jpg
   main: True
 ali.abdi:
   username: ali.abdi
